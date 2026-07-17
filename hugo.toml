@@ -6,7 +6,7 @@ theme = 'jtbh-basic'
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
-  description = 'Economics for people who notice the story does not add up.'
+  description = 'Economics, climate, and energy — for people who notice the story does not add up.'
 
 [markup]
   [markup.goldmark]
@@ -24,6 +24,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
   name = 'Economics'
   url = '/economics/'
   weight = 10
+
+[[menu.main]]
+  identifier = 'energy'
+  name = 'Climate & Energy'
+  url = '/energy/'
+  weight = 15
 
 [[menu.main]]
   identifier = 'about'

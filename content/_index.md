@@ -1,6 +1,6 @@
 ---
 title: "Ryan Rix"
-description: "Economics for people who notice the story does not add up."
+description: "Economics, climate, and energy — for people who notice the story does not add up."
 ---
 
 ## Economics for People Who Notice
@@ -11,8 +11,9 @@ Most of what you hear about the economy is wrong. Not by accident — it's wrong
 
 ### What You'll Find Here
 
-- **[The Learning Path →](/economics/learning-path/)** — Start at the beginning if you're new. Thirteen articles, three levels, one path from confusion to clarity.
-- **[All Articles →](/economics/)** — Browse the full catalog of guides and essays.
+- **[Economics Learning Path →](/economics/learning-path/)** — Start at the beginning. Thirteen articles, three levels, one path from confusion to clarity.
+- **[All Economics →](/economics/)** — The full catalog of guides and essays.
+- **[Climate & Energy →](/energy/)** — The claims, the costs, and the actual track record.
 - **[About →](/about/)** — Who writes this and why.
 
 ### Why This Site?

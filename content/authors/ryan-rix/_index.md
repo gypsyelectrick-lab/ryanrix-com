@@ -3,7 +3,7 @@ title: "Ryan Rix"
 description: "Publisher and occasional writer."
 date: 2026-07-17
 email: "ryan@ryanrix.com"
-avatar: "/images/authors/ryan-rix.webp"
+avatar: "/images/authors/ryan-rix.svg"
 ---
 
 **Ryan Rix** is the publisher of this site. He asks uncomfortable questions about who really benefits from government spending, corporate regulation, and the stories we tell ourselves about how the economy works.
