@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <article class="author-profile">
+    <div class="author-header">
+      <div class="author-avatar">
+        {{ $avatarPath := printf "/images/authors/%s.png" (.Title | urlize) }}
+        <img src="{{ $avatarPath }}" alt="{{ .Title }}" class="author-avatar-img" onerror="this.style.display='none'">
+      </div>
+      <div class="author-info">
+        <h1>{{ .Title }}</h1>
+        <p class="author-email"><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></p>
+        <p class="author-role">{{ .Description }}</p>
+      </div>
+    </div>
+    <div class="author-bio">
+      {{ .Content }}
+    </div>
+
+    {{ $authorName := .Title }}
+    {{ $articles := where site.RegularPages "Params.author" $authorName }}
+    {{ if $articles }}
+      <section class="author-articles">
+        <h2>Articles by {{ .Title }}</h2>
+        <ul class="author-article-list">
+          {{ range $articles.ByDate.Reverse }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <span class="article-date">{{ .Date.Format "January 2, 2006" }}</span>
+              <p class="article-desc">{{ .Description }}</p>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </article>
+{{ end }}
