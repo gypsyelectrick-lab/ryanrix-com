@@ -3,7 +3,7 @@ title: "Anna Karina"
 description: "Economics writer."
 date: 2026-07-17
 email: "anna.karina@ryanrix.com"
-avatar: "/images/authors/anna-karina.svg"
+avatar: "/images/authors/anna-karina.png"
 ---
 
 **Anna Karina** writes about the economics they don't teach you in school — how prices, trade, and money actually work, and who really pays when government gets involved.

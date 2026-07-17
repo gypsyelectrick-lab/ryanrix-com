@@ -3,7 +3,7 @@ title: "Max Weber"
 description: "Climate and energy policy."
 date: 2026-07-17
 email: "max@ryanrix.com"
-avatar: "/images/authors/max-weber.svg"
+avatar: "/images/authors/max-weber.png"
 ---
 
 **Max Weber** writes about climate change and energy policy — the claims, the costs, and the actual track record of every solution anyone has ever tried.
