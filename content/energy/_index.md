@@ -13,6 +13,8 @@ You don't need a science degree. You just need to be willing to ask: who pays, w
 
 ---
 
-## Coming Soon
+- **[The Nuclear Cost Myth →](/energy/nuclear-cost-myth/)** — US nuclear costs exploded because of policy choices, not technology. France and South Korea built cheaper. America chose to fail.
 
-Articles are being written. Check back, or [follow @ryanrix](https://x.com/ryanrix) for updates.
+---
+
+*More articles coming soon.*
