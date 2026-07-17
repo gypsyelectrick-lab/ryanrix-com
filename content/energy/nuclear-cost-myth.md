@@ -12,7 +12,7 @@ image: "/images/nuclear-tower.png"
 
 ## Vogtle Unit 3 Came Online in 2023
 
-**It was seven years late and $17 billion over budget. The plant it was supposed to replace at a fraction of the cost — Vogtle Units 1 and 2 — were completed in the 1980s. Same site. Same basic design. One was built on time and on budget. The other was a national embarrassment.**
+**It was seven years late and $17 billion over budget. The plant it was supposed to replace at a fraction of the cost  -  Vogtle Units 1 and 2  -  were completed in the 1980s. Same site. Same basic design. One was built on time and on budget. The other was a national embarrassment.**
 
 The standard story you hear is that nuclear power is inherently too expensive and too slow to build. This story is repeated by renewable energy advocates, by journalists who have never read a power plant construction report, and by politicians who prefer the narrative to the facts.
 
@@ -32,7 +32,7 @@ In the 1960s and 1970s, US nuclear construction costs were stable and competitiv
 
 Then something changed.
 
-After the Three Mile Island accident in 1979, the Nuclear Regulatory Commission (NRC) fundamentally restructured the licensing process. Before TMI, utilities could begin construction with a single license and make design modifications as they went — the same approach used in France, Japan, and South Korea. After TMI, the NRC introduced a system of **asynchronous regulation**: design requirements changed mid-construction, and completed work often had to be ripped out and redone to meet new rules.
+After the Three Mile Island accident in 1979, the Nuclear Regulatory Commission (NRC) fundamentally restructured the licensing process. Before TMI, utilities could begin construction with a single license and make design modifications as they went  -  the same approach used in France, Japan, and South Korea. After TMI, the NRC introduced a system of **asynchronous regulation**: design requirements changed mid-construction, and completed work often had to be ripped out and redone to meet new rules.
 
 This was not safety-driven in any meaningful sense. The NRC itself acknowledged that the changes were often responses to political pressure, not technical findings. But the effect on costs was devastating.
 
@@ -46,11 +46,11 @@ Then came the 1990s. No new nuclear plants were ordered. The regulatory apparatu
 
 While the United States was making nuclear construction impossible by policy, other countries were building successfully.
 
-**France** built 56 reactors in 15 years. The average construction time was 6.5 years. Costs declined steadily across the fleet. The French did this with the same Westinghouse-derived pressurised water reactor technology that American utilities were using. They did it by standardising the design, centralising the regulatory process, and — this is the key — **not changing the rules while construction was underway**.
+**France** built 56 reactors in 15 years. The average construction time was 6.5 years. Costs declined steadily across the fleet. The French did this with the same Westinghouse-derived pressurised water reactor technology that American utilities were using. They did it by standardising the design, centralising the regulatory process, and  -  this is the key  -  **not changing the rules while construction was underway**.
 
 **South Korea** built its nuclear fleet even more efficiently. The Korean Standard Nuclear Plant (KSNP) program achieved construction times of under 5 years and costs that were among the lowest in the world. Korean utilities built identical reactors at multiple sites, repeating the same design until they had learned how to do it efficiently.
 
-**Japan** built its nuclear fleet (pre-Fukushima) with construction times and costs comparable to South Korea's. Japanese utilities used a single basic design — again Westinghouse-derived — and built it repeatedly.
+**Japan** built its nuclear fleet (pre-Fukushima) with construction times and costs comparable to South Korea's. Japanese utilities used a single basic design  -  again Westinghouse-derived  -  and built it repeatedly.
 
 **The United Arab Emirates**, a country with no prior nuclear experience, completed the Barakah nuclear plant in 2020 with four APR-1400 reactors (a Korean design) built in under 7 years per unit at a cost that was competitive with local gas generation.
 
@@ -64,7 +64,7 @@ The claim that "nuclear is too expensive" is a statement about the past. It is a
 
 The United States did not fail to build affordable nuclear power because the technology was incapable of being affordable. It failed because:
 
-**1. The regulatory system incentivised endless redesign.** Under the US framework, utilities could not lock in a design before beginning construction. Every regulatory change — and there were many — became a cost overrun.
+**1. The regulatory system incentivised endless redesign.** Under the US framework, utilities could not lock in a design before beginning construction. Every regulatory change  -  and there were many  -  became a cost overrun.
 
 **2. The NRC was captured by the anti-nuclear movement through the courts.** After TMI, environmental groups successfully sued the NRC to force additional hearings and design reviews. These lawsuits added years and billions to projects that had already been approved.
 
@@ -80,7 +80,7 @@ This is not a technology problem. It is a policy problem. And the evidence is pu
 
 Supporters of wind and solar frequently cite the Levelized Cost of Energy (LCOE) estimates from Lazard's annual report as evidence that renewables are cheaper than nuclear. There are two problems with this.
 
-First, Lazard's own estimates show that when you account for the cost of backup generation and grid integration — the "system cost" — nuclear is competitive with wind and solar in most scenarios. Lazard buries this in the footnotes, but it is there.
+First, Lazard's own estimates show that when you account for the cost of backup generation and grid integration  -  the "system cost"  -  nuclear is competitive with wind and solar in most scenarios. Lazard buries this in the footnotes, but it is there.
 
 Second, LCOE comparisons between dispatchable power (nuclear, gas, coal) and intermittent power (wind, solar) are comparing apples to aircraft carriers. A nuclear plant produces power 93 percent of the time. A solar farm produces power 20 percent of the time in most locations. The cost of firming up that intermittent supply with batteries, gas peakers, or transmission lines is rarely included in the headline numbers.
 
@@ -100,7 +100,7 @@ America could build affordable nuclear power again. The policy changes required 
 
 - **Regulatory stability.** Design requirements adopted at the start of construction should remain in force for the duration of the project. Changes should apply only to future plants.
 
-- **Insurance pooling for large projects.** Congress created the Price-Anderson Act to handle nuclear liability insurance in the 1950s. A similar mechanism for construction cost overruns — a mutual insurance pool funded by utilities — would remove the investor anxiety that drives up capital costs.
+- **Insurance pooling for large projects.** Congress created the Price-Anderson Act to handle nuclear liability insurance in the 1950s. A similar mechanism for construction cost overruns  -  a mutual insurance pool funded by utilities  -  would remove the investor anxiety that drives up capital costs.
 
 These are not radical ideas. They are the policies that France, South Korea, and the UAE used to build nuclear plants on time and on budget. The United States used some version of them before 1979. What happened after 1979 was not a discovery that nuclear was too expensive. It was a decision to make it so.
 
@@ -108,9 +108,9 @@ These are not radical ideas. They are the policies that France, South Korea, and
 
 ### Sources
 
-- Lovering, J.R., Yip, A., & Nordhaus, T. (2016). "Historical construction costs of global nuclear power reactors." *Energy Policy*, 91, 371-382.
-- RAND Corporation (1986). "The Effects of Regulation on Nuclear Power Plant Construction Costs."
-- OECD Nuclear Energy Agency (2021). "Projected Costs of Generating Electricity."
-- Congressional Budget Office (2008). "Nuclear Power's Role in Generating Electricity."
-- MIT Energy Initiative (2018). "The Future of Nuclear Energy in a Carbon-Constrained World."
-- Grubler, A. (2010). "The costs of the French nuclear scale-up: A case of negative learning by doing." *Energy Policy*, 38(9), 5174-5188.
+- Lovering, J.R., Yip, A., & Nordhaus, T. (2016). ["Historical construction costs of global nuclear power reactors."](https://doi.org/10.1016/j.enpol.2016.01.011) *Energy Policy*, 91, 371-382.
+- RAND Corporation (1986). ["The Effects of Regulation on Nuclear Power Plant Construction Costs."](https://www.rand.org/pubs/reports/R3360.html)
+- OECD Nuclear Energy Agency (2021). ["Projected Costs of Generating Electricity."](https://www.oecd-nea.org/egc/)
+- Congressional Budget Office (2008). ["Nuclear Power's Role in Generating Electricity."](https://www.cbo.gov/publication/41684)
+- MIT Energy Initiative (2018). ["The Future of Nuclear Energy in a Carbon-Constrained World."](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/)
+- Grubler, A. (2010). ["The costs of the French nuclear scale-up: A case of negative learning by doing."](https://doi.org/10.1016/j.enpol.2010.05.026) *Energy Policy*, 38(9), 5174-5188.
