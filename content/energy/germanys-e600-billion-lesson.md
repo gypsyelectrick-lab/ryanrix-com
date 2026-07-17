@@ -68,7 +68,7 @@ The cost of maintaining this backup capacity is not included in the headline cos
 
 ## Why It Happened
 
-The Energiewende failed  -  or rather, underperformed its promises so dramatically that "failed" is the honest word  -  for reasons that were predictable and predicted.
+The Energiewende failed  -  or rather, underperformed its promises so dramatically that "failed" is the honest word  -  for reasons that were predictable and, indeed, predicted.
 
 **Intermittency is not solved by subsidies.**
 
