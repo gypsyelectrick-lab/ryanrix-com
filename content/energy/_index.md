@@ -15,6 +15,8 @@ You don't need a science degree. You just need to be willing to ask: who pays, w
 
 - **[The Nuclear Cost Myth →](/energy/nuclear-cost-myth/)** — US nuclear costs exploded because of policy choices, not technology. France and South Korea built cheaper. America chose to fail.
 
+- **[Germany's €600 Billion Lesson →](/energy/germanys-e600-billion-lesson/)** — Germany spent a generation and a fortune on its energy transition. Its emissions stayed flat. Its electricity prices doubled. Something went wrong.
+
 ---
 
 *More articles coming soon.*
