@@ -1,0 +1,3 @@
+{{- $term := .Get "term" | default (.Get 0) -}}
+{{- $def := .Get "def" | default (.Get 1) -}}
+<span class="tooltip" tabindex="0">{{ $term }}<span class="tooltip-text">{{ $def }}</span></span>

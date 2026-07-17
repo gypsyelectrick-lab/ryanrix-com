@@ -1,0 +1,66 @@
+{{- $page := . -}}
+{{- $section := $page.CurrentSection -}}
+{{- if $section -}}
+<aside class="sidebar-left" aria-label="Subject navigation">
+    <h2 class="sidebar-title">{{ $section.Title }}</h2>
+    <nav class="accordion-nav" aria-label="Accordion subject navigation">
+      {{- if eq $section.Title "Technology" }}
+        {{- /* Technology: sub-category structure */}}
+        {{- $hn := site.GetPage "/tech/home-networking" }}
+        {{- $mobile := site.GetPage "/tech/using-a-mobile" }}
+        {{- $pc := site.GetPage "/tech/pc-basics" }}
+        {{- $ai := site.GetPage "/tech/begin-using-ai" }}
+        {{- if $page.IsSection }}
+          {{- /* Section page: show sub-category links */}}
+          <div class="accordion-content">
+            <div class="topic-group">
+              <a href="{{ $hn.RelPermalink }}" class="topic-label-link">Home Networking</a>
+              <div class="topic-count">{{ len ($hn.RegularPages) }} guides</div>
+            </div>
+            <div class="topic-group">
+              <a href="{{ $mobile.RelPermalink }}" class="topic-label-link topic-label-link--muted">Using a Mobile</a>
+              <div class="topic-placeholder">Coming soon</div>
+            </div>
+            <div class="topic-group">
+              <a href="{{ $pc.RelPermalink }}" class="topic-label-link topic-label-link--muted">PC Basics</a>
+              <div class="topic-placeholder">Coming soon</div>
+            </div>
+            <div class="topic-group">
+              <a href="{{ $ai.RelPermalink }}" class="topic-label-link topic-label-link--muted">Begin Using AI</a>
+              <div class="topic-placeholder">Coming soon</div>
+            </div>
+          </div>
+        {{- else }}
+          {{- /* Article page: show only this article's topic */}}
+          {{- $topic := $page.Params.topic }}
+          {{- if eq $topic "Home Networking" }}
+            {{- $topicSection := $hn }}
+          {{- else }}
+            {{- $topicSection := $section }}
+          {{- end }}
+          {{- if $topic }}
+            <div class="accordion-content">
+              <a href="{{ $hn.RelPermalink }}" class="topic-label-link">{{ $topic }}</a>
+              {{- range $hn.RegularPages.ByWeight }}
+                {{- if eq .Params.topic $topic }}
+                  {{- $isActive := eq $page.RelPermalink .RelPermalink }}
+                  {{- $menuName := .Params.menu | default .Title }}
+                  <a href="{{ .RelPermalink }}" class="topic-link {{ if $isActive }}active-link{{ end }}">{{ $menuName }}</a>
+                {{- end }}
+              {{- end }}
+            </div>
+          {{- end }}
+        {{- end }}
+      {{- else }}
+        {{- /* Other sections: flat article list */}}
+        <div class="accordion-content">
+          {{- range $section.RegularPages.ByWeight }}
+            {{- $isActive := eq $page.RelPermalink .RelPermalink }}
+            {{- $menuName := .Params.menu | default .Title }}
+            <a href="{{ .RelPermalink }}" class="topic-link {{ if $isActive }}active-link{{ end }}">{{ $menuName }}</a>
+          {{- end }}
+        </div>
+      {{- end }}
+    </nav>
+</aside>
+{{- end -}}

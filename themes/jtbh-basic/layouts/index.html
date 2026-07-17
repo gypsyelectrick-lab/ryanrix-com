@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div class="home-cards">
+    {{ $sections := where site.Sections "Kind" "in" (slice "section") }}
+    {{ range $sections.ByTitle }}
+      {{ $pageCount := len .RegularPagesRecursive }}
+      <a href="{{ .RelPermalink }}" class="home-card">
+        <h2 class="home-card-title">{{ .Title }}</h2>
+        <p class="home-card-desc">{{ .Description }}</p>
+        <span class="home-card-count">{{ $pageCount }} {{ if eq $pageCount 1 }}guide{{ else }}guides{{ end }}</span>
+      </a>
+    {{ end }}
+  </div>
+{{ end }}

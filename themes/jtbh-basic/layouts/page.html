@@ -1,0 +1,124 @@
+{{ define "main" }}
+  <article class="single-article">
+    <header style="margin-bottom: 2rem; border-bottom: 2px solid var(--color-primary); padding-bottom: 1rem;">
+      <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">{{ .Title }}</h1>
+      {{ with .Params.date }}
+        <p style="color: var(--color-text-muted); font-weight: 600;">Published: <time datetime="{{ .Format "2006-01-02T15:04:05Z07:00" }}">{{ .Format "January 2, 2006" }}</time></p>
+      {{ end }}
+      
+      {{/* Author byline */}}
+      {{ if .Params.author }}
+        {{ $author := site.GetPage (printf "/authors/%s" (.Params.author | urlize)) }}
+        <div class="author-byline">
+          {{ if $author }}
+            {{ with $author.Params.avatar }}
+              <img src="{{ . | relURL }}" alt="{{ $author.Title }}" class="author-byline-avatar" loading="lazy">
+            {{ end }}
+            <span>By <a href="{{ $author.RelPermalink }}">{{ $author.Title }}</a></span>
+          {{ else }}
+            <span>By {{ .Params.author }}</span>
+          {{ end }}
+        </div>
+      {{ end }}
+      
+      <div class="article-meta" style="margin-top: 1rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+        {{ with .Params.level }}
+          <a href="{{ `/levels/` | relLangURL }}{{ . | urlize }}" class="badge level-badge" style="background: var(--color-action); color: #1A1A1A; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold; font-size: 0.9rem; text-decoration: none;">Level: {{ . }}</a>
+        {{ end }}
+        {{ with .Params.tags }}
+          <div class="tags" style="display: flex; gap: 0.5rem;">
+            {{ range . }}
+              <a href="{{ `/tags/` | relLangURL }}{{ . | urlize }}" class="badge tag-badge" style="background: #E0E0E0; color: #1A1A1A; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.9rem; text-decoration: none;">#{{ . }}</a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </header>
+    
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+    
+    {{/* Author footer bio card */}}
+    {{ if .Params.author }}
+      {{ $author := site.GetPage (printf "/authors/%s" (.Params.author | urlize)) }}
+      {{ if $author }}
+        <div class="author-footer-card">
+          <div class="author-footer-avatar">
+            {{ with $author.Params.avatar }}
+              <img src="{{ . | relURL }}" alt="{{ $author.Title }}" loading="lazy">
+            {{ end }}
+          </div>
+          <div class="author-footer-info">
+            <p class="author-footer-name"><a href="{{ $author.RelPermalink }}">{{ $author.Title }}</a></p>
+            <p class="author-footer-bio">{{ $author.Description }}</p>
+            {{ with $author.Params.email }}
+              <p class="author-footer-email"><a href="mailto:{{ . }}">{{ . }}</a></p>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    {{ end }}
+    
+    <!-- Newsletter Injection -->
+    {{ partial "newsletter.html" . }}
+    
+    <!-- Share Bar -->
+    {{ partial "share-bar.html" . }}
+    
+    <!-- Learning Path Navigation (prev/next by weight) -->
+    {{ if .Params.level }}
+      {{ partial "learning-path-nav.html" . }}
+    {{ end }}
+    
+    {{ $related := site.RegularPages.Related . | first 3 }}
+    {{ with $related }}
+      <section class="related-articles" style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #E0E0E0;">
+        <h2 style="margin-bottom: 1.5rem;">Related Articles</h2>
+        <ul style="list-style: none; padding: 0; display: grid; gap: 1rem;">
+          {{ range . }}
+            <li style="background: var(--color-bg-secondary); padding: 1rem; border-radius: 6px;">
+              <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+              <p style="margin: 0; font-size: 0.95rem;">{{ .Summary | truncate 100 }}</p>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </article>
+  
+  <!-- JSON-LD Structured Data for Search Engines -->
+  {{ if .IsPage }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ .Title | jsonify }},
+    "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | jsonify }}{{ end }},
+    {{ with .Params.author }}
+    "author": {
+      "@type": "Person",
+      "name": {{ . | jsonify }}
+    },
+    {{ end }}
+    {{ with .Date }}
+    "datePublished": "{{ .Format "2006-01-02T15:04:05Z07:00" }}",
+    {{ end }}
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Basic Hub",
+      "url": "https://thebasichub.com"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": {{ .Permalink | jsonify }}
+    },
+    "image": {{ with .Params.image }}{{ . | relURL | jsonify }}{{ else }}"https://thebasichub.com/images/og-default.svg"{{ end }},
+    {{ with .Params.tags }}
+    "keywords": {{ delimit . ", " | jsonify }},
+    {{ end }}
+    "isAccessibleForFree": "True"
+  }
+  </script>
+  {{ end }}
+{{ end }}

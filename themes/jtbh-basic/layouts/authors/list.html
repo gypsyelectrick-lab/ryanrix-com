@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="authors-grid">
+    {{ range .Pages.ByTitle }}
+      <article class="author-card">
+        <a href="{{ .RelPermalink }}">
+          <div class="author-card-avatar">
+            {{ $avatarPath := printf "/images/authors/%s.webp" (.Title | urlize) }}
+            <img src="{{ $avatarPath }}" alt="{{ .Title }}" class="author-card-img" loading="lazy" onerror="this.style.display='none'">
+          </div>
+          <div class="author-card-info">
+            <h2>{{ .Title }}</h2>
+            {{ with .Description }}
+              <p>{{ . }}</p>
+            {{ end }}
+          </div>
+        </a>
+      </article>
+    {{ end }}
+  </div>
+{{ end }}

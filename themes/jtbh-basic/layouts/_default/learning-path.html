@@ -1,0 +1,103 @@
+{{ define "main" }}
+<article class="learning-path">
+  <header style="margin-bottom: 2rem; border-bottom: 2px solid var(--color-primary); padding-bottom: 1rem;">
+    <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">{{ .Title }}</h1>
+    {{ .Content }}
+  </header>
+
+  {{/* Get all regular pages in the current section, sorted by weight */}}
+  {{ $section := .CurrentSection }}
+  {{ $articles := sort (where $section.RegularPages "Params.level" "!=" nil) "Weight" }}
+
+  {{/* Group by level */}}
+  {{ $beginner := where $articles "Params.level" "beginner" }}
+  {{ $intermediate := where $articles "Params.level" "intermediate" }}
+  {{ $advanced := where $articles "Params.level" "advanced" }}
+
+  {{ if $beginner }}
+  <section class="learning-path-group">
+    <h2 class="learning-path-level" style="color: var(--color-primary); font-size: 1.8rem; margin-top: 2.5rem; display: flex; align-items: center; gap: 0.75rem;">
+      <span class="level-icon" style="background: #2e7d32; color: white; font-size: 0.9rem; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold;">BEGINNER</span>
+      Start Here — {{ len $beginner }} Articles
+    </h2>
+    <p style="color: var(--color-text-muted); margin-top: -0.5rem;">New to these ideas? Begin here. No prior knowledge needed.</p>
+    <ol class="learning-path-list" style="list-style: none; padding: 0; margin-top: 1.5rem;">
+      {{ range $i, $article := $beginner }}
+      <li class="learning-path-item" style="margin-bottom: 1.25rem; padding: 1.25rem; background: var(--color-bg-secondary); border-radius: var(--radius-md); border-left: 4px solid #2e7d32; transition: all 0.2s ease;">
+        <div style="display: flex; align-items: baseline; gap: 0.75rem;">
+          <span class="step-number" style="background: var(--color-primary); color: white; width: 32px; height: 32px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; font-weight: 800; font-size: 0.9rem; flex-shrink: 0;">{{ add $i 1 }}</span>
+          <div>
+            <h3 style="margin: 0 0 0.25rem 0; font-size: 1.3rem;"><a href="{{ $article.RelPermalink }}" style="color: var(--color-primary); text-decoration: none;">{{ $article.Title }}</a></h3>
+            <p style="margin: 0; color: var(--color-text-muted); font-size: 0.95rem;">{{ $article.Description }}</p>
+          </div>
+        </div>
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ end }}
+
+  {{ if $intermediate }}
+  <section class="learning-path-group">
+    <h2 class="learning-path-level" style="color: var(--color-primary); font-size: 1.8rem; margin-top: 3rem; display: flex; align-items: center; gap: 0.75rem;">
+      <span class="level-icon" style="background: #e65100; color: white; font-size: 0.9rem; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold;">INTERMEDIATE</span>
+      Going Deeper — {{ len $intermediate }} Articles
+    </h2>
+    <p style="color: var(--color-text-muted); margin-top: -0.5rem;">You've got the foundation. Now let's tackle the harder questions.</p>
+    <ol class="learning-path-list" style="list-style: none; padding: 0; margin-top: 1.5rem;" start="{{ add (len $beginner) 1 }}">
+      {{ range $i, $article := $intermediate }}
+      <li class="learning-path-item" style="margin-bottom: 1.25rem; padding: 1.25rem; background: var(--color-bg-secondary); border-radius: var(--radius-md); border-left: 4px solid #e65100; transition: all 0.2s ease;">
+        <div style="display: flex; align-items: baseline; gap: 0.75rem;">
+          <span class="step-number" style="background: #e65100; color: white; width: 32px; height: 32px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; font-weight: 800; font-size: 0.9rem; flex-shrink: 0;">{{ add (len $beginner) (add $i 1) }}</span>
+          <div>
+            <h3 style="margin: 0 0 0.25rem 0; font-size: 1.3rem;"><a href="{{ $article.RelPermalink }}" style="color: var(--color-primary); text-decoration: none;">{{ $article.Title }}</a></h3>
+            <p style="margin: 0; color: var(--color-text-muted); font-size: 0.95rem;">{{ $article.Description }}</p>
+          </div>
+        </div>
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ end }}
+
+  {{ if $advanced }}
+  <section class="learning-path-group">
+    <h2 class="learning-path-level" style="color: var(--color-primary); font-size: 1.8rem; margin-top: 3rem; display: flex; align-items: center; gap: 0.75rem;">
+      <span class="level-icon" style="background: #b71c1c; color: white; font-size: 0.9rem; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold;">ADVANCED</span>
+      Further Reading — {{ len $advanced }} Articles
+    </h2>
+    <p style="color: var(--color-text-muted); margin-top: -0.5rem;">These articles engage with outside arguments and tackle tougher questions. Best read after the foundation is solid.</p>
+    <ol class="learning-path-list" style="list-style: none; padding: 0; margin-top: 1.5rem;" start="{{ add (len $beginner) (add (len $intermediate) 1) }}">
+      {{ range $i, $article := $advanced }}
+      <li class="learning-path-item" style="margin-bottom: 1.25rem; padding: 1.25rem; background: var(--color-bg-secondary); border-radius: var(--radius-md); border-left: 4px solid #b71c1c; transition: all 0.2s ease;">
+        <div style="display: flex; align-items: baseline; gap: 0.75rem;">
+          <span class="step-number" style="background: #b71c1c; color: white; width: 32px; height: 32px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; font-weight: 800; font-size: 0.9rem; flex-shrink: 0;">{{ add (len $beginner) (add (len $intermediate) (add $i 1)) }}</span>
+          <div>
+            <h3 style="margin: 0 0 0.25rem 0; font-size: 1.3rem;"><a href="{{ $article.RelPermalink }}" style="color: var(--color-primary); text-decoration: none;">{{ $article.Title }}</a></h3>
+            <p style="margin: 0; color: var(--color-text-muted); font-size: 0.95rem;">{{ $article.Description }}</p>
+          </div>
+        </div>
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ end }}
+
+  {{/* Articles without a level */}}
+  {{ $unleveled := where $section.RegularPages "Params.level" nil }}
+  {{ if $unleveled }}
+  <section class="learning-path-group" style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid var(--color-border);">
+    <h2 style="color: var(--color-text-muted); font-size: 1.3rem;">More from {{ $section.Title }}</h2>
+    <ul style="list-style: none; padding: 0;">
+      {{ range $unleveled }}
+      <li style="margin-bottom: 0.75rem;">
+        <a href="{{ .RelPermalink }}" style="font-weight: 600;">{{ .Title }}</a>
+        {{ with .Description }}<p style="margin: 0.25rem 0 0 0; color: var(--color-text-muted); font-size: 0.9rem;">{{ . }}</p>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+</article>
+{{ end }}

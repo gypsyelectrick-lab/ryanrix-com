@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Lang }}" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+  
+  <!-- SEO Basics -->
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ .Permalink }}">
+  
+  <!-- Open Graph / Social Share -->
+  <meta property="og:site_name" content="{{ site.Title }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:image" content="{{ with .Params.image }}{{ . | relURL }}{{ else }}{{ `/images/og-default.svg` | relURL }}{{ end }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  {{ if .IsPage }}
+    <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+    {{ with .Params.author }}
+      <meta property="article:author" content="{{ . }}">
+    {{ end }}
+    {{ with .Params.tags }}
+      {{ range . }}
+        <meta property="article:tag" content="{{ . }}">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}">
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . | relURL }}{{ else }}{{ `/images/og-default.svg` | relURL }}{{ end }}">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ `/css/main.css` | relURL }}?v={{ now.Unix }}">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="{{ `/logo.svg` | relURL }}">
+</head>
+<body>
+  
+  <header class="site-header{{ if .IsHome }} site-header--home{{ end }}">
+    <div class="header-overlay">
+      <div class="header-grid">
+        <div class="header-logo">
+          <a href="{{ site.Home.RelPermalink }}"><img src="{{ `/logo.svg` | relURL }}" alt="The Basic Hub Logo"></a>
+        </div>
+        <div class="header-title">
+          <a href="{{ site.Home.RelPermalink }}">The Basic Hub</a>
+        </div>
+        <div class="header-logo-reverse">
+          <img src="{{ `/logo-reverse.svg` | relURL }}" alt="" aria-hidden="true">
+        </div>
+      </div>
+    </div>
+    <div class="section-bar">
+      {{- if .IsHome -}}
+        Choose a Subject
+      {{- else -}}
+        {{- $section := .CurrentSection -}}
+        {{- $parent := $section.Parent -}}
+        {{- if and $parent (not $parent.IsHome) -}}
+          {{- /* We're in a sub-section (e.g. Home Networking under Technology) */}}
+          <a href="{{ $parent.RelPermalink }}" class="section-bar-link">{{ $parent.Title }}</a> &gt; {{ $section.Title }}
+        {{- else -}}
+          {{- $topic := .Params.topic -}}
+          {{- if $topic -}}
+            {{ $section.Title }} &gt; {{ $topic }}
+          {{- else -}}
+            {{ $section.Title }}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </header>
+
+  <div class="site-container{{ if .IsHome }} site-container--home{{ end }}">
+    {{ if not .IsHome }}
+      {{ partial "sidebar_left.html" . }}
+    {{ end }}
+
+    <main id="main-content">
+      {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ if not .IsHome }}
+      {{ partial "sidebar_right.html" . }}
+    {{ end }}
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>&copy; {{ now.Format "2006" }} {{ site.Title }}. Designed for clarity. - <a href="mailto:contact@thebasichub.com">contact@thebasichub.com</a></p>
+      <p class="affiliate-disclosure">Some links on this site are affiliate links. If you click and buy, I may earn a small commission at no extra cost to you. <a href="/affiliate-disclosure/">Read more</a>.</p>
+    </div>
+  </footer>
+
+{{ $hasLearningPath := false }}
+{{ $section := .CurrentSection }}
+{{ with $section }}
+  {{ if .GetPage "learning-path" }}
+    {{ $hasLearningPath = true }}
+  {{ end }}
+{{ end }}
+
+{{ if and $hasLearningPath (not .Params.standalone) }}
+<script>
+/* Continue Reading — remembers your last article in each section */
+(function() {
+  var KEY = 'tbh_last_read';
+  var section = '{{ .Section }}';
+  
+  /* Save current page as last read if it's an article */
+  {{ if and .IsPage .RelPermalink .Title }}
+  try {
+    var data = JSON.parse(localStorage.getItem(KEY) || '{}');
+    data[section] = { url: '{{ .RelPermalink }}', title: '{{ .Title | plainify }}' };
+    localStorage.setItem(KEY, JSON.stringify(data));
+  } catch(e) { /* localStorage unavailable */ }
+  {{ end }}
+
+  /* Show "Continue" banner on section pages */
+  {{ if .IsSection }}
+  try {
+    var data = JSON.parse(localStorage.getItem(KEY) || '{}');
+    var last = data[section];
+    if (last && last.url && last.url !== window.location.pathname) {
+      var banner = document.createElement('div');
+      banner.style.cssText = 'background:var(--color-bg-secondary);border:2px solid var(--color-border);border-radius:var(--radius-md);padding:1rem 1.5rem;margin-bottom:2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.75rem;';
+      banner.innerHTML = '<span style="font-weight:600;">📖 Continue where you left off:</span>' +
+        '<a href="' + last.url + '" style="font-weight:700;font-size:1.1rem;">' + last.title + ' →</a>' +
+        '<button onclick="this.parentElement.remove();" style="background:none;border:none;color:var(--color-text-muted);cursor:pointer;text-decoration:underline;font-size:0.9rem;padding:0;">Dismiss</button>';
+      var target = document.querySelector('main#main-content');
+      if (target && target.firstChild) target.insertBefore(banner, target.firstChild);
+    }
+  } catch(e) { /* ignore */ }
+  {{ end }}
+})();
+</script>
+{{ end }}
+
+</body>
+</html>

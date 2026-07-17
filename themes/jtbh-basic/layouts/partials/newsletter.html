@@ -1,0 +1,66 @@
+<section class="newsletter-capture">
+  <div class="newsletter-inner">
+    <h2>Get Our Free Daily Tech Tip + Free Guide!</h2>
+    <p>Sign up to receive one simple, jargon-free tech tip in your inbox every day. As a welcome gift, you'll get our <strong>Simple Home Networking Guide</strong> — a plain English PDF that covers everything from router setup to Wi-Fi security.</p>
+
+    <form id="newsletter-form" class="newsletter-form">
+      <div class="form-group">
+        <label for="email_address">Your Email Address</label>
+        <input type="email" id="email_address" name="email" required placeholder="e.g., yourname@email.com" autocomplete="email">
+      </div>
+      <button type="submit" class="button button-large" id="subscribe-btn">Send Me the Free Guide</button>
+    </form>
+
+    <div id="newsletter-success" style="display:none;">
+      <h3>You're in! 🎉</h3>
+      <p>Thanks for signing up. Your free guide is ready:</p>
+      <p><a href="/downloads/simple-home-networking-guide.pdf" class="button button-large" download>📥 Download Your Free Guide</a></p>
+      <p class="privacy-note">Check your inbox for your first daily tech tip.</p>
+    </div>
+
+    <div id="newsletter-error" style="display:none; color:#c0392b;">
+      <p>Something went wrong. Please try again, or email us directly.</p>
+    </div>
+
+    <p class="privacy-note" id="privacy-note">We respect your privacy. Unsubscribe at any time. No spam, ever.</p>
+  </div>
+</section>
+
+<script>
+document.getElementById('newsletter-form').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const btn = document.getElementById('subscribe-btn');
+  const email = document.getElementById('email_address').value;
+  const successDiv = document.getElementById('newsletter-success');
+  const errorDiv = document.getElementById('newsletter-error');
+  const privacyNote = document.getElementById('privacy-note');
+
+  btn.disabled = true;
+  btn.textContent = 'Signing up...';
+  errorDiv.style.display = 'none';
+
+  try {
+    const res = await fetch('/api/subscribe', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email }),
+    });
+    const data = await res.json();
+
+    if (data.success) {
+      document.getElementById('newsletter-form').style.display = 'none';
+      privacyNote.style.display = 'none';
+      successDiv.style.display = 'block';
+    } else {
+      errorDiv.querySelector('p').textContent = data.error || 'Something went wrong.';
+      errorDiv.style.display = 'block';
+      btn.disabled = false;
+      btn.textContent = 'Send Me the Free Guide';
+    }
+  } catch (err) {
+    errorDiv.style.display = 'block';
+    btn.disabled = false;
+    btn.textContent = 'Send Me the Free Guide';
+  }
+});
+</script>

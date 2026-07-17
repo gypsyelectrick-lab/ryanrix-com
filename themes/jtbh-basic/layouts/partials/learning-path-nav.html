@@ -1,0 +1,37 @@
+{{ $articles := sort (where .CurrentSection.RegularPages "Params.level" "!=" nil) "Weight" }}
+{{ $current := . }}
+{{ $prev := "" }}
+{{ $next := "" }}
+
+{{ range $i, $article := $articles }}
+  {{ if eq $article.RelPermalink $current.RelPermalink }}
+    {{ if gt $i 0 }}
+      {{ $prev = index $articles (sub $i 1) }}
+    {{ end }}
+    {{ if lt $i (sub (len $articles) 1) }}
+      {{ $next = index $articles (add $i 1) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if or $prev $next }}
+<nav class="learning-path-nav" style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid var(--color-border);">
+  <div style="display: grid; grid-template-columns: {{ if and $prev $next }}1fr 1fr{{ else }}1fr{{ end }}; gap: 1.5rem;">
+    {{ if $prev }}
+    <div style="text-align: left;">
+      <span style="color: var(--color-text-muted); font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;">← Previous in this course</span>
+      <p style="margin: 0.25rem 0 0 0;"><a href="{{ $prev.RelPermalink }}" style="font-weight: 700; font-size: 1.1rem;">{{ $prev.Title }}</a></p>
+    </div>
+    {{ end }}
+    {{ if $next }}
+    <div style="text-align: {{ if $prev }}right{{ else }}left{{ end }};">
+      <span style="color: var(--color-text-muted); font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;">Next in this course →</span>
+      <p style="margin: 0.25rem 0 0 0;"><a href="{{ $next.RelPermalink }}" style="font-weight: 700; font-size: 1.1rem;">{{ $next.Title }}</a></p>
+    </div>
+    {{ end }}
+  </div>
+  <div style="text-align: center; margin-top: 1rem;">
+    <a href="{{ .CurrentSection.RelPermalink }}learning-path/" style="color: var(--color-text-muted); font-size: 0.9rem;">View full learning path →</a>
+  </div>
+</nav>
+{{ end }}

@@ -1,0 +1,10 @@
+{{- $type := .Get "type" | default "info" -}}
+{{- if eq $type "info" -}}
+<div class="callout" style="border-left: 4px solid var(--color-action); padding: 0.5rem 1rem; margin: 1.5rem 0; background-color: var(--color-bg-secondary); border-radius: 0 8px 8px 0;">
+{{ .Inner | markdownify }}
+</div>
+{{- else if eq $type "tip" -}}
+<div class="callout" style="border-left: 4px solid var(--color-emphasis); padding: 0.5rem 1rem; margin: 1.5rem 0; background-color: var(--color-bg-secondary); border-radius: 0 8px 8px 0;">
+{{ .Inner | markdownify }}
+</div>
+{{- end -}}
