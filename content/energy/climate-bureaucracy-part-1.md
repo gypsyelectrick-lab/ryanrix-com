@@ -4,7 +4,7 @@ menu: "Climate Bureaucracy 1"
 date: 2026-07-17
 author: "Max Weber"
 description: "The Intergovernmental Panel on Climate Change was never set up to ask whether climate change is happening. It was set up to confirm that it is."
-draft: true
+draft: false
 weight: 30
 tags: ["climate", "IPCC", "science-policy", "institutions"]
 level: "intermediate"

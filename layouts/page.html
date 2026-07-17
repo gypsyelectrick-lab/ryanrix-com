@@ -39,6 +39,9 @@
     {{ with .Params.image }}
     <div class="article-hero-image" style="margin-bottom: 2rem; border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
       <img src="{{ . | relURL }}" alt="{{ $.Title }}" style="display: block; width: 100%; height: auto;">
+      {{ with $.Params.image_caption }}
+      <p style="margin: 0.5rem 0 0 0; font-size: 0.85rem; color: var(--color-text-muted); text-align: center; font-style: italic;">{{ . }}</p>
+      {{ end }}
     </div>
     {{ end }}
     

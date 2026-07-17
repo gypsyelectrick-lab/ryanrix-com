@@ -7,7 +7,8 @@ description: "Germany spent a generation and a fortune on its energy transition.
 weight: 20
 tags: ["energy", "germany", "nuclear", "renewables", "policy"]
 level: "intermediate"
-image: "/images/germany-wind.webp"
+image: "/images/germany-wind.png"
+image_caption: "Wind turbines in the German countryside. When the wind does not blow, the grid still needs power from somewhere."
 ---
 
 ## Germany Shut Down Its Last Three Nuclear Plants on April 15, 2023

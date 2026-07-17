@@ -8,6 +8,7 @@ weight: 10
 tags: ["energy", "nuclear", "policy", "electricity"]
 level: "intermediate"
 image: "/images/nuclear-tower.png"
+image_caption: "A nuclear plant. That is not smoke - it is steam."
 ---
 
 ## Vogtle Unit 3 Came Online in 2023
