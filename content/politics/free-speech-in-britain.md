@@ -5,14 +5,14 @@ date: 2026-07-22
 author: "Max Weber"
 description: "The country that gave the world the right to speak is quietly taking it back."
 tags: [politics, free speech, UK, Online Safety Act]
-draft: false
+draft: true
 ---
 
-Something happened to British free speech while nobody was watching. Not overnight. Not with a bang. Just a slow, steady tightening of the rope, one law at a time, one police visit at a time, one social media takedown at a time.
+Something happened to British free speech while nobody was watching. Not overnight. Not with a bang. Just a slow, steady tightening of the rope, one law, one police visit, one social media takedown, at a time.
 
 In 2023, a man stood outside a police station in North Yorkshire holding a sign. The sign quoted the Bible. A member of the public found it offensive. The police arrested him, held him for sixteen hours, and seized his phone. He was later released without charge. The police said they were acting on a complaint. They did not say which law gave them the power to detain a man for holding up a piece of cardboard.
 
-In 2024, a woman was arrested for laughing at a politician outside Parliament. Not threatening him. Not shouting at him. Laughing. The Crown Prosecution Service eventually dropped the case, but the message had already been sent: if you express an opinion the state does not like, the machinery of the law can be turned on you at any time, and even if you win, you lose.
+In 2024, a woman was arrested for laughing at a politician outside Parliament. Not threatening him. Not shouting at him. Laughing. The Crown Prosecution Service eventually dropped the case, but the message had already been sent: if you express an opinion the state does not like, the machinery of the law can be turned on you at any time, and even if you win, you lose. Often, the process itself is the punishment.
 
 In 2025, the Online Safety Act came into full effect. Its supporters said it would protect children from harmful content. Its critics said it would create a censorship apparatus unlike anything the democratic world had seen. Both were right. The Act requires platforms to police speech proactively. Not illegal speech. Not threats. Not incitement. "Lawful but harmful" content - a category that did not exist in British law before and has never been properly defined.
 
@@ -28,15 +28,17 @@ This is the pattern across British public life. The crackdown on protest. The su
 
 The United Kingdom does not have a First Amendment. It never did. British free speech was always a matter of tradition and common law, not constitutional protection. That tradition is eroding faster than anyone expected, because there is no constitutional wall to stop it. Parliament can restrict speech by simple majority vote. It has been doing so, consistently, for two decades.
 
-The question nobody in power wants to answer is: who decides what is harmful? Who decides what opinions are safe enough to be expressed? The answer, in practice, is a combination of politicians, civil servants, and the compliance departments of American social media companies. None of them were elected to decide what you can say. All of them now do.
+The question nobody in power wants to answer is: who decides what is harmful? Who decides what opinions are safe enough to be expressed? The answer, in practice, is a combination of politicians, civil servants, and the compliance departments of American social media companies. None of them were elected to decide what you can say, hear or read. All of them now do.
 
 This matters beyond Britain. The Online Safety Act is being watched closely by other governments. Canada has its own version. The European Union's Digital Services Act follows a similar logic. Australia is considering one. Britain is not an outlier here. It is a pioneer. The model it is building - platform liability for user speech, proactive monitoring, vague categories of "harmful" content - will be exported.
 
 The strange thing is how little political opposition there has been. The Conservative government passed the Act. Labour supported it. The Liberal Democrats voted for it. The major parties compete on who can be tougher on harmful content, not on who can defend free speech. There is no constituency for liberty in British politics. There are only constituencies for different kinds of control.
 
-The 2026 election changed nothing on this front. The new government talks about "restoring trust" in institutions. It does not talk about restoring freedom. Because freedom is not the problem. The problem, according to every party, is that there is too much harmful speech, and government must do something about it.
+The 2026 election changed nothing on this front. The incoming Labour government talks about "restoring trust" in institutions. It does not talk about restoring freedom. Because freedom is not the problem. The problem, according to every party, is that there is too much harmful speech, and government must do something about it.
 
-None of this will change until someone makes the case that freedom matters more than safety. That the right to say things other people find offensive or harmful is the whole point of free speech. That the cure for bad speech is not regulation but more speech. These arguments are old. They are also neglected. The people who should be making them have given up or been shouted down.
+None of this will change until someone makes the case that freedom matters more than safety. That the right to say things other people find offensive or harmful is the whole point of free speech. That the cure for bad speech is not regulation but more speech. That there is no right **not** to be offended.
+
+These arguments are old. They are also neglected. The people who should be making them have given up or been shouted down.
 
 The battle for free speech in Britain is not lost. But it is not being fought either.
 

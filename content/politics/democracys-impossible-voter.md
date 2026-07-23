@@ -5,7 +5,7 @@ date: 2026-07-22
 author: "Max Weber"
 description: "The system assumes an informed citizen who no longer exists - if they ever did."
 tags: [politics, democracy, internet, information, voting]
-draft: false
+draft: true
 ---
 
 Democracy has a hidden assumption. Not the obvious ones about elections, representation, or the rule of law. A deeper one, buried in the foundation: that voters can be sufficiently informed to make reasonable choices about who governs them and how.
@@ -13,6 +13,8 @@ Democracy has a hidden assumption. Not the obvious ones about elections, represe
 This assumption has always been a stretch. It is now impossible.
 
 The scale of information needed to vote competently in a modern state is enormous. A single election requires judgments on foreign policy, domestic spending, regulation, taxation, social policy, environmental management, and a dozen other domains, each of which is the subject of entire academic disciplines. Even a full-time specialist cannot master all of them. A voter with a job, a family, and forty-five minutes to research before election day has no chance.
+
+Political parties have also found that **not** having policies can make them **more** electable, not less. If there are no policies with which to disagree, the thinking goes, fewer people will be put off.
 
 Democracy never required perfect information. It required enough information. The idea was that voters could rely on proxies: party affiliation, trusted commentators, interest group endorsements. You do not need to understand monetary policy to know which party shares your values on it. The system routes your general values through representative institutions that handle the technical details.
 
@@ -22,13 +24,13 @@ The internet destroyed these heuristics without replacing them.
 
 **Consider what has changed.** A voter in 1990 had three television channels, a local newspaper, and whatever books and magazines they chose to buy. The information environment was narrow, stable, and filtered through professional editors who at least pretended to standards of accuracy. The voter could not know everything, but they could know what was considered credible by people whose job was to determine credibility.
 
-A voter in 2026 has access to more information in one hour than their 1990 counterpart saw in a year. Every fact has a counter-fact. Every expert has a counter-expert on Twitter with a PhD from a different university. Every news story is immediately met with accusations of bias, spin, or outright fabrication. The editorial gatekeepers are gone. In their place are algorithms that optimize for engagement, not accuracy.
+A voter in 2026 has access to more information in one hour than their 1990 counterpart saw in a year. Every fact has a counter-fact. Every expert with a PhD has a counter-expert on Twitter with a PhD from a different university. Every news story is immediately met with accusations of bias, spin, or outright fabrication. The editorial gatekeepers are gone. In their place are algorithms that optimize for engagement, not accuracy.
 
 The result is not a better-informed voter. The result is a voter who has seen too much to trust anything.
 
 This is the paradox the internet created for democracy: universal access to information has produced universal distrust of information. When everything is available, nothing is credible. When every source has an agenda, the rational response is to believe none of them - and then to believe whatever feels right, because at least that is honest.
 
-The cognitive burden is crushing. To be a fully informed voter today, you would need to evaluate not just policies and candidates, but also the credibility of every source you encounter, the algorithmic incentives shaping what you see, the financial interests behind every think tank, the methodological validity of every study, and the editing history of every Wikipedia article. This is not a reasonable expectation. It is a full-time job for a team of specialists.
+The cognitive burden is large. To be a fully informed voter today, you would need to evaluate not just policies and candidates, but also the credibility of every source you encounter, the algorithmic incentives shaping what you see, the financial interests behind every think tank, the methodological validity of every study, and the editing history of every Wikipedia article. This is not a reasonable expectation. It is a full-time job for a team of specialists. Who will themselves, of course, have biases.
 
 The voter falls back on identity. If you cannot judge the policies, you judge the people. Which tribe are they in? Do they talk like us? Do they dislike the same people we dislike? This is not irrational. It is a sensible response to an impossible situation. It is also the death of deliberation.
 

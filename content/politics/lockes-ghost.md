@@ -5,7 +5,7 @@ date: 2026-07-22
 author: "Max Weber"
 description: "The philosophy we abandoned - and what it would say if it could speak."
 tags: [politics, Locke, constitution, philosophy, liberty]
-draft: false
+draft: true
 ---
 
 John Locke died in 1704. His ideas did not.
@@ -30,13 +30,13 @@ The battle of ideas is not being lost because of bad communication strategy. It 
 
 Democracy's impossible voter is not a problem that can be solved with better websites or shorter ballot papers. It is a problem that goes to the question of whether self-government is actually possible at scale. Locke thought it was, provided the society was educated, prosperous, and bound by a shared conception of rights. We have the prosperity. We no longer have the rest.
 
-The British, who gave the world Locke and the tradition of liberty that followed, have been dismantling his legacy for twenty years without really noticing. No constitutional protection for free speech. An unwritten constitution that Parliament can change at will. A political class that no longer believes in limited government. The country that produced the philosopher of liberty is now a country where the state can redefine what you are allowed to say by passing a law and calling it safety.
+The British, who gave the world Locke and the tradition of liberty that followed, have been dismantling his legacy for twenty years without anyone really noticing. There is **no** constitutional protection for free speech due to an unwritten constitution that Parliament can change at will. There is a political class that no longer believes in limited government. The country that produced the philosopher of liberty is now a country where the state can redefine what you are allowed to say by passing a law and calling it safety.
 
 The United States still has the First Amendment. It still has the constitutional structure Locke inspired. But constitutional protections are only as strong as the culture that maintains them. When a majority of Americans tell pollsters that the First Amendment "goes too far" in protecting speech - and they have, consistently, for years - the written protection will not save them. The culture that understood why speech must be free has been replaced by a culture that sees speech as a danger to be managed.
 
 **What would Locke say about all this?** He would probably start by asking a very simple question: who benefits when government controls what people can say, what ideas can circulate, and what information voters can trust? The answer is always the same. Government benefits. The state benefits. The people who hold power benefit. The rest of us lose.
 
-Locke would not be surprised that politicians want to control speech. He would be surprised that so many people let them. His entire philosophy rests on the assumption that individuals are able to recognize when their freedom is being taken from them, and that they will resist. If that assumption is wrong, his philosophy does not work.
+Locke would not be surprised that politicians want to control speech. He would be surprised that so many people are prepared let them. His entire philosophy rests on the assumption that individuals are able to recognize when their freedom is being taken from them, and that they will resist. If that assumption is wrong, his philosophy does not work.
 
 Maybe the assumption was wrong. Maybe ordinary people, given the choice between freedom and safety, will choose safety every time. Maybe the liberal tradition was an experiment that worked for a few centuries in a few countries and is now reaching its natural end. Maybe the future belongs to strong states and managed populations, and the Lockean moment was a historical anomaly.
 

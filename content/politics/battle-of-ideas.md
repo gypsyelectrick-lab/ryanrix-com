@@ -5,14 +5,20 @@ date: 2026-07-22
 author: "Max Weber"
 description: "Why bad ideas keep winning - and what that tells us about how the world actually works."
 tags: [politics, ideas, Hayek, knowledge problem]
-draft: false
+draft: true
 ---
 
-There is a theory that good ideas win in the end. That truth, given enough time and enough exposure, will drive out falsehood. That the free exchange of arguments, in what John Milton called "a free and open encounter," will lead people toward better understanding.
+There is a theory that good ideas win in the end. That truth, given enough time and enough exposure, will drive out falsehood. That the exchange of arguments, in what John Milton called "a free and open encounter," will lead people toward better understanding.
 
-This theory is not supported by the available evidence.
+This superficially comforting theory is not supported by the available evidence.
 
 Bad ideas do not just occasionally win. They win most of the time. They win because they are easier to understand, easier to repeat, and easier to weaponize than good ones. They win because they flatter the listener instead of challenging them. They win because they offer simple explanations for complex problems, and simple solutions that never have to work.
+
+
+{{< quote author="H. L. Mencken" >}}
+There is always a well-known solution to every human problem — neat, plausible, and wrong.
+{{< /quote >}}
+
 
 Consider how an idea spreads. It must be communicated. It must be remembered. It must be repeated. Each step is a filter. A complex idea loses detail with every retelling. A simple idea survives intact. Over enough iterations, the complex idea becomes a caricature of itself, while the simple idea remains exactly as simple as it started.
 
@@ -34,7 +40,7 @@ This matters because the ideas that win shape the institutions that govern us. I
 
 The tariff idea is a perfect example. It is simple: tariffs protect domestic jobs from foreign competition. It is emotionally appealing: it sounds like standing up for your country against foreign exploiters. It is almost entirely wrong in its economic analysis, but the economic analysis does not matter. The feeling matters. The feeling that someone is finally fighting for you.
 
-The same pattern repeats across every domain of public policy. Rent control sounds like protecting tenants from greedy landlords. It actually reduces the supply of housing and makes rents higher in the long run, but that takes a paragraph to explain. The slogan does not. Minimum wage sounds like justice for workers. The evidence on its effects is contested and context-dependent, but the slogan does not have caveats. Protectionism sounds like patriotism. The economics textbook does not.
+The same pattern repeats across every domain of public policy. Rent control sounds like protecting tenants from greedy landlords. It actually reduces the supply of housing and makes rents higher in the long run, but that takes a paragraph to explain. The slogan does not. Minimum wage sounds like justice for workers. The evidence on its effects is contested and context-dependent, but the slogan does not have caveats. Protectionism sounds like patriotism. The economics textbooks do not.
 
 What do you do about this? If rational argument cannot reliably defeat emotionally appealing bad ideas, then the standard tools of advocacy - white papers, expert testimony, fact-checks - are fighting with one hand tied behind their backs.
 
