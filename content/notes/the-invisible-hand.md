@@ -2,7 +2,7 @@
 title: "The Invisible Hand"
 description: "How self-interest, without central direction, coordinates production to meet the needs of millions of strangers."
 date: 2026-07-20
-draft: true
+draft: false
 author: "Anna Karina"
 tags: [economics, markets, beginner]
 level: beginner
@@ -23,7 +23,7 @@ The butcher does not wake up wanting to feed you. He wakes up wanting to make a 
 
 The invisible hand is not a force or a law. It is a description of how voluntary exchange in competitive markets coordinates the plans of millions of people who have never met each other.
 
-No one tells farmers how much wheat to grow, bakers how much bread to bake, or truckers which route to drive. Yet bread appears on shelves every morning. Prices, profits, and losses guide the decisions. Farmers who grow too much wheat lose money. Bakers who bake bread nobody wants go out of business. The signals of profit and loss direct resources toward what people actually want and away from what they do not.
+No one tells farmers how much wheat to grow, bakers how much bread to bake, or truckers which route to take. Yet bread appears on shelves every morning. Prices, profits, and losses guide the decisions. Farmers who grow too much wheat lose money. Bakers who bake bread nobody wants go out of business. The signals of profit and loss direct resources toward what people actually want and away from what they do not.
 
 This is the insight that separates market economics from central planning. In a market, decisions are decentralised. Every individual acts on local knowledge - what their customers are asking for, what their suppliers are charging, what their competitors are doing. No person or committee possesses enough information to replicate what emerges from this process.
 
@@ -35,7 +35,7 @@ This is the insight that separates market economics from central planning. In a 
 
 **It does not mean greed is good.** The butcher's self-interest is not greed. It is the ordinary human desire to improve one's condition. Smith distinguished carefully between self-interest (which coordinates) and greed (which seeks to rig the system in one's favor).
 
-## Why Reference This
+## Why Should You Care?
 
 When you encounter claims that markets are chaotic or that profit-seeking is inherently antisocial, the invisible hand is the counterpoint: the mechanism by which the pursuit of self-interest, under the right conditions, serves the common good without intending to.
 

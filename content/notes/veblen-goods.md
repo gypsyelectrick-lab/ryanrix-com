@@ -2,7 +2,7 @@
 title: "Veblen Goods"
 description: "Goods for which demand rises as the price rises - because the high price is the point."
 date: 2026-07-20
-draft: true
+draft: false
 author: "Anna Karina"
 tags: [economics, demand, prices, consumer-behavior, intermediate]
 level: intermediate

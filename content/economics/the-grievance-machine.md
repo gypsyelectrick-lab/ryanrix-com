@@ -165,7 +165,7 @@ Six different grievances. Six different villains. One solution in every case: mo
 
 The same political coalition proposes every one of these policies. The same pattern of failure repeats. The same response - "we did not go far enough" - follows each failure.
 
-This is not governance. This is an oppressive machine.
+This is not governance. This is oppression.
 
 ---
 

@@ -6,7 +6,7 @@ author: "Anna Karina"
 tags: [economics, prices, markets, beginner]
 level: beginner
 weight: 11
-draft: true
+draft: false
 ---
 
 ## What Prices Are
@@ -27,7 +27,7 @@ Nobody wrote a memo. Nobody held a meeting. The price did all the communication.
 
 ## The Pencil Test
 
-Think about what goes into a simple pencil. The wood, the graphite, the rubber eraser, the brass ferrule, the paint - they come from mines, plantations, and factories across different continents. Nobody in the world knows how to make a pencil from scratch. The tree farmer does not know how to mine graphite. The graphite miner does not know how to refine oil into paint. But the pencil exists anyway, because prices coordinated the efforts of people who do not know each other and do not speak the same language.
+Think about what goes into a simple pencil. The wood, the graphite, the rubber eraser, the brass ferrule, the paint - they come from mines, plantations, and factories across different continents. Nobody in the world knows how to make a pencil from scratch. The tree grower does not know how to mine graphite. The graphite miner does not know how to refine oil into paint. But the pencil exists anyway, because prices coordinated the efforts of people who do not know each other and probably do not all speak the same language.
 
 ## What Happens When Prices Are Wrong
 

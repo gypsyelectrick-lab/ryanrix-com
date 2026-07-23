@@ -6,7 +6,7 @@ author: "Anna Karina"
 tags: [economics, supply, demand, prices, beginner]
 level: beginner
 weight: 10
-draft: true
+draft: false
 ---
 
 ## What It Is
@@ -15,19 +15,19 @@ Supply and demand is the relationship between how much of something is available
 
 **When something is scarce relative to how many people want it, the price goes up. When it is plentiful relative to how many people want it, the price goes down.**
 
-This is not a theory. It is a description of how human beings behave when they are free to choose what to buy and sell.
+This is not a theory. It is a description of how human beings behave when they are free to choose what they want to buy and sell.
 
 ## How It Works
 
 Supply and demand are constantly adjusting. If the price is too high, sellers are left with unsold goods and must lower it. If the price is too low, buyers compete for limited stock, and the price rises. The point where the two meet - where the quantity buyers want equals the quantity sellers are willing to supply - is the market price.
 
-"Scarcity" does not mean rare. It means "less available than people want at the current price." Fresh strawberries are scarce in January. There are not enough to meet everyone's desire, so the price is higher. In summer, there are plenty, so the price drops.
+"Scarce" does not mean rare in this instance. It means "less available than people want at the current price." Fresh strawberries are scarce in January. There are not enough to meet everyone's desire, so the price is higher. In summer, there are plenty, so the price drops.
 
 "Plentiful" does not mean abundant. It means "more available than people want at the current price." Last year's smartphone model is plentiful at its original price. Nobody wants it at that price, so the price drops until people start buying.
 
 ## What It Explains
 
-Once you see this pattern, you see it everywhere:
+Once you understand this pattern, you see it everywhere:
 
 - **Rent in popular cities** - the number of apartments is fairly fixed in the short term. The number of people who want to live there keeps growing. More demand, same supply, prices rise.
 - **Concert tickets** - the supply of seats is fixed. The number of people who want to see a popular act is enormous. The price rises until the number willing to pay equals the number of seats.

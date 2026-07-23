@@ -2,7 +2,7 @@
 title: "Poverty"
 description: "What poverty is, how it is measured, and why it has collapsed in the modern era - but not everywhere."
 date: 2026-07-20
-draft: true
+draft: false
 author: "Anna Karina"
 tags: [economics, poverty, development, beginner]
 level: beginner

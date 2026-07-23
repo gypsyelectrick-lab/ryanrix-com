@@ -47,6 +47,7 @@ What you'll find here:
 
 Once you have the basics, these articles dig into one topic at a time with more evidence, more context, and richer arguments.
 
+- [The Seen and the Unseen](/economics/the-seen-and-the-unseen/) - Bastiat's most powerful framework: the best economic question is the one nobody asks.
 - [California's Wealth Tax - a Case Study in Wishful Thinking](/economics/california-wealth-tax/) — What happens when a state tries to tax billionaires, and why the history of wealth taxes predicts the outcome.
 - [The Grievance Machine, Part I: The Greatest Story Never Told](/economics/the-grievance-machine/) — Six grievances, six crises, one solution every time. Anna Karina on what the inequality panic hides, and why the pattern matters.
 - [The Tariff Shell Game](/economics/tariff-shell-game/) — The Supreme Court blocked one tariff authority. The administration found three more. When the legal basis keeps changing, the policy is not being defended - it is being hidden.

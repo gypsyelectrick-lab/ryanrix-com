@@ -6,7 +6,7 @@ author: "Anna Karina"
 tags: [economics, opportunity-cost, basics, beginner]
 level: beginner
 weight: 12
-draft: true
+draft: false
 ---
 
 ## What It Is
@@ -15,11 +15,11 @@ Opportunity cost is the value of the next best alternative you give up when you 
 
 If you eat dinner at Restaurant A, you are not eating dinner at Restaurant B. The opportunity cost of the meal you chose is the meal you did not. The cost is not measured in dollars. It is measured in the *thing you gave up* - the forgone pizza, the missed conversation, the experience you will never have.
 
-This sounds too obvious to say. But it is the single most important concept in economics, and the one most people get wrong - including smart people who should know better.
+This sounds too obvious to say. But it is the single most important concept in economics, and its one a lot of people get wrong - including smart people who should know better.
 
 ## Why It Is Hard
 
-Opportunity cost is hard to think about because it is invisible. You see the pasta you ordered. You do not see the pizza you did not order. You feel the satisfaction of your choice. You do not feel the satisfaction of the choice you did not make.
+Opportunity cost is hard to think about because it is invisible. You see the pasta you ordered. You do not see the pizza you did not order. You feel the satisfaction of your choice. You do not miss the satisfaction of the choice you did not make.
 
 This invisibility causes systematic errors:
 
@@ -37,7 +37,7 @@ Once you understand opportunity cost, half of what politicians say becomes obvio
 - **"We must cap rent to make housing affordable."** The visible effect is that some renters pay less. The invisible effect is that landlords stop building and maintaining, and the housing that never gets built is the real cost.
 - **"Government spending creates prosperity."** The visible effect is the project. The invisible effect is everything else that money could have done - the private investment crowded out, the tax cuts not given, the schools not built.
 
-None of these arguments mean the policies are always wrong. They mean the conversation is incomplete until someone asks: *"Compared to what?"*
+None of these arguments mean the policies are always wrong. They mean the conversation is incomplete until someone asks: *"Instead to what?"*
 
 ## A Way to Think
 
