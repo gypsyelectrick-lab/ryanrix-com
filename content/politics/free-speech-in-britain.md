@@ -5,7 +5,7 @@ date: 2026-07-22
 author: "Max Weber"
 description: "The country that gave the world the right to speak is quietly taking it back."
 tags: [politics, free speech, UK, Online Safety Act]
-draft: true
+draft: false
 ---
 
 Something happened to British free speech while nobody was watching. Not overnight. Not with a bang. Just a slow, steady tightening of the rope, one law, one police visit, one social media takedown, at a time.

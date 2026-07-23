@@ -5,7 +5,7 @@ date: 2026-07-22
 author: "Max Weber"
 description: "The system assumes an informed citizen who no longer exists - if they ever did."
 tags: [politics, democracy, internet, information, voting]
-draft: true
+draft: false
 ---
 
 Democracy has a hidden assumption. Not the obvious ones about elections, representation, or the rule of law. A deeper one, buried in the foundation: that voters can be sufficiently informed to make reasonable choices about who governs them and how.

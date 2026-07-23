@@ -5,7 +5,7 @@ date: 2026-07-22
 author: "Max Weber"
 description: "Why bad ideas keep winning - and what that tells us about how the world actually works."
 tags: [politics, ideas, Hayek, knowledge problem]
-draft: true
+draft: false
 ---
 
 There is a theory that good ideas win in the end. That truth, given enough time and enough exposure, will drive out falsehood. That the exchange of arguments, in what John Milton called "a free and open encounter," will lead people toward better understanding.
