@@ -17,6 +17,8 @@ You don't need a science degree. You just need to be willing to ask: who pays, w
 
 - **[Germany's €600 Billion Lesson →](/energy/germanys-e600-billion-lesson/)** — Germany spent a generation and a fortune on its energy transition. Its emissions stayed flat. Its electricity prices doubled. Something went wrong.
 
----
+- **[Climate Bureaucracy, Part 1 →](/energy/climate-bureaucracy-part-1/)** — The climate funding pipeline follows a predictable path: government grants flow to academics who produce the science that justifies more government grants. The IPCC is not a conspiracy — it's an institution full of people doing exactly what their incentives tell them to do.
 
-*More articles coming soon.*
+- **[Climate Bureaucracy, Part 2: The Scenario That Wouldn't Die →](/energy/climate-bureaucracy-part-2/)** — The RCP8.5 climate scenario — the worst-case projection used to justify the most aggressive policies — was never realistic. Yet it remained in official use for over a decade. The story of how a bad scenario survived tells you everything about how climate policy actually works.
+
+- **[The Carbon Tax That Already Exists →](/energy/carbon-tax-already-exists/)** — The UK already prices carbon at over £229 per tonne through fuel duty. Every additional carbon tax is double taxation on a problem that has already been priced. The debate about carbon pricing needs to start from this fact, not pretend it doesn't exist.

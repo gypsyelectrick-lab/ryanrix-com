@@ -50,13 +50,15 @@ What causes hyperinflation is a specific combination: a government that has lost
 
 ## The MMT Connection
 
-Modern Monetary Theory is often accused of endorsing hyperinflation. The accusation is wrong, but it is understandable why it gets made.
+Modern Monetary Theory is often accused of endorsing hyperinflation. The accusation is wrong, but it is understandable that it gets made.
 
 MMT correctly observes that a sovereign currency issuer - one that borrows and taxes only in its own currency - cannot be forced into default. It can always create more money to meet its obligations. This observation is technically correct. It is also where the trouble starts.
 
 The real constraint on a sovereign currency issuer is not solvency but inflation. If the government creates money faster than the economy can absorb it, prices will rise. At some point, if pushed too far, public confidence in the currency will crack.
 
-MMT acknowledges this constraint. Its proponents argue that the government should manage aggregate demand to stay within the economy's productive capacity. In theory, this is fine. The question is whether it works in practice. Specifically, whether democratic governments facing spending demands from every direction will exercise the restraint that MMT's theory requires.
+MMT acknowledges this constraint. Its proponents argue that the government should manage aggregate demand to stay within the economy's productive capacity. In theory, this is fine. The question is whether it works in practice. Specifically, whether democratic governments facing spending demands from every direction will exercise the restraint that MMT's theory requires. 
+
+And whether the Government can accurately know what the economy's productive capacity is in the first place.
 
 This is not a theoretical question. It is a question about incentives. A government that can create money at will faces enormous political pressure to keep creating it. The constraint is invisible until it snaps. By the time inflation is obvious, the political incentives to address it are weaker than the incentives to ignore it.
 
@@ -64,7 +66,7 @@ The greatest danger of MMT is not that its theory is wrong. The greatest danger 
 
 ## The Idiot in Charge Problem
 
-This brings us to the real question. What happens when the person in charge of the printing press is an idiot? Or corrupt. Or beholden to interests that demand short-term spending regardless of long-term consequences. Or simply out of options because the economy has structurally deteriorated and there are no good choices left.
+This brings us to the real question. What happens when the person in charge of the printing press is an idiot? Or corrupt. Or beholden to interests that demand short-term spending regardless of long-term consequences. Is simply out of options because the economy has structurally deteriorated and there are no good choices left. Or, as is usually required for hyperinflation, all four at once.
 
 The answer from history is clear. Hyperinflation happens when institutions fail. When the central bank is no longer independent. When the tax system cannot collect revenue. When the government has no access to foreign capital. When the public has lost faith not just in the currency but in the entire system.
 
@@ -74,7 +76,7 @@ The lesson for the MMT debate is not that MMT is wrong. It is that any monetary 
 
 Weimar Germany did not have hyperinflation because its economists were Keynesians or monetarists or MMTers. It had hyperinflation because the government had lost a war, owed impossible reparations, and had no political capacity to raise taxes or cut spending. The money printing was not a policy choice. It was what happened when every other option had been exhausted.
 
-The same pattern holds across the classic cases. Hungary after World War II had lost half its industrial capacity and was paying reparations to the Soviet Union. Zimbabwe's economy collapsed after the land reforms destroyed commercial agriculture. Venezuela's oil revenues crashed, and the government had no other industry to fall back on.
+The same pattern holds across the classic cases. Hungary after World War II had lost half its industrial capacity and was paying reparations to the Soviet Union. Zimbabwe's economy collapsed after the land reforms destroyed commercial agriculture. Venezuela's oil revenues crashed after nationalization of the sector, and the government had no other industry to fall back on.
 
 In each case, the hyperinflation was a symptom of a deeper failure. The money printing was the ambulance at the bottom of the cliff, not the cause of the crash.
 
