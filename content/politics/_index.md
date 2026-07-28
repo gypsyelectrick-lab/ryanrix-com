@@ -28,3 +28,11 @@ This section looks at power - who has it, who wants it, who profits from expandi
 - **[The Labour PM Who Cut Your Climate Tax →](/politics/burnham-energy-tax-cut/)** — Labour's energy policy in 2026 is a paradox: cut the climate levy while pushing harder into net zero. The reconciliation comes from the politics, not the economics.
 
 - **[The Seven Questions Applied: Net Zero →](/politics/seven-questions-net-zero/)** — Applying the Seven Questions framework to net zero policy. What is the goal? Who wins? Who loses? How will we know if it is working? The answers reveal more than the advocates want you to see.
+
+- **[The Fabian Grip →](/politics/the-fabian-grip/)** — Every Labour PM in British history belonged to the same organisation outside the party itself. The Fabian Society's grip on Westminster is the most successful long-term political project of the last century.
+
+- **[Wrong About Everything →](/politics/wrong-about-everything/)** — The environmental movement was built on two pillars. Both were wrong. The movement never recovered.
+
+- **[The Red-Green Alliance →](/politics/the-red-green-alliance/)** — The Green Party presents itself as the sensible environmental voice. The reality is stranger and more revealing than most people realise.
+
+- **[Incentives Matter: The Problem That Can't Be Solved →](/politics/incentives-matter-the-problem-that-cant-be-solved/)** — When a stupid decision repeats for decades, ask not who's incompetent — ask who benefits.
