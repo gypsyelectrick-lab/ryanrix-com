@@ -66,3 +66,4 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [Incentives Matter: The Economics of Obvious](/economics/incentives-matter-the-economics-of-obvious/) — People respond to incentives. The rest is detail. Why does every government pretend otherwise?
 - [Incentives Matter: The Price of Good Intentions](/economics/incentives-matter-the-price-of-good-intentions/) — A 19% interest rate and a 23% youth unemployment rate are the same story.
 - [Incentives Matter: Who Gets the First Rung?](/economics/incentives-matter-who-gets-the-first-rung/) — Finland has no minimum wage and 23% youth unemployment. The two facts are connected.
+- [The Cantillon Effect](/economics/the-cantillon-effect/) — Inflation does not hit everyone at once. The first receiver gets the benefit. The last receiver pays the price.

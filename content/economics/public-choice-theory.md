@@ -16,7 +16,7 @@ In our last article, we looked at Bastiat's most important insight: every policy
 
 If the unseen costs of bad policy are so large, and so reliably larger than the visible benefits - why do bad policies keep winning?
 
-Part of the problem iss that governments are not good at self-correcting. Government moves slowly not because the people in it are lazy, but because the incentives they face reward delay, risk-aversion, and the avoidance of visible failure far more than they reward efficiency.
+Part of the problem is that governments are not good at self-correcting. Government moves slowly not because the people in it are lazy, but because the incentives they face reward delay, risk-aversion, and the avoidance of visible failure far more than they reward efficiency.
 
 This is the question that Public Choice Theory answers. And the answer, once understood, changes how you see everything the government does.
 
