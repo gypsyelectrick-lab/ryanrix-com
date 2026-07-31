@@ -36,3 +36,13 @@ This section looks at power - who has it, who wants it, who profits from expandi
 - **[The Red-Green Alliance →](/politics/the-red-green-alliance/)** — The Green Party presents itself as the sensible environmental voice. The reality is stranger and more revealing than most people realise.
 
 - **[Incentives Matter: The Problem That Can't Be Solved →](/politics/incentives-matter-the-problem-that-cant-be-solved/)** — When a stupid decision repeats for decades, ask not who's incompetent — ask who benefits.
+
+---
+
+- **[Why Things Break: An Introduction →](/politics/why-things-break-introduction/)** - Government overreach and corporate overreach are the same problem: concentrated power with weak accountability.
+
+- **[Why Things Break: The Ten Billion Pound Nothing →](/politics/why-things-break-nhs-it/)** - The NHS spent £10 billion on IT and got nothing.
+
+- **[Why Things Break: Birmingham's £225 Million Oracle →](/politics/why-things-break-birmingham-oracle/)** - Europe's largest council lost £225 million on software.
+
+- **[Why Things Break: The AAA Rating Was Correct →](/politics/why-things-break-housing-bubble/)** - The AAA rating was correct. The guarantee was the scandal.
