@@ -11,7 +11,7 @@ level: "intermediate"
 
 ## The Word We Should Stop Using
 
-**"Technocrat" sounds impressive. It suggests someone who combines technical expertise with political power — a scientist-king who actually understands what they are regulating. The people writing tech policy today are not technocrats. They are bureaucrats who have their assistants print out their emails.**
+**"Technocrat" sounds impressive. It suggests someone who combines technical expertise with political power - a scientist-king who actually understands what they are regulating. The people writing tech policy today are not technocrats. They are bureaucrats who have their assistants print out their emails.**
 
 The distinction matters, because the word gives them a veneer of competence they have not earned. If we keep calling them technocrats, we keep pretending they know what they are doing. They do not.
 
@@ -23,7 +23,7 @@ In February 2026, the US House Judiciary Committee published a report titled <a 
 
 Not illegal content. Content that European officials *disagree* with.
 
-The report shows emails between European Commission staff and signatories of the EU's Code of Practice on Disinformation, urging platforms to censor American claims about COVID-19 vaccines. It documents demands that platforms remove posts that even question European policy. It shows a pattern of regulatory bodies in Brussels acting as a global speech police — without a democratic mandate, without judicial oversight, and without any demonstrated expertise in the platforms they are regulating.
+The report shows emails between European Commission staff and signatories of the EU's Code of Practice on Disinformation, urging platforms to censor American claims about COVID-19 vaccines. It documents demands that platforms remove posts that even question European policy. It shows a pattern of regulatory bodies in Brussels acting as a global speech police - without a democratic mandate, without judicial oversight, and without any demonstrated expertise in the platforms they are regulating.
 
 This is what passes for "technocratic governance" in Europe. Bureaucrats who have never built a platform, never managed a content moderation system at scale, never dealt with the engineering tradeoffs involved in automated content detection, telling engineers how to do their jobs.
 
@@ -51,13 +51,13 @@ A genuine technocrat would understand the technical reality and craft policy aro
 
 This is not an isolated incident. The pattern repeats across every domain where tech policy is being written:
 
-**On encryption.** Regulators demand "backdoors" that only the good guys can use. Every cryptographer knows this is impossible — a backdoor is a vulnerability, and vulnerabilities are exploited by everyone, not just the good guys. But the regulators do not understand this, so they keep proposing it.
+**On encryption.** Regulators demand "backdoors" that only the good guys can use. Every cryptographer knows this is impossible - a backdoor is a vulnerability, and vulnerabilities are exploited by everyone, not just the good guys. But the regulators do not understand this, so they keep proposing it.
 
 **On algorithmic transparency.** Regulators demand that platforms disclose exactly how their recommendation algorithms work. But algorithms are the product. Demanding full disclosure is like demanding that Coca-Cola publish its recipe. It would destroy the competitive advantage that made the platform valuable in the first place. A genuine technocrat would understand this tradeoff. A bureaucrat sees a black box and demands to look inside, without understanding what they are asking.
 
 **On data localization.** Regulators demand that companies store data within national borders, ostensibly for privacy reasons. In practice, data localization laws make it harder for small companies to compete, easier for surveillance states to monitor citizens, and nearly impossible for global services to function efficiently. The regulators who propose these laws do not understand distributed systems, latency, or the economics of data transit.
 
-**On AI safety.** Regulators demand "explainability" for AI decisions. This sounds reasonable until you understand that the most powerful AI systems are neural networks — which are inherently uninterpretable. You can demand explanations, but you cannot get them. Not because companies are hiding something, but because the technology does not work that way. A genuine technocrat would regulate based on outcomes (does the system produce harmful results?) rather than demanding impossible forms of transparency.
+**On AI safety.** Regulators demand "explainability" for AI decisions. This sounds reasonable until you understand that the most powerful AI systems are neural networks - which are inherently uninterpretable. You can demand explanations, but you cannot get them. Not because companies are hiding something, but because the technology does not work that way. A genuine technocrat would regulate based on outcomes (does the system produce harmful results?) rather than demanding impossible forms of transparency.
 
 {{< quote author="Thomas Sowell" >}}
 "It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong."
@@ -69,7 +69,7 @@ This is not an isolated incident. The pattern repeats across every domain where 
 
 The European Union's <a href="https://artificialintelligenceact.eu/" target="_blank" rel="noopener noreferrer">AI Act</a> is a case study in this kind of regulation. It is hundreds of pages long, filled with categories and requirements and compliance obligations. It was written by people who consulted with academics and activists and large technology companies. It was not written by people who build things.
 
-The predictable result is that the AI Act imposes massive compliance costs on any company that wants to operate in Europe. Large companies — Google, Meta, Microsoft — have the legal teams to handle this. Small companies and open source projects do not.
+The predictable result is that the AI Act imposes massive compliance costs on any company that wants to operate in Europe. Large companies - Google, Meta, Microsoft - have the legal teams to handle this. Small companies and open source projects do not.
 
 If you are a startup building an AI product, you have two choices: comply with the AI Act and spend most of your early funding on legal fees, or stay out of the European market entirely. Either way, European consumers lose access to innovation.
 
@@ -119,8 +119,8 @@ A serious approach to tech regulation would follow three principles:
 
 3. **Sunset clauses.** Every tech regulation should have an automatic expiration date. If the law needs to continue, the burden should be on regulators to prove it is still necessary and still working. Technology changes too fast for permanent rules.
 
-These principles would not produce perfect regulation. But they would produce regulation that does less harm — and that is the best we can hope for when the people writing the rules have no idea what they are regulating.
+These principles would not produce perfect regulation. But they would produce regulation that does less harm - and that is the best we can hope for when the people writing the rules have no idea what they are regulating.
 
 ---
 
-*Next: [Coming soon — The Cost of Pretending We Know What We're Doing →]()*
+*Next: [Coming soon - The Cost of Pretending We Know What We're Doing →]()*

@@ -14,9 +14,9 @@ level: "advanced"
 
 **On February 20, 2026, the United States Supreme Court ruled 6-3 that the International Emergency Economic Powers Act does not authorize the President to impose tariffs. The decision was clear, the majority was decisive, and the legal reasoning was straightforward: if Congress wants to give the President tariff authority, it must do so explicitly. IEEPA is a sanctions statute, not a trade statute.**
 
-One might expect this to end the tariff program that had been operating under IEEPA since 2025. It did not. Within weeks, the administration announced that the same tariffs would continue under a different legal authority: Section 122 of the Trade Act of 1974, which permits a 15 percent surcharge on imports for 150 days. The deadline for that authority is July 24, 2026  -  three days from today.
+One might expect this to end the tariff program that had been operating under IEEPA since 2025. It did not. Within weeks, the administration announced that the same tariffs would continue under a different legal authority: Section 122 of the Trade Act of 1974, which permits a 15 percent surcharge on imports for 150 days. The deadline for that authority is July 24, 2026 - three days from today.
 
-Treasury Secretary Bessent has stated that when Section 122 expires, the tariffs will "snap back to exactly where they were" under alternative authorities  -  specifically Section 301 (unfair trade practices) and Section 232 (national security). The USTR has already launched Section 301 investigations targeting 60 economies, including Vietnam, India, and others. The hearings concluded on July 9.
+Treasury Secretary Bessent has stated that when Section 122 expires, the tariffs will "snap back to exactly where they were" under alternative authorities - specifically Section 301 (unfair trade practices) and Section 232 (national security). The USTR has already launched Section 301 investigations targeting 60 economies, including Vietnam, India, and others. The hearings concluded on July 9.
 
 The pattern could not be clearer. The policy was blocked by the courts, so the government found three new legal justifications for the same policy. This is not governance. It is a shell game.
 
@@ -46,7 +46,7 @@ The administration's tariff program has gone through four legal justifications i
 
 **Phase two: Section 122.** When the Court ruled, the administration pivoted to the Trade Act of 1974, which permits temporary surcharges of up to 15 percent for 150 days. This was always a stopgap. The 150-day clock expires July 24.
 
-**Phase three: Section 301.** Simultaneously, the USTR launched Section 301 investigations into 60 economies. Section 301 allows tariffs in response to unfair trade practices. The hearings concluded July 9. The administration has stated that these investigations will produce "affirmative determinations" by late July  -  conveniently timed to replace the expiring Section 122 authority.
+**Phase three: Section 301.** Simultaneously, the USTR launched Section 301 investigations into 60 economies. Section 301 allows tariffs in response to unfair trade practices. The hearings concluded July 9. The administration has stated that these investigations will produce "affirmative determinations" by late July - conveniently timed to replace the expiring Section 122 authority.
 
 **Phase four: Section 232.** Section 232 allows tariffs on national security grounds. The administration has indicated it will use this authority for certain products and countries, adding another layer to the tariff structure.
 
@@ -62,7 +62,7 @@ That is not what is happening. What is happening is: "The courts blocked our leg
 
 This is the behavior of someone who knows the policy cannot survive democratic scrutiny but believes it can survive legal maneuvering. If the policy were popular, the administration would ask Congress to pass a tariff law. Congress has the constitutional authority to levy tariffs. If the tariffs were genuinely in the national interest, Congress would enact them, and the debate would be open and public.
 
-The administration has not asked Congress to pass a tariff law. It has not introduced tariff legislation. It has not held a public debate about the costs and benefits of its tariff program. Instead, it has searched through the statute book for obscure legal authorities  -  some from the 1970s, some from the 1960s  -  that can be stretched to cover the existing tariff structure.
+The administration has not asked Congress to pass a tariff law. It has not introduced tariff legislation. It has not held a public debate about the costs and benefits of its tariff program. Instead, it has searched through the statute book for obscure legal authorities - some from the 1970s, some from the 1960s - that can be stretched to cover the existing tariff structure.
 
 The legal authorities are interchangeable. The goal is to keep the tariffs in place by any means necessary, regardless of whether they are working.
 
@@ -74,7 +74,7 @@ Frederic Bastiat wrote about this problem in 1850. In his essay "What Is Seen an
 
 Bastiat's insight is that the seen effects are visible and politically powerful. The saved factory holds a press conference. The workers thank the administration. The story leads the evening news. The unseen effects are dispersed across millions of consumers and thousands of businesses. No one holds a press conference to announce that their small business is absorbing an extra cost. No one marches on Washington to protest a few pennies on every imported product.
 
-The current tariff shell game is Bastiat's essay brought to life. Every new legal justification draws attention to the process  -  "we are fighting for American workers"  -  and away from the outcome  -  "American consumers are paying more for everything." The administration is not defending the policy on its merits because it does not want the public to examine the merits. It wants the public to watch the legal drama.
+The current tariff shell game is Bastiat's essay brought to life. Every new legal justification draws attention to the process - "we are fighting for American workers" - and away from the outcome - "American consumers are paying more for everything." The administration is not defending the policy on its merits because it does not want the public to examine the merits. It wants the public to watch the legal drama.
 
 ---
 
@@ -84,7 +84,7 @@ The legal whac-a-mole has real costs beyond the tariffs themselves.
 
 **Uncertainty** is a tax of its own. Businesses that import goods cannot plan when the legal basis for the tariff changes every few months. Do they invest in new supply chains? Do they wait to see if the next court challenge succeeds? Do they pass the cost to consumers today or absorb it and hope the tariff disappears? Each piece of uncertainty reduces investment, slows growth, and raises costs.
 
-A 2026 survey by the supply chain resilience firm Resilinc found that 82 percent of supply chain leaders reported disruption from the shifting tariff landscape. They did not report disruption from the tariffs themselves  -  they reported disruption from not knowing which tariffs would apply, under which authority, for how long.
+A 2026 survey by the supply chain resilience firm Resilinc found that 82 percent of supply chain leaders reported disruption from the shifting tariff landscape. They did not report disruption from the tariffs themselves - they reported disruption from not knowing which tariffs would apply, under which authority, for how long.
 
 **Retaliation** is another hidden cost. Every country targeted by US tariffs has responded with tariffs of its own. American farmers lost export markets when China retaliated against the 2018 tariffs. American whiskey producers lost the European market. American manufacturers lost access to components that are only available from countries that are now subject to tariffs.
 
@@ -100,7 +100,7 @@ The question is not whether unfair trade practices exist. The question is whethe
 
 Compared to what? Compared to a targeted, transparent tariff program enacted by Congress, with clear goals, measurable outcomes, and a sunset clause? Compared to working through the World Trade Organization's dispute resolution system? Compared to negotiating bilateral trade agreements that address specific practices? Compared to doing nothing?
 
-The current approach fails every comparison. It is not targeted  -  it applies to 60 economies simultaneously. It is not transparent  -  the legal authority shifts every few months. It has no clear goal  -  is the goal to reduce the trade deficit, to bring manufacturing back to the United States, to punish China, to raise revenue? It has no measurable outcome and no sunset clause.
+The current approach fails every comparison. It is not targeted - it applies to 60 economies simultaneously. It is not transparent - the legal authority shifts every few months. It has no clear goal - is the goal to reduce the trade deficit, to bring manufacturing back to the United States, to punish China, to raise revenue? It has no measurable outcome and no sunset clause.
 
 The worst comparison is the most important one. Compared to a policy that honestly names its costs, identifies its winners and losers, and submits itself to democratic debate, the current tariff shell game is not just bad policy. It is an evasion of accountability.
 

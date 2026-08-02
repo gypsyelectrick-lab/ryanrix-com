@@ -4,12 +4,12 @@ description: "The US leads in risky investment and the US has billionaires. That
 date: 2026-07-25
 author: "Anna Karina"
 tags:
-  - economics
-  - inequality
-  - capital
-  - investment
-  - innovation
-  - intermediate
+ - economics
+ - inequality
+ - capital
+ - investment
+ - innovation
+ - intermediate
 level: intermediate
 image: /images/the-usefulness-of-billionaires.png
 image_caption: "Wealthy districts are visible. The risky investment they fund is not."

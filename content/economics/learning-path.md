@@ -1,9 +1,9 @@
 ---
-title: "Economics — Learning Path"
+title: "Economics - Learning Path"
 layout: "learning-path"
 description: "A step-by-step guide from absolute beginner to advanced economics. Read in order."
 aliases:
-  - /economics/learning-path/
+ - /economics/learning-path/
 menu: "Learning Path"
 weight: -1
 ---

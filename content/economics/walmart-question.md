@@ -33,7 +33,7 @@ The people who benefit most from Walmart's low prices are not wealthy suburbanit
 
 A family earning $30,000 a year spends a much higher percentage of their income on groceries, household goods, and other basics than a family earning $300,000. When Walmart saves a poor family $2,000 a year on groceries, that is a meaningful fraction of their total spending. When Walmart saves a rich family $2,000 a year on groceries, it is a rounding error.
 
-Walmart's business model is a massive transfer of value from the Walton family — and from Walmart shareholders — to the people at the bottom of the income distribution. The rich could easily absorb higher prices. The poor cannot. Every dollar Walmart squeezes out of its supply chain and passes on to customers is a dollar that goes disproportionately to people who need it most.
+Walmart's business model is a massive transfer of value from the Walton family - and from Walmart shareholders - to the people at the bottom of the income distribution. The rich could easily absorb higher prices. The poor cannot. Every dollar Walmart squeezes out of its supply chain and passes on to customers is a dollar that goes disproportionately to people who need it most.
 
 This is the core economic fact that the "greedy Walmart" narrative gets precisely backward. The criticism is that Walmart makes billions of dollars in profit. But Walmart's profit margin is about 2 to 3 percent (net profit margin, <a href="https://www.macrotrends.net/stocks/charts/WMT/walmart/profit-margins" target="_blank" rel="noopener noreferrer">per Walmart's 2025 financials</a>). That means for every dollar a customer spends at Walmart, 97 to 98 cents goes to the cost of the goods, the wages of the workers, the rent on the building, and the logistics that get the products onto the shelves. The profit is a sliver.
 
@@ -47,11 +47,11 @@ This is the part of the story that is almost never told. Sam Walton did not inhe
 
 In 1945, at age 26, fresh out of the Army, Walton borrowed $20,000 from his father-in-law Leland Robson and put in $5,000 of his own savings to buy a Ben Franklin variety store in Newport, Arkansas <a href="https://en.wikipedia.org/wiki/Sam_Walton#The_first_stores" target="_blank" rel="noopener noreferrer">(source)</a>. He worked 18-hour days, seven days a week. Sales grew from $80,000 to $225,000 in three years.
 
-Then his landlord refused to renew the lease — he wanted the store for his son. Walton lost the business. But he got $50,000 for the inventory, which he called "a fair price." That early loss taught him a lesson he never forgot: never sign a lease without a renewal option.
+Then his landlord refused to renew the lease - he wanted the store for his son. Walton lost the business. But he got $50,000 for the inventory, which he called "a fair price." That early loss taught him a lesson he never forgot: never sign a lease without a renewal option.
 
-With the proceeds, he bought a new location in Bentonville, Arkansas. His father-in-law secretly paid $20,000 to secure a 99-year lease on the shop next door. They opened Walton's Five and Dime on May 9, 1950 — now the Walmart Museum.
+With the proceeds, he bought a new location in Bentonville, Arkansas. His father-in-law secretly paid $20,000 to secure a 99-year lease on the shop next door. They opened Walton's Five and Dime on May 9, 1950 - now the Walmart Museum.
 
-By 1962, Walton and his brother Bud owned 16 stores. He had pioneered the idea of giving managers an equity stake — they invested $1,000 in their own stores. This aligned everyone's incentives. On July 2, 1962, at age 44, he opened the first Wal-Mart Discount City in Rogers, Arkansas.
+By 1962, Walton and his brother Bud owned 16 stores. He had pioneered the idea of giving managers an equity stake - they invested $1,000 in their own stores. This aligned everyone's incentives. On July 2, 1962, at age 44, he opened the first Wal-Mart Discount City in Rogers, Arkansas.
 
 {{< quote author="Sam Walton" >}}Share your profits with all your associates, and treat them as partners. In turn, they will treat you as a partner, and together you will all perform beyond your wildest expectations.{{< /quote >}}
 
@@ -89,9 +89,9 @@ But Walmart shows what actually helps the poor. Not a price ceiling. Not a wage 
 
 Walmart's low prices are not the result of regulation. They are the result of a competitive retail market that forces every player to squeeze out inefficiencies and pass the savings on to customers. Walmart succeeded because it was better at this than anyone else. The Walton fortune is the trophy. The consumer savings are the prize.
 
-Compare this to the alternative. If the government set a minimum price for groceries — guaranteeing retailers a certain profit margin — Walmart's incentive to cut costs would disappear. Prices would stay high. The poor would lose the savings that make their budgets work. And the Walton family would still be billionaires, because they accumulated their wealth before the policy took effect.
+Compare this to the alternative. If the government set a minimum price for groceries - guaranteeing retailers a certain profit margin - Walmart's incentive to cut costs would disappear. Prices would stay high. The poor would lose the savings that make their budgets work. And the Walton family would still be billionaires, because they accumulated their wealth before the policy took effect.
 
-The irony is that the policies many advocate — price controls, wage mandates, anti-chain regulations — would hurt the poor far more than they would hurt Walmart. The poor need low prices more than Walmart needs high profits. And competition, not regulation, is what delivers low prices.
+The irony is that the policies many advocate - price controls, wage mandates, anti-chain regulations - would hurt the poor far more than they would hurt Walmart. The poor need low prices more than Walmart needs high profits. And competition, not regulation, is what delivers low prices.
 
 ---
 
@@ -103,7 +103,7 @@ The answer is the people at the bottom of the income distribution. They are the 
 
 The Walton family earned their fortune by creating a system that systematically transfers value from the top of the economic ladder to the bottom. Not by charity. By competition. That is not a bug in the system. It is the exact same mechanism that explains why <a href="/economics/two-percent-rule/" target="_blank" rel="noopener noreferrer">the 2 percent rule</a> works.
 
-The entrepreneur keeps a tiny fraction. Everyone else — especially the poor — keeps almost everything.
+The entrepreneur keeps a tiny fraction. Everyone else - especially the poor - keeps almost everything.
 
 ---
 

@@ -12,7 +12,7 @@ level: "beginner"
 
 ## The Pancake Fallacy
 
-**You sometimes hear trade described as "zero-sum" — if one side gains, the other must lose. If China sells us cheap goods, we lose jobs. If a big company makes a profit, the customer paid too much. If your neighbor got a good deal on a used car, the seller must have made a mistake.**
+**You sometimes hear trade described as "zero-sum" - if one side gains, the other must lose. If China sells us cheap goods, we lose jobs. If a big company makes a profit, the customer paid too much. If your neighbor got a good deal on a used car, the seller must have made a mistake.**
 
 This way of thinking is wrong about nearly every real trade that happens. But it is very intuitive. It feels right. That is why it is so common.
 
@@ -30,11 +30,11 @@ The plumber has:
 
 Did you both win?
 
-You did — your pipe works and you do not have a flood. The plumber did — he earned $100, which he values more than the leisure time he gave up, or he would not have taken the job.
+You did - your pipe works and you do not have a flood. The plumber did - he earned $100, which he values more than the leisure time he gave up, or he would not have taken the job.
 
 Trade happened because you had different valuations of the same things. You valued a working pipe more than $100. The plumber valued $100 more than his free time. Both of you walked away richer according to your own preferences.
 
-Nobody lost. The $100 was not "taken" from you — it was exchanged for something you valued more.
+Nobody lost. The $100 was not "taken" from you - it was exchanged for something you valued more.
 
 ### The Same Logic Scales to Countries
 
@@ -54,13 +54,13 @@ When a factory closes because imports are cheaper, you see the job losses on the
 
 **2. Trade changes who produces what.**
 
-Cheap imports from China meant some manufacturing jobs in the US and Europe disappeared. But they also meant every other industry got cheaper inputs (everything from machine parts to children's toys). Those cost savings created jobs elsewhere — in construction, healthcare, technology, and services — because the economy had more money to spend on those things.
+Cheap imports from China meant some manufacturing jobs in the US and Europe disappeared. But they also meant every other industry got cheaper inputs (everything from machine parts to children's toys). Those cost savings created jobs elsewhere - in construction, healthcare, technology, and services - because the economy had more money to spend on those things.
 
 The workers who lost manufacturing jobs did not always find new ones easily. That is a real problem and it deserves a real answer (retraining, support, transition). But the answer is not "stop trading." The answer is "help people move from the industries that are shrinking to the industries that are growing."
 
 **3. The language of "competitiveness" is misleading.**
 
-When a politician says "we need to compete with China," it sounds like a football match — one winner, one loser. But trade is not a match. It is a tool. The question is not "who wins?" but "are both sides better off after trading than before?"
+When a politician says "we need to compete with China," it sounds like a football match - one winner, one loser. But trade is not a match. It is a tool. The question is not "who wins?" but "are both sides better off after trading than before?"
 
 ### What Trade Actually Looks Like
 
@@ -80,4 +80,4 @@ The right question is not "who won?" It is "are we both better off than we were 
 
 ---
 
-*Next: [Money & Inflation — What They Actually Are →]({{< ref "/economics/money-and-inflation" >}})*
+*Next: [Money & Inflation - What They Actually Are →]({{< ref "/economics/money-and-inflation" >}})*

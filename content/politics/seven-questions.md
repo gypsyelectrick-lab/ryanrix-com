@@ -26,7 +26,7 @@ This is the only question that gets asked, and even it is usually answered poorl
 
 The problem must be stated in concrete, measurable terms. Not "we need to address climate change" but "residential electricity emissions were X million tonnes in the baseline year and we want them to be Y million tonnes within Z years." Not "we need to make housing more affordable" but "the median rent-to-income ratio in metropolitan areas is currently 32 percent and we want it to be 25 percent within ten years."
 
-A vague problem statement is a warning sign. It means the goalposts can be moved later. When the policy fails to deliver, the proponents can say "we never said we would reduce rents  -  we said we would address affordability"  -  a word that means whatever they need it to mean at any given moment.
+A vague problem statement is a warning sign. It means the goalposts can be moved later. When the policy fails to deliver, the proponents can say "we never said we would reduce rents - we said we would address affordability" - a word that means whatever they need it to mean at any given moment.
 
 The problem must also be quantified in a way that can be independently verified. Government departments should not be the sole source of the data used to measure their own performance. The baseline must be established by an independent body, or at minimum by a methodology that the public can replicate.
 
@@ -36,7 +36,7 @@ The problem must also be quantified in a way that can be independently verified.
 
 Every policy creates winners and losers. There are no exceptions. A policy that claims to help everyone is either lying or so vague that it helps no one.
 
-The winners are usually obvious, because they are the ones advocating for the policy. The losers are usually invisible, because they are diffuse, unorganized, and often unaware that the policy will harm them until after the harm occurs. A tariff helps domestic steel producers  -  a small, organized group that can lobby effectively. It hurts every consumer who buys anything made with steel  -  a huge, diffuse group that will never organize a protest over a few pennies on a can of beans.
+The winners are usually obvious, because they are the ones advocating for the policy. The losers are usually invisible, because they are diffuse, unorganized, and often unaware that the policy will harm them until after the harm occurs. A tariff helps domestic steel producers - a small, organized group that can lobby effectively. It hurts every consumer who buys anything made with steel - a huge, diffuse group that will never organize a protest over a few pennies on a can of beans.
 
 The obligation of honest policymaking is to name the losers explicitly before the law passes. Not in a footnote in a regulatory impact assessment that nobody reads. In the legislative debate, on the record, in plain language. "This law will increase the cost of housing construction by 7 percent. Renters will pay for this in higher rents. Here is why we think the benefit is worth that cost."
 
@@ -50,7 +50,7 @@ This is where most policies die if anyone bothers to ask.
 
 Implementation is not "we will create a new agency to oversee X" or "we will task the existing department with developing guidelines." Implementation is the specific mechanism by which a change in the real world occurs. Who will do what, with what authority, using what resources, on what timeline?
 
-A carbon tax is easy to implement because it uses an existing mechanism  -  the tax system. You change a number in a spreadsheet and the price signal propagates automatically. A cap-and-trade system is hard to implement because it requires creating a new market, a new regulator, new monitoring systems, and new compliance procedures. A zoning reform is hard to implement because it requires changing the behavior of thousands of local governments, each with its own political dynamics and its own ability to delay.
+A carbon tax is easy to implement because it uses an existing mechanism - the tax system. You change a number in a spreadsheet and the price signal propagates automatically. A cap-and-trade system is hard to implement because it requires creating a new market, a new regulator, new monitoring systems, and new compliance procedures. A zoning reform is hard to implement because it requires changing the behavior of thousands of local governments, each with its own political dynamics and its own ability to delay.
 
 Every additional step between the law and the outcome is an opportunity for the outcome to be diluted. Implementation must be designed with the knowledge that the people implementing it may not want it to succeed. Bureaucrats who lose power under a new system will find ways to slow it down. Industries that are harmed will find ways to exploit loopholes. Courts that are asked to interpret vague language will interpret it in ways the drafters did not intend.
 
@@ -62,11 +62,11 @@ The question is not "can this law be passed?" The question is "can this law be i
 
 The measurement must be independent, pre-registered, and public.
 
-Before the law takes effect, the metrics must be established. The baseline must be recorded. The methodology for calculating the metrics must be specified in enough detail that an independent researcher could replicate it. The timeline for measurement must be set  -  one year, five years, ten years  -  with intermediate checkpoints.
+Before the law takes effect, the metrics must be established. The baseline must be recorded. The methodology for calculating the metrics must be specified in enough detail that an independent researcher could replicate it. The timeline for measurement must be set - one year, five years, ten years - with intermediate checkpoints.
 
 This sounds obvious. It is almost never done.
 
-The UK's 2010 Health and Social Care Act was one of the most significant pieces of domestic legislation in a generation. It reorganized the entire National Health Service. The government's own impact assessment could not quantify the expected benefits. The stated goals  -  greater efficiency, better patient outcomes, more accountability  -  were never defined in measurable terms. Ten years later, no one could say whether the reforms had worked, because the question had never been operationalized.
+The UK's 2010 Health and Social Care Act was one of the most significant pieces of domestic legislation in a generation. It reorganized the entire National Health Service. The government's own impact assessment could not quantify the expected benefits. The stated goals - greater efficiency, better patient outcomes, more accountability - were never defined in measurable terms. Ten years later, no one could say whether the reforms had worked, because the question had never been operationalized.
 
 This is not a failure of implementation. It is a feature of the design. If you cannot measure the effect, you cannot prove the policy failed.
 
@@ -105,9 +105,9 @@ This is the most important question and the one that is almost never asked.
 
 A sunset clause specifies when the law will expire unless it is explicitly renewed. It forces a periodic reassessment. If the problem is solved, the law dies naturally. If the policy is not working, the law dies and a new approach can be tried. If the policy is working, renewal requires a debate in which the evidence is presented and the opposition has a chance to argue that the law should be allowed to expire.
 
-Sunset clauses are common in some areas of law  -  the USA PATRIOT Act had them, the EU's sanctions regimes have them, many temporary tax provisions have them. They are almost never used for the kind of permanent regulatory expansion that characterizes modern government.
+Sunset clauses are common in some areas of law - the USA PATRIOT Act had them, the EU's sanctions regimes have them, many temporary tax provisions have them. They are almost never used for the kind of permanent regulatory expansion that characterizes modern government.
 
-The objection to sunset clauses is that they create uncertainty. Businesses cannot plan if they do not know whether a regulation will exist in five years. This objection is valid but weak. The alternative  -  permanent regulation that never dies, never gets reviewed, and never gets retired  -  creates its own uncertainty: the certainty that bad policy will persist forever.
+The objection to sunset clauses is that they create uncertainty. Businesses cannot plan if they do not know whether a regulation will exist in five years. This objection is valid but weak. The alternative - permanent regulation that never dies, never gets reviewed, and never gets retired - creates its own uncertainty: the certainty that bad policy will persist forever.
 
 A ten-year sunset is standard for most regulations. Five years for experimental or contested policies. Twenty years for major infrastructure or institutional reforms. The length should be proportional to the investment required to comply, but it should always exist.
 
@@ -117,11 +117,11 @@ A ten-year sunset is standard for most regulations. Five years for experimental 
 
 Consider any major piece of legislation from the last twenty years. Apply the seven questions. See how many have acceptable answers.
 
-The carbon tax debates across Europe: the goal was clear (reduce emissions), but the winners and losers were never honestly named (drivers lost, the treasury won). The implementation was through the existing tax system, which was efficient, but on top of existing fuel duties that already priced carbon at twice the social cost  -  so the "problem" it was solving had already been solved by a tax nobody remembered was there. The measurement was outsourced to climate models that could not isolate the effect of the tax from other factors. The reporting was buried in budget documents. Success was never defined in terms of the tax's specific contribution. Sunset clauses were never proposed.
+The carbon tax debates across Europe: the goal was clear (reduce emissions), but the winners and losers were never honestly named (drivers lost, the treasury won). The implementation was through the existing tax system, which was efficient, but on top of existing fuel duties that already priced carbon at twice the social cost - so the "problem" it was solving had already been solved by a tax nobody remembered was there. The measurement was outsourced to climate models that could not isolate the effect of the tax from other factors. The reporting was buried in budget documents. Success was never defined in terms of the tax's specific contribution. Sunset clauses were never proposed.
 
-The UK's apprenticeship levy: the goal was to increase the number of high-quality apprenticeships. The winners were training providers and large employers who could absorb the cost. The losers were small businesses that could not. Implementation was through a payroll tax with a credit system so complex that thousands of employers simply wrote off the money. Measurement showed that the number of apprenticeships increased but their quality decreased  -  a result that the levy's design should have predicted. Success was never defined, because the government's target was "three million apprenticeships by 2020"  -  a quantity target that incentivised short, low-quality placements. The levy has no sunset clause. It will exist forever, regardless of whether it works.
+The UK's apprenticeship levy: the goal was to increase the number of high-quality apprenticeships. The winners were training providers and large employers who could absorb the cost. The losers were small businesses that could not. Implementation was through a payroll tax with a credit system so complex that thousands of employers simply wrote off the money. Measurement showed that the number of apprenticeships increased but their quality decreased - a result that the levy's design should have predicted. Success was never defined, because the government's target was "three million apprenticeships by 2020" - a quantity target that incentivised short, low-quality placements. The levy has no sunset clause. It will exist forever, regardless of whether it works.
 
-The US Inflation Reduction Act: the goal was to accelerate clean energy deployment. The winners were solar and wind manufacturers, electric vehicle producers, and battery companies. The losers were taxpayers (through higher debt and inflation), coal and gas communities, and anyone who would have preferred a technology-neutral approach. Implementation was through a combination of tax credits, grants, and loan guarantees  -  a layer cake of complexity that has already produced fraud, controversy, and legal challenges. Measurement is entangled with other climate policies, making the IRA's specific contribution impossible to isolate. Success was defined as "net emissions 40 percent below 2005 levels by 2030," but the IRA is only one of many policies contributing to that target, so even if the target is met, the IRA's specific value cannot be known. No sunset clause.
+The US Inflation Reduction Act: the goal was to accelerate clean energy deployment. The winners were solar and wind manufacturers, electric vehicle producers, and battery companies. The losers were taxpayers (through higher debt and inflation), coal and gas communities, and anyone who would have preferred a technology-neutral approach. Implementation was through a combination of tax credits, grants, and loan guarantees - a layer cake of complexity that has already produced fraud, controversy, and legal challenges. Measurement is entangled with other climate policies, making the IRA's specific contribution impossible to isolate. Success was defined as "net emissions 40 percent below 2005 levels by 2030," but the IRA is only one of many policies contributing to that target, so even if the target is met, the IRA's specific value cannot be known. No sunset clause.
 
 Every one of these policies was enacted with good intentions. Every one fails at least five of the seven questions.
 
@@ -137,7 +137,7 @@ The current system exists precisely because it does not answer these questions. 
 
 Every person who benefits from an existing policy will oppose a framework that subjects their policy to periodic review. The majority of political energy in any government is spent not on creating new policies but on defending existing ones from scrutiny. The seven questions would threaten that defence.
 
-This does not mean the framework is naive. It means the framework would work exactly as designed  -  and the people who benefit from the current system would fight it.
+This does not mean the framework is naive. It means the framework would work exactly as designed - and the people who benefit from the current system would fight it.
 
 ---
 

@@ -50,7 +50,7 @@ Suppose the government says bread cannot cost more than 50¢ a loaf. Normally, i
 
 But if the price is stuck at 50¢, the message cannot be sent. People keep buying bread at the old price. The shortage gets worse. Shelves go empty. People queue for bread. And eventually, the baker stops making bread altogether because he cannot afford to buy wheat at the new higher price and sell bread at the old fixed price.
 
-The shortage was not caused by the wheat harvest. It was caused by the price being prevented from doing its job — telling people that bread is now more valuable and should be used more carefully.
+The shortage was not caused by the wheat harvest. It was caused by the price being prevented from doing its job - telling people that bread is now more valuable and should be used more carefully.
 
 ### The Real Miracle
 
@@ -62,4 +62,4 @@ Try to imagine designing that system on purpose. You cannot. It is too complex. 
 
 ---
 
-*Next: [The Information Problem — Why Central Planning Fails →]({{< ref "/economics/the-information-problem" >}})*
+*Next: [The Information Problem - Why Central Planning Fails →]({{< ref "/economics/the-information-problem" >}})*

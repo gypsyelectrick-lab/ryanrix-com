@@ -123,7 +123,7 @@
       "@type": "WebPage",
       "@id": {{ .Permalink | jsonify | safeJS }}
     },
-    "image": {{ with .Params.image }}{{ . | relURL | jsonify | safeJS }}{{ else }}{{ site.BaseURL | chomp | printf "%s/logo.svg" | jsonify | safeJS }}{{ end }},
+    "image": {{ with .Params.image }}{{ . | relURL | jsonify | safeJS }}{{ else }}{{ site.BaseURL | strings.TrimSuffix "/" | printf "%s/logo.svg" | jsonify | safeJS }}{{ end }},
     {{ with .Params.tags }}
     "keywords": {{ delimit . ", " | jsonify | safeJS }},
     {{ end }}

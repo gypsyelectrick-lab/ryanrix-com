@@ -16,7 +16,7 @@ Bad ideas do not just occasionally win. They win most of the time. They win beca
 
 
 {{< quote author="H. L. Mencken" >}}
-There is always a well-known solution to every human problem — neat, plausible, and wrong.
+There is always a well-known solution to every human problem - neat, plausible, and wrong.
 {{< /quote >}}
 
 

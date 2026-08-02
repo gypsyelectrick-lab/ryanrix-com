@@ -12,7 +12,7 @@ level: "beginner"
 
 ## Why It Is Not About Capitalism vs Socialism
 
-**The debate about central planning is almost always framed as a political argument — markets versus government, capitalism versus socialism. That misses the real point.**
+**The debate about central planning is almost always framed as a political argument - markets versus government, capitalism versus socialism. That misses the real point.**
 
 The real problem with central planning is not ideological. It is informational.
 
@@ -35,7 +35,7 @@ What did they miss? Everything that makes the shoe industry actually work.
 
 **Tacit knowledge.** The leather cutter knows that a particular batch of leather is slightly thinner than usual, so he needs to adjust the cutting pattern. The factory manager knows that the machine on line three makes a clicking noise before it breaks, and the factory works better if you schedule maintenance just before the noise starts. The delivery driver knows that the corner shop on Elm Street has a narrow doorway and cannot accept large delivery pallets.
 
-**Changing knowledge.** People's preferences change every day. A new fashion trend emerges. A celebrity wears a certain boot. A heatwave makes people want sandals instead of closed shoes. Shoe factories adjust to all of this in real time — if they can see what people are buying.
+**Changing knowledge.** People's preferences change every day. A new fashion trend emerges. A celebrity wears a certain boot. A heatwave makes people want sandals instead of closed shoes. Shoe factories adjust to all of this in real time - if they can see what people are buying.
 
 A central planning committee cannot know any of this. They cannot put it in a spreadsheet. They cannot send a questionnaire that captures it. By the time they collected the data and made a decision, the information would already be out-of-date.
 
@@ -71,4 +71,4 @@ The difference is between setting the rules of the game against trying to make e
 
 ---
 
-*Next: [Property Rights — The Foundation You Never Notice →]({{< ref "/economics/property-rights-the-foundation" >}})*
+*Next: [Property Rights - The Foundation You Never Notice →]({{< ref "/economics/property-rights-the-foundation" >}})*

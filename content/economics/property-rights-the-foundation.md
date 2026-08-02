@@ -16,7 +16,7 @@ level: "beginner"
 
 Think about the last time you bought something. A coffee. A phone. A train ticket. You handed over money, and the other person handed over the thing. The whole transaction took maybe thirty seconds.
 
-Neither of you thought about it for a moment longer than that. You both assumed the coffee belonged to the cafe, the phone belonged to the shop, the ticket belonged to the railway. That assumption — that everyone owns what they appear to own, and that nobody will take it from you after you buy it — is what makes trade possible.
+Neither of you thought about it for a moment longer than that. You both assumed the coffee belonged to the cafe, the phone belonged to the shop, the ticket belonged to the railway. That assumption - that everyone owns what they appear to own, and that nobody will take it from you after you buy it - is what makes trade possible.
 
 It sounds obvious. But obvious things are often the most important. And most of the world does not have them.
 
@@ -32,9 +32,9 @@ Imagine you live in a place where nobody has clear ownership of anything. You bu
 
 What would you do? You would stop building houses. Stop planting more than you can eat in a day. Stop saving. Why would you bother? Anything you produce will just be taken.
 
-This is not a thought experiment. It describes much of human history, and it describes many places today. When property rights are weak — when the courts do not enforce contracts, when the police are corrupt, when the government can seize your assets — people behave exactly as you would expect. They produce less. They save less. They invest less. They stay poor.
+This is not a thought experiment. It describes much of human history, and it describes many places today. When property rights are weak - when the courts do not enforce contracts, when the police are corrupt, when the government can seize your assets - people behave exactly as you would expect. They produce less. They save less. They invest less. They stay poor.
 
-The economist Hernando de Soto spent his career documenting this. He found that poor people in developing countries own trillions of dollars worth of property — but they own it informally, without legal title. They cannot sell it, borrow against it, or use it as collateral. It is dead capital. It cannot be turned into productive investment, because nobody can prove it is theirs.
+The economist Hernando de Soto spent his career documenting this. He found that poor people in developing countries own trillions of dollars worth of property - but they own it informally, without legal title. They cannot sell it, borrow against it, or use it as collateral. It is dead capital. It cannot be turned into productive investment, because nobody can prove it is theirs.
 
 ---
 
@@ -52,7 +52,7 @@ Clear property rights do three things that make economic growth possible.
 
 ### The Hard Part
 
-Here is the problem. Property rights are not natural. They are a human invention, enforced by laws, courts, police, and — most importantly — by a shared belief that they matter.
+Here is the problem. Property rights are not natural. They are a human invention, enforced by laws, courts, police, and - most importantly - by a shared belief that they matter.
 
 When a government starts taking property without compensation, or when a court stops enforcing contracts, the entire system fractures. People notice. Investment stops. The economy shrinks.
 
@@ -66,7 +66,7 @@ If you live in a place with strong property rights, you probably take them for g
 
 These assumptions are not guaranteed. They depend on institutions that people fought and died to build.
 
-Next time you buy a coffee without thinking about it, remember: that simple exchange — thirty seconds, no paperwork, total trust — is a miracle of civilization. It rests on a foundation of property rights that most people never notice.
+Next time you buy a coffee without thinking about it, remember: that simple exchange - thirty seconds, no paperwork, total trust - is a miracle of civilization. It rests on a foundation of property rights that most people never notice.
 
 And if you ever hear a politician or activist talk about "taking" someone's property "for the public good," ask yourself: what happens to everyone else's property when that becomes acceptable?
 
@@ -74,10 +74,10 @@ And if you ever hear a politician or activist talk about "taking" someone's prop
 
 ### Try It This Week
 
-Pick one thing you own — your phone, your car, your home. Ask yourself what you could do with it if you could not prove it was yours. Could you sell it? Could you borrow against it? Could you pass it to your children?
+Pick one thing you own - your phone, your car, your home. Ask yourself what you could do with it if you could not prove it was yours. Could you sell it? Could you borrow against it? Could you pass it to your children?
 
-Then think about what it took — courts, laws, a culture of respect for ownership — to make that simple proof possible. It took a lot. And it is worth protecting.
+Then think about what it took - courts, laws, a culture of respect for ownership - to make that simple proof possible. It took a lot. And it is worth protecting.
 
 ---
 
-*Next: [Creative Destruction — Why Lost Jobs Make Us Richer →]({{< ref "/economics/creative-destruction" >}})*
+*Next: [Creative Destruction - Why Lost Jobs Make Us Richer →]({{< ref "/economics/creative-destruction" >}})*

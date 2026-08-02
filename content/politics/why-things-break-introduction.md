@@ -36,7 +36,7 @@ The paradox dissolves.
 
 The enemy is not "government" or "markets" as abstract categories. The enemy is **concentrated power with weak accountability**. It makes no difference whether that power sits in a government department or a corporate boardroom. The damage is the same: the decision-makers face no effective feedback loop. They can fail, and fail again, and the consequences land elsewhere.
 
-A government IT project that loses ten billion pounds — no one is fired. No competitor emerges to build a better system. The same contractors bid for the next disaster. A corporation that secures a regulatory barrier against new entrants — its shareholders benefit, its customers pay more, and the politicians who enabled it receive campaign donations and the promise of well-paid speaking engagements after they leave office. Everyone with power in the transaction is satisfied. Everyone else absorbs the cost.
+A government IT project that loses ten billion pounds - no one is fired. No competitor emerges to build a better system. The same contractors bid for the next disaster. A corporation that secures a regulatory barrier against new entrants - its shareholders benefit, its customers pay more, and the politicians who enabled it receive campaign donations and the promise of well-paid speaking engagements after they leave office. Everyone with power in the transaction is satisfied. Everyone else absorbs the cost.
 
 This series, **Why Things Break**, will examine concrete cases where this dynamic played out. The NHS National Programme for IT, which cost the British taxpayer approximately ten billion pounds and delivered essentially nothing. Birmingham City Council's Oracle implementation, which started at twenty million pounds and is now approaching two hundred million, with the system still not working. New Jersey's voter registration system, where a "glitch" turned out to be a governance gap that nobody was paid to notice. And others, as they emerge.
 
@@ -44,6 +44,6 @@ Each case is different in detail. Each is identical in structure. Somebody with 
 
 The goal of this series is not to assign blame to individuals. The individuals are mostly interchangeable. Replace them, and the same outcomes recur, because the system selects for people who will make the same decisions. The goal is to trace the incentives. To ask, of each disaster: who benefited? Who paid? And what would need to change so that the next decision-maker faces a different set of choices?
 
-If you find yourself thinking, after reading a few of these, that the problem is not stupidity or incompetence but structure — that is the point. The people making the decisions are not unusually stupid. They are responding rationally to the incentives they face. The tragedy is that those incentives produce outcomes that hurt almost everyone, and the people who could change them have no reason to.
+If you find yourself thinking, after reading a few of these, that the problem is not stupidity or incompetence but structure - that is the point. The people making the decisions are not unusually stupid. They are responding rationally to the incentives they face. The tragedy is that those incentives produce outcomes that hurt almost everyone, and the people who could change them have no reason to.
 
 That is Why Things Break. And that is why they keep breaking.

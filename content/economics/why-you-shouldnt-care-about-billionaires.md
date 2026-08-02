@@ -3,7 +3,7 @@ title: "Why You Shouldn't Care About Billionaires"
 menu: "Billionaires"
 date: 2026-07-15
 author: "Anna Karina"
-description: "The inequality panic misses what matters — not whether someone has a billion dollars, but whether ordinary people can get what they need."
+description: "The inequality panic misses what matters - not whether someone has a billion dollars, but whether ordinary people can get what they need."
 weight: 31
 tags: ["economics", "inequality", "wealth", "advanced"]
 level: "advanced"
@@ -13,7 +13,7 @@ level: "advanced"
 
 **Every few months, a new report lands showing that the richest people on earth have more money than the poorest 50 percent combined. Commentators declare that inequality is a crisis. Politicians propose wealth taxes. The public gets angry. And nothing meaningful changes for the people who are actually struggling.**
 
-This cycle is not an accident. It is the result of a carefully cultivated narrative that confuses a moral emotion — envy — with an economic argument. The case for worrying about billionaires falls apart the moment you examine it.
+This cycle is not an accident. It is the result of a carefully cultivated narrative that confuses a moral emotion - envy - with an economic argument. The case for worrying about billionaires falls apart the moment you examine it.
 
 ---
 
@@ -41,11 +41,11 @@ The entire billionaire panic rests on a single unstated assumption: that wealth 
 
 This is the basic error. And it is the same error that drives every bad economic policy, from price controls to protectionism to rent control.
 
-Wealth is not fixed. It is created. When Elon Musk builds a company that produces electric vehicles, he does not take wealth from anyone. He creates it. The cars did not exist before he built them. The jobs did not exist before he funded them. The charging infrastructure did not exist before he invested in it. The shareholders who bought Tesla stock did not lose money. They gained it — because new value was created.
+Wealth is not fixed. It is created. When Elon Musk builds a company that produces electric vehicles, he does not take wealth from anyone. He creates it. The cars did not exist before he built them. The jobs did not exist before he funded them. The charging infrastructure did not exist before he invested in it. The shareholders who bought Tesla stock did not lose money. They gained it - because new value was created.
 
 The same is true for every major fortune in history. Carnegie created steel. Rockefeller created oil. Gates created software. Bezos created logistics. Zuckerberg created social networking. In every case, the fortune was earned by building something that millions of people voluntarily chose to use and pay for.
 
-This does not mean every billionaire earned their money honestly. Some inherited it. Some benefited from regulatory capture, monopoly privileges, or outright corruption. Those are legitimate concerns. But they are concerns about specific behaviors — fraud, cronyism, regulatory abuse — not about the existence of billionaires as a class. The solution is to fix the specific abuses, not to punish all wealth creation.
+This does not mean every billionaire earned their money honestly. Some inherited it. Some benefited from regulatory capture, monopoly privileges, or outright corruption. Those are legitimate concerns. But they are concerns about specific behaviors - fraud, cronyism, regulatory abuse - not about the existence of billionaires as a class. The solution is to fix the specific abuses, not to punish all wealth creation.
 
 {{< quote author="John Stuart Mill" >}}
 "The only case in which, on mere abstract principles, a government ought not to tax the profits of capital, is when the capital is the result of the earnings of the present generation."
@@ -63,7 +63,7 @@ If the concern is that poor people cannot afford housing, the answer is to build
 
 If the concern is that healthcare costs too much, the answer is to reduce barriers to entry for medical providers, eliminate certificate-of-need laws that limit hospital construction, and make prices transparent so patients can shop. Demonizing insurance executives does not lower a single bill.
 
-If the concern is that wages are too low, the answer is to reduce the regulatory barriers that keep people out of jobs — licensing laws, occupational restrictions, minimum wage floors that price low-skilled workers out of the market. Demonizing CEOs does not create a single job.
+If the concern is that wages are too low, the answer is to reduce the regulatory barriers that keep people out of jobs - licensing laws, occupational restrictions, minimum wage floors that price low-skilled workers out of the market. Demonizing CEOs does not create a single job.
 
 These are hard problems. They require specific knowledge of specific industries. They require tradeoffs and compromises. The billionaire narrative avoids all of this difficulty by pointing at a convenient villain and promising that if we just "tax the rich," everything will be fine.
 
@@ -79,7 +79,7 @@ None of these are solved by wealth taxes. Most of them are made worse by the gro
 
 ## The Billionaire Class and the Regulatory State
 
-There is an irony the inequality crusaders never acknowledge. The people who benefit most from the regulatory state — the one they want to expand — are often the very billionaires they claim to oppose.
+There is an irony the inequality crusaders never acknowledge. The people who benefit most from the regulatory state - the one they want to expand - are often the very billionaires they claim to oppose.
 
 Large, established companies have entire legal departments dedicated to navigating regulations. They can afford compliance costs that crush smaller competitors. They can lobby for rules that favor their business model. They can hire the regulators after they leave government.
 
@@ -89,7 +89,7 @@ If you actually wanted to reduce the power of billionaires, you would deregulate
 
 But that is not what the inequality crusaders propose. They propose higher taxes, more regulation, and greater government control over economic decisions. Every one of these proposals makes it harder for new competitors to emerge, which entrenches the billionaires who are already there.
 
-The net effect would be more inequality, not less. But it would be inequality managed by bureaucrats rather than inequality produced by markets — and somehow, that is supposed to be better.
+The net effect would be more inequality, not less. But it would be inequality managed by bureaucrats rather than inequality produced by markets - and somehow, that is supposed to be better.
 
 ---
 
@@ -101,7 +101,7 @@ A serious approach to poverty and opportunity would do three things:
 
 2. **Make prices transparent.** Healthcare, education, and housing are expensive in part because nobody knows what anything costs until after the fact. Price transparency would allow consumers to shop effectively, which would force providers to compete on price and quality.
 
-3. **Fix the tax code.** The current system taxes work (income tax, payroll tax) while exempting wealth (capital gains held until death, stepped-up basis, carried interest). The result is that people who work for a living pay higher effective rates than people who live off investments. A serious reform would equalize the treatment of work and capital — by lowering taxes on work, not by raising taxes on capital.
+3. **Fix the tax code.** The current system taxes work (income tax, payroll tax) while exempting wealth (capital gains held until death, stepped-up basis, carried interest). The result is that people who work for a living pay higher effective rates than people who live off investments. A serious reform would equalize the treatment of work and capital - by lowering taxes on work, not by raising taxes on capital.
 
 None of these require confiscating billionaires' wealth. They do not require class warfare. They require the boring, difficult work of fixing specific policies that make life harder for ordinary people.
 

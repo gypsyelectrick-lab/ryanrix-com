@@ -16,7 +16,7 @@ level: "beginner"
 
 You walked past a shop selling umbrellas for $25 on a sunny day and thought "that is too expensive, I will wait." Then it rained, you walked into the same shop, and you paid $25 without a second thought.
 
-Nothing changed about the umbrella. It was the same umbrella, in the same shop, sold by the same person. What changed was the *situation*. On a sunny day, the seller had many umbrellas and few buyers — supply high, demand low, price too high for you. On a rainy day, the seller had the same umbrellas and many desperate buyers — supply same, demand high, price suddenly reasonable.
+Nothing changed about the umbrella. It was the same umbrella, in the same shop, sold by the same person. What changed was the *situation*. On a sunny day, the seller had many umbrellas and few buyers - supply high, demand low, price too high for you. On a rainy day, the seller had the same umbrellas and many desperate buyers - supply same, demand high, price suddenly reasonable.
 
 That is supply and demand. You have always understood it. You just did not have a name for it.
 
@@ -36,7 +36,7 @@ That is it. That is the whole thing.
 
 Once you see the supply-and-demand pattern, you see it everywhere.
 
-**Why rent is high in popular cities:** The number of apartments in New York, Los Angeles, London, or Sydney is fairly fixed in the short term. The number of people who want to live there keeps growing. More demand, same supply, prices rise. Landlords are not "greedy" — they are charging what the market allows. If they charged less, the tenant would sub-rent the apartment instantly.
+**Why rent is high in popular cities:** The number of apartments in New York, Los Angeles, London, or Sydney is fairly fixed in the short term. The number of people who want to live there keeps growing. More demand, same supply, prices rise. Landlords are not "greedy" - they are charging what the market allows. If they charged less, the tenant would sub-rent the apartment instantly.
 
 **Why concert tickets cost a fortune:** The supply of seats in the arena is fixed. The number of people who want to see Taylor Swift is enormous. The price has to rise until the number of people willing to pay equals the number of seats. It is not a conspiracy. It is arithmetic.
 
@@ -48,8 +48,8 @@ Supply and demand is not a theory. It is not an ideology. It is not something ec
 
 It is a description of how human beings actually behave when they are free to make their own choices about what to buy and sell. Every time you decide something is "too expensive" or "a good deal," you are doing supply-and-demand calculations in your head. You just call it "common sense."
 
-The only thing economics adds is the name for the pattern. And once you have the name, you start seeing the pattern everywhere — including in places where people try to tell you that supply and demand does not apply, which is almost always about to be proven wrong.
+The only thing economics adds is the name for the pattern. And once you have the name, you start seeing the pattern everywhere - including in places where people try to tell you that supply and demand does not apply, which is almost always about to be proven wrong.
 
 ---
 
-*Next: [How Prices Work — The Information Machine Nobody Built →]({{< ref "/economics/how-prices-work" >}})*
+*Next: [How Prices Work - The Information Machine Nobody Built →]({{< ref "/economics/how-prices-work" >}})*

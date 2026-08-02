@@ -11,7 +11,7 @@ draft: false
 
 ## What It Is
 
-Marginal analysis is the study of decisions at the margin — the difference between one option and the next. Almost every economic decision is about the next unit, the next hour, the next dollar, not the total or the average.
+Marginal analysis is the study of decisions at the margin - the difference between one option and the next. Almost every economic decision is about the next unit, the next hour, the next dollar, not the total or the average.
 
 Thomas Sowell put it simply: **economics happens at the margins.**
 
@@ -25,31 +25,31 @@ The same logic applies to consumers. You do not decide "should I ever eat pizza 
 
 ## Why the Margin Matters More Than the Average
 
-Politicians and advocates often cite average effects to justify policy. "The average family saves $500 under this tax plan." "The average worker earns more under this trade deal." But averages hide the marginal decision — the one person at the edge who changes their behaviour.
+Politicians and advocates often cite average effects to justify policy. "The average family saves $500 under this tax plan." "The average worker earns more under this trade deal." But averages hide the marginal decision - the one person at the edge who changes their behaviour.
 
 This is why marginal analysis is more useful:
 
-- **Not everyone will stop buying when the price goes up. But some number at the margin will.** The ones who were barely willing to buy at the old price — they are the ones who drop out. The inframarginal buyers (who would buy at almost any price) stay. The policy effect is determined by the marginal buyers, not the average buyer.
+- **Not everyone will stop buying when the price goes up. But some number at the margin will.** The ones who were barely willing to buy at the old price - they are the ones who drop out. The inframarginal buyers (who would buy at almost any price) stay. The policy effect is determined by the marginal buyers, not the average buyer.
 
-- **Not every millionaire will leave if a wealth tax is imposed. But some at the margin will.** The ones who were already considering a move, who have ties to another country, whose businesses are portable — they are the ones who leave. The tax revenue estimate that uses average behaviour will be wrong, because it misses the margin.
+- **Not every millionaire will leave if a wealth tax is imposed. But some at the margin will.** The ones who were already considering a move, who have ties to another country, whose businesses are portable - they are the ones who leave. The tax revenue estimate that uses average behaviour will be wrong, because it misses the margin.
 
-- **Not every worker will quit if overtime pay is cut. But some at the margin will.** The ones who were barely willing to work that extra hour — they are the ones who stop. The employer who thinks "everyone will keep working" is confusing the average worker with the marginal worker.
+- **Not every worker will quit if overtime pay is cut. But some at the margin will.** The ones who were barely willing to work that extra hour - they are the ones who stop. The employer who thinks "everyone will keep working" is confusing the average worker with the marginal worker.
 
 ## The Fallacy of "On Average"
 
-The famous story illustrates this. A statistician drowns in a river that averages three feet deep. The average is misleading. What matters is the depth at the specific point where he stepped — the margin.
+The famous story illustrates this. A statistician drowns in a river that averages three feet deep. The average is misleading. What matters is the depth at the specific point where he stepped - the margin.
 
-Similarly, a policy that looks good "on average" can be disastrous at the margin. A minimum wage increase that raises the average wage of low-skilled workers sounds good — until you notice that the workers at the margin (the least experienced, the least educated, the previously incarcerated) simply cannot get hired at the new wage. The average goes up, but the margin shrinks.
+Similarly, a policy that looks good "on average" can be disastrous at the margin. A minimum wage increase that raises the average wage of low-skilled workers sounds good - until you notice that the workers at the margin (the least experienced, the least educated, the previously incarcerated) simply cannot get hired at the new wage. The average goes up, but the margin shrinks.
 
 ## Why It Matters
 
 Marginal analysis is the difference between understanding economics and being confused by it. Without it, you look at averages and totals and draw the wrong conclusions. With it, you ask the right question: **what happens to the person at the edge?**
 
-The next time someone proposes a policy, ask: "Who is at the margin here? Who is the person who barely participates — and what will this policy do to them?" That is almost always where the real effect lies.
+The next time someone proposes a policy, ask: "Who is at the margin here? Who is the person who barely participates - and what will this policy do to them?" That is almost always where the real effect lies.
 
 ## Common Misunderstandings
 
-**"Marginal" does not mean "small."** It means "additional" — the next unit. A marginal decision can have enormous consequences (the one extra soldier who turns the tide of a battle, the one extra dollar of investment that makes a project viable).
+**"Marginal" does not mean "small."** It means "additional" - the next unit. A marginal decision can have enormous consequences (the one extra soldier who turns the tide of a battle, the one extra dollar of investment that makes a project viable).
 
 **Marginal analysis is not just for economists.** Everyone does it intuitively. You do it when you decide whether to stay five more minutes at a party or watch one more episode of a show. Economics just gives it a name.
 

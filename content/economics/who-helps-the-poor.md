@@ -15,9 +15,9 @@ level: "advanced"
 
 Let me be direct about what is going on. The minimum wage debate is not really a debate about economics. It is a fight about who gets credit for helping the poor.
 
-Politicians and activists want to be the heroes of the story. They want to pass a law — the $15 minimum wage, the $17 minimum wage — and then stand in front of a factory gate and say "we raised your pay." The workers cheer. The cameras roll. Everyone goes home feeling good.
+Politicians and activists want to be the heroes of the story. They want to pass a law - the $15 minimum wage, the $17 minimum wage - and then stand in front of a factory gate and say "we raised your pay." The workers cheer. The cameras roll. Everyone goes home feeling good.
 
-But the people who actually create the jobs that employ poor workers — the entrepreneurs who build businesses, take risks, and invest capital — are rarely celebrated. They are more often vilified. They are the "greedy" ones. The "exploiters." The ones the minimum wage is supposed to protect workers from.
+But the people who actually create the jobs that employ poor workers - the entrepreneurs who build businesses, take risks, and invest capital - are rarely celebrated. They are more often vilified. They are the "greedy" ones. The "exploiters." The ones the minimum wage is supposed to protect workers from.
 
 This is backward. The people creating jobs are the ones helping the poor. The politicians are taking credit for work they did not do.
 
@@ -33,7 +33,7 @@ The value of an entry-level job is not the wage. It is the experience, the refer
 
 When you raise the minimum wage to $15 or $17, you do two things. First, you make it more expensive for employers to take a chance on inexperienced workers. Second, you reduce the incentive for workers to acquire new skills, because the gap between the entry-level wage and the skilled wage narrows.
 
-The result is that fewer entry-level jobs exist. The people who lose out are the ones the minimum wage was supposed to help — the young, the inexperienced, the previously incarcerated, the worker with disabilities, the immigrant who just arrived and needs a first foothold.
+The result is that fewer entry-level jobs exist. The people who lose out are the ones the minimum wage was supposed to help - the young, the inexperienced, the previously incarcerated, the worker with disabilities, the immigrant who just arrived and needs a first foothold.
 
 This is not theory. The <a href="https://www.cbo.gov/publication/55681" target="_blank" rel="noopener noreferrer">Congressional Budget Office estimated in 2021</a> that a $15 minimum wage would lift 900,000 people out of poverty and cost 1.4 million jobs. The net effect is negative. More people lose than gain.
 
@@ -55,7 +55,7 @@ None of these companies were created by politicians. They were created by entrep
 
 The left has a phrase for this: "job creators." They say it dismissively, as if it is a myth or a propaganda term. But it is not a myth. It is a description of reality. Someone has to decide to start a business, hire the first employee, and risk their own capital. When that decision is made, a job exists that did not exist before. When it is not made, the job does not exist.
 
-The people who make that decision are the people who help the poor. Not by intention — most entrepreneurs are not trying to help the poor. They are trying to make money. But the effect is the same regardless of intention. A job is a job. A paycheck is a paycheck.
+The people who make that decision are the people who help the poor. Not by intention - most entrepreneurs are not trying to help the poor. They are trying to make money. But the effect is the same regardless of intention. A job is a job. A paycheck is a paycheck.
 
 ---
 
@@ -79,9 +79,9 @@ Here is the honest tension that neither side wants to admit.
 
 Low wages are bad for the people who earn them. Nobody wants to earn $10 an hour forever. But an economy without low-wage jobs is an economy where the least experienced, least educated, and least connected workers have no way in.
 
-The choice is not between low wages and high wages. The choice is between an economy with a low entry barrier — where almost anyone can find some kind of work and start building a career — and an economy where the entry barrier is high, and many people never get their foot in the door.
+The choice is not between low wages and high wages. The choice is between an economy with a low entry barrier - where almost anyone can find some kind of work and start building a career - and an economy where the entry barrier is high, and many people never get their foot in the door.
 
-The countries with the highest minimum wages in the world — France, Australia, Germany — do not have less poverty than the United States. They have different kinds of poverty. In those countries, the unemployment rate for young people and low-skilled workers is much higher. The people who would have been working entry-level jobs in the US are not working at all.
+The countries with the highest minimum wages in the world - France, Australia, Germany - do not have less poverty than the United States. They have different kinds of poverty. In those countries, the unemployment rate for young people and low-skilled workers is much higher. The people who would have been working entry-level jobs in the US are not working at all.
 
 Which is better? That is a moral question, not an economic one. But it should be asked honestly. The politicians who demand a $15 minimum wage do not tell the French teenager what it is like to have a 20 percent unemployment rate for people under 25. They do not mention that the door they are trying to raise is also a door they are narrowing.
 
@@ -91,7 +91,7 @@ Which is better? That is a moral question, not an economic one. But it should be
 
 The minimum wage debate persists for the same reason all price control debates persist. The visible effects are good. The invisible effects are hard to see.
 
-A politician raises the minimum wage. Cameras capture the announcement. Workers smile. The public feels good. The politician gets credit. The teenager who would have been hired — but was not — never appears on camera. He does not know why he cannot find a job. He blames himself, or the economy, or immigrants, or the market. He does not blame the minimum wage hike that made it uneconomical to hire him.
+A politician raises the minimum wage. Cameras capture the announcement. Workers smile. The public feels good. The politician gets credit. The teenager who would have been hired - but was not - never appears on camera. He does not know why he cannot find a job. He blames himself, or the economy, or immigrants, or the market. He does not blame the minimum wage hike that made it uneconomical to hire him.
 
 The people who benefit from a higher minimum wage are organized and visible. They vote. They lobby. They protest. The people who are harmed are diffuse, unorganized, and largely unaware of what caused their situation. The distortions that price controls introduce are usually invisible, because they show up as people who are not present.
 

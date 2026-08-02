@@ -114,4 +114,4 @@ You will start seeing the pattern everywhere. And you will wonder why nobody eve
 
 ---
 
-*Next: [Supply and Demand — The Dance That Drives Everything →](/economics/supply-and-demand/)*
+*Next: [Supply and Demand - The Dance That Drives Everything →](/economics/supply-and-demand/)*

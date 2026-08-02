@@ -6,7 +6,7 @@ theme = 'jtbh-basic'
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
-  description = 'Economics, climate, and energy — for people who notice the story does not add up.'
+  description = 'Economics, climate, and energy - for people who notice the story does not add up.'
 
 [markup]
   [markup.goldmark]

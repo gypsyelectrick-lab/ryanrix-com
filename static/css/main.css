@@ -247,6 +247,18 @@ footer.site-footer {
   text-decoration: underline;
 }
 
+.trust-line {
+  font-size: 0.85rem;
+  color: var(--color-text-secondary, #666);
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+.trust-line a {
+  color: var(--color-text-secondary, #666);
+  text-decoration: underline;
+}
+
 /* ==========================================================================
    Three-Column Layout, Sidebars & Accordion
    ========================================================================== */
@@ -1254,7 +1266,7 @@ main#main-content img {
   flex-shrink: 0;
 }
 
-/* Copy button — swap label on click */
+/* Copy button - swap label on click */
 .share-btn--copy .share-btn-label--copied {
   display: none;
 }
@@ -1274,7 +1286,7 @@ main#main-content img {
 }
 
 /* ==========================================================================
-   Mobile Responsive — Consolidated (single breakpoint at end so it can
+   Mobile Responsive - Consolidated (single breakpoint at end so it can
    properly override all desktop rules)
    ========================================================================== */
 

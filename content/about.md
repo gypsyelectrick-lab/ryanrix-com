@@ -5,7 +5,7 @@ description: "Who writes this, why, and what we believe."
 
 ## About Ryan Rix
 
-This site is published by **Ryan Rix** — a name you can blame for opinions you disagree with.
+This site is published by **Ryan Rix** - a name you can blame for opinions you disagree with.
 
 The actual writing is done by **Anna Karina**, who has spent years studying how prices, trade, money, and government actually work, and who believes the most important economic insights are also the simplest.
 
@@ -15,17 +15,28 @@ The actual writing is done by **Anna Karina**, who has spent years studying how 
 
 2. **Prices are information.** A price tells you how scarce something is relative to how much people want it. When government controls prices, it blinds everyone to that information.
 
-3. **Competition helps the poor more than regulation.** The 2% rule (Nordhaus): entrepreneurs capture about 2% of the value they create. Consumers — especially poor consumers — get the other 98%. The fastest way to help poor people is to let more people compete to serve them.
+3. **Competition helps the poor more than regulation.** The 2% rule (Nordhaus): entrepreneurs capture about 2% of the value they create. Consumers - especially poor consumers - get the other 98%. The fastest way to help poor people is to let more people compete to serve them.
 
 4. **Most economic arguments are not about economics.** They are about who gets to decide. Politicians want you to believe they can manage the economy better than millions of people making their own choices. They can't.
 
-5. **Tax-and-spend has consequences.** Every dollar the government spends must first be taken from someone. The question is not whether spending is good — it's whether what's taken is worth more to society than what's foregone.
+5. **Tax-and-spend has consequences.** Every dollar the government spends must first be taken from someone. The question is not whether spending is good - it's whether what's taken is worth more to society than what's foregone.
 
 ### What We Don't Do
 
 - We don't endorse political parties. Every party gets economics wrong in its own way.
 - We don't tell you who to vote for. If you need that, you're not ready for this site.
 - We don't pretend economics is neutral. The ideas here have implications. We state them directly.
+- We don't expect you to take our word for anything.
+
+### Don't Trust Us
+
+Don't trust what anybody tells you - not even us.
+
+Every article on this site is argued in good faith, and we link our sources so you can check them. But we can be wrong. We have been wrong before, and we will be wrong again. Treat this site as a starting point for your own thinking, not a substitute for it.
+
+When you read anything - here or anywhere - research for yourself. Look for evidence against your view as well as for confirmation. Confirmation is easy to find; that is why it feels good. Evidence against your view is harder to find, and it is the only kind that actually sharpens your thinking. Use critical thinking. Ask who benefits, who pays, and what would prove the claim wrong.
+
+The goal is not to agree with us. The goal is to be harder to fool - including by us.
 
 ### Contact
 

@@ -16,11 +16,11 @@ image_caption: "Every time you fill up, you are already paying a carbon tax. The
 
 **The idea is elegant, and it comes from economists who usually prefer markets to government. Price the harm, then step back and let people figure out the cheapest way to avoid it. No picking winners. No subsidies for specific technologies. No government committees deciding which industry deserves support. Just a price on carbon dioxide emissions, applied uniformly, and then get out of the way.**
 
-If you believe that CO2 emissions cause climate change, this is the most efficient solution ever devised. Every tonne of CO2 has a cost to society  -  the social cost of carbon. A carbon tax makes emitters pay that cost. If the tax is set at the right level, the market does the rest. Coal becomes more expensive than gas, which becomes more expensive than nuclear, which becomes more expensive than solar, at exactly the rates that reflect their true social cost. People drive less, buy more efficient cars, insulate their homes. No bureaucrat has to decide which technology wins. The price signal does the sorting.
+If you believe that CO2 emissions cause climate change, this is the most efficient solution ever devised. Every tonne of CO2 has a cost to society - the social cost of carbon. A carbon tax makes emitters pay that cost. If the tax is set at the right level, the market does the rest. Coal becomes more expensive than gas, which becomes more expensive than nuclear, which becomes more expensive than solar, at exactly the rates that reflect their true social cost. People drive less, buy more efficient cars, insulate their homes. No bureaucrat has to decide which technology wins. The price signal does the sorting.
 
 This is the idea. It is taught in every introductory economics course. It has been endorsed by economists from Milton Friedman to William Nordhaus, from the left to the right. It is the one climate policy that almost everyone who has thought seriously about the problem agrees on.
 
-Almost nobody who advocates for climate policy has ever explained this to the public. The conversation jumps straight to subsidies, mandates, bans, and carbon trading schemes  -  all of which are inferior to the simple price signal, and all of which exist because the simple solution was already in place before anyone noticed.
+Almost nobody who advocates for climate policy has ever explained this to the public. The conversation jumps straight to subsidies, mandates, bans, and carbon trading schemes - all of which are inferior to the simple price signal, and all of which exist because the simple solution was already in place before anyone noticed.
 
 ---
 
@@ -29,7 +29,7 @@ Almost nobody who advocates for climate policy has ever explained this to the pu
 A carbon tax works like this:
 
 1. Calculate the social cost of one tonne of CO2. This is the estimated economic damage from floods, crop failures, heatwaves, and everything else that emissions cause.
-2. Apply that cost to every tonne of CO2 emitted, at the source  -  at the coal plant, the refinery, the factory.
+2. Apply that cost to every tonne of CO2 emitted, at the source - at the coal plant, the refinery, the factory.
 3. That is it. No exemptions, no offsets, no trading schemes. Every emitter pays the same price.
 
 If the social cost is $100 per tonne, and a coal plant emits a million tonnes a year, the plant pays $100 million. That cost flows through to electricity prices. Consumers see higher prices and respond by using less. Companies see higher costs and respond by innovating. The market finds the cheapest way to reduce emissions, and it does so without anyone in government having to predict which technology will work.
@@ -50,9 +50,9 @@ One litre of petrol produces about 2.31 kilograms of CO2 when burned. The fuel d
 
 > **52.95p ÷ 0.00231 tonnes = £229 per tonne of CO2**
 
-The fuel duty alone  -  the tax that predates any climate concern  -  already prices carbon at £229 per tonne. Add VAT at 20 percent (which is charged on the fuel duty itself, creating a tax on tax) and the effective carbon price rises to roughly **£350 per tonne**.
+The fuel duty alone - the tax that predates any climate concern - already prices carbon at £229 per tonne. Add VAT at 20 percent (which is charged on the fuel duty itself, creating a tax on tax) and the effective carbon price rises to roughly **£350 per tonne**.
 
-Now compare this to the official estimates of the social cost of carbon. The US Environmental Protection Agency's 2023 updated estimate is around **$200 per tonne**  -  roughly **£155**. A 2022 study in Nature put it at **$185 per tonne**. The older estimate still used in some government calculations is **$51 per tonne**.
+Now compare this to the official estimates of the social cost of carbon. The US Environmental Protection Agency's 2023 updated estimate is around **$200 per tonne** - roughly **£155**. A 2022 study in Nature put it at **$185 per tonne**. The older estimate still used in some government calculations is **$51 per tonne**.
 
 Every single one of these figures is *below* what UK motorists already pay in fuel duty. The existing tax on petrol already prices CO2 at a level that exceeds every official estimate of the damage it causes.
 
@@ -68,7 +68,7 @@ This changes everything about how you should think about climate policy.
 
 **First**, when a government adds a separate carbon tax on top of existing fuel duties, it is not pricing a new externality. It is double-taxing something already taxed. The social cost of carbon has already been collected. The new tax is simply additional revenue, justified by a climate rationale that no longer applies.
 
-**Second**, when a government takes that new carbon tax revenue and spends it on subsidies for electric vehicles, solar panels, or wind farms, it is spending money collected for a problem that was already solved, to pay for solutions that compete with the already-taxed activity. The net effect is punishing the same behavior three times  -  once through the existing fuel duty, once through the new carbon tax, and once through the higher costs imposed on the remaining fossil fuel system by the subsidies.
+**Second**, when a government takes that new carbon tax revenue and spends it on subsidies for electric vehicles, solar panels, or wind farms, it is spending money collected for a problem that was already solved, to pay for solutions that compete with the already-taxed activity. The net effect is punishing the same behavior three times - once through the existing fuel duty, once through the new carbon tax, and once through the higher costs imposed on the remaining fossil fuel system by the subsidies.
 
 **Third**, if the government were serious about using price signals to reduce emissions, it would have no reason to add a separate carbon tax. It would simply adjust the existing fuel duty. A one-penny increase in fuel duty has the same effect as a carbon tax of roughly £4 per tonne. If the social cost rises, raise the duty. If new evidence lowers the estimate, reduce it. No new legislation, no new bureaucracy, no carbon trading system.
 
@@ -80,7 +80,7 @@ If a simple tax was too obvious, a carbon trading system was the next worst idea
 
 The logic of carbon trading is that the government sets a cap on total emissions and issues permits that add up to that cap. Companies that reduce emissions can sell their unused permits to companies that cannot. In theory, this puts a price on carbon while letting the market decide where reductions happen.
 
-In practice, it is a gift to lawyers, consultants, and financial engineers. The European Union's Emissions Trading System  -  the world's largest carbon market  -  has been through four phases of reform, each one creating new exemptions, new offset categories, and new opportunities for regulatory arbitrage. The price of permits has swung from near zero to over €100 per tonne and back again, driven not by changes in emissions but by changes in the rules. Companies have made billions trading permits that were given to them for free. Industries that are hardest to decarbonise have received the most exemptions. The system is so complex that the companies subject to it employ teams of specialists simply to understand what they are required to do.
+In practice, it is a gift to lawyers, consultants, and financial engineers. The European Union's Emissions Trading System - the world's largest carbon market - has been through four phases of reform, each one creating new exemptions, new offset categories, and new opportunities for regulatory arbitrage. The price of permits has swung from near zero to over €100 per tonne and back again, driven not by changes in emissions but by changes in the rules. Companies have made billions trading permits that were given to them for free. Industries that are hardest to decarbonise have received the most exemptions. The system is so complex that the companies subject to it employ teams of specialists simply to understand what they are required to do.
 
 A carbon tax achieves the same result with a single number and a single page of legislation. A carbon trading system requires thousands of pages, a regulator, a market, and a compliance industry.
 
@@ -106,9 +106,9 @@ This is the same institutional incentive structure that drives every other area 
 
 ## The French Lesson
 
-In 2018, the French government added a new carbon tax on top of existing fuel taxes. The total tax on diesel had already reached roughly €0.80 per litre  -  an effective carbon price of about €300 per tonne, well above any official estimate of the social cost. The new carbon tax was not pricing a new externality. It was increasing the tax on an already-overpriced commodity.
+In 2018, the French government added a new carbon tax on top of existing fuel taxes. The total tax on diesel had already reached roughly €0.80 per litre - an effective carbon price of about €300 per tonne, well above any official estimate of the social cost. The new carbon tax was not pricing a new externality. It was increasing the tax on an already-overpriced commodity.
 
-The result was the Gilets Jaunes  -  the largest street protests France had seen in decades. Millions of people, mostly in rural and suburban areas where there is no alternative to driving, took to the streets. The government eventually abandoned the tax. But the damage to the credibility of climate policy was done.
+The result was the Gilets Jaunes - the largest street protests France had seen in decades. Millions of people, mostly in rural and suburban areas where there is no alternative to driving, took to the streets. The government eventually abandoned the tax. But the damage to the credibility of climate policy was done.
 
 The French case is not a story about people who refuse to accept climate science. It is a story about a government that added a tax to a product that was already taxed at three times the social cost of its emissions, and then pretended surprise when people noticed.
 
@@ -122,8 +122,8 @@ If you accept the premise that CO2 emissions cause climate damage and should be 
 
 1. Calculate the social cost of carbon using the best available science.
 2. Calculate the existing tax burden on each fuel source and convert it to an effective carbon price.
-3. If the existing tax already exceeds the social cost  -  as it does for petrol and diesel in most of Europe  -  do nothing. The problem is already priced.
-4. If there is a gap  -  as there is for electricity generation from coal and gas in most countries  -  apply a carbon tax to close only that gap. Do not apply it to fuels that are already overtaxed.
+3. If the existing tax already exceeds the social cost - as it does for petrol and diesel in most of Europe - do nothing. The problem is already priced.
+4. If there is a gap - as there is for electricity generation from coal and gas in most countries - apply a carbon tax to close only that gap. Do not apply it to fuels that are already overtaxed.
 5. Remove all subsidies for renewable energy, electric vehicles, and energy efficiency. They were justified only if carbon was underpriced. It is not.
 6. Remove the carbon trading system. It is solving a problem that a simpler mechanism already solved.
 7. Stop.
@@ -138,7 +138,7 @@ The idea of a carbon tax is one of the few genuinely elegant ideas in climate po
 
 The tragedy is that it was never applied correctly. It could not be, because the simple carbon tax was already hidden inside a tax that predated climate concern. The existing fuel duty was doing the job, silently and effectively. No one noticed, because noticing would have required admitting that the climate problem was already partly solved by a tax nobody liked.
 
-So instead of using the system already in place, governments built a new system on top of it  -  carbon taxes, trading schemes, subsidies, mandates  -  all justified by the claim that carbon was underpriced. They ignored the carbon price already embedded in every litre of petrol. They added more. And when people protested, they called them climate deniers.
+So instead of using the system already in place, governments built a new system on top of it - carbon taxes, trading schemes, subsidies, mandates - all justified by the claim that carbon was underpriced. They ignored the carbon price already embedded in every litre of petrol. They added more. And when people protested, they called them climate deniers.
 
 The next time a politician tells you we need a carbon price to solve climate change, ask them: what do you think fuel duty is? And if the answer is anything other than "a carbon tax we've been charging for a century," you know they have not done the math.
 

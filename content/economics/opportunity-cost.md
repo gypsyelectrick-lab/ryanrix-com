@@ -1,9 +1,9 @@
 ---
-title: "What You Give Up — A Gentle Introduction to Opportunity Cost"
+title: "What You Give Up - A Gentle Introduction to Opportunity Cost"
 menu: "Opportunity Cost"
 date: 2026-07-01
 author: "Anna Karina"
-description: "What you give up — explained with meals, careers, and government budgets."
+description: "What you give up - explained with meals, careers, and government budgets."
 weight: 25
 tags: ["economics", "opportunity-cost", "basics", "learning-path"]
 level: "basic"
@@ -47,7 +47,7 @@ Her error is that she does not see opportunity cost.
 
 When the government spends $1 billion on a project, the visible effect is the project. The invisible effect is everything else that $1 billion could have done. The schools that were not built. The tax cuts that were not given. The private investment that was crowded out because the government borrowed the money first.
 
-These costs are real. They are just invisible. And because they are invisible, they are easy to ignore — especially for politicians who want to appear generous with other people's money.
+These costs are real. They are just invisible. And because they are invisible, they are easy to ignore - especially for politicians who want to appear generous with other people's money.
 
 The friend looks at government spending and sees free stuff. She does not see the stuff she is giving up to get it. That is the same error as looking at a shelf of 2,000 toothpastes and seeing waste, without seeing the value of letting people choose what works for them.
 
@@ -91,9 +91,9 @@ Not "Is this good?" but "Is this better than the alternative?" Not "Does this he
 
 This question cuts through more nonsense than any technical argument. It forces the person making the claim to acknowledge that choices have consequences. That nothing is free. That every "yes" to one thing is a "no" to everything else.
 
-The friend who wants one toothpaste is not wrong to notice that 2,000 toothpastes look wasteful. She is wrong to conclude that one toothpaste is better — because she has not asked what she gives up by eliminating the other 1,999.
+The friend who wants one toothpaste is not wrong to notice that 2,000 toothpastes look wasteful. She is wrong to conclude that one toothpaste is better - because she has not asked what she gives up by eliminating the other 1,999.
 
-The friend who thinks government spending has no consequences is not wrong to want good things for people. She is wrong to think those good things come without cost — because she has not asked what the government must give up, or what the rest of us must give up, to pay for them.
+The friend who thinks government spending has no consequences is not wrong to want good things for people. She is wrong to think those good things come without cost - because she has not asked what the government must give up, or what the rest of us must give up, to pay for them.
 
 Opportunity cost is not a pessimistic idea. It is a clarifying one. It does not tell you what to choose. It tells you what you are giving up when you choose. And once you see it, you cannot unsee it.
 
