@@ -103,12 +103,12 @@
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": {{ .Title | jsonify }},
-    "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | jsonify }}{{ end }},
+    "headline": {{ .Title | jsonify | safeJS }},
+    "description": {{ with .Description }}{{ . | jsonify | safeJS }}{{ else }}{{ .Summary | plainify | jsonify | safeJS }}{{ end }},
     {{ with .Params.author }}
     "author": {
       "@type": "Person",
-      "name": {{ . | jsonify }}
+      "name": {{ . | jsonify | safeJS }}
     },
     {{ end }}
     {{ with .Date }}
@@ -116,16 +116,16 @@
     {{ end }}
     "publisher": {
       "@type": "Organization",
-      "name": {{ site.Title | jsonify }},
-      "url": {{ site.BaseURL | jsonify }}
+      "name": {{ site.Title | jsonify | safeJS }},
+      "url": {{ site.BaseURL | jsonify | safeJS }}
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": {{ .Permalink | jsonify }}
+      "@id": {{ .Permalink | jsonify | safeJS }}
     },
-    "image": {{ with .Params.image }}{{ . | relURL | jsonify }}{{ else }}{{ site.BaseURL | chomp | printf "%s/logo.svg" | jsonify }}{{ end }},
+    "image": {{ with .Params.image }}{{ . | relURL | jsonify | safeJS }}{{ else }}{{ site.BaseURL | chomp | printf "%s/logo.svg" | jsonify | safeJS }}{{ end }},
     {{ with .Params.tags }}
-    "keywords": {{ delimit . ", " | jsonify }},
+    "keywords": {{ delimit . ", " | jsonify | safeJS }},
     {{ end }}
     "isAccessibleForFree": "True"
   }

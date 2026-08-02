@@ -93,12 +93,12 @@
   {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": {{ .Title | jsonify }},
-    "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | plainify | jsonify }}{{ end }},
+    "headline": {{ .Title | jsonify | safeJS }},
+    "description": {{ with .Description }}{{ . | jsonify | safeJS }}{{ else }}{{ .Summary | plainify | jsonify | safeJS }}{{ end }},
     {{ with .Params.author }}
     "author": {
       "@type": "Person",
-      "name": {{ . | jsonify }}
+      "name": {{ . | jsonify | safeJS }}
     },
     {{ end }}
     {{ with .Date }}
@@ -111,11 +111,11 @@
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": {{ .Permalink | jsonify }}
+      "@id": {{ .Permalink | jsonify | safeJS }}
     },
-    "image": {{ with .Params.image }}{{ . | relURL | jsonify }}{{ else }}"https://thebasichub.com/images/og-default.svg"{{ end }},
+    "image": {{ with .Params.image }}{{ . | relURL | jsonify | safeJS }}{{ else }}"https://thebasichub.com/images/og-default.svg"{{ end }},
     {{ with .Params.tags }}
-    "keywords": {{ delimit . ", " | jsonify }},
+    "keywords": {{ delimit . ", " | jsonify | safeJS }},
     {{ end }}
     "isAccessibleForFree": "True"
   }
