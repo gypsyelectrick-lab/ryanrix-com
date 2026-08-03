@@ -46,3 +46,5 @@ This section looks at power - who has it, who wants it, who profits from expandi
 - **[Why Things Break: Birmingham's £225 Million Oracle →](/politics/why-things-break-birmingham-oracle/)** - Europe's largest council lost £225 million on software.
 
 - **[Why Things Break: The AAA Rating Was Correct →](/politics/why-things-break-housing-bubble/)** - The AAA rating was correct. The guarantee was the scandal.
+
+- **[The Rented Gate →](/politics/the-rented-gate/)** - Sixty thousand people crossed the EU's only African land border in two days. It was not smuggling. It was leverage - and every politician denied the cause and effect.
