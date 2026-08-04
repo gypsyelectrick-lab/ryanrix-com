@@ -123,4 +123,4 @@ These principles would not produce perfect regulation. But they would produce re
 
 ---
 
-*Next: [Coming soon - The Cost of Pretending We Know What We're Doing →]()*
+*Next: [The Cost of Pretending We Know What We're Doing →]({{< ref "/economics/the-cost-of-pretending" >}})*

@@ -48,3 +48,5 @@ This section looks at power - who has it, who wants it, who profits from expandi
 - **[Why Things Break: The AAA Rating Was Correct →](/politics/why-things-break-housing-bubble/)** - The AAA rating was correct. The guarantee was the scandal.
 
 - **[The Rented Gate →](/politics/the-rented-gate/)** - Sixty thousand people crossed the EU's only African land border in two days. It was not smuggling. It was leverage - and every politician denied the cause and effect.
+
+- **[The Safety Moat →](/politics/ai-safety-moat/)** - The three biggest AI labs agree on regulation. That should worry you.

@@ -4,14 +4,14 @@ menu: "Credential Con"
 date: 2026-07-23
 author: "Anna Karina"
 description: "Pushing everyone into university created a credential arms race - not opportunity."
-draft: true
+draft: false
 tags: [economics, education, credential-inflation, signaling, labor]
 level: advanced
 ---
 
 There is a story we have been told for decades. It goes like this: education is the key to opportunity. If you want a good job and a middle-class life, you need a degree. And if society wants to reduce inequality, it should send more people to university.
 
-This story is not entirely wrong. Education does improve outcomes for individuals. But when a government decides that more people should go to university and starts subsidizing it, something strange happens. The value of the degree starts to fall. Not because the education gets worse - but because the signal gets weaker.
+This story is not entirely wrong. Education likely will improve outcomes for individuals. But when a government decides that more people should go to university and starts subsidizing it, something strange happens. The value of the degree starts to fall. Not because the education gets worse - but because the supply of graduates increases independent of the demand for them.
 
 This is the credential con. And the UK is the perfect case study.
 
@@ -19,11 +19,11 @@ This is the credential con. And the UK is the perfect case study.
 
 ## The 50 Percent Target
 
-In 1999, Tony Blair set a target: 50 percent of young people should attend university by 2010. The number had no basis in evidence. It was not the result of a study or a labor market analysis. It was a round number announced as a goal.
+In 1999, Prime Minister Tony Blair set a target: 50 percent of young people should attend university by 2010. The number had no basis in evidence. It was not the result of a study or a labor market analysis. It was a round number announced as a goal.
 
 Before this, British university attendance was around 2 percent. University was genuinely free - tuition paid, maintenance grants provided - but it was an elite institution for a narrow slice of the population. The system was inequitable, and everyone knew it.
 
-Blair's target was an attempt to fix that inequity. The intention was good.
+Blair's target was an attempt to fix that inequity. The intention, perhaps, was good.
 
 The consequences were predictable to anyone who understood signaling theory.
 
@@ -51,17 +51,19 @@ At the exit end, degree classifications inflated. Universities faced pressure to
 
 Neither of these changes had anything to do with the quality of education. They were mechanical consequences of expanding the system beyond the point that the labor market could absorb the output.
 
+Also, the Government couldn't fund all of that additional education. So education grants were abolished, and student loans (for living costs and tuition) were implemented.
+
 ---
 
 ## What Was Lost
 
 The UK experiment has been running for over 25 years. We can now see the results clearly.
 
-More young people carry student debt. Their degrees are worth less in the labor market. The jobs they qualify for are the same jobs that previous generations got without degrees. And because the system is now normalized - everyone goes to university - the option of not going has become socially unacceptable in many communities. Young people who would have done well in a trade or technical role are pushed into academic programs that do not suit them.
+More young people carry student debt. Their degrees are worth less in the labor market. The jobs they qualify for are the same jobs that previous generations got without degrees. And because the system is now normalized - everyone goes to university - the option of not going has become socially unacceptable in many communities. Young people who would have done well in a trade or technical role are pushed into academic programs that do not suit them. Many of these routes couldn't compete with the prestige of universities, and the routes - apprenticeship schemes, trade schools, further education establishments - closed. The Further Education college I attended is now a hotel.
 
 The government created the original problem: an elite, class-based system that excluded most young people. It tried to fix it with a blunt instrument: an arbitrary target and a loan system. Each intervention created the next problem. Now the proposed solution to credential inflation is more subsidy, more free tuition, more government intervention - which will produce more credential inflation.
 
-This is what happens when the state tries to centrally plan the education market. The <a href=\"/economics/the-information-problem/\" target=\"_blank\" rel=\"noopener noreferrer\">information problem</a> means the planners cannot know how many graduates the economy needs, or what skills they should have. They set a target based on a political judgment, and the market adjusts in ways nobody predicted.
+This is what happens when the state tries to centrally plan the education market. The <a href=\"/economics/the-information-problem/\" target=\"_blank\" rel=\"noopener noreferrer\">information problem</a> means the planners cannot know how many graduates the economy needs, or what skills they should have. They set a target based on a political judgment, and the market adjusts in ways which could easily have been predicted.
 
 ---
 
