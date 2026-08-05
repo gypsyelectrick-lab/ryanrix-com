@@ -8,6 +8,7 @@ draft: false
 weight: 38
 tags: ["economics", "regulation", "social media", "advanced"]
 level: "advanced"
+image: /images/the-ban-that-cant-work.png
 ---
 
 When we built the <a href="/economics/the-grievance-machine/" target="_blank" rel="noopener noreferrer">Grievance Machine</a> in July, we listed six grievances, and every one of them demanded the same solution: more government power. Five already had verdicts. Inequality, relative poverty, greedflation, free university, and climate taxes had all been tried somewhere, and the results were recorded.
