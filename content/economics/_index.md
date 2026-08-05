@@ -73,3 +73,4 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [The Billionaire Tax Test: Why California's Proposition 40 Will Fail Like Every Wealth Tax Before It](/economics/california-wealth-tax-test/) - Public Choice Theory predicts wealth taxes fail. The global evidence agrees.
 - [The Cost of Pretending We Know What We're Doing](/economics/the-cost-of-pretending/) - Regulators who cannot meet their own deadlines are setting everyone else's.
 - [The Second Inflation Wave](/economics/the-second-inflation-wave/) - UK inflation hit a 15-month low. The Bank of England says the good news is over.
+- [The Deepest and Most Beautiful Insight in Economics](/economics/comparative-advantage/) - Why countries that are better at everything still gain from trade. Comparative advantage, with Ricardo's numbers and the lens to test every "we should make it here" argument.
