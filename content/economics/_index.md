@@ -78,3 +78,4 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [The 63 Billion Reckoning](/economics/the-63bn-reckoning/) - 120 millionaires want a wealth tax. The Treasury already accepts their checks.
 - [The 78% Tax on the North Sea](/economics/the-78-percent-tax-on-the-north-sea/) - At 78 cents on the dollar, the windfall tax is a tax on investment itself.
 - [The Luddites Were Half Right](/economics/the-luddites-were-half-right/) - Why AI will not zero out the economy, and why the Luddites were half right.
+- [The Name Is the First Argument](/economics/the-name-is-the-first-argument/) - Capitalism was named by its enemies. Whoever names the thing gets to frame it.
