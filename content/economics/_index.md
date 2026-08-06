@@ -77,3 +77,4 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [The Ban That Can't Work](/economics/the-ban-that-cant-work/) - Australia's under-16 ban removed accounts, not users. The teens never left.
 - [The 63 Billion Reckoning](/economics/the-63bn-reckoning/) - 120 millionaires want a wealth tax. The Treasury already accepts their checks.
 - [The 78% Tax on the North Sea](/economics/the-78-percent-tax-on-the-north-sea/) - At 78 cents on the dollar, the windfall tax is a tax on investment itself.
+- [The Luddites Were Half Right](/economics/the-luddites-were-half-right/) - Why AI will not zero out the economy, and why the Luddites were half right.
