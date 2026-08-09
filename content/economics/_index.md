@@ -81,6 +81,7 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [The 78% Tax on the North Sea](/economics/the-78-percent-tax-on-the-north-sea/) - At 78 cents on the dollar, the windfall tax is a tax on investment itself.
 - [The Luddites Were Half Right](/economics/the-luddites-were-half-right/) - Why AI will not zero out the economy, and why the Luddites were half right.
 - [The Name Is the First Argument](/economics/the-name-is-the-first-argument/) - Capitalism was named by its enemies. Whoever names the thing gets to frame it.
+- [The Great Escape](/economics/the-great-escape/) - In 1820, about nine in ten humans lived in extreme poverty. Today, under 10% do. This is the story of the escape.
 - [The Credential Con: When Everyone Has a Degree, Nobody Does](/economics/the-credential-con/) - Pushing everyone into university created a credential arms race - not opportunity.
 - [The Toothpaste Problem](/economics/the-toothpaste-problem/) - Why 2,000 brands is not a bug, and what it teaches us about government spending.
 - [Where Does Money Come From?](/economics/modern-monetary-theory/) - What MMT actually says and why the conventional wisdom is wrong.
