@@ -8,6 +8,9 @@ draft: false
 weight: 30
 tags: ["climate", "IPCC", "science-policy", "institutions"]
 level: "intermediate"
+# Image: Palais des Nations, Geneva - IPCC headquarters. CC0, Wikimedia Commons.
+image: "/images/un-geneva.jpg"
+image_caption: "The Palais des Nations in Geneva, home of the IPCC. The building looks neutral. The mandate was not."
 ---
 
 ## The Name Tells You Everything

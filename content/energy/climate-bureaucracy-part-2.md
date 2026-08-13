@@ -7,6 +7,9 @@ description: "The IPCC's worst-case scenario was never plausible. Everyone who c
 draft: false
 tags: [energy, climate, IPCC, RCP8.5, science, bureaucracy]
 level: intermediate
+# Image: Centralia Big Hanaford coal power station, Washington. CC0, Wikimedia Commons.
+image: "/images/coal-power-station.jpg"
+image_caption: "The Centralia coal plant in Washington state. RCP8.5 assumed this world grows for a century. It was already shrinking."
 ---
 
 The worst-case climate scenario that terrified the world into spending trillions has been officially declared implausible. It was never plausible. Everyone who checked knew this.
