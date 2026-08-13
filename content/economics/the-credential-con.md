@@ -63,7 +63,7 @@ More young people carry student debt. Their degrees are worth less in the labor 
 
 The government created the original problem: an elite, class-based system that excluded most young people. It tried to fix it with a blunt instrument: an arbitrary target and a loan system. Each intervention created the next problem. Now the proposed solution to credential inflation is more subsidy, more free tuition, more government intervention - which will produce more credential inflation.
 
-This is what happens when the state tries to centrally plan the education market. The <a href=\"/economics/the-information-problem/\" target=\"_blank\" rel=\"noopener noreferrer\">information problem</a> means the planners cannot know how many graduates the economy needs, or what skills they should have. They set a target based on a political judgment, and the market adjusts in ways which could easily have been predicted.
+This is what happens when the state tries to centrally plan the education market. The <a href="/economics/the-information-problem/" target="_blank" rel="noopener noreferrer">information problem</a> means the planners cannot know how many graduates the economy needs, or what skills they should have. They set a target based on a political judgment, and the market adjusts in ways which could easily have been predicted.
 
 ---
 

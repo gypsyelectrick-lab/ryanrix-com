@@ -47,7 +47,7 @@ Relative poverty does not measure any of those things. It measures whether your 
 
 Both measures have their uses. Inequality is worth studying. But they are not interchangeable, and the public is never told the difference. A politician citing relative poverty statistics is not lying in the narrow sense - the number is real. But they are creating an impression that is deeply misleading.
 
-<a href=\"/notes/poverty/\" target=\"_blank\" rel=\"noopener noreferrer\">Notes: Poverty</a> covers the distinction in more detail, including the difference between absolute, relative, and subjective poverty measures.
+<a href="/notes/poverty/" target="_blank" rel="noopener noreferrer">Notes: Poverty</a> covers the distinction in more detail, including the difference between absolute, relative, and subjective poverty measures.
 
 ---
 
@@ -59,9 +59,9 @@ The European Union's official poverty measure cannot improve. This means every g
 
 The consequence is not just wasted money. It is a permanent reservoir of political grievance. The statistic generates a never-ending crisis narrative that politicians can exploit. \"Poverty is not falling\" becomes a justification for more spending, more programs, more state power - even though the metric was designed never to fall.
 
-This connects directly to the pattern Anna identified in <a href=\"/economics/the-grievance-machine/\" target=\"_blank\" rel=\"noopener noreferrer\">The Grievance Machine, Part I</a>. Relative poverty is the perfect grievance statistic. It manufactures urgency. It can never be satisfied. Every failure to reduce it is framed as a failure of insufficient action, not a failure of measurement.
+This connects directly to the pattern Anna identified in <a href="/economics/the-grievance-machine/" target="_blank" rel="noopener noreferrer">The Grievance Machine, Part I</a>. Relative poverty is the perfect grievance statistic. It manufactures urgency. It can never be satisfied. Every failure to reduce it is framed as a failure of insufficient action, not a failure of measurement.
 
-And now Max Weber has shown you who profits from this manufactured urgency in <a href=\"/politics/the-grievance-machine-part-ii/\" target=\"_blank\" rel=\"noopener noreferrer\">The Grievance Machine, Part II: Who Profits from Panic</a> - the politicians who campaign on it, the bureaucrats who administer it, the journalists who report it, the academics who study it, and the activists who fundraise from it.
+And now Max Weber has shown you who profits from this manufactured urgency in <a href="/politics/the-grievance-machine-part-ii/" target="_blank" rel="noopener noreferrer">The Grievance Machine, Part II: Who Profits from Panic</a> - the politicians who campaign on it, the bureaucrats who administer it, the journalists who report it, the academics who study it, and the activists who fundraise from it.
 
 ---
 

@@ -9,7 +9,7 @@ tags: [politics, energy, net-zero, seven-questions, UK, policy]
 level: intermediate
 ---
 
-Last week, I published a framework: <a href=\"/politics/the-seven-questions/\" target=\"_blank\" rel=\"noopener noreferrer\">Seven Questions Every Law Should Answer</a>. The idea is simple. Before passing a law or adopting a major policy, ask seven basic questions: what is the problem, who wins and loses, how will it work, how will we measure it, how will we report it, what does success look like, and when does it expire?
+Last week, I published a framework: <a href="/politics/the-seven-questions/" target="_blank" rel="noopener noreferrer">Seven Questions Every Law Should Answer</a>. The idea is simple. Before passing a law or adopting a major policy, ask seven basic questions: what is the problem, who wins and loses, how will it work, how will we measure it, how will we report it, what does success look like, and when does it expire?
 
 The framework was written with Net Zero in mind. So let me apply it.
 

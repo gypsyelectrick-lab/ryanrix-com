@@ -65,7 +65,7 @@ These three cases share a common pattern. In each one, a system designed to dete
 
 The pattern is not conspiracy. It is selection bias built into the institutional structure of climate science and its media amplification. The system systematically filters for alarm. Studies that produce moderate findings get less attention, less funding, and fewer citations. Studies that produce dramatic findings get the opposite. Over time, the literature shifts toward the dramatic, and the public perception shifts with it.
 
-In <a href=\"/politics/the-grievance-machine-part-ii/\" target=\"_blank\" rel=\"noopener noreferrer\">The Grievance Machine, Part II</a>, I showed how the hyena dynamic works: academics need findings, journalists need stories, politicians need crises, bureaucrats need problems. Climate science is a particularly clear example of this because the stakes are high and the uncertainty is large enough to accommodate a wide range of interpretations.
+In <a href="/politics/the-grievance-machine-part-ii/" target="_blank" rel="noopener noreferrer">The Grievance Machine, Part II</a>, I showed how the hyena dynamic works: academics need findings, journalists need stories, politicians need crises, bureaucrats need problems. Climate science is a particularly clear example of this because the stakes are high and the uncertainty is large enough to accommodate a wide range of interpretations.
 
 ---
 

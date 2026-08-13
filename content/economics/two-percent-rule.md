@@ -27,7 +27,7 @@ Entrepreneurs capture pennies on the dollar of the value they create. The rest -
 
 ## The Seen and Unseen
 
-The reason this number matters is that the public debate about wealth and entrepreneurship is almost entirely about the 2 percent. This is the same pattern <a href=\"/economics/the-one-lesson/\" target=\"_blank\" rel=\"noopener noreferrer\">Bastiat wrote about</a> - the seen and the unseen. We see Jeff Bezos's $200 billion net worth and we draw conclusions about the system that produced it. We do not see the value he created in order to earn it.
+The reason this number matters is that the public debate about wealth and entrepreneurship is almost entirely about the 2 percent. This is the same pattern <a href="/economics/the-one-lesson/" target="_blank" rel="noopener noreferrer">Bastiat wrote about</a> - the seen and the unseen. We see Jeff Bezos's $200 billion net worth and we draw conclusions about the system that produced it. We do not see the value he created in order to earn it.
 
 Let us do the math on Amazon.
 

@@ -19,7 +19,7 @@ This is not an argument against all regulation. Some regulation is genuinely val
 
 Frederic Bastiat understood this better than anyone. In his 1850 essay \"The Seen and the Unseen,\" he wrote: \"In the economic sphere, an act, a habit, an institution, a law, produces not only one effect but a series of effects. Of these effects, the first alone is immediate; it appears simultaneously with its cause; it is seen. The other effects emerge only subsequently; they are not seen; we are fortunate if we foresee them.\"
 
-<a href=\"/notes/the-invisible-hand/\" target=\"_blank\" rel=\"noopener noreferrer\">Notes: The Invisible Hand</a> explores how uncoordinated individual action produces better outcomes than central planning. Regulation is the opposite: central planning of specific outcomes whose unseen costs are born by people who never voted for them.
+<a href="/notes/the-invisible-hand/" target="_blank" rel="noopener noreferrer">Notes: The Invisible Hand</a> explores how uncoordinated individual action produces better outcomes than central planning. Regulation is the opposite: central planning of specific outcomes whose unseen costs are born by people who never voted for them.
 
 ---
 
@@ -45,7 +45,7 @@ An occupational licensing requirement adds time and money to entering a professi
 
 A zoning regulation restricts where housing can be built. In high-demand cities, this drives up the cost of housing for everyone, but it hits renters hardest. The visible benefit of zoning - preserving neighborhood character - is enjoyed by existing homeowners. The invisible cost - higher rents for everyone else - is paid by people who are not even aware that the regulation exists.
 
-Behind every regulation is a story of who benefits (visible, concentrated) and who pays (invisible, diffuse). This asymmetry is the core of the problem. <a href=\"/economics/the-information-problem/\" target=\"_blank\" rel=\"noopener noreferrer\">The Information Problem</a> explains why central planners cannot know all the costs they impose - the knowledge needed to evaluate a regulation's full effect is dispersed across millions of individuals and never collected in one place.
+Behind every regulation is a story of who benefits (visible, concentrated) and who pays (invisible, diffuse). This asymmetry is the core of the problem. <a href="/economics/the-information-problem/" target="_blank" rel="noopener noreferrer">The Information Problem</a> explains why central planners cannot know all the costs they impose - the knowledge needed to evaluate a regulation's full effect is dispersed across millions of individuals and never collected in one place.
 
 ---
 

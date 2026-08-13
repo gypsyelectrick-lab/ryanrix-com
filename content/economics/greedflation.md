@@ -21,7 +21,7 @@ Let me be clear about what I am not saying. I am not saying corporations are vir
 
 The greedflation narrative goes like this: during the post-COVID inflation, corporations saw an opportunity. They raised prices faster than their costs increased, pocketing the difference as extra profit. The inflation was not caused by supply chains or energy prices or monetary policy. It was caused by corporate avarice.
 
-This story is satisfying. It has a villain you can name. It fits the pattern of grievance that Anna wrote about in <a href=\"/economics/the-grievance-machine/\" target=\"_blank\" rel=\"noopener noreferrer\">The Grievance Machine, Part I</a>: identify a problem, name a bad actor, demand state intervention. The proposed solution follows the same pattern: price controls, excess profit taxes, more regulation.
+This story is satisfying. It has a villain you can name. It fits the pattern of grievance that Anna wrote about in <a href="/economics/the-grievance-machine/" target="_blank" rel="noopener noreferrer">The Grievance Machine, Part I</a>: identify a problem, name a bad actor, demand state intervention. The proposed solution follows the same pattern: price controls, excess profit taxes, more regulation.
 
 The problem is that the evidence does not support it.
 
@@ -33,7 +33,7 @@ Supermarkets operate on razor-thin margins. In the US, the average grocery margi
 
 If supermarkets could charge whatever they wanted, there would be no Aldi. No Lidl. No discount grocery stores at all. The existence of discount retailers is direct evidence that margins are constrained by competition. Aldi does not exist because it is more virtuous than Tesco. It exists because customers will walk to a cheaper store, and the threat of that walk forces every store to keep prices in check.
 
-This is not subtle. This is basic economics. <a href=\"/notes/markets/\" target=\"_blank\" rel=\"noopener noreferrer\">Notes: Markets</a> explains how competition forces prices toward cost. If one firm tries to gouge customers, another firm can undercut it and capture its business. The threat of that undercutting constrains prices even when no firm actually does it.
+This is not subtle. This is basic economics. <a href="/notes/markets/" target="_blank" rel="noopener noreferrer">Notes: Markets</a> explains how competition forces prices toward cost. If one firm tries to gouge customers, another firm can undercut it and capture its business. The threat of that undercutting constrains prices even when no firm actually does it.
 
 ---
 
@@ -55,7 +55,7 @@ If corporate greed did not cause inflation, what did? The answer is less dramati
 
 None of these causes has a single villain you can point to. There is no boardroom where executives decided to make life expensive. There is only a complex system of interacting forces that produced a result nobody wanted. The greedflation story is popular precisely because it replaces this complexity with a simple narrative. That simple narrative is wrong.
 
-The proposed solution - price controls - was tried in the 1970s under President Nixon. It caused shortages, empty shelves, black markets, and rationing. The policy failed, was abandoned, and is now being proposed again by people who either do not know this history or do not care. Anna covered this in more detail in <a href=\"/economics/price-controls/\" target=\"_blank\" rel=\"noopener noreferrer\">Price Controls: A Lesson We Keep Unlearning</a> and <a href=\"/economics/how-prices-work/\" target=\"_blank\" rel=\"noopener noreferrer\">How Prices Work</a>.
+The proposed solution - price controls - was tried in the 1970s under President Nixon. It caused shortages, empty shelves, black markets, and rationing. The policy failed, was abandoned, and is now being proposed again by people who either do not know this history or do not care. Anna covered this in more detail in <a href="/economics/price-controls/" target="_blank" rel="noopener noreferrer">Price Controls: A Lesson We Keep Unlearning</a> and <a href="/economics/how-prices-work/" target="_blank" rel="noopener noreferrer">How Prices Work</a>.
 
 ---
 
