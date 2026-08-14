@@ -1229,6 +1229,16 @@ main#main-content img {
    Share Bar
    ========================================================================== */
 
+/* Related article cards - whole card clickable */
+.related-articles li:hover {
+  background: #E8EDF2;
+  border-color: var(--color-primary);
+}
+.related-articles li .related-card-link:hover h3 {
+  color: var(--color-action);
+  text-decoration: underline;
+}
+
 .share-bar {
   margin: 3rem 0;
   padding: 1.5rem;
@@ -1281,6 +1291,12 @@ main#main-content img {
   color: var(--color-action);
   background: #FDF5F5;
 }
+
+/* Brand-color hovers for social buttons */
+.share-btn--facebook:hover { border-color: #1877F2; color: #1877F2; background: #F0F6FF; }
+.share-btn--x:hover { border-color: #000; color: #000; background: #F5F5F5; }
+.share-btn--linkedin:hover { border-color: #0A66C2; color: #0A66C2; background: #F0F6FC; }
+.share-btn--whatsapp:hover { border-color: #25D366; color: #128C7E; background: #F0FCF4; }
 
 .share-icon {
   flex-shrink: 0;

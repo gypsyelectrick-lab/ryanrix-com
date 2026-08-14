@@ -87,9 +87,11 @@
         <h2 style="margin-bottom: 1.5rem;">Related Articles</h2>
         <ul style="list-style: none; padding: 0; display: grid; gap: 1rem;">
           {{ range . }}
-            <li style="background: var(--color-bg-secondary); padding: 1rem; border-radius: 6px;">
-              <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-              <p style="margin: 0; font-size: 0.95rem;">{{ .Summary | truncate 100 }}</p>
+            <li style="background: var(--color-bg-secondary); padding: 1rem; border-radius: 6px; transition: background 0.15s ease;">
+              <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit; display: block;" class="related-card-link">
+                <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; color: var(--color-primary);">{{ .Title }}</h3>
+                <p style="margin: 0; font-size: 0.95rem; color: var(--color-text-main);">{{ .Description }}</p>
+              </a>
             </li>
           {{ end }}
         </ul>
