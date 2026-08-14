@@ -50,3 +50,5 @@ This section looks at power - who has it, who wants it, who profits from expandi
 - **[The Rented Gate →](/politics/the-rented-gate/)** - Sixty thousand people crossed the EU's only African land border in two days. It was not smuggling. It was leverage - and every politician denied the cause and effect.
 
 - **[The Safety Moat →](/politics/ai-safety-moat/)** - The three biggest AI labs agree on regulation. That should worry you.
+
+- **[The Elasticity Denial →](/politics/the-elasticity-denial/)** - They trust a nudge to change your behavior. They deny a tax changes theirs. Same humans, two models.
