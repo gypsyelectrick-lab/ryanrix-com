@@ -52,3 +52,4 @@ This section looks at power - who has it, who wants it, who profits from expandi
 - **[The Safety Moat →](/politics/ai-safety-moat/)** - The three biggest AI labs agree on regulation. That should worry you.
 
 - **[The Elasticity Denial →](/politics/the-elasticity-denial/)** - They trust a nudge to change your behavior. They deny a tax changes theirs. Same humans, two models.
+- **[The Conservative Party: The Institution That Wasn't →](/politics/the-conservative-party-institution-that-wasnt/)** - The Fabians built a 142-year machine. The Conservatives never built one.
