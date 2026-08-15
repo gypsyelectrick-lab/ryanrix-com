@@ -1,0 +1,63 @@
+{{- $page := . -}}
+{{- $section := $page.CurrentSection -}}
+{{- if $section -}}
+<aside class="sidebar-left" aria-label="Subject navigation">
+    <h2 class="sidebar-title">{{ $section.Title }}</h2>
+    <nav class="accordion-nav" aria-label="Accordion subject navigation">
+      {{- if eq $section.Title "Economics" }}
+        {{- /* Economics: topic-grouped structure (Option B - flat files, topic: frontmatter) */}}
+        {{- $topics := slice "Foundations" "Money & Inflation" "Trade" "Taxes" "Regulation" "Incentives & Public Choice" "Poverty & Progress" "Capitalism & Culture" }}
+        {{- $lp := where $section.RegularPages "Params.menu" "Learning Path" }}
+        {{- if $page.IsSection }}
+          {{- /* Section page: show topic group links */}}
+          <div class="accordion-content">
+            {{- if $lp }}
+              {{- range $lp }}
+                <div class="topic-group">
+                  <a href="{{ .RelPermalink }}" class="topic-label-link">{{ .Params.menu }}</a>
+                  <div class="topic-placeholder">Start here</div>
+                </div>
+              {{- end }}
+            {{- end }}
+            {{- range $topics }}
+              {{- $topicPages := where $section.RegularPages "Params.topic" . }}
+              {{- if gt (len $topicPages) 0 }}
+                <div class="topic-group">
+                  <a href="{{ $.RelPermalink }}#{{ . | urlize }}" class="topic-label-link">{{ . }}</a>
+                  <div class="topic-count">{{ len $topicPages }} article{{ if gt (len $topicPages) 1 }}s{{ end }}</div>
+                </div>
+              {{- end }}
+            {{- end }}
+          </div>
+        {{- else }}
+          {{- /* Article page: show only this article's topic */}}
+          {{- $topic := $page.Params.topic }}
+          {{- if $topic }}
+            <div class="accordion-content">
+            {{- if $lp }}
+              {{- range $lp }}
+                <a href="{{ .RelPermalink }}" class="topic-label-link">{{ .Params.menu }}</a>
+              {{- end }}
+            {{- end }}
+              {{- $topicPages := where $section.RegularPages "Params.topic" $topic }}
+              {{- range $topicPages.ByWeight }}
+                {{- $isActive := eq $page.RelPermalink .RelPermalink }}
+                {{- $menuName := .Params.menu | default .Title }}
+                <a href="{{ .RelPermalink }}" class="topic-link {{ if $isActive }}active-link{{ end }}">{{ $menuName }}</a>
+              {{- end }}
+            </div>
+          {{- end }}
+        {{- end }}
+      {{- else }}
+        {{- /* Other sections: flat article list */}}
+        <div class="accordion-content">
+          {{- range $section.RegularPages.ByWeight }}
+            {{- $isActive := eq $page.RelPermalink .RelPermalink }}
+            {{- $menuName := .Params.menu | default .Title }}
+            <a href="{{ .RelPermalink }}" class="topic-link {{ if $isActive }}active-link{{ end }}">{{ $menuName }}</a>
+          {{- end }}
+        </div>
+      {{- end }}
+    </nav>
+</aside>
+{{- end -}}

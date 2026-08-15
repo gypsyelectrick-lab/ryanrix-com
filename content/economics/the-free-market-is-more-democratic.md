@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "The Free Market Is More Democratic Than Voting"
 menu: "Free Market vs Voting"
 date: 2026-07-01

@@ -1,4 +1,5 @@
 ---
+topic: "Taxes"
 title: 'The 78% Tax on the North Sea - The Windfall Tax That Taxes Investment'
 menu: 'The 78% Tax'
 date: 2026-08-05

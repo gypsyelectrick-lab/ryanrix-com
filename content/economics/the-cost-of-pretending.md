@@ -1,4 +1,5 @@
 ---
+topic: "Regulation"
 title: "The Cost of Pretending We Know What We're Doing"
 menu: "Cost of Pretending"
 date: 2026-08-04

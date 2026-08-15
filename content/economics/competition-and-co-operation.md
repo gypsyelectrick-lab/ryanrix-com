@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Competition and Co-operation"
 menu: "Competition"
 date: 2026-06-01

@@ -201,11 +201,47 @@ header.site-header--home .header-title a {
   font-size: 1.8rem;
 }
 
-/* Crimson section bar below the slate header */
+/* Crimson section nav bar below the slate header (renders menu.main) */
+.main-nav {
+  width: 100%;
+  background: #6B1414;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.main-nav-list {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  list-style: none;
+}
+
+.main-nav-link {
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  padding: 0.25rem 0.5rem;
+}
+
+.main-nav-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.main-nav-link--active {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+}
+
+/* Darker crimson breadcrumb bar below the nav, so the two bars read as hierarchy */
 .section-bar {
   width: 100%;
   padding: 0.75rem 1rem;
-  background: #6B1414;
+  background: #4E0E0E;
   color: white;
   text-align: center;
   font-weight: 700;
@@ -1371,6 +1407,17 @@ main#main-content img {
 
   .header-title a {
     font-size: 1.2rem;
+  }
+
+  /* --- Section nav --- */
+  .main-nav-list {
+    flex-wrap: wrap;
+    gap: 0.35rem 1.25rem;
+    padding: 0.5rem 0.75rem;
+  }
+
+  .main-nav-link {
+    font-size: 0.95rem;
   }
 
   /* --- Section bar --- */

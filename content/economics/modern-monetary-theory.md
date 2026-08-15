@@ -1,4 +1,5 @@
 ---
+topic: "Money & Inflation"
 title: "Where Does Money Come From?"
 menu: "Modern Monetary Theory"
 date: 2026-07-09

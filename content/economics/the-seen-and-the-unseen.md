@@ -1,4 +1,5 @@
 ---
+topic: "Capitalism & Culture"
 title: "The Seen and the Unseen"
 menu: "Seen & Unseen"
 date: 2026-07-22

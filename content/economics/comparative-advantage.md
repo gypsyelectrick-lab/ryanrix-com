@@ -1,4 +1,5 @@
 ---
+topic: "Trade"
 title: "The Deepest and Most Beautiful Insight in Economics"
 menu: "Comparative Advantage"
 date: 2026-08-05

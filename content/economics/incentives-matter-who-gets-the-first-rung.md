@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "Incentives Matter: Who Gets the First Rung?"
 menu: "Incentives Matter: Who Gets the First Rung?"
 date: 2026-07-27

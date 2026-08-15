@@ -1,4 +1,5 @@
 ---
+topic: "Poverty & Progress"
 title: "The Grievance Machine, Part I: The Greatest Story Never Told"
 menu: "Grievance Machine"
 date: 2026-07-19

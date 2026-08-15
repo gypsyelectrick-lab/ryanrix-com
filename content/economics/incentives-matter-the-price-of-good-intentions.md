@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "Incentives Matter: The Price of Good Intentions"
 menu: "Incentives Matter: The Price of Good Intentions"
 date: 2026-07-27

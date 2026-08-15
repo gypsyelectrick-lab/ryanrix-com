@@ -3,9 +3,39 @@
     .article-card { display: block; text-decoration: none; color: inherit; }
     .article-card section { background: var(--color-bg-secondary); border: 1px solid var(--color-border); border-left: 4px solid var(--color-action); border-radius: var(--radius-md); padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: var(--shadow-sm); transition: all 0.2s ease; }
     .article-card:hover section { transform: translateY(-3px); box-shadow: var(--shadow-md); border-color: var(--color-primary); }
+    .topic-heading { margin-top: 2.5rem; margin-bottom: 1rem; padding-top: 1rem; border-top: 1px solid var(--color-border); }
   </style>
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+  {{ if eq .Title "Economics" }}
+    {{- $topics := slice "Foundations" "Money & Inflation" "Trade" "Taxes" "Regulation" "Incentives & Public Choice" "Poverty & Progress" "Capitalism & Culture" }}
+    {{- $lp := where .RegularPages "Params.menu" "Learning Path" }}
+    {{- range $lp }}
+      <h2 class="topic-heading" id="learning-path">Start Here</h2>
+      <a href="{{ .RelPermalink }}" class="article-card">
+        <section>
+          <h3 style="margin-top: 0;">{{ .LinkTitle }}</h3>
+          <p style="margin: 0 0 0.5rem 0;">{{ .Description }}</p>
+          <p style="margin: 0; font-size: 0.9rem; color: var(--color-text-muted);">By {{ .Params.author | default "Anna Karina" }}</p>
+        </section>
+      </a>
+    {{- end }}
+    {{- range $topics }}
+      {{- $topicPages := where $.RegularPages "Params.topic" . }}
+      {{- if gt (len $topicPages) 0 }}
+        <h2 class="topic-heading" id="{{ . | urlize }}">{{ . }}</h2>
+        {{- range $topicPages.ByWeight }}
+          <a href="{{ .RelPermalink }}" class="article-card">
+            <section>
+              <h3 style="margin-top: 0;">{{ .LinkTitle }}</h3>
+              <p style="margin: 0 0 0.5rem 0;">{{ .Description }}</p>
+              <p style="margin: 0; font-size: 0.9rem; color: var(--color-text-muted);">By {{ .Params.author | default "Anna Karina" }}</p>
+            </section>
+          </a>
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{ else }}
   {{ range .Pages }}
     <a href="{{ .RelPermalink }}" class="article-card">
       <section>
@@ -16,5 +46,6 @@
         {{ end }}
       </section>
     </a>
+  {{ end }}
   {{ end }}
 {{ end }}

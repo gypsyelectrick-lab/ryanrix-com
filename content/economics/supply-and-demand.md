@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Supply & Demand - The Most Powerful Idea You Already Know"
 menu: "Supply & Demand"
 date: 2026-06-26

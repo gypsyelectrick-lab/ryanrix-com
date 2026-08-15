@@ -1,4 +1,5 @@
 ---
+topic: "Poverty & Progress"
 title: "Who Actually Helps the Poor?"
 menu: "Who Helps the Poor"
 date: 2026-07-05

@@ -1,4 +1,5 @@
 ---
+topic: "Money & Inflation"
 title: "The Second Inflation Wave - Why the Bank of England Is Saying the Good News Is Over"
 menu: "Second Inflation Wave"
 date: 2026-08-04

@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "Incentives Matter: The Economics of Obvious"
 menu: "Incentives Matter: The Economics of Obvious"
 date: 2026-07-27

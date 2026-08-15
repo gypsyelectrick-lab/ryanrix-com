@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "The Toothpaste Problem"
 menu: "The Toothpaste Problem"
 date: 2026-07-01

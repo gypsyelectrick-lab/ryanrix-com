@@ -1,4 +1,5 @@
 ---
+topic: "Taxes"
 title: "The Wealth Tax Video That Got Everything Right (Until It Didn't)"
 menu: "Wealth Tax Video Response"
 date: 2026-07-23

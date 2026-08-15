@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Property Rights - The Foundation You Never Notice"
 menu: "Property Rights"
 date: 2026-07-05

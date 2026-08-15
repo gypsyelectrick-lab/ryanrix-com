@@ -1,4 +1,5 @@
 ---
+topic: "Trade"
 title: "The Tariff Shell Game: When the Government Refuses to Admit a Policy Is Failing"
 menu: "Tariff Shell Game"
 date: 2026-07-21

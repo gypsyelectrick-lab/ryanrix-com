@@ -1,4 +1,5 @@
 ---
+topic: "Poverty & Progress"
 title: "The 2% Rule"
 menu: "2% Rule"
 date: 2026-06-24

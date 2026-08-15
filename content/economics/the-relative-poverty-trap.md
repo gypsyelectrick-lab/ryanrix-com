@@ -1,4 +1,5 @@
 ---
+topic: "Poverty & Progress"
 title: "The Relative Poverty Trap"
 menu: "Relative Poverty Trap"
 date: 2026-07-23

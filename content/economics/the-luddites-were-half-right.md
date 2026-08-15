@@ -1,4 +1,5 @@
 ---
+topic: "Capitalism & Culture"
 title: "The Luddites Were Half Right"
 menu: "The Luddites Were Half Right"
 date: 2026-08-06

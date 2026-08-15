@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "Public Choice Theory: Why Government Doesn't Fix What Government Breaks"
 menu: "Public Choice Theory"
 date: 2026-07-28

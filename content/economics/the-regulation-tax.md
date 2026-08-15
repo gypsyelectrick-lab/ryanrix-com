@@ -1,4 +1,5 @@
 ---
+topic: "Regulation"
 title: "The Regulation Tax: The Cost You Never See"
 menu: "Regulation Tax"
 date: 2026-07-23

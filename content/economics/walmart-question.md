@@ -1,4 +1,5 @@
 ---
+topic: "Poverty & Progress"
 title: "The Walmart Question"
 menu: "Walmart Question"
 date: 2026-06-24

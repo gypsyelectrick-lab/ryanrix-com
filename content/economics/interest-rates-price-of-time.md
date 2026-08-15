@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Interest Rates - The Price of Time"
 menu: "Interest Rates"
 date: 2026-07-05

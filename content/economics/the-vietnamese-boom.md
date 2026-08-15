@@ -1,4 +1,5 @@
 ---
+topic: "Trade"
 title: "Eighty Percent of Something"
 menu: "80% of Something"
 date: 2026-07-07

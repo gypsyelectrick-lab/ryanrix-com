@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Money & Inflation - What They Actually Are"
 menu: "Money & Inflation"
 date: 2026-06-26

@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Taxes - Who Actually Pays"
 menu: "Taxes"
 date: 2026-07-05

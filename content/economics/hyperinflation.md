@@ -1,4 +1,5 @@
 ---
+topic: "Money & Inflation"
 title: "Hyperinflation"
 menu: "Hyperinflation"
 date: 2026-07-22

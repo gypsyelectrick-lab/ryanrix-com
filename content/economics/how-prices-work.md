@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "How Prices Work - The Information Machine Nobody Built"
 menu: "How Prices Work"
 date: 2026-06-26

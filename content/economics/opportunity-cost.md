@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "What You Give Up - A Gentle Introduction to Opportunity Cost"
 menu: "Opportunity Cost"
 date: 2026-07-01

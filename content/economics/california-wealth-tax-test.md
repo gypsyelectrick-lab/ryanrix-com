@@ -1,4 +1,5 @@
 ---
+topic: "Taxes"
 title: "The Billionaire Tax Test: Why California's Proposition 40 Will Fail Like Every Wealth Tax Before It"
 menu: "Prop 40 Wealth Tax"
 date: 2026-07-28

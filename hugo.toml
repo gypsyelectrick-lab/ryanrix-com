@@ -26,6 +26,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
   weight = 10
 
 [[menu.main]]
+  identifier = 'politics'
+  name = 'Politics'
+  url = '/politics/'
+  weight = 11
+
+[[menu.main]]
   identifier = 'energy'
   name = 'Climate & Energy'
   url = '/energy/'

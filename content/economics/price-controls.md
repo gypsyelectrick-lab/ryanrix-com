@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "What Price Controls Make Invisible"
 menu: "Price Controls"
 date: 2026-07-05

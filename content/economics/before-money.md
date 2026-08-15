@@ -1,4 +1,5 @@
 ---
+topic: "Money & Inflation"
 title: "Before Money: Where Exchange Comes From"
 menu: "Before Money"
 date: 2026-08-12

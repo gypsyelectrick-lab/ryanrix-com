@@ -1,4 +1,5 @@
 ---
+topic: "Taxes"
 title: "California's Wealth Tax - a Case Study in Wishful Thinking"
 menu: "Wealth Tax"
 date: 2026-07-18

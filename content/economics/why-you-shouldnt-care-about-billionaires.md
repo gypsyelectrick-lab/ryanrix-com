@@ -1,4 +1,5 @@
 ---
+topic: "Capitalism & Culture"
 title: "Why You Shouldn't Care About Billionaires"
 menu: "Billionaires"
 date: 2026-07-15

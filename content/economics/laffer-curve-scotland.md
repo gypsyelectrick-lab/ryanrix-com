@@ -1,4 +1,5 @@
 ---
+topic: "Taxes"
 title: "The Laffer Curve, Alive and Well in Scotland"
 menu: "The Laffer Curve, Alive and Well in Scotland"
 date: 2026-07-31

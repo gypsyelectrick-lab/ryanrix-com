@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "The One Lesson"
 menu: "The One Lesson"
 date: 2026-06-01

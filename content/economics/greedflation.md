@@ -1,4 +1,5 @@
 ---
+topic: "Money & Inflation"
 title: "Greedflation: What the Theory Misses"
 menu: "Greedflation"
 date: 2026-07-23

@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Trade - Why Both Sides Win"
 menu: "Why Trade Wins"
 date: 2026-06-26

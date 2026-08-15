@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "The Cracked Screen"
 menu: "Cracked Screen"
 date: 2026-06-01

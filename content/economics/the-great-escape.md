@@ -1,4 +1,5 @@
 ---
+topic: "Poverty & Progress"
 title: "The Great Escape: How Nine in Ten Humans Left Extreme Poverty"
 menu: "The Great Escape"
 date: 2026-08-09

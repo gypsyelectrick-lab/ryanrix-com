@@ -1,4 +1,5 @@
 ---
+topic: "Money & Inflation"
 title: "The Cantillon Effect - Who Gets the New Money First"
 menu: "Cantillon Effect"
 date: 2026-07-29

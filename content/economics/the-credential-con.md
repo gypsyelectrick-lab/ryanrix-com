@@ -1,4 +1,5 @@
 ---
+topic: "Capitalism & Culture"
 title: "The Credential Con: When Everyone Has a Degree, Nobody Does"
 menu: "Credential Con"
 date: 2026-07-23

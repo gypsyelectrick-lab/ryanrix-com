@@ -1,4 +1,5 @@
 ---
+topic: "Capitalism & Culture"
 title: "The Name Is the First Argument"
 menu: "The Name Is the First Argument"
 date: 2026-08-06

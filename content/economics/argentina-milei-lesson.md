@@ -1,4 +1,5 @@
 ---
+topic: "Money & Inflation"
 title: "Argentina's Lesson: What Happens When You Actually Fix an Economy"
 menu: "Argentina's Lesson"
 date: 2026-07-28

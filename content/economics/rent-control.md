@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "The Fastest Way to Destroy a City - Except for Bombing"
 menu: "Rent Control"
 date: 2026-07-24

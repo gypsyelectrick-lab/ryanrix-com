@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Creative Destruction - Why Lost Jobs Make Us Richer"
 menu: "Creative Destruction"
 date: 2026-07-05

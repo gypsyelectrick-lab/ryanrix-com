@@ -1,4 +1,5 @@
 ---
+topic: "Capitalism & Culture"
 title: "The Usefulness of Billionaires"
 description: "The US leads in risky investment and the US has billionaires. That is not a coincidence."
 date: 2026-07-25

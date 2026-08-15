@@ -1,4 +1,5 @@
 ---
+topic: "Foundations"
 title: "Externalities - When the Price Is Wrong"
 menu: "Externalities"
 date: 2026-07-05

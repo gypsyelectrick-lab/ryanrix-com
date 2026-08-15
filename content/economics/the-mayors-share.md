@@ -1,4 +1,5 @@
 ---
+topic: "Incentives & Public Choice"
 title: "The Mayor's Share - What \"The Biggest Transfer of Power for a Generation\" Actually Changes"
 menu: "The Mayor's Share"
 date: 2026-08-05

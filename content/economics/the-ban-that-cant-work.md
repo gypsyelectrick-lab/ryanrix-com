@@ -1,4 +1,5 @@
 ---
+topic: "Regulation"
 title: "The Ban That Can't Work - The Last Grievance Without a Deep-Dive"
 menu: "The Ban That Can't Work"
 date: 2026-08-05
