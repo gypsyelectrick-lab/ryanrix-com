@@ -1,5 +1,5 @@
 ---
-title: "Wrong About Everything: Paul Ehrlich, Rachel Carson, and the Untouchable Icons of Environmentalism"
+title: "Wrong About Everything: Ehrlich, Carson, and Environmentalism"
 menu: "Wrong About Everything"
 date: 2026-07-24
 author: "Max Weber"

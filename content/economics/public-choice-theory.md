@@ -1,6 +1,6 @@
 ---
 topic: "Incentives & Public Choice"
-title: "Public Choice Theory: Why Government Doesn't Fix What Government Breaks"
+title: "Public Choice Theory: Why Government Fails"
 menu: "Public Choice Theory"
 date: 2026-07-28
 author: "Anna Karina"

@@ -94,4 +94,4 @@ What exactly is the party selecting for - and what does that tell you about why 
 
 ---
 
-*This is the fourth in a series on the institutions behind the parties. Start here: <a href="/politics/the-fabian-grip/" target="_blank" rel="noopener noreferrer">The Fabian Grip: How One 142-Year-Old Society Made Every Labour Prime Minister &rarr;</a>*
+*This is the fourth in a series on the institutions behind the parties. Start here: <a href="/politics/the-fabian-grip/" target="_blank" rel="noopener noreferrer">The Fabian Grip: How One Society Made Every Labour PM &rarr;</a>*

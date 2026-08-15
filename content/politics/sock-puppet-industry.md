@@ -1,5 +1,5 @@
 ---
-title: "The Sock Puppet Industry: How Government Creates the 'Independent' Voices That Demand More Government"
+title: "The Sock Puppet Industry: Who Funds the 'Independent' Voices"
 menu: "Sock Puppet Industry"
 date: 2026-07-21
 author: "Max Weber"

@@ -1,6 +1,6 @@
 ---
 topic: "Taxes"
-title: "The Pension Tax Raid: The Demand Says \"Tax the Rich\" - and the Government's Own Advisers Have Already Said No"
+title: "The Pension Tax Raid: Your Pension Is Next"
 menu: "The Pension Tax Raid"
 date: 2026-08-14
 author: "Anna Karina"

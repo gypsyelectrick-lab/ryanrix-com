@@ -1,6 +1,6 @@
 ---
 topic: "Trade"
-title: "The Tariff Shell Game: When the Government Refuses to Admit a Policy Is Failing"
+title: "The Tariff Shell Game: A Policy That Keeps Failing"
 menu: "Tariff Shell Game"
 date: 2026-07-21
 author: "Anna Karina"

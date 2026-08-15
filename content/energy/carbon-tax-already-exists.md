@@ -1,5 +1,5 @@
 ---
-title: "The Carbon Tax That Already Exists: Why the Best Climate Policy Was Enacted Before Anyone Cared About Climate"
+title: "The Carbon Tax That Already Exists: You're Already Paying It"
 menu: "The Carbon Tax That Already Exists"
 date: 2026-07-21
 author: "Max Weber"

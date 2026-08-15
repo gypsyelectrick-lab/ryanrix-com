@@ -1,5 +1,5 @@
 ---
-title: "The Climate Bureaucracy, Part 1: Who Funds the IPCC and Why That Matters"
+title: "The Climate Bureaucracy, Part 1: Who Funds the IPCC"
 menu: "Climate Bureaucracy 1"
 date: 2026-07-17
 author: "Max Weber"

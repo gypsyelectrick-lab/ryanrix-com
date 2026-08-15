@@ -1,5 +1,5 @@
 ---
-title: "The Safety Moat: How Big AI Wants Regulation to Keep Everyone Else Out"
+title: "The Safety Moat: How Big AI Wants Regulation"
 menu: "Safety Moat"
 date: 2026-07-28
 author: "Max Weber"

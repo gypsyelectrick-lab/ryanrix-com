@@ -1,6 +1,6 @@
 ---
 topic: "Incentives & Public Choice"
-title: "The Mayor's Share - What \"The Biggest Transfer of Power for a Generation\" Actually Changes"
+title: "The Mayor's Share: What the Power Grab Actually Changes"
 menu: "The Mayor's Share"
 date: 2026-08-05
 author: "Anna Karina"
