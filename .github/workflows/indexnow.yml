@@ -1,0 +1,48 @@
+name: IndexNow Ping
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Cloudflare Pages deploy
+        run: sleep 120
+
+      - name: Fetch sitemap and ping IndexNow
+        run: |
+          KEY="18ee5d1d451c457e96f3cdcbb3547035"
+          HOST="ryanrix.com"
+          # extract all URLs from sitemap.xml
+          curl -s "https://${HOST}/sitemap.xml" -o sitemap.xml
+          python3 - <<'EOF'
+          import re, json, urllib.request
+          KEY = "18ee5d1d451c457e96f3cdcbb3547035"
+          HOST = "ryanrix.com"
+          xml = open("sitemap.xml").read()
+          urls = re.findall(r"<loc>([^<]+)</loc>", xml)
+          print(f"Found {len(urls)} URLs in sitemap")
+          # ping in batches of 1000
+          for i in range(0, len(urls), 1000):
+              batch = urls[i:i+1000]
+              body = json.dumps({
+                  "host": HOST,
+                  "key": KEY,
+                  "keyLocation": f"https://{HOST}/{KEY}.txt",
+                  "urlList": batch
+              }).encode()
+              req = urllib.request.Request(
+                  "https://api.indexnow.org/indexnow",
+                  data=body,
+                  headers={"Content-Type": "application/json; charset=utf-8"}
+              )
+              try:
+                  resp = urllib.request.urlopen(req, timeout=30)
+                  print(f"Batch {i//1000}: HTTP {resp.status}")
+              except urllib.error.HTTPError as e:
+                  print(f"Batch {i//1000}: HTTP {e.code} {e.read().decode()[:200]}")
+                  raise SystemExit(1)
+          EOF
