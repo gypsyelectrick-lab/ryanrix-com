@@ -26,11 +26,11 @@ You are supposed to believe this is about safety. Let us look at what is actuall
 
 On July 16, 2026, Axios published a story with a remarkable headline: <a href="https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google" target="_blank" rel="noopener noreferrer">"Behind the Curtain: AI godfathers converge on regulations."</a>
 
-The three men racing to build superhuman AI -- Demis Hassabis of Google DeepMind, Sam Altman of OpenAI, and Dario Amodei of Anthropic -- all published detailed regulatory proposals within weeks of each other. All three agreed on the core architecture: independent testing before release, a single governing system, and U.S. leadership.
+The three men racing to build superhuman AI - Demis Hassabis of Google DeepMind, Sam Altman of OpenAI, and Dario Amodei of Anthropic - all published detailed regulatory proposals within weeks of each other. All three agreed on the core architecture: independent testing before release, a single governing system, and U.S. leadership.
 
 Anthropic's Jack Clark put it bluntly: <a href="https://www.yahoo.com/news/politics/articles/behind-curtain-ai-godfathers-converge-094011711.html" target="_blank" rel="noopener noreferrer">"At this point, everyone at the frontier of AI agrees that third parties should test out AI systems and use these to develop standards to feed into policy."</a>
 
-They disagree on the details -- Amodei wants an FAA-style agency with immediate power to block models, Hassabis wants an industry-funded FINRA-style body, Altman wants an IAEA-style international forum. But the direction is identical.
+They disagree on the details - Amodei wants an FAA-style agency with immediate power to block models, Hassabis wants an industry-funded FINRA-style body, Altman wants an IAEA-style international forum. But the direction is identical.
 
 All three want licensing regimes. All three want government oversight. All three want the state to decide who can build frontier AI and who cannot.
 
@@ -50,7 +50,7 @@ A startup with three engineers and a breakthrough idea cannot do any of this. A 
 
 This is the oldest trick in the regulatory playbook. The call for "high standards" sounds noble. The reality is that high standards are expensive. The only companies that can afford them are the ones already in the market.
 
-OpenAI and Anthropic each spent over $1 million on lobbying in Q1 2026 alone, according to <a href="https://www.openlobby.us/investigations/ai-lobbying-blitz-2026" target="_blank" rel="noopener noreferrer">OpenLobby's tracking</a>. Anthropic posted $1.6 million -- its biggest quarter ever. Combined, the two AI developers spent <a href="https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html" target="_blank" rel="noopener noreferrer">$3.17 million in Q2 2026</a>, up 23% from Q1. Total federal lobbying hit $5.3 billion in 2025, and 2026 is on pace to break that record.
+OpenAI and Anthropic each spent over $1 million on lobbying in Q1 2026 alone, according to <a href="https://www.openlobby.us/investigations/ai-lobbying-blitz-2026" target="_blank" rel="noopener noreferrer">OpenLobby's tracking</a>. Anthropic posted $1.6 million - its biggest quarter ever. Combined, the two AI developers spent <a href="https://www.cnbc.com/2026/07/21/openai-anthropic-ai-lobbying-spending-q2-2026.html" target="_blank" rel="noopener noreferrer">$3.17 million in Q2 2026</a>, up 23% from Q1. Total federal lobbying hit $5.3 billion in 2025, and 2026 is on pace to break that record.
 
 Forbes put it perfectly in February 2026: <a href="https://www.openlobby.us/investigations/ai-lobbying-blitz-2026" target="_blank" rel="noopener noreferrer">"AI's biggest builders are now its biggest lobbyists."</a>
 
@@ -64,7 +64,7 @@ At the <a href="https://www.axios.com/2026/06/08/axios-ainy-summit-startups-fear
 
 There is a second reason the big labs are suddenly keen on regulation. Sabine Hossenfelder explained it in May 2026: <a href="http://backreaction.blogspot.com/2026/05/ai-will-hit-wall-in-2026-if-nothing.html" target="_blank" rel="noopener noreferrer">AI is about to hit an energy wall.</a>
 
-The scaling approach that drove every major AI advance -- more data, more compute, more parameters -- is running into physical limits. Training frontier models requires staggering amounts of electricity. The cost of compute is not falling fast enough. The returns to additional scale are diminishing.
+The scaling approach that drove every major AI advance - more data, more compute, more parameters - is running into physical limits. Training frontier models requires staggering amounts of electricity. The cost of compute is not falling fast enough. The returns to additional scale are diminishing.
 
 As one Reddit observer <a href="https://www.reddit.com/r/ArtificialInteligence/comments/1tbaanj/physicist_dr_sabine_hossenfelder_ai_will_hit_a/" target="_blank" rel="noopener noreferrer">put it</a>: "The Energy wall just means the concept of scaling to achieve AGI has failed, now they need to pivot to AI governance."
 
@@ -80,7 +80,7 @@ Wisconsin's Dane County imposed an 18-month moratorium on hyperscale data center
 
 "The debate over land use also represents the crystallization of broader public concern about AI's effect on American lives and livelihood," Brookings wrote. "Americans don't know how to fight AI. So they're fighting data centers."
 
-The big labs see this. They know their expansion plans are generating political resistance. Regulation offers a way to manage that resistance -- to channel it through a process they control, toward outcomes that protect their incumbency.
+The big labs see this. They know their expansion plans are generating political resistance. Regulation offers a way to manage that resistance - to channel it through a process they control, toward outcomes that protect their incumbency.
 
 ---
 
@@ -96,7 +96,7 @@ Journalists need a story. "AI safety rules protect the public" is a better headl
 
 And the companies themselves need a moat. Regulatory compliance is the most durable moat ever invented. It costs hundreds of millions, requires armies of lawyers, and takes years to navigate. A startup with a better model cannot cross it. A competitor in another country cannot cross it either.
 
-The same pipeline that funnels taxpayer money through quangos to produce "independent" research -- the <a href="/politics/sock-puppet-industry/" target="_blank" rel="noopener noreferrer">sock puppet industry</a> I documented earlier -- is the same pipeline that will produce the academic cover for AI regulation. The grants will go to researchers who confirm the danger. The think tanks will produce the reports that justify the licensing regimes. The media will amplify the conclusions. The politicians will act.
+The same pipeline that funnels taxpayer money through quangos to produce "independent" research - the <a href="/politics/sock-puppet-industry/" target="_blank" rel="noopener noreferrer">sock puppet industry</a> I documented earlier - is the same pipeline that will produce the academic cover for AI regulation. The grants will go to researchers who confirm the danger. The think tanks will produce the reports that justify the licensing regimes. The media will amplify the conclusions. The politicians will act.
 
 And the three companies paying for it all will be the only ones left standing when the rules are final.
 
