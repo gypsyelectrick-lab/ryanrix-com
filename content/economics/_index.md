@@ -87,6 +87,8 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [Where Does Money Come From?](/economics/modern-monetary-theory/) - What MMT actually says and why the conventional wisdom is wrong.
 - [The Wealth Tax Video That Got Everything Right (Until It Didn't)](/economics/the-wealth-tax-video-that-got-it-right-until-it-didnt/) - A good critique of wealth taxes undercuts itself at the end.
 - [Before Money: Where Exchange Comes From](/economics/before-money/) - Trade is older than every government. Nobody taught you to do it.
+- [The Invention of Money](/economics/the-invention-of-money/) - The coin carries a king's face. Money was born before the state.
+- [The Profit That Can't Stand Still](/economics/the-profit-that-cant-stand-still/) - Why a firm can't settle for a "fair" profit - and who pays when it stops.
 - [Don't Call Them Technocrats](/economics/dont-call-them-technocrats/) - The people writing tech policy don't understand tech. They are not experts. They are bureaucrats with a printing press.
 - [Hyperinflation](/economics/hyperinflation/) - The one thing every monetary theory fears - and what actually causes it.
 - [The Pension Tax Raid](/economics/the-pension-tax-raid/) - The Budget is 75 days away. The demand says tax the rich. Your pension is next.
