@@ -8,6 +8,7 @@ draft: false
 weight: 50
 tags: ["economics", "history", "money", "coinage", "advanced"]
 level: "advanced"
+image: /images/the-invention-of-money.png
 ---
 
 **The coin in your pocket carries a face. The face tells you money belongs to the state. The record says the state arrived late - and the first thing it did with money was shave it.**
