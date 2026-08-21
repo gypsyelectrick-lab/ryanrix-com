@@ -22,3 +22,7 @@ You don't need a science degree. You just need to be willing to ask: who pays, w
 - **[Climate Bureaucracy, Part 2: The Scenario That Wouldn't Die →](/energy/climate-bureaucracy-part-2/)** - The RCP8.5 climate scenario - the worst-case projection used to justify the most aggressive policies - was never realistic. Yet it remained in official use for over a decade. The story of how a bad scenario survived tells you everything about how climate policy actually works.
 
 - **[The Carbon Tax That Already Exists →](/energy/carbon-tax-already-exists/)** - The UK already prices carbon at over £229 per tonne through fuel duty. Every additional carbon tax is double taxation on a problem that has already been priced. The debate about carbon pricing needs to start from this fact, not pretend it doesn't exist.
+
+- **[The Grid That Isn't There →](/energy/the-grid-that-isnt-there/)** - Britain paid over a billion pounds this year to switch its own wind off. The grid is the bottleneck, and nobody owns the bill.
+
+- **[The £315-a-Year Bill →](/energy/the-315-a-year-bill/)** - The standing charge is the bill you pay before using a watt - and it is going up again.

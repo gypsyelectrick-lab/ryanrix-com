@@ -56,3 +56,5 @@ This section looks at power - who has it, who wants it, who profits from expandi
 - **[The Consultation Was the Retreat →](/politics/the-consultation-was-the-retreat/)** - The state set the EV target by decree. The market fell short. Now it consults on cutting it - while the 2035 ban stays.
 
 - **[The Conservative Party: The Institution That Wasn't →](/politics/the-conservative-party-institution-that-wasnt/)** - The Fabians built a 142-year machine. The Conservatives never built one.
+
+- **[The Glitch Was the Excuse →](/politics/the-glitch-was-the-excuse/)** - 6,600 people said they are not citizens. The state registered them anyway - and the glitch is the cover story.
