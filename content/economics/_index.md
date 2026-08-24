@@ -52,6 +52,7 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [The Grievance Machine, Part I: The Greatest Story Never Told](/economics/the-grievance-machine/) - Six grievances, six crises, one solution every time. Anna Karina on what the inequality panic hides, and why the pattern matters.
 - [The Tariff Shell Game](/economics/tariff-shell-game/) - The Supreme Court blocked one tariff authority. The administration found three more. When the legal basis keeps changing, the policy is not being defended - it is being hidden.
 - [The Tariff Shell Game, Part II - Now With 25 States in the Audience](/economics/tariff-shell-game-part-ii/) - A policy that needs a new legal costume every few months is not a policy. The audience keeps growing.
+- [The Tariff Shell Game, Part III - The Expiration Date That Never Comes](/economics/tariff-shell-game-part-iii/) - The China tariffs were supposed to expire. The date passed. Nobody noticed.
 - [Price Controls](/economics/price-controls/) - Why capping rents and raising wages create shortages and surpluses you never see.
 - [Who Actually Helps the Poor?](/economics/who-helps-the-poor/) - Politicians fight for credit. Entrepreneurs create jobs. The poor need the latter, not the former.
 - [Why You Shouldn't Care About Billionaires](/economics/why-you-shouldnt-care-about-billionaires/) - The inequality panic misses what matters: not whether someone has a billion dollars, but whether ordinary people can get what they need.
