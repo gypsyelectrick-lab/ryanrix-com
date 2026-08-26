@@ -76,6 +76,7 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [The Cost of Pretending We Know What We're Doing](/economics/the-cost-of-pretending/) - Regulators who cannot meet their own deadlines are setting everyone else's.
 - [The Mayor's Share](/economics/the-mayors-share/) - Mayors get a share of income tax revenue, but not the power to set the rate. Reward without the lever.
 - [The Second Inflation Wave](/economics/the-second-inflation-wave/) - UK inflation hit a 15-month low. The Bank of England says the good news is over.
+- [The Second Inflation Wave, Part II - The Cap Heads to a Three-Year High](/economics/the-second-inflation-wave-part-ii/) - The October cap heads to a three-year high. The relief was the false dawn.
 - [The Deepest and Most Beautiful Insight in Economics](/economics/comparative-advantage/) - Why countries that are better at everything still gain from trade. Comparative advantage, with Ricardo's numbers and the lens to test every "we should make it here" argument.
 - [The Ban That Can't Work](/economics/the-ban-that-cant-work/) - Australia's under-16 ban removed accounts, not users. The teens never left.
 - [The 63 Billion Reckoning](/economics/the-63bn-reckoning/) - 120 millionaires want a wealth tax. The Treasury already accepts their checks.
