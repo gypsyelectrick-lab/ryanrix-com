@@ -11,6 +11,8 @@ This section looks at power - who has it, who wants it, who profits from expandi
 
 ---
 
+- **[The Politics of the Misdiagnosis →](/politics/the-politics-of-the-misdiagnosis/)** - The doomer's exhibits are all government interventions. Ask who benefits. The final article in The Natural Condition of Mankind.
+
 - **[The Sock Puppet Industry →](/politics/sock-puppet-industry/)** - Your taxes flow through a pipeline of quangos and committees to pay charities that lobby for more government. Most of the money never reaches the cause. That is not a bug. It is the system.
 
 - **[The Seven Questions →](/politics/seven-questions/)** - Seven questions every law should answer before it passes. Almost none would survive. That is the point.
