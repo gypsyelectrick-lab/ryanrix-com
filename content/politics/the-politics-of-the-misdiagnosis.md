@@ -4,6 +4,7 @@ menu: "The Politics of the Misdiagnosis"
 date: 2026-08-27
 author: "Max Weber"
 description: "The doomer's exhibits are all government interventions. Ask who benefits."
+image: /images/the-politics-of-the-misdiagnosis.png
 draft: false
 weight: 60
 tags: ["politics", "capitalism", "grievance", "incentives"]
