@@ -11,6 +11,8 @@ This section looks at power - who has it, who wants it, who profits from expandi
 
 ---
 
+- **[The Social Tariff →](/politics/the-social-tariff-who-pays/)** - Three million households owe £1,800. Ask who pays for the help. The bad-debt allowance, the Warm Home Discount, and the £1.9bn social discount.
+
 - **[The Politics of the Misdiagnosis →](/politics/the-politics-of-the-misdiagnosis/)** - The doomer's exhibits are all government interventions. Ask who benefits. The final article in The Natural Condition of Mankind.
 
 - **[The Sock Puppet Industry →](/politics/sock-puppet-industry/)** - Your taxes flow through a pipeline of quangos and committees to pay charities that lobby for more government. Most of the money never reaches the cause. That is not a bug. It is the system.
