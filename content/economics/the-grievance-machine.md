@@ -196,4 +196,4 @@ And the dog is supposed to be you.
 
 ---
 
-*This is the first article in a two-part series. Next: Max Weber on who profits from the grievance machine and the question you have to answer.*
+*This is the first article in a two-part series. Next: <a href="/politics/the-grievance-machine-part-ii/" target="_blank" rel="noopener noreferrer">Max Weber on who profits from the grievance machine</a> and the question you have to answer.*

@@ -67,4 +67,4 @@ The difference is that the Fabians succeeded. Their patience, their institutiona
 
 The Green Party has not succeeded in the same way. It has never held national power. Its electoral strategy has stalled at the local council level. Its radicalism frightens voters even when its environmental message attracts them. But it is a revealing case study nonetheless, because it shows the same pattern in its early stages - an organisation using a trusted public mission as cover for a far-reaching political project, held together by the gap between what it says it is and what it actually is.
 
-Next time: the Conservative Party and the question of whether it has ever had an institution behind it at all.
+Next time: <a href="/politics/the-conservative-party-institution-that-wasnt/" target="_blank" rel="noopener noreferrer">the Conservative Party and the question of whether it has ever had an institution behind it at all</a>.

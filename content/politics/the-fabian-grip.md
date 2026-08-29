@@ -102,4 +102,4 @@ The Conservatives had the Carlton Club, the Bow Group, and the network of Conser
 
 The American equivalents are different beasts entirely. The Heritage Foundation and the Federalist Society on the right, the Center for American Progress and the Democracy Alliance on the left - these are younger, less entrenched, and operate in a political system with weaker parties and stronger individuals. But the question is the same: who decides what options are on the table?
 
-Next time: the Conservative Party and the institutions that shaped it.
+Next time: <a href="/politics/the-conservative-party-institution-that-wasnt/" target="_blank" rel="noopener noreferrer">the Conservative Party and the institutions that shaped it</a>.

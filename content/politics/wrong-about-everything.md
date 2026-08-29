@@ -81,4 +81,4 @@ The question is not whether climate change is real - the evidence that the plane
 
 The history of the environmental movement suggests that the answer is not encouraging.
 
-**Next time: the Conservative Party and whether it has ever had an intellectual foundation worth auditing at all.**
+**Next time: <a href="/politics/the-conservative-party-institution-that-wasnt/" target="_blank" rel="noopener noreferrer">the Conservative Party and whether it has ever had an intellectual foundation worth auditing at all</a>.**
