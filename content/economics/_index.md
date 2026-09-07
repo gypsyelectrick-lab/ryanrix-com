@@ -92,6 +92,7 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [The Invention of Money](/economics/the-invention-of-money/) - The coin carries a king's face. Money was born before the state.
 - [Banking and Credit](/economics/banking-and-credit/) - The vault wears a license. Credit was born before the state.
 - [The Profit That Can't Stand Still](/economics/the-profit-that-cant-stand-still/) - Why a firm can't settle for a "fair" profit - and who pays when it stops.
+- [Economics Is Not the Problem. The Certainty-Sellers Are.](/economics/economics-is-not-the-problem/) - A science explains why things happened. It was never designed to predict what happens next. Blaming economics for its fortune-tellers misses the point.
 - [Don't Call Them Technocrats](/economics/dont-call-them-technocrats/) - The people writing tech policy don't understand tech. They are not experts. They are bureaucrats with a printing press.
 - [Hyperinflation](/economics/hyperinflation/) - The one thing every monetary theory fears - and what actually causes it.
 - [What Is Feudalism?](/economics/what-is-feudalism/) - The word came later. The system needed castles, oaths, and serfs.
