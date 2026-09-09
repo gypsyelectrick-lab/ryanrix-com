@@ -28,7 +28,7 @@ The UK Emissions Trading Scheme prices carbon for domestic manufacturers. Britis
 
 The border tax is the standard answer to that problem. Price the emissions embedded in imports, and importers pay what domestic producers pay. The level playing field is restored. British heavy industry - the firms that actually pay the ETS - asked for exactly this. When the government says CBAM will stop overseas producers undercutting British firms, it is describing its own rationale. The European Union's version began charging in January 2026.
 
-So far, so simple. the trouble starts with the other hand.
+So far, so simple. The trouble starts with the other hand.
 
 ## The Second Price on the Same Molecule
 
