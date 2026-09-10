@@ -5,7 +5,7 @@ date: 2026-08-29
 author: "Max Weber"
 description: "Tax the imports with one hand, compensate the farmers with the other."
 draft: false
-weight: 62
+weight: 51
 tags: ["energy", "cbam", "fertilizer", "carbon tax", "agriculture", "policy"]
 level: "intermediate"
 ---
