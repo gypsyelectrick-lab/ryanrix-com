@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <article class="single-article">
+    <header style="margin-bottom: 2rem; border-bottom: 2px solid var(--color-primary); padding-bottom: 1rem;">
+      <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">{{ .Title }}</h1>
+      <p style="color: var(--color-text-muted); font-weight: 600;">Search every article on ryanrix.com - type a word or phrase you remember.</p>
+    </header>
+    <div class="article-content">
+      <div id="search"></div>
+    </div>
+  </article>
+
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-ui.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', function () {
+      new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        showImages: false
+      });
+    });
+  </script>
+{{ end }}
