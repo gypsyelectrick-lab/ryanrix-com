@@ -115,4 +115,4 @@ You will start seeing the pattern everywhere. And you will wonder why nobody eve
 
 ---
 
-*Next: [Supply and Demand - The Dance That Drives Everything →](/economics/supply-and-demand/)*
+*Next: <a href="/economics/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply and Demand - The Dance That Drives Everything →</a>*

@@ -99,4 +99,4 @@ The inequality report frames the problem as "too much market." The real problem 
 
 ---
 
-*Next: [Why You Shouldn't Care About Billionaires →](/economics/why-you-shouldnt-care-about-billionaires/)*
+*Next: <a href="/economics/why-you-shouldnt-care-about-billionaires/" target="_blank" rel="noopener noreferrer">Why You Shouldn't Care About Billionaires →</a>*

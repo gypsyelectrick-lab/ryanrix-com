@@ -100,4 +100,4 @@ Opportunity cost is not a pessimistic idea. It is a clarifying one. It does not 
 
 ---
 
-*Next: [What Price Controls Make Invisible →](/economics/price-controls/)*
+*Next: <a href="/economics/price-controls/" target="_blank" rel="noopener noreferrer">What Price Controls Make Invisible →</a>*
