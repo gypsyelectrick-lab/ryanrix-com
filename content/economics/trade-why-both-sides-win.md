@@ -81,4 +81,4 @@ The right question is not "who won?" It is "are we both better off than we were 
 
 ---
 
-*Next: [Money & Inflation - What They Actually Are →]({{< ref "/economics/money-and-inflation" >}})*
+*Next: <a href="/economics/money-and-inflation/" target="_blank" rel="noopener noreferrer">Money & Inflation - What They Actually Are →</a>*

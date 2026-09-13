@@ -81,4 +81,4 @@ Then think about what it took - courts, laws, a culture of respect for ownership
 
 ---
 
-*Next: [Creative Destruction - Why Lost Jobs Make Us Richer →]({{< ref "/economics/creative-destruction" >}})*
+*Next: <a href="/economics/creative-destruction/" target="_blank" rel="noopener noreferrer">Creative Destruction - Why Lost Jobs Make Us Richer →</a>*

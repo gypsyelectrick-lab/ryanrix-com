@@ -88,4 +88,4 @@ You do not need to get the answers right yet. You are building a habit. The answ
 
 ---
 
-*Next: [Competition and Co-operation - Why free markets need both →]({{< ref "/economics/competition-and-co-operation" >}})*
+*Next: <a href="/economics/competition-and-co-operation/" target="_blank" rel="noopener noreferrer">Competition and Co-operation - Why free markets need both →</a>*

@@ -53,4 +53,4 @@ The next time someone proposes a policy, ask: "Who is at the margin here? Who is
 
 **Marginal analysis is not just for economists.** Everyone does it intuitively. You do it when you decide whether to stay five more minutes at a party or watch one more episode of a show. Economics just gives it a name.
 
-See also: [Elastic and Inelastic Demand](/notes/elastic-and-inelastic-demand/), [Supply & Demand](/notes/supply-and-demand/), [Opportunity Cost](/notes/opportunity-cost/), [Microeconomics](/notes/microeconomics/)
+See also: <a href="/notes/elastic-and-inelastic-demand/" target="_blank" rel="noopener noreferrer">Elastic and Inelastic Demand</a>, <a href="/notes/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/notes/opportunity-cost/" target="_blank" rel="noopener noreferrer">Opportunity Cost</a>, <a href="/notes/microeconomics/" target="_blank" rel="noopener noreferrer">Microeconomics</a>

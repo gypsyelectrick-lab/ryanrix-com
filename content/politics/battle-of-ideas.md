@@ -51,4 +51,4 @@ The alternative is to let the bad ideas keep winning. They will. They always do,
 This series is part of that scaffolding. Not because any single article will change anyone's mind, but because the scaffolding matters more than the individual bricks.
 
 
-*This is part two of a four-part series on ideas, speech, and democracy. Previously: [Free Speech in Britain](/politics/free-speech-in-britain/) - the quiet erosion of the right to speak. Next: [Democracy's Impossible Voter](/politics/democracys-impossible-voter/) - what happens when the system assumes an informed citizen who no longer exists.*
+*This is part two of a four-part series on ideas, speech, and democracy. Previously: <a href="/politics/free-speech-in-britain/" target="_blank" rel="noopener noreferrer">Free Speech in Britain</a> - the quiet erosion of the right to speak. Next: <a href="/politics/democracys-impossible-voter/" target="_blank" rel="noopener noreferrer">Democracy's Impossible Voter</a> - what happens when the system assumes an informed citizen who no longer exists.*

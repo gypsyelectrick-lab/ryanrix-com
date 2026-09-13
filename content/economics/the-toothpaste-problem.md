@@ -119,4 +119,4 @@ Both errors come from the same source: the belief that what you can see is all t
 
 ---
 
-*Next: [What Price Controls Make Invisible →](/economics/price-controls/)*
+*Next: <a href="/economics/price-controls/" target="_blank" rel="noopener noreferrer">What Price Controls Make Invisible →</a>*

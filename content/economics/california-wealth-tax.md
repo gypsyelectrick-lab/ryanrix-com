@@ -127,4 +127,4 @@ California is about to run a real-time experiment on Proposition 40. If the hist
 
 ---
 
-*Previously: [Why You Shouldn't Care About Billionaires →](/economics/why-you-shouldnt-care-about-billionaires/)*
+*Previously: <a href="/economics/why-you-shouldnt-care-about-billionaires/" target="_blank" rel="noopener noreferrer">Why You Shouldn't Care About Billionaires →</a>*

@@ -14,7 +14,7 @@ Birmingham City Council is the largest local authority in Europe. It collects ro
 
 Eight years later, the forecast cost is £144.4 million. Investigators put the total money lost at £216.5 million and rising. The system still does not work. The council has been unable to produce auditable accounts since 2022. The failure is one of the reasons Europe's largest council declared itself effectively bankrupt in 2023.
 
-This is the second IT case study in [Why Things Break](/politics/why-things-break-introduction/), and it is the same disease as the NHS's ten billion pound programme, at council scale. The first episode documented [the National Programme for IT](/politics/why-things-break-nhs-it/), where an impossible project was announced, paid for, and quietly dismantled. Birmingham shows the identical incentives operating at the level of your local council - and the same absence of anyone in the room who understood the technology they were approving.
+This is the second IT case study in <a href="/politics/why-things-break-introduction/" target="_blank" rel="noopener noreferrer">Why Things Break</a>, and it is the same disease as the NHS's ten billion pound programme, at council scale. The first episode documented <a href="/politics/why-things-break-nhs-it/" target="_blank" rel="noopener noreferrer">the National Programme for IT</a>, where an impossible project was announced, paid for, and quietly dismantled. Birmingham shows the identical incentives operating at the level of your local council - and the same absence of anyone in the room who understood the technology they were approving.
 
 ## The story
 

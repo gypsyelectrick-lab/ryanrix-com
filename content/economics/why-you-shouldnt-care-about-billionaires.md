@@ -110,4 +110,4 @@ The billionaire panic is a distraction from that work. It feels good to be angry
 
 ---
 
-*Next: [Don't Call Them Technocrats →](/economics/dont-call-them-technocrats/)*
+*Next: <a href="/economics/dont-call-them-technocrats/" target="_blank" rel="noopener noreferrer">Don't Call Them Technocrats →</a>*

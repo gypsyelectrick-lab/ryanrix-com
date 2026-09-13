@@ -111,4 +111,4 @@ Learning to see the invisible is the single most useful economic skill you can d
 
 ---
 
-*Next: [Public Choice Theory - Why Government Doesn't Fix What Government Breaks →](/economics/public-choice-theory/)*
+*Next: <a href="/economics/public-choice-theory/" target="_blank" rel="noopener noreferrer">Public Choice Theory - Why Government Doesn't Fix What Government Breaks →</a>*

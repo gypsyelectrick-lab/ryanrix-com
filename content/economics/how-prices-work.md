@@ -63,4 +63,4 @@ Try to imagine designing that system on purpose. You cannot. It is too complex. 
 
 ---
 
-*Next: [The Information Problem - Why Central Planning Fails →]({{< ref "/economics/the-information-problem" >}})*
+*Next: <a href="/economics/the-information-problem/" target="_blank" rel="noopener noreferrer">The Information Problem - Why Central Planning Fails →</a>*

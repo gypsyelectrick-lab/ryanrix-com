@@ -99,4 +99,4 @@ That is because the most important economic question about any policy is not "wh
 
 ---
 
-*Next: [Public Choice Theory →](/economics/public-choice-theory/) Why governments do what they do, and why it is not what they say.*
+*Next: <a href="/economics/public-choice-theory/" target="_blank" rel="noopener noreferrer">Public Choice Theory →</a> Why governments do what they do, and why it is not what they say.*

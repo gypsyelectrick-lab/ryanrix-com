@@ -46,4 +46,4 @@ These are not "market failures." They are preconditions for markets to function 
 
 **Markets can produce bad outcomes.** A market for child labor will find workers and employers. Markets efficiently allocate resources toward whatever people demand, including harmful things. This is why the rules matter.
 
-See also: [The Invisible Hand](/notes/the-invisible-hand/), [Prices](/economics/how-prices-work/), [Supply & Demand](/economics/supply-and-demand/), [Property Rights](/economics/property-rights-the-foundation/)
+See also: <a href="/notes/the-invisible-hand/" target="_blank" rel="noopener noreferrer">The Invisible Hand</a>, <a href="/economics/how-prices-work/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/economics/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/economics/property-rights-the-foundation/" target="_blank" rel="noopener noreferrer">Property Rights</a>

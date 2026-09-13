@@ -41,4 +41,4 @@ The shortage was not caused by the wheat harvest. It was caused by the price bei
 
 **A "fair" price is not the same as the market price.** The market price reflects supply and demand. A "fair" price reflects someone's judgment about what the price should be. These are almost never the same, and imposing the "fair" price usually creates the problems it was meant to solve.
 
-See also: [Supply & Demand](/notes/supply-and-demand/), [Markets](/notes/markets/), [The Invisible Hand](/notes/the-invisible-hand/), [Price Controls](/economics/price-controls/)
+See also: <a href="/notes/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/notes/markets/" target="_blank" rel="noopener noreferrer">Markets</a>, <a href="/notes/the-invisible-hand/" target="_blank" rel="noopener noreferrer">The Invisible Hand</a>, <a href="/economics/price-controls/" target="_blank" rel="noopener noreferrer">Price Controls</a>

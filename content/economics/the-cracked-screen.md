@@ -88,4 +88,4 @@ You will start seeing the pattern everywhere - on the news, in political speeche
 
 ---
 
-*Next: [The One Lesson - The single idea that separates clear economic thinking from confusion →]({{< ref "/economics/the-one-lesson" >}})*
+*Next: <a href="/economics/the-one-lesson/" target="_blank" rel="noopener noreferrer">The One Lesson - The single idea that separates clear economic thinking from confusion →</a>*

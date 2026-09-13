@@ -51,4 +51,4 @@ This question cuts through more nonsense than any technical argument. It forces 
 
 **It is not a pessimistic idea.** It is a clarifying one. It does not tell you what to choose. It tells you what you are giving up when you choose.
 
-See also: [Supply & Demand](/notes/supply-and-demand/), [Prices](/notes/prices/), [The One Lesson](/economics/the-one-lesson/)
+See also: <a href="/notes/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/notes/prices/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/economics/the-one-lesson/" target="_blank" rel="noopener noreferrer">The One Lesson</a>

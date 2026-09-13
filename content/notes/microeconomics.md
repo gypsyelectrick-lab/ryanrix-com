@@ -46,4 +46,4 @@ But the whole is not simply the sum of its parts. Aggregate phenomena can behave
 
 **"Marginal" does not mean "small."** In microeconomics, marginal means *additional* - the next unit, the next hour, the next dollar. It is a way of thinking about choices, not a comment on their importance.
 
-See also: [Supply & Demand](/economics/supply-and-demand/), [Opportunity Cost](/economics/opportunity-cost/), [Prices](/economics/how-prices-work/), [Macroeconomics](/notes/macroeconomics/)
+See also: <a href="/economics/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/economics/opportunity-cost/" target="_blank" rel="noopener noreferrer">Opportunity Cost</a>, <a href="/economics/how-prices-work/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/notes/macroeconomics/" target="_blank" rel="noopener noreferrer">Macroeconomics</a>

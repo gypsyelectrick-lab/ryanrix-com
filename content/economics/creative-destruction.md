@@ -83,4 +83,4 @@ Then look at the world around you. The food on your table, the phone in your poc
 
 ---
 
-*Next: [Interest Rates - The Price of Time →]({{< ref "/economics/interest-rates-price-of-time" >}})*
+*Next: <a href="/economics/interest-rates-price-of-time/" target="_blank" rel="noopener noreferrer">Interest Rates - The Price of Time →</a>*

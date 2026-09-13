@@ -49,4 +49,4 @@ Any serious defense of democracy begins by acknowledging that its foundational a
 The history of democracy is a history of imperfect solutions to impossible problems. We need another one.
 
 
-*This is part three of a four-part series on ideas, speech, and democracy. Previously: [The Battle of Ideas](/politics/battle-of-ideas/) - why bad ideas keep winning. Next: [Locke's Ghost](/politics/lockes-ghost/) - what the philosophers of liberty would make of this mess.*
+*This is part three of a four-part series on ideas, speech, and democracy. Previously: <a href="/politics/battle-of-ideas/" target="_blank" rel="noopener noreferrer">The Battle of Ideas</a> - why bad ideas keep winning. Next: <a href="/politics/lockes-ghost/" target="_blank" rel="noopener noreferrer">Locke's Ghost</a> - what the philosophers of liberty would make of this mess.*

@@ -48,4 +48,4 @@ This matters for policy and business. A tax on luxury goods may not reduce consu
 
 **Veblen goods are not irrational.** The buyer is getting real utility from the social signal the price provides. It only looks irrational if you ignore that signal.
 
-See also: [Giffen Goods](/notes/giffen-goods/), [Supply & Demand](/economics/supply-and-demand/), [Prices](/economics/how-prices-work/)
+See also: <a href="/notes/giffen-goods/" target="_blank" rel="noopener noreferrer">Giffen Goods</a>, <a href="/economics/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/economics/how-prices-work/" target="_blank" rel="noopener noreferrer">Prices</a>

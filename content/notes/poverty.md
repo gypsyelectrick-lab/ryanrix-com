@@ -55,4 +55,4 @@ Both perspectives contain partial truth. Redistribution can help in the short te
 
 **"Billionaires cause poverty" is backwards as a causal claim.** Wealth is created, not extracted from a fixed pool. The evidence suggests that the countries with the most billionaires per capita also have the lowest poverty rates.
 
-See also: [International Trade](/economics/trade-why-both-sides-win/), [Property Rights](/economics/property-rights-the-foundation/), [Macroeconomics](/notes/macroeconomics/), [The 2% Rule](/economics/two-percent-rule/)
+See also: <a href="/economics/trade-why-both-sides-win/" target="_blank" rel="noopener noreferrer">International Trade</a>, <a href="/economics/property-rights-the-foundation/" target="_blank" rel="noopener noreferrer">Property Rights</a>, <a href="/notes/macroeconomics/" target="_blank" rel="noopener noreferrer">Macroeconomics</a>, <a href="/economics/two-percent-rule/" target="_blank" rel="noopener noreferrer">The 2% Rule</a>

@@ -87,4 +87,4 @@ The answer is rarely just "the government would get more money." The economy is 
 
 ---
 
-*Next: [Externalities - When The Price Is Wrong →]({{< ref "/economics/externalities-when-price-is-wrong" >}})*
+*Next: <a href="/economics/externalities-when-price-is-wrong/" target="_blank" rel="noopener noreferrer">Externalities - When The Price Is Wrong →</a>*

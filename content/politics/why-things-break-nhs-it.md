@@ -14,7 +14,7 @@ In 2002 the British government announced the largest civilian IT project in hist
 
 It was going to transform the NHS. It was going to cost £2.3 billion.
 
-It cost roughly ten times that, delivered essentially nothing, and was dismantled in pieces over a decade. MPs called it one of the worst fiascos they had ever seen. This is the first IT case study in [Why Things Break](/politics/why-things-break-introduction/), and it sets the scale for everything that follows: when government decides that something is good and backs it with borrowed money, the risk of being wrong is paid by someone else.
+It cost roughly ten times that, delivered essentially nothing, and was dismantled in pieces over a decade. MPs called it one of the worst fiascos they had ever seen. This is the first IT case study in <a href="/politics/why-things-break-introduction/" target="_blank" rel="noopener noreferrer">Why Things Break</a>, and it sets the scale for everything that follows: when government decides that something is good and backs it with borrowed money, the risk of being wrong is paid by someone else.
 
 ## The story
 

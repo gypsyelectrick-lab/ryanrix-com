@@ -39,4 +39,4 @@ This is the insight that separates market economics from central planning. In a 
 
 When you encounter claims that markets are chaotic or that profit-seeking is inherently antisocial, the invisible hand is the counterpoint: the mechanism by which the pursuit of self-interest, under the right conditions, serves the common good without intending to.
 
-See also: [Markets](/notes/markets/), [Prices](/economics/how-prices-work/), [Supply & Demand](/economics/supply-and-demand/)
+See also: <a href="/notes/markets/" target="_blank" rel="noopener noreferrer">Markets</a>, <a href="/economics/how-prices-work/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/economics/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>

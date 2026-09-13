@@ -45,4 +45,4 @@ Once you understand the basic pattern, you can analyse nearly any market policy 
 
 **Sellers are not "greedy" when prices rise.** A landlord charging higher rent in a popular city is responding to the same signal as a plumber charging more for an emergency call. The price is information about relative scarcity. The alternative - a price that does not rise - would mean the good runs out with no signal to produce more.
 
-See also: [Prices](/notes/prices/), [Elastic and Inelastic Demand](/notes/elastic-and-inelastic-demand/), [Markets](/notes/markets/)
+See also: <a href="/notes/prices/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/notes/elastic-and-inelastic-demand/" target="_blank" rel="noopener noreferrer">Elastic and Inelastic Demand</a>, <a href="/notes/markets/" target="_blank" rel="noopener noreferrer">Markets</a>

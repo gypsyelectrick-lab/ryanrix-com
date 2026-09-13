@@ -49,4 +49,4 @@ Fiat money has many advantages over commodity money (gold, silver). It is easier
 
 **The total amount of money in existence is not fixed.** Most money is created by banks when they make loans, and destroyed when loans are repaid. A growing money supply is normal in a growing economy. The problem is when it grows faster than the economy's ability to produce real goods and services.
 
-See also: [Prices](/notes/prices/), [Interest Rates](/notes/interest-rates/), [Macroeconomics](/notes/macroeconomics/)
+See also: <a href="/notes/prices/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/notes/interest-rates/" target="_blank" rel="noopener noreferrer">Interest Rates</a>, <a href="/notes/macroeconomics/" target="_blank" rel="noopener noreferrer">Macroeconomics</a>

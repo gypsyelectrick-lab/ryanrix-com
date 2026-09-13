@@ -55,4 +55,4 @@ Bonds also provide a safe asset for pension funds and savers. They serve a purpo
 
 **MMT applies only to countries that issue their own currency with a floating exchange rate.** It does not apply to eurozone members (they use the euro but do not issue it) or to countries that borrow in foreign currency.
 
-See also: [Money & Currency](/notes/money-and-currency/), [Macroeconomics](/notes/macroeconomics/)
+See also: <a href="/notes/money-and-currency/" target="_blank" rel="noopener noreferrer">Money & Currency</a>, <a href="/notes/macroeconomics/" target="_blank" rel="noopener noreferrer">Macroeconomics</a>

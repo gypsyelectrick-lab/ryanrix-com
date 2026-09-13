@@ -39,4 +39,4 @@ Schumpeterian profits are the 2%. They are the reward that motivates innovation,
 
 **It is not "excess profit" in the political sense.** The profit is a signal that the innovation is valuable. It is the market's way of saying: *do more of this.*
 
-See also: [Creative Destruction](/economics/creative-destruction/), [Markets](/notes/markets/), [The 2% Rule](/economics/two-percent-rule/)
+See also: <a href="/economics/creative-destruction/" target="_blank" rel="noopener noreferrer">Creative Destruction</a>, <a href="/notes/markets/" target="_blank" rel="noopener noreferrer">Markets</a>, <a href="/economics/two-percent-rule/" target="_blank" rel="noopener noreferrer">The 2% Rule</a>

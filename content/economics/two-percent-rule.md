@@ -100,4 +100,4 @@ And the people who benefit most are not the entrepreneurs themselves. They are t
 
 ---
 
-*This is the first article in a three-part series, "The 2% Economy." Next: [The Walmart Question →]({{< ref "/economics/walmart-question" >}})*
+*This is the first article in a three-part series, "The 2% Economy." Next: <a href="/economics/walmart-question/" target="_blank" rel="noopener noreferrer">The Walmart Question →</a>*

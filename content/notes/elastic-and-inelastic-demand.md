@@ -61,4 +61,4 @@ A common confusion: a steep demand curve does not mean inelastic demand, because
 
 **Perfectly elastic** (elasticity = infinity) - any price increase causes quantity demanded to drop to zero. The demand curve is horizontal. This describes a firm in a perfectly competitive market selling an identical product to everyone else.
 
-See also: [Supply & Demand](/economics/supply-and-demand/), [Prices](/economics/how-prices-work/), [Giffen Goods](/notes/giffen-goods/), [Taxes - Who Actually Pays](/economics/taxes-who-actually-pays/)
+See also: <a href="/economics/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/economics/how-prices-work/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/notes/giffen-goods/" target="_blank" rel="noopener noreferrer">Giffen Goods</a>, <a href="/economics/taxes-who-actually-pays/" target="_blank" rel="noopener noreferrer">Taxes - Who Actually Pays</a>

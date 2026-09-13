@@ -72,4 +72,4 @@ The difference is between setting the rules of the game against trying to make e
 
 ---
 
-*Next: [Property Rights - The Foundation You Never Notice →]({{< ref "/economics/property-rights-the-foundation" >}})*
+*Next: <a href="/economics/property-rights-the-foundation/" target="_blank" rel="noopener noreferrer">Property Rights - The Foundation You Never Notice →</a>*

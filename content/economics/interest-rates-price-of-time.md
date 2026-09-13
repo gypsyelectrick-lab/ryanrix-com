@@ -83,4 +83,4 @@ Then look at the rate on your mortgage or any debt you have. Is it fixed or vari
 
 ---
 
-*Next: [Taxes - Who Actually Pays →]({{< ref "/economics/taxes-who-actually-pays" >}})*
+*Next: <a href="/economics/taxes-who-actually-pays/" target="_blank" rel="noopener noreferrer">Taxes - Who Actually Pays →</a>*

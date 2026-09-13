@@ -45,4 +45,4 @@ Or maybe we are in a temporary dip. Maybe the institutions are stressed but not 
 We find out soon.
 
 
-*This is part four of a four-part series on ideas, speech, and democracy. Previously: [Democracy's Impossible Voter](/politics/democracys-impossible-voter/) - why the system's foundational assumption just broke. The conversation continues at ryanrix.com.*
+*This is part four of a four-part series on ideas, speech, and democracy. Previously: <a href="/politics/democracys-impossible-voter/" target="_blank" rel="noopener noreferrer">Democracy's Impossible Voter</a> - why the system's foundational assumption just broke. The conversation continues at ryanrix.com.*

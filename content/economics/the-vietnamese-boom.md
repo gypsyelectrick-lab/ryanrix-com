@@ -134,4 +134,4 @@ On balance, Vietnam's trajectory is one of the most impressive development stori
 
 ---
 
-*Next: [Trade - Why both sides win →](/economics/trade-why-both-sides-win/)*
+*Next: <a href="/economics/trade-why-both-sides-win/" target="_blank" rel="noopener noreferrer">Trade - Why both sides win →</a>*

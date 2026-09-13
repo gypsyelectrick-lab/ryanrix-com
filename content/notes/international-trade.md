@@ -45,4 +45,4 @@ The memorable rule of thumb: if someone talks about trade using fighting metapho
 
 **Cheap imports are not a loss.** They are a real gain to consumers, especially poor consumers, who get more for their money. The loss of a specific job is a real cost, but it is a cost of change, not a cost of trade.
 
-See also: [Supply & Demand](/notes/supply-and-demand/), [Prices](/notes/prices/), [Elastic and Inelastic Demand](/notes/elastic-and-inelastic-demand/)
+See also: <a href="/notes/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/notes/prices/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/notes/elastic-and-inelastic-demand/" target="_blank" rel="noopener noreferrer">Elastic and Inelastic Demand</a>

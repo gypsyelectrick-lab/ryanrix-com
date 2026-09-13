@@ -108,4 +108,4 @@ The entrepreneur keeps a tiny fraction. Everyone else - especially the poor - ke
 
 ---
 
-*This is the second article in a three-part series, "The 2% Economy." Previous: [The 2% Rule →](/economics/two-percent-rule/). Next: [Who Actually Helps the Poor? →]({{< ref "/economics/who-helps-the-poor" >}})*
+*This is the second article in a three-part series, "The 2% Economy." Previous: <a href="/economics/two-percent-rule/" target="_blank" rel="noopener noreferrer">The 2% Rule →</a>. Next: <a href="/economics/who-helps-the-poor/" target="_blank" rel="noopener noreferrer">Who Actually Helps the Poor? →</a>*

@@ -79,4 +79,4 @@ None of this is an argument for or against any particular government policy. It 
 
 ---
 
-*Read the economics section from the beginning: [The Cracked Screen →]({{< ref "/economics/the-cracked-screen" >}})*
+*Read the economics section from the beginning: <a href="/economics/the-cracked-screen/" target="_blank" rel="noopener noreferrer">The Cracked Screen →</a>*

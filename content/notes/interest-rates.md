@@ -49,4 +49,4 @@ When rates are kept artificially low for too long, people take on debt they cann
 
 **The central bank does not control all rates.** It sets the short-term policy rate. Long-term rates are determined by the market's view of the future - inflation expectations, growth prospects, global capital flows.
 
-See also: [Money & Currency](/notes/money-and-currency/), [Prices](/notes/prices/), [Macroeconomics](/notes/macroeconomics/)
+See also: <a href="/notes/money-and-currency/" target="_blank" rel="noopener noreferrer">Money & Currency</a>, <a href="/notes/prices/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/notes/macroeconomics/" target="_blank" rel="noopener noreferrer">Macroeconomics</a>

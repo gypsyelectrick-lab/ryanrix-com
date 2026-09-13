@@ -57,4 +57,4 @@ These schools disagree on many things, but they agree on the core data: GDP, inf
 
 **Correlation is not causation in macroeconomics.** Two things happening at the same time - rising government spending and falling unemployment - does not mean one caused the other. Macroeconomics is notoriously difficult for causal inference because controlled experiments are impossible.
 
-See also: [Microeconomics](/notes/microeconomics/), [Money & Inflation](/economics/money-and-inflation/), [Interest Rates](/economics/interest-rates-price-of-time/), [Modern Monetary Theory](/economics/modern-monetary-theory/)
+See also: <a href="/notes/microeconomics/" target="_blank" rel="noopener noreferrer">Microeconomics</a>, <a href="/economics/money-and-inflation/" target="_blank" rel="noopener noreferrer">Money & Inflation</a>, <a href="/economics/interest-rates-price-of-time/" target="_blank" rel="noopener noreferrer">Interest Rates</a>, <a href="/economics/modern-monetary-theory/" target="_blank" rel="noopener noreferrer">Modern Monetary Theory</a>

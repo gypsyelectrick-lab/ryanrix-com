@@ -43,4 +43,4 @@ These arguments are old. They are also neglected. The people who should be makin
 The battle for free speech in Britain is not lost. But it is not being fought either.
 
 
-*This is part one of a four-part series on ideas, speech, and democracy. Next: [The Battle of Ideas](/politics/battle-of-ideas/) - why bad ideas beat good ones, and what that means for everything else.*
+*This is part one of a four-part series on ideas, speech, and democracy. Next: <a href="/politics/battle-of-ideas/" target="_blank" rel="noopener noreferrer">The Battle of Ideas</a> - why bad ideas beat good ones, and what that means for everything else.*

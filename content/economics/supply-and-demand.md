@@ -53,4 +53,4 @@ The only thing economics adds is the name for the pattern. And once you have the
 
 ---
 
-*Next: [How Prices Work - The Information Machine Nobody Built →]({{< ref "/economics/how-prices-work" >}})*
+*Next: <a href="/economics/how-prices-work/" target="_blank" rel="noopener noreferrer">How Prices Work - The Information Machine Nobody Built →</a>*

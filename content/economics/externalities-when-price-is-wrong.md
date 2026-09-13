@@ -83,4 +83,4 @@ If the answer is no - and for most things, it is - ask what would change if it d
 
 ---
 
-*Next: [Trade - Why Both Sides Win →]({{< ref "/economics/trade-why-both-sides-win" >}})*
+*Next: <a href="/economics/trade-why-both-sides-win/" target="_blank" rel="noopener noreferrer">Trade - Why Both Sides Win →</a>*

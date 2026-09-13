@@ -45,4 +45,4 @@ Giffen goods are rare in modern developed economies because the conditions are h
 
 **Not the same as a necessity.** Necessities like water and electricity have low price sensitivity (inelastic demand), but they do not have the perverse response of Giffen goods. If water prices double, households cut back, not increase.
 
-See also: [Supply & Demand](/economics/supply-and-demand/), [Prices](/economics/how-prices-work/), [Markets](/notes/markets/)
+See also: <a href="/economics/supply-and-demand/" target="_blank" rel="noopener noreferrer">Supply & Demand</a>, <a href="/economics/how-prices-work/" target="_blank" rel="noopener noreferrer">Prices</a>, <a href="/notes/markets/" target="_blank" rel="noopener noreferrer">Markets</a>
