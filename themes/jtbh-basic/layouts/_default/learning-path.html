@@ -18,7 +18,7 @@
   <section class="learning-path-group">
     <h2 class="learning-path-level" style="color: var(--color-primary); font-size: 1.8rem; margin-top: 2.5rem; display: flex; align-items: center; gap: 0.75rem;">
       <span class="level-icon" style="background: #2e7d32; color: white; font-size: 0.9rem; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold;">BEGINNER</span>
-      Start Here — {{ len $beginner }} Articles
+      Start Here - {{ len $beginner }} Articles
     </h2>
     <p style="color: var(--color-text-muted); margin-top: -0.5rem;">New to these ideas? Begin here. No prior knowledge needed.</p>
     <ol class="learning-path-list" style="list-style: none; padding: 0; margin-top: 1.5rem;">
@@ -41,7 +41,7 @@
   <section class="learning-path-group">
     <h2 class="learning-path-level" style="color: var(--color-primary); font-size: 1.8rem; margin-top: 3rem; display: flex; align-items: center; gap: 0.75rem;">
       <span class="level-icon" style="background: #e65100; color: white; font-size: 0.9rem; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold;">INTERMEDIATE</span>
-      Going Deeper — {{ len $intermediate }} Articles
+      Going Deeper - {{ len $intermediate }} Articles
     </h2>
     <p style="color: var(--color-text-muted); margin-top: -0.5rem;">You've got the foundation. Now let's tackle the harder questions.</p>
     <ol class="learning-path-list" style="list-style: none; padding: 0; margin-top: 1.5rem;" start="{{ add (len $beginner) 1 }}">
@@ -64,7 +64,7 @@
   <section class="learning-path-group">
     <h2 class="learning-path-level" style="color: var(--color-primary); font-size: 1.8rem; margin-top: 3rem; display: flex; align-items: center; gap: 0.75rem;">
       <span class="level-icon" style="background: #b71c1c; color: white; font-size: 0.9rem; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold;">ADVANCED</span>
-      Further Reading — {{ len $advanced }} Articles
+      Further Reading - {{ len $advanced }} Articles
     </h2>
     <p style="color: var(--color-text-muted); margin-top: -0.5rem;">These articles engage with outside arguments and tackle tougher questions. Best read after the foundation is solid.</p>
     <ol class="learning-path-list" style="list-style: none; padding: 0; margin-top: 1.5rem;" start="{{ add (len $beginner) (add (len $intermediate) 1) }}">

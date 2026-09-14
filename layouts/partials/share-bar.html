@@ -1,7 +1,7 @@
 {{- $url := .Permalink -}}
 {{- $siteTitle := site.Title -}}
 {{- $title := .Title -}}
-{{- $whatsappText := printf "Check out %s — plain-English guides for real people: %s" $siteTitle $url -}}
+{{- $whatsappText := printf "Check out %s - plain-English guides for real people: %s" $siteTitle $url -}}
 {{- $emailSubject := $title -}}
 {{- $emailBody := printf "I just read \"%s\" on %s. Really well explained:\n\n%s" $title $siteTitle $url -}}
 {{- $fbQuote := printf "%s - %s" $title $url -}}
@@ -54,7 +54,7 @@
     
     <!-- Copy Link -->
     <button class="share-btn share-btn--copy" 
-            onclick="navigator.clipboard.writeText('{{ $title }} — {{ $siteTitle }}\n{{ $url }}').then(function(){var btn=event.currentTarget;btn.classList.add('share-btn--copied');setTimeout(function(){btn.classList.remove('share-btn--copied')},2000)})"
+            onclick="navigator.clipboard.writeText('{{ $title }} - {{ $siteTitle }}\n{{ $url }}').then(function(){var btn=event.currentTarget;btn.classList.add('share-btn--copied');setTimeout(function(){btn.classList.remove('share-btn--copied')},2000)})"
             aria-label="Copy link to clipboard">
       <svg class="share-icon" viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
       <span class="share-btn-label share-btn-label--default">Copy Link</span>
