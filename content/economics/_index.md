@@ -97,8 +97,10 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [Hyperinflation](/economics/hyperinflation/) - The one thing every monetary theory fears - and what actually causes it.
 - [What Is Feudalism?](/economics/what-is-feudalism/) - The word came later. The system needed castles, oaths, and serfs.
 - [What Is Socialism?](/economics/what-is-socialism/) - The believers named it. The rulers imposed it. The wall kept it in.
-- [The Pension Tax Raid](/economics/the-pension-tax-raid/) - The Budget is 75 days away. The demand says tax the rich. Your pension is next.
+- [The Pension Tax Raid](/economics/the-pension-tax-raid/) - The Budget is 44 days away. The demand says tax the rich. Your pension is next.
 - [The 90% Tax Rate Myth](/economics/the-90-percent-tax-rate-myth/) - The 90% rate was marginal, not effective. The rich paid far less than the slogan.
 - [The Bank Windfall Tax](/economics/the-bank-windfall-tax-who-pays/) - Tax the banks, the slogan says. The mechanism has a different answer.
 - [The Problems of Capitalism (and How to Fix Them)](/economics/the-problems-of-capitalism-and-how-to-fix-them/) - Capitalism has real problems. The usual fixes make them worse.
 - [Trade and the Merchants](/economics/trade-and-the-merchants/) - The road had no builder. Trade was born before the state.
+- [The Collapse That Was Revised Away: How to Read a Jobs Report](/economics/the-collapse-that-was-revised-away/) - The collapse was revised away. The layoff wave underneath it was not.
+- [The ECB Hiked Into a Supply Shock. The Price of Oil Did Not Notice.](/economics/ecb-hike-into-a-supply-shock/) - The ECB raised rates to fight a price rise the rate cannot touch.
