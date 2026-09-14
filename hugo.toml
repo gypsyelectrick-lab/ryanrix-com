@@ -44,6 +44,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
   weight = 12
 
 [[menu.main]]
+  identifier = 'levels'
+  name = 'By Level'
+  url = '/levels/'
+  weight = 17
+
+[[menu.main]]
   identifier = 'about'
   name = 'About'
   url = '/about/'
