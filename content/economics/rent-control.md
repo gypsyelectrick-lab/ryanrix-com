@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "Swedish economist Assar Lindbeck said it best fifty years ago. The evidence has only gotten stronger since."
 draft: false
 tags: ["economics", "housing", "rent-control", "price-controls", "berlin", "nyc"]
-level: intermediate
+levels: intermediate
 ---
 
 ## Lindbeck's Law

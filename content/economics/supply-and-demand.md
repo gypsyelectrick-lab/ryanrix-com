@@ -8,7 +8,7 @@ description: "You already understand supply and demand. You just do not know you
 draft: false
 weight: 4
 tags: ["economics", "supply", "demand", "prices", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## Why You Already Understand This

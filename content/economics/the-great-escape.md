@@ -8,7 +8,7 @@ description: "In 1820, about nine in ten humans lived in extreme poverty. Today,
 draft: false
 weight: 44
 tags: ["economics", "history", "poverty", "capitalism", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/the-great-escape.png
 ---
 

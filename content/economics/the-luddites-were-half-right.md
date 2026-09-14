@@ -8,7 +8,7 @@ description: "Why AI will not zero out GDP - the Luddites were half right."
 draft: false
 weight: 42
 tags: ["economics", "AI", "automation", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/the-luddites-were-half-right.png
 ---
 

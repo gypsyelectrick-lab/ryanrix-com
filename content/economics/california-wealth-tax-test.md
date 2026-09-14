@@ -8,7 +8,7 @@ description: "Public Choice Theory predicts wealth taxes fail. The global eviden
 draft: false
 weight: 33
 tags: ["economics", "wealth-tax", "proposition-40", "california", "public-choice", "uk", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Window That Keeps Breaking

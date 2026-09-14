@@ -9,7 +9,7 @@ image: /images/the-second-inflation-wave-part-ii.png
 draft: false
 weight: 55
 tags: ["economics", "inflation", "energy", "price-cap", "ofgem", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## In Our Last Article

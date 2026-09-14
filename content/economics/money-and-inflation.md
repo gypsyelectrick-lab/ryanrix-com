@@ -8,7 +8,7 @@ description: "Money is not wealth. Inflation is not just prices going up. Here i
 draft: false
 weight: 8
 tags: ["economics", "money", "inflation", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## What Money Actually Is

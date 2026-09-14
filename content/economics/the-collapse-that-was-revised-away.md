@@ -8,7 +8,7 @@ description: "The collapse was revised away; the layoff wave is real. How to rea
 draft: false
 weight: 59
 tags: ["economics", "jobs", "labor", "layoffs", "intermediate"]
-level: "intermediate"
+levels: "intermediate"
 image: /images/the-collapse-that-was-revised-away.png
 ---
 

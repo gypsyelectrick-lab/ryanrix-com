@@ -6,7 +6,7 @@ author: "Max Weber"
 description: "The environmental movement was built on two pillars. Both were wrong. The movement never recovered."
 draft: false
 tags: ["politics", "environment", "ehrlich", "carson", "ddt", "malaria", "institutions", "science"]
-level: intermediate
+levels: intermediate
 ---
 
 ## The Foundations Are Cracking

@@ -8,7 +8,7 @@ description: "The uncomfortable truth: progress destroys old jobs faster than it
 draft: false
 weight: 13
 tags: ["economics", "innovation", "jobs", "automation", "intermediate"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 ## The Farmer and the Tractor

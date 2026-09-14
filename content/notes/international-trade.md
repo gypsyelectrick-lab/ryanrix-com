@@ -4,7 +4,7 @@ description: "Why both sides win when countries trade - and why it looks like on
 date: 2026-07-20
 author: "Anna Karina"
 tags: [economics, trade, globalization, beginner]
-level: beginner
+levels: beginner
 weight: 13
 draft: false
 ---

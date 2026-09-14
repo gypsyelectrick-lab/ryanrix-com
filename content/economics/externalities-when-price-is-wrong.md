@@ -8,7 +8,7 @@ description: "When you pay the cost but someone else enjoys the benefit - or vic
 draft: false
 weight: 12
 tags: ["economics", "externalities", "public-goods", "policy", "intermediate"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 ## The Hidden Cost

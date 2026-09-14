@@ -21,7 +21,7 @@
       {{ end }}
       
       <div class="article-meta" style="margin-top: 1rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-        {{ with .Params.level }}
+        {{ with .Params.levels }}
           <a href="{{ `/levels/` | relLangURL }}{{ . | urlize }}" class="badge level-badge" style="background: var(--color-action); color: #1A1A1A; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold; font-size: 0.9rem; text-decoration: none;">Level: {{ . }}</a>
         {{ end }}
         {{ with .Params.tags }}
@@ -62,7 +62,7 @@
     {{ partial "newsletter.html" . }}
     
     <!-- Learning Path Navigation (prev/next by weight) -->
-    {{ if .Params.level }}
+    {{ if .Params.levels }}
       {{ partial "learning-path-nav.html" . }}
     {{ end }}
     

@@ -8,7 +8,7 @@ description: "Capitalism was named by its enemies - the name is the first argume
 draft: false
 weight: 43
 tags: ["economics", "history", "capitalism", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/the-name-is-the-first-argument.png
 ---
 

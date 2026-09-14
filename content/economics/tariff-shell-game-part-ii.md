@@ -8,7 +8,7 @@ description: 'Why a policy that needs a new legal costume every few months is no
 draft: false
 weight: 37
 tags: ['economics', 'trade', 'tariffs', 'advanced']
-level: 'advanced'
+levels: 'advanced'
 image: /images/tariff-shell-game-part-ii.png
 ---
 

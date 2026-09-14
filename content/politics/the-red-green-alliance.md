@@ -6,7 +6,7 @@ author: "Max Weber"
 description: "The Green Party presents itself as the sensible environmental voice. The reality is stranger and more revealing than most people realise."
 draft: false
 tags: ["politics", "uk", "green-party", "environment", "climate", "institutions"]
-level: intermediate
+levels: intermediate
 ---
 
 ## The Second Piece of a Puzzle

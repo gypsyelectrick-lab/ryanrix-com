@@ -11,7 +11,7 @@ tags:
  - investment
  - innovation
  - intermediate
-level: intermediate
+levels: intermediate
 image: /images/the-usefulness-of-billionaires.png
 image_caption: "Wealthy districts are visible. The risky investment they fund is not."
 draft: false

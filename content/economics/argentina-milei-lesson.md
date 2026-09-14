@@ -8,7 +8,7 @@ description: "Inflation from 211% to ~30%. Country risk from 2,000bp to 500bp. W
 draft: false
 weight: 32
 tags: ["economics", "argentina", "milei", "inflation", "fiscal-policy", "public-choice", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Man with the Chainsaw

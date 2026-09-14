@@ -9,7 +9,7 @@ image: /images/the-problems-of-capitalism-and-how-to-fix-them.png
 draft: false
 weight: 45
 tags: ["economics", "capitalism", "regulation", "government", "intermediate"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 Capitalism has problems. Anyone who tells you otherwise is not paying attention, and anyone who tells you the problems are all invented has stopped listening to the people around them. Prices rise faster than wages in some years. Entire towns lose their industry. Financial crises come and go like weather. These are real experiences, and the people who have them deserve better than a lecture about how lucky they are.

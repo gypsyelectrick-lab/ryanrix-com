@@ -8,7 +8,7 @@ description: "Respectful pushback on a viral video about foreign investment and 
 draft: false
 weight: 20
 tags: ["economics", "trade", "development", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Video That Got Me Thinking

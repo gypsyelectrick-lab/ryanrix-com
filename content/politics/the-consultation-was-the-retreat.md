@@ -7,7 +7,7 @@ description: "The EV mandate retreat, wrapped in a consultation. The 2035 ban st
 draft: false
 weight: 41
 tags: ["politics", "uk", "ev", "climate", "public-choice", "regulation"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 ## The Hard Decision and the Easy One

@@ -8,7 +8,7 @@ description: "The China tariffs were supposed to expire. The date passed. Nobody
 draft: false
 weight: 38
 tags: ["economics", "trade", "tariffs", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/tariff-shell-game-part-iii.png
 ---
 

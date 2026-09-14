@@ -4,7 +4,7 @@ description: "The pattern behind nearly every price: when something is scarce re
 date: 2026-07-20
 author: "Anna Karina"
 tags: [economics, supply, demand, prices, beginner]
-level: beginner
+levels: beginner
 weight: 10
 draft: false
 ---

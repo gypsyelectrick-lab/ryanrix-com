@@ -7,7 +7,7 @@ description: "Your taxes flow through a pipeline of quangos and committees to pa
 draft: false
 weight: 10
 tags: ["politics", "government", "charities", "grants", "bureaucracy"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 ## Imagine You Run a Small Charity

@@ -5,7 +5,7 @@ date: 2026-08-03
 author: "Max Weber"
 description: "Sixty thousand crossed in two days. The gate Spain does not run."
 tags: [politics, migration, borders, incentives, europe]
-level: "advanced"
+levels: "advanced"
 draft: false
 image: "/images/the-rented-gate.jpg"
 image_caption: "The breakwater at Ceuta. The border is a beach, not a fence."

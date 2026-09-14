@@ -8,7 +8,7 @@ description: "UK inflation hit a 15-month low. The Bank of England says the good
 draft: false
 weight: 35
 tags: ["economics", "inflation", "energy", "monetary-policy", "bank-of-england", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Good News Was Real

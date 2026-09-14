@@ -6,7 +6,7 @@ author: "Max Weber"
 description: "Anna showed the pattern. Now meet the people who need it to keep running."
 draft: false
 tags: [politics, grievance, government, incentives, institutions]
-level: advanced
+levels: advanced
 ---
 
 Anna Karina showed you the pattern. Six grievances. Six villains. One solution every time: more power for the people who made you angry in the first place.

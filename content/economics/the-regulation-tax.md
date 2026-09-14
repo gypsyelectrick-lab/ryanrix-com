@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "Every regulation is a tax. The poor pay the most. Nobody adds up the total."
 draft: false
 tags: [economics, regulation, cost, compliance, bastiat]
-level: advanced
+levels: advanced
 ---
 
 Every regulation is a tax. The poor pay the most. And nobody ever adds up the total.

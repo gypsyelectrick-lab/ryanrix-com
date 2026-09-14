@@ -8,7 +8,7 @@ description: "The single most important economic insight of the 20th century is 
 draft: false
 weight: 6
 tags: ["economics", "planning", "markets", "Hayek", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## Why It Is Not About Capitalism vs Socialism

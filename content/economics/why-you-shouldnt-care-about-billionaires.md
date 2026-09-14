@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "The inequality panic misses what matters - not whether someone has a billion dollars, but whether ordinary people can get what they need."
 weight: 31
 tags: ["economics", "inequality", "wealth", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Billionaire Panic Is a Distraction

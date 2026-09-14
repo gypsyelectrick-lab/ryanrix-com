@@ -8,7 +8,7 @@ description: "Inflation does not hit everyone at once. The first receiver gets t
 draft: false
 weight: 25
 tags: ["economics", "inflation", "money", "Cantillon", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Question Nobody Asks About Inflation

@@ -4,7 +4,7 @@ description: "What money actually is - not wealth, but a tool. And the seven att
 date: 2026-07-20
 author: "Anna Karina"
 tags: [economics, money, currency, beginner]
-level: beginner
+levels: beginner
 weight: 14
 draft: false
 ---

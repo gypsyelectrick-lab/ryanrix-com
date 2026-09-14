@@ -8,7 +8,7 @@ description: "The word came later. The system needed castles, oaths, and serfs."
 draft: false
 weight: 56
 tags: ["economics", "history", "feudalism", "capitalism", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 **The word "feudalism" was coined by the people who hated the thing it named - and they coined it centuries after the thing started dying. The people who lived under it had no word for it at all. It was not a system they chose. It was a system they were born into, held in place by oaths, castles, force, and the habit of obedience - and it needed every one of those to survive.**

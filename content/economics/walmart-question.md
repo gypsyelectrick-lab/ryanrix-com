@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "Sam Walton took real risks and captured billions. His customers kept hundreds of billions. The poor won."
 weight: 27
 tags: ["economics", "entrepreneurship", "walmart", "poverty", "value", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Question That Should Haunt Every Critic

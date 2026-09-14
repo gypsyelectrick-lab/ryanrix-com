@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "The poverty statistic you keep hearing is not measuring what you think."
 draft: false
 tags: [economics, poverty, inequality, statistics, measurement]
-level: advanced
+levels: advanced
 ---
 
 The poverty statistic you keep hearing is not measuring what you think it is. And it can never improve, no matter how much money you throw at it.

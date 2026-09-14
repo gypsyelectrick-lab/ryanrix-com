@@ -8,7 +8,7 @@ description: "Australia's under-16 ban removed accounts, not users. The teens ne
 draft: false
 weight: 38
 tags: ["economics", "regulation", "social media", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/the-ban-that-cant-work.png
 ---
 

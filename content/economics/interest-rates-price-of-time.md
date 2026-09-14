@@ -8,7 +8,7 @@ description: "Interest is not a punishment. It is the signal that coordinates wh
 draft: false
 weight: 10
 tags: ["economics", "interest", "savings", "money", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## Why Does Interest Exist?

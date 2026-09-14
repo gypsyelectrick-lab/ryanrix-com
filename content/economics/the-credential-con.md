@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "Pushing everyone into university created a credential arms race - not opportunity."
 draft: false
 tags: [economics, education, credential-inflation, signaling, labor]
-level: advanced
+levels: advanced
 ---
 
 There is a story we have been told for decades. It goes like this: education is the key to opportunity. If you want a good job and a middle-class life, you need a degree. And if society wants to reduce inequality, it should send more people to university.

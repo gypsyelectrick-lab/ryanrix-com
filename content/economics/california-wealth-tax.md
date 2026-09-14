@@ -8,7 +8,7 @@ description: "California wants to tax billionaires. The problem is that wealth t
 draft: false
 weight: 32
 tags: ["economics", "taxes", "wealth-tax", "california", "policy", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: "/images/california-wealth-tax.png"
 image_caption: "California's state capitol - where the next great economic experiment will be decided."
 ---

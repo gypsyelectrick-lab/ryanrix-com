@@ -8,7 +8,7 @@ description: "Most people think trade is one person winning and the other losing
 draft: false
 weight: 7
 tags: ["economics", "trade", "globalization", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## The Pancake Fallacy

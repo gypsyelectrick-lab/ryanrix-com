@@ -7,7 +7,7 @@ description: "Tax the imports with one hand, compensate the farmers with the oth
 draft: false
 weight: 51
 tags: ["energy", "cbam", "fertilizer", "carbon tax", "agriculture", "policy"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 ## The Plan and the Tax

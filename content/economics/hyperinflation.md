@@ -6,7 +6,7 @@ date: 2026-07-22
 author: "Anna Karina"
 description: "The one thing every monetary theory fears - and what actually causes it."
 tags: [economics, inflation, MMT, monetary policy, hyperinflation]
-level: intermediate
+levels: intermediate
 image: /images/hyperinflation.png
 draft: false
 ---

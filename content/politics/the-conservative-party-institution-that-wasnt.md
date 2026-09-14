@@ -6,7 +6,7 @@ author: "Max Weber"
 description: "The Fabians built a 142-year machine. The Conservatives never built one."
 draft: false
 tags: ["politics", "uk", "conservative-party", "institutions", "power"]
-level: "intermediate"
+levels: "intermediate"
 image: /images/the-conservative-party-institution-that-wasnt.png
 ---
 

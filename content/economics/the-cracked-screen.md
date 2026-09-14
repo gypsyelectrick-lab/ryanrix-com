@@ -8,7 +8,7 @@ description: "A simple story that changes how you see every economic argument yo
 draft: false
 weight: 2
 tags: ["economics", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## Why Should You Care About This?

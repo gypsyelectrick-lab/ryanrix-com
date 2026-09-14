@@ -8,7 +8,7 @@ description: "Prices are not random numbers. They are messages sent by millions 
 draft: false
 weight: 5
 tags: ["economics", "prices", "markets", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## The Price of Coffee Is a Miracle

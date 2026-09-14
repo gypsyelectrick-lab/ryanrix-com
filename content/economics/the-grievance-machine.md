@@ -8,7 +8,7 @@ description: "Six grievances, six crises, one solution every time - more power f
 draft: false
 weight: 33
 tags: ["economics", "inequality", "grievance", "poverty", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Data That Changes Everything

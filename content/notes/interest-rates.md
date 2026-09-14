@@ -4,7 +4,7 @@ description: "The price of time - how interest coordinates borrowing, saving, an
 date: 2026-07-20
 author: "Anna Karina"
 tags: [economics, interest, savings, money, beginner]
-level: beginner
+levels: beginner
 weight: 15
 draft: false
 ---

@@ -8,7 +8,7 @@ description: "The person who writes the check to the government is not always th
 draft: false
 weight: 11
 tags: ["economics", "taxes", "policy", "intermediate"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 ## The Receipt Test

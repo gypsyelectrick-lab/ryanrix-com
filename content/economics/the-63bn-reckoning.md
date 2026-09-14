@@ -8,7 +8,7 @@ description: "120 millionaires want a wealth tax. The Treasury already accepts t
 draft: false
 weight: 40
 tags: ['economics', 'taxation', 'wealth tax', 'budget', 'advanced']
-level: 'advanced'
+levels: 'advanced'
 image: /images/the-63bn-reckoning.png
 ---
 

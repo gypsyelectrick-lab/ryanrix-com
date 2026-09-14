@@ -7,7 +7,7 @@ description: "A seven-question test for every new law. Almost none would pass. T
 draft: false
 weight: 30
 tags: ["politics", "government", "policy", "regulation", "institutions"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 ## The Problem with Every New Law

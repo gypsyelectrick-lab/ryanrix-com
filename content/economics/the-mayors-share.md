@@ -8,7 +8,7 @@ description: "Mayors get a share of income tax revenue, but not the power to set
 draft: false
 weight: 39
 tags: ["economics", "devolution", "public choice", "intermediate"]
-level: "intermediate"
+levels: "intermediate"
 image: /images/the-mayors-share.png
 ---
 

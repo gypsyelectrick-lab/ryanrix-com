@@ -6,7 +6,7 @@ author: "Max Weber"
 description: "A Labour government just admitted the energy tax burden was too high."
 draft: false
 tags: [politics, energy, UK, carbon-tax, climate, burnham]
-level: intermediate
+levels: intermediate
 ---
 
 Yesterday, the new British Prime Minister cut the climate levy from your electricity bill.

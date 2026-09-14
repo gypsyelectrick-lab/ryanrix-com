@@ -4,7 +4,7 @@ description: "Economics happens at the margin - the difference between one choic
 date: 2026-07-20
 author: "Anna Karina"
 tags: [economics, marginal-analysis, microeconomics, beginner]
-level: beginner
+levels: beginner
 weight: 17
 draft: false
 ---

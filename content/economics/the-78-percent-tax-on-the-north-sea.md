@@ -8,7 +8,7 @@ description: 'At 78 cents on the dollar, the windfall tax is a tax on investment
 draft: false
 weight: 41
 tags: ['economics', 'energy', 'windfall tax', 'Laffer', 'advanced']
-level: 'advanced'
+levels: 'advanced'
 image: /images/the-78-percent-tax-on-the-north-sea.png
 ---
 

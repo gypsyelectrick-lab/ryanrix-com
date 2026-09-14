@@ -9,7 +9,7 @@ image: /images/the-bank-windfall-tax-who-pays.png
 draft: false
 weight: 47
 tags: ["economics", "banking", "taxation", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 **The loudest demand in British politics right now is also the least examined one. "Tax the banks" is easy to say. The mechanism is harder, and the mechanism decides who actually pays.**

@@ -7,7 +7,7 @@ description: "The three biggest AI labs agree on regulation. That should worry y
 draft: false
 weight: 26
 tags: [politics, ai, regulation, big-tech, capture, lobbying]
-level: advanced
+levels: advanced
 ---
 
 George Stigler won a Nobel Prize for an insight so simple it sounds like a joke: industries ask for regulation because regulation helps them.

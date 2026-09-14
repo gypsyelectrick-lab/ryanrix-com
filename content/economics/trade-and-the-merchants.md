@@ -9,7 +9,7 @@ image: /images/trade-and-the-merchants.png
 draft: false
 weight: 54
 tags: ["economics", "history", "trade", "merchants", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 **Trade is the oldest institution in this series, and the most strangled. The first merchants crossed open water before the first empire existed, carried the alphabet around the Mediterranean, and opened a road across Asia that nobody ever surveyed. Then the state arrived at the dock - and everywhere it landed, its first acts were the same: tax the cargo, license the trade, and keep the best of it for itself.**

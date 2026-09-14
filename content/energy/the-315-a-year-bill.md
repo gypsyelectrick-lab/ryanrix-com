@@ -8,7 +8,7 @@ image: /images/the-315-a-year-bill.png
 draft: false
 weight: 50
 tags: ["energy", "standing charge", "price cap", "ofgem", "energy bills"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## The Bill Before the Bill

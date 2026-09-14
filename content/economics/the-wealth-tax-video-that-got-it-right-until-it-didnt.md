@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "A good critique of wealth taxes undercuts itself at the end."
 draft: false
 tags: [economics, wealth-tax, france, ISF, billionaires, taxation]
-level: advanced
+levels: advanced
 ---
 
 A few days ago, the YouTube channel Money & Macro published a video called "What happens when you stop taxing billionaires?" It is worth watching. For about fifteen minutes, it does a solid job of explaining why wealth taxes fail. Then it spends the last four minutes proposing a grab bag of alternative wealth taxes - with none of the scrutiny it just applied to the first one.

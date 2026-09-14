@@ -4,7 +4,7 @@ description: "The real cost of any choice is not what you spend. It is what you 
 date: 2026-07-20
 author: "Anna Karina"
 tags: [economics, opportunity-cost, basics, beginner]
-level: beginner
+levels: beginner
 weight: 12
 draft: false
 ---

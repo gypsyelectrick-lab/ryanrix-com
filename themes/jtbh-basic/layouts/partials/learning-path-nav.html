@@ -1,4 +1,4 @@
-{{ $articles := sort (where .CurrentSection.RegularPages "Params.level" "!=" nil) "Weight" }}
+{{ $articles := sort (where .CurrentSection.RegularPages "Params.levels" "!=" nil) "Weight" }}
 {{ $current := . }}
 {{ $prev := "" }}
 {{ $next := "" }}

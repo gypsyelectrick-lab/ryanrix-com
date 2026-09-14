@@ -7,7 +7,7 @@ description: "They trust a nudge to change your behavior. They deny a tax change
 draft: false
 weight: 11
 tags: ["politics", "economics", "incentives", "elasticity", "taxation"]
-level: "advanced"
+levels: "advanced"
 image: /images/the-elasticity-denial.png
 ---
 

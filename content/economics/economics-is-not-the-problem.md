@@ -5,7 +5,7 @@ author: "Ryan Rix"
 description: "Forecasts fail, but the principles still work. Blaming economics for its fortune-tellers misses the point."
 draft: false
 weight: 57
-level: "intermediate"
+levels: "intermediate"
 tags: ["economics", "forecasting", "models", "certainty", "advanced"]
 image: "/images/economics-is-not-the-problem.jpg"
 ---

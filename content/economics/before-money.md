@@ -8,7 +8,7 @@ description: "Trade is older than every government. Nobody taught you to do it."
 draft: false
 weight: 49
 tags: ["economics", "history", "money", "trade", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/before-money.png
 ---
 

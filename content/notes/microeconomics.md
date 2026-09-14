@@ -5,7 +5,7 @@ date: 2026-07-20
 draft: false
 author: "Anna Karina"
 tags: [economics, microeconomics, beginner]
-level: beginner
+levels: beginner
 weight: 5
 ---
 

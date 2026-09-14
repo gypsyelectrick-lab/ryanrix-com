@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "Entrepreneurs capture ~2% of the value they create. Consumers, especially the poor, get the other 98%."
 weight: 26
 tags: ["economics", "entrepreneurship", "innovation", "value", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## What You See Is Not the Whole Story

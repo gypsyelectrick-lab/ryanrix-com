@@ -6,7 +6,7 @@ date: 2026-07-01
 description: "Why 2,000 brands is not a bug, and what it teaches us about government spending."
 weight: 32
 tags: ["economics", "choice", "markets", "government-spending", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## Why Does Anyone Need 2,000 Toothpastes?

@@ -7,7 +7,7 @@ description: "Fuel taxes already price CO2 at £229 per tonne - above every offi
 draft: false
 weight: 20
 tags: ["energy", "climate", "carbon tax", "taxation", "policy"]
-level: "intermediate"
+levels: "intermediate"
 image: "/images/petrol-pump.jpg"
 image_caption: "Every time you fill up, you are already paying a carbon tax. The government just calls it something else."
 ---

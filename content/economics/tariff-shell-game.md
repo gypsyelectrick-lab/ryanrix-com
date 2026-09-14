@@ -8,7 +8,7 @@ description: "The Supreme Court blocked one tariff authority. The administration
 draft: false
 weight: 34
 tags: ["economics", "trade", "tariffs", "policy", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Government Does Not Give Up on a Bad Policy. It Finds a New Legal Justification.

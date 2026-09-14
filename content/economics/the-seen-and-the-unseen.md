@@ -8,7 +8,7 @@ description: "The most important economic question is the one nobody asks: what 
 draft: false
 weight: 29
 tags: ["economics", "bastiat", "opportunity-cost", "seen-and-unseen", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Window That Made Everyone Richer

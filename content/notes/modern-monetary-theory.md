@@ -4,7 +4,7 @@ description: "What MMT actually says about how sovereign currency works - and wh
 date: 2026-07-20
 author: "Anna Karina"
 tags: [economics, mmt, monetary-policy, advanced]
-level: advanced
+levels: advanced
 weight: 16
 draft: false
 ---

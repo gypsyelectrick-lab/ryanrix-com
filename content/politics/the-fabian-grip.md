@@ -6,7 +6,7 @@ author: "Max Weber"
 description: "Every Labour PM in British history belonged to one outside organisation. Its grip on Westminster is the century's most successful long-term political project."
 draft: false
 tags: ["politics", "uk", "labour", "fabian-society", "institutions", "power"]
-level: intermediate
+levels: intermediate
 ---
 
 ## The First Piece of a Puzzle

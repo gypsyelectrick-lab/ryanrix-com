@@ -8,7 +8,7 @@ description: "Before you can trade, you need to own. Clear property rights are t
 draft: false
 weight: 9
 tags: ["economics", "property", "institutions", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## The Question Nobody Asks

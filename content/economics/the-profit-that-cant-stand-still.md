@@ -7,7 +7,7 @@ description: "Why a firm can't settle for a 'fair' profit - and who pays when it
 draft: false
 weight: 51
 tags: ["economics", "profit", "competition", "greedflation"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 There is a question that keeps floating to the top of the economics subreddit. Someone posts it, it collects hundreds of upvotes, and it never quite goes away. The version making the rounds this month asks: why do companies need to raise their profit instead of just keeping it at a sustainable level?

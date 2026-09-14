@@ -9,7 +9,7 @@ image: /images/the-90-percent-tax-rate-myth.png
 draft: false
 weight: 52
 tags: ["taxes", "wealth-tax", "history", "laffer", "intermediate"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 You have heard this sentence a hundred times, usually right before someone proposes a wealth tax. "We used to tax the rich at 90% - and the economy boomed. The 1950s were the golden age. Bring it back."

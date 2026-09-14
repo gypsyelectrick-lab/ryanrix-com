@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "The people writing tech policy don't understand tech. They are not experts. They are bureaucrats with a printing press."
 weight: 10
 tags: ["tech", "policy", "regulation", "censorship"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 ## The Word We Should Stop Using

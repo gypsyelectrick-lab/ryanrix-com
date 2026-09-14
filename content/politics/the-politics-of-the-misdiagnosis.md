@@ -8,7 +8,7 @@ image: /images/the-politics-of-the-misdiagnosis.png
 draft: false
 weight: 60
 tags: ["politics", "capitalism", "grievance", "incentives"]
-level: "advanced"
+levels: "advanced"
 section: politics
 ---
 

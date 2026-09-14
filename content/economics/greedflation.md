@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "If corporations can set any price they want, why does Aldi exist?"
 draft: false
 tags: [economics, inflation, greedflation, price-controls, competition]
-level: advanced
+levels: advanced
 ---
 
 If corporations can set any price they want, why does Aldi exist?

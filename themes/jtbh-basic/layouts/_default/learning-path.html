@@ -7,12 +7,12 @@
 
   {{/* Get all regular pages in the current section, sorted by weight */}}
   {{ $section := .CurrentSection }}
-  {{ $articles := sort (where $section.RegularPages "Params.level" "!=" nil) "Weight" }}
+  {{ $articles := sort (where $section.RegularPages "Params.levels" "!=" nil) "Weight" }}
 
   {{/* Group by level */}}
-  {{ $beginner := where $articles "Params.level" "beginner" }}
-  {{ $intermediate := where $articles "Params.level" "intermediate" }}
-  {{ $advanced := where $articles "Params.level" "advanced" }}
+  {{ $beginner := where $articles "Params.levels" "beginner" }}
+  {{ $intermediate := where $articles "Params.levels" "intermediate" }}
+  {{ $advanced := where $articles "Params.levels" "advanced" }}
 
   {{ if $beginner }}
   <section class="learning-path-group">
@@ -84,7 +84,7 @@
   {{ end }}
 
   {{/* Articles without a level */}}
-  {{ $unleveled := where $section.RegularPages "Params.level" nil }}
+  {{ $unleveled := where $section.RegularPages "Params.levels" nil }}
   {{ if $unleveled }}
   <section class="learning-path-group" style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid var(--color-border);">
     <h2 style="color: var(--color-text-muted); font-size: 1.3rem;">More from {{ $section.Title }}</h2>

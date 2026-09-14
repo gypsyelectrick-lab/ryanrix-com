@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "Why capping rents and raising wages create shortages and surpluses you never see."
 weight: 26
 tags: ["economics", "price-controls", "rent-control", "minimum-wage", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Promise That Sounds So Reasonable

@@ -8,7 +8,7 @@ description: "Why the most misunderstood idea about free markets is that they ar
 draft: false
 weight: 3
 tags: ["economics", "markets", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## The Mistake Almost Everyone Makes

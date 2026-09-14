@@ -6,7 +6,7 @@ date: 2026-07-01
 description: "The free market is more democratic than any election could ever be."
 weight: 30
 tags: ["economics", "democracy", "markets", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The World Inequality Report Is Out. Here Is What They Do Not Tell You.

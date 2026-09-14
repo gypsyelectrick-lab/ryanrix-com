@@ -6,7 +6,7 @@ description: "Three million households owe £1,800. Ask who pays for the help."
 draft: false
 weight: 61
 tags: ["politics"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 Three million households owe their energy supplier an average of £1,800. The price cap rose 4 percent this week to £1,723, a three-year high, and January is forecast to add another 9 percent. The industry has now priced the fix: a £1.9 billion social discount for 7.2 million households, paid for, it suggests, out of general taxation rather than bills.

@@ -8,7 +8,7 @@ description: "What MMT actually says and why the conventional wisdom is wrong."
 draft: false
 weight: 25
 tags: ["economics", "mmt", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Story We Have Been Told

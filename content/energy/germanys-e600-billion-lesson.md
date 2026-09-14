@@ -6,7 +6,7 @@ author: "Max Weber"
 description: "Germany spent a generation and a fortune on its energy transition. Its emissions stayed flat. Its electricity prices doubled. Something went wrong."
 weight: 20
 tags: ["energy", "germany", "nuclear", "renewables", "policy"]
-level: "intermediate"
+levels: "intermediate"
 image: "/images/germany-wind.png"
 image_caption: "Wind turbines in the German countryside. When the wind does not blow, the grid still needs power from somewhere."
 ---

@@ -8,7 +8,7 @@ description: "Buchanan won a Nobel Prize for applying economics to politics itse
 draft: false
 weight: 31
 tags: ["economics", "public-choice", "buchanan", "government", "incentives", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Window That Broke Twice

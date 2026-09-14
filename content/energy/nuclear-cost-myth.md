@@ -6,7 +6,7 @@ author: "Max Weber"
 description: "US nuclear costs exploded because of policy choices, not technology. France and South Korea built cheaper. America chose to fail."
 weight: 10
 tags: ["energy", "nuclear", "policy", "electricity"]
-level: "intermediate"
+levels: "intermediate"
 image: "/images/nuclear-tower.png"
 image_caption: "A nuclear plant. That is not smoke - it is steam."
 ---

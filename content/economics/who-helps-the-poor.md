@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "Politicians fight for credit. Entrepreneurs create jobs. The poor need the latter, not the former."
 weight: 28
 tags: ["economics", "minimum-wage", "poverty", "entrepreneurship", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Fight Over Credit

@@ -8,7 +8,7 @@ description: "Why countries that are better at everything still gain from trade.
 draft: false
 weight: 36
 tags: ["economics", "trade", "comparative-advantage", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/comparative-advantage.jpg
 ---
 

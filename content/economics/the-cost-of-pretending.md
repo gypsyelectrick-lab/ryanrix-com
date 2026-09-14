@@ -8,7 +8,7 @@ description: "Regulators who cannot meet their own deadlines are setting everyon
 draft: false
 weight: 34
 tags: ["economics", "regulation", "ai-act", "information-problem", "hayek", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 ## The Promise We Made

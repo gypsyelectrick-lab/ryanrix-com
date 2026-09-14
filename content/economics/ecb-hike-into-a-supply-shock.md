@@ -9,7 +9,7 @@ image: /images/ecb-hike-into-a-supply-shock.png
 draft: false
 weight: 61
 tags: ["economics", "inflation", "interest-rates", "ecb", "energy", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 **The European Central Bank raised interest rates on September 10 for the second time this year, lifting the deposit facility rate to 2.50 percent, the main refinancing rate to 2.65 percent and the marginal lending rate to 2.90 percent, effective September 16. The vote was unanimous. Christine Lagarde called the decision "a no-brainer." The bank's stated reason is that "the conflict in the Middle East continues to generate inflation pressures, and inflation is set to remain well above target for an extended period." Alongside it, the bank published projections showing inflation at 2.1 percent in 2028 - above its own two percent target, and higher than the 2.0 percent it forecast in June. That decimal is where the story actually lives.**

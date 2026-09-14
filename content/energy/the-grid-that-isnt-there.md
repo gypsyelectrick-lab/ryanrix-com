@@ -8,7 +8,7 @@ image: /images/the-grid-that-isnt-there.png
 draft: false
 weight: 40
 tags: ["energy", "grid", "wind", "curtailment", "constraints", "uk"]
-level: "intermediate"
+levels: "intermediate"
 ---
 
 Britain has spent more than a billion pounds this year paying wind farms to stop producing electricity. That is not a typo. The country built the wind, subsidized the wind, celebrated the wind, and now pays the wind to sit still, because the grid that would carry the wind to the cities was never built.

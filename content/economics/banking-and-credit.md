@@ -7,7 +7,7 @@ description: "The vault wears a license. Credit was born before the state."
 draft: false
 weight: 53
 tags: ["economics", "history", "banking", "credit", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/banking-and-credit.png
 ---
 

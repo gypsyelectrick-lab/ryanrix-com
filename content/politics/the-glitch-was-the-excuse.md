@@ -7,7 +7,7 @@ description: "6,600 people said they are not citizens. The state registered them
 tags: [politics, elections, government-failure, incentives, new-jersey, series]
 draft: false
 weight: 42
-level: "intermediate"
+levels: "intermediate"
 ---
 
 New Jersey's Motor Vehicle Commission asks every license applicant, almost as an afterthought, whether they want to be added to the voter rolls. It is presented as a convenience: one form, one counter, democracy included. Thousands of people clicked yes. A smaller number clicked no, or never answered. Around 6,600 people who should not have been on the rolls were registered anyway.

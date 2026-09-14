@@ -8,7 +8,7 @@ description: "The single idea that separates clear economic thinking from confus
 draft: false
 weight: 1
 tags: ["economics", "beginner"]
-level: "beginner"
+levels: "beginner"
 ---
 
 ## The Whole Thing in One Sentence

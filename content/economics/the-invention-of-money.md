@@ -7,7 +7,7 @@ description: "The coin carries a king's face. Money was born before the state."
 draft: false
 weight: 50
 tags: ["economics", "history", "money", "coinage", "advanced"]
-level: "advanced"
+levels: "advanced"
 image: /images/the-invention-of-money.png
 ---
 

@@ -5,7 +5,7 @@ date: 2026-07-20
 draft: false
 author: "Anna Karina"
 tags: [economics, demand, prices, intermediate]
-level: intermediate
+levels: intermediate
 weight: 3
 ---
 

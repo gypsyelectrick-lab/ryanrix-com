@@ -8,7 +8,7 @@ description: "The Budget is 75 days away. The demand says tax the rich. Your pen
 draft: false
 weight: 46
 tags: ["economics", "taxation", "pensions", "budget", "intermediate"]
-level: "intermediate"
+levels: "intermediate"
 image: /images/the-pension-tax-raid.png
 ---
 

@@ -4,7 +4,7 @@ description: "Prices are not random numbers. They are messages that coordinate w
 date: 2026-07-20
 author: "Anna Karina"
 tags: [economics, prices, markets, beginner]
-level: beginner
+levels: beginner
 weight: 11
 draft: false
 ---

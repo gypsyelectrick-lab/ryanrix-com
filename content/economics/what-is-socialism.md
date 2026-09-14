@@ -8,7 +8,7 @@ description: "The believers named it. The rulers imposed it. The wall kept it in
 draft: false
 weight: 58
 tags: ["economics", "history", "socialism", "capitalism", "advanced"]
-level: "advanced"
+levels: "advanced"
 ---
 
 **"Socialism" is the only name in this series that the believers gave themselves. "Feudalism" was coined by enemies, after the thing was mostly dead. "Capitalism" was coined by critics, as a weapon. "Socialism" was different: its believers named themselves "socialists" in a cooperative magazine in London in November 1827, proud of the word, and the first community built to prove the idea failed within two years. The gap between the hope that named it and the apparatus that enforced it is the story of the twentieth century.**
