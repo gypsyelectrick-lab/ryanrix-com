@@ -14,7 +14,7 @@ Birmingham City Council is the largest local authority in Europe. It collects ro
 
 Eight years later, the forecast cost is £144.4 million. Investigators put the total money lost at £216.5 million and rising. The system still does not work. The council has been unable to produce auditable accounts since 2022. The failure is one of the reasons Europe's largest council declared itself effectively bankrupt in 2023.
 
-This is the second IT case study in <a href="/politics/why-things-break-introduction/" target="_blank" rel="noopener noreferrer">Why Things Break</a>, and it is the same disease as the NHS's ten billion pound programme, at council scale. The first episode documented <a href="/politics/why-things-break-nhs-it/" target="_blank" rel="noopener noreferrer">the National Programme for IT</a>, where an impossible project was announced, paid for, and quietly dismantled. Birmingham shows the identical incentives operating at the level of your local council - and the same absence of anyone in the room who understood the technology they were approving.
+This is the second IT case study in <a href="/politics/why-things-break-introduction/" target="_blank" rel="noopener noreferrer">Why Things Break</a>, and it is the same disease as the NHS's ten billion pound program, at council scale. The first episode documented <a href="/politics/why-things-break-nhs-it/" target="_blank" rel="noopener noreferrer">the National Programme for IT</a>, where an impossible project was announced, paid for, and quietly dismantled. Birmingham shows the identical incentives operating at the level of your local council - and the same absence of anyone in the room who understood the technology they were approving.
 
 ## The story
 
@@ -24,7 +24,7 @@ That go-live is the point where the story stops being about delay and becomes ab
 
 The consequences were not subtle. The council struggled to understand its own cash position. It allocated £2 billion in transactions to the wrong financial year. It turned off the audits used for fraud detection for more than 18 months. It could not produce auditable accounts, and still cannot, years later. The council spent more than £5 million on manual workarounds - people doing by hand what the system was supposed to do automatically.
 
-The money kept climbing. In 2024 the approved budget across financial years 2018/19 to 2025/26 was £131 million. The January 2026 forecast for the programme through 2027/28 is £144.4 million - more than seven times the original estimate. The 2024 investigators' estimate of total money lost, including the £69 million of anticipated savings that were written off when the system failed to deliver them, is £216.5 million, and the January 2026 projection could push it toward £225 million. That is roughly £200 for every person within the council's boundaries.
+The money kept climbing. In 2024 the approved budget across financial years 2018/19 to 2025/26 was £131 million. The January 2026 forecast for the program through 2027/28 is £144.4 million - more than seven times the original estimate. The 2024 investigators' estimate of total money lost, including the £69 million of anticipated savings that were written off when the system failed to deliver them, is £216.5 million, and the January 2026 projection could push it toward £225 million. That is roughly £200 for every person within the council's boundaries.
 
 The council has now bought a third-party solution to cover the banking reconciliation function, and is reimplementing Oracle from scratch - a project due to go live in April 2026, delayed again to at least the summer. Schools have been removed from the scope entirely.
 
@@ -40,11 +40,11 @@ The customizations are the tell. Oracle Fusion works - thousands of organization
 
 ## The pattern
 
-The NHS programme was £10 billion and delivered nothing. Birmingham is £225 million and delivers the same. The two are not separate failures. They are the same failure at different scales, separated by two decades and connected by the same incentives.
+The NHS program was £10 billion and delivered nothing. Birmingham is £225 million and delivers the same. The two are not separate failures. They are the same failure at different scales, separated by two decades and connected by the same incentives.
 
 The pattern: a politician or official announces a grand modernization. The budget is optimistic. The scope is ambitious. The people who will actually use the system are not consulted. The implementation is customized instead of configured. The deadline arrives and the system goes live anyway, because cancelling would be an admission. The system fails. The contractors are paid, and sometimes paid again to fix their own failure. The officials move on. Nobody faces consequences.
 
-This pattern has been documented in Britain since the 1970s. *Computing* and *Computer Weekly* have covered it for fifty years. The NHS programme, Birmingham, the Post Office Horizon scandal - different decades, different departments, identical structure. The details change with the technology. The incentives do not.
+This pattern has been documented in Britain since the 1970s. *Computing* and *Computer Weekly* have covered it for fifty years. The NHS program, Birmingham, the Post Office Horizon scandal - different decades, different departments, identical structure. The details change with the technology. The incentives do not.
 
 ## The lesson
 

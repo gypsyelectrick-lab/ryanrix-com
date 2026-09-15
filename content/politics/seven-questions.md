@@ -135,7 +135,7 @@ That is why it will not be adopted.
 
 The current system exists precisely because it does not answer these questions. Vagueness allows politicians to claim credit for popular goals without being held accountable for results. The absence of measurements allows departments to continue programs that are not working. The lack of sunset clauses allows the regulatory state to expand permanently.
 
-Every person who benefits from an existing policy will oppose a framework that subjects their policy to periodic review. The majority of political energy in any government is spent not on creating new policies but on defending existing ones from scrutiny. The seven questions would threaten that defence.
+Every person who benefits from an existing policy will oppose a framework that subjects their policy to periodic review. The majority of political energy in any government is spent not on creating new policies but on defending existing ones from scrutiny. The seven questions would threaten that defense.
 
 This does not mean the framework is naive. It means the framework would work exactly as designed - and the people who benefit from the current system would fight it.
 

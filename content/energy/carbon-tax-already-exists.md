@@ -84,7 +84,7 @@ In practice, it is a gift to lawyers, consultants, and financial engineers. The 
 
 A carbon tax achieves the same result with a single number and a single page of legislation. A carbon trading system requires thousands of pages, a regulator, a market, and a compliance industry.
 
-The EU ETS is the most honest example of the pattern. Its defenders say it is better than nothing. They are right. But "better than nothing" is a low bar for a policy that was supposed to be the centrepiece of the world's most ambitious climate program.
+The EU ETS is the most honest example of the pattern. Its defenders say it is better than nothing. They are right. But "better than nothing" is a low bar for a policy that was supposed to be the centerpiece of the world's most ambitious climate program.
 
 ---
 

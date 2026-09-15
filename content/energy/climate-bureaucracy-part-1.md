@@ -23,7 +23,7 @@ Most people believe the IPCC is an independent scientific body that objectively 
 
 ## What the IPCC Actually Is
 
-The IPCC was established in 1988 by two United Nations organisations: the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO). Its original mandate, as stated in UN General Assembly Resolution 43/53, was:
+The IPCC was established in 1988 by two United Nations organizations: the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO). Its original mandate, as stated in UN General Assembly Resolution 43/53, was:
 
 *"To provide internationally coordinated scientific assessments of the magnitude, timing and potential environmental and socio-economic impact of climate change and realistic response strategies."*
 

@@ -22,7 +22,7 @@ The standard explanation is that politicians are weak, or lying, or both. But lo
 
 Immigration delivers cheap labour to business - a reliable source of donations and political support. It allows the construction industry to build without raising wages. It keeps the NHS staffed without training enough British doctors and nurses. It suppresses wage growth in low-skilled sectors, which keeps inflation down. The beneficiaries are organized, concentrated, and politically connected.
 
-The costs - housing pressure, stretched public services, cultural change - are diffuse and slow. They do not organise. They do not donate. They vote, but there is always another election to kick the can to, and by then the numbers have changed again.
+The costs - housing pressure, stretched public services, cultural change - are diffuse and slow. They do not organize. They do not donate. They vote, but there is always another election to kick the can to, and by then the numbers have changed again.
 
 The incentive is clear: talk tough, deliver more. Everyone who 'matters', wins. Only the country as a whole loses.
 
@@ -40,11 +40,11 @@ So they report net. Because it suits them.
 
 **This is not a conspiracy. It is structure.**
 
-The same logic applies to almost every government function. The NHS was created to improve national health. It now measures success by activity: patients treated, operations performed, waiting lists processed. A healthier population would mean less activity. A smaller waiting list would mean a smaller budget. The organisation has no incentive to reduce demand for its services - and every incentive to appear overwhelmed. So it does.
+The same logic applies to almost every government function. The NHS was created to improve national health. It now measures success by activity: patients treated, operations performed, waiting lists processed. A healthier population would mean less activity. A smaller waiting list would mean a smaller budget. The organization has no incentive to reduce demand for its services - and every incentive to appear overwhelmed. So it does.
 
 The Home Office does not have an incentive to "solve" immigration. Its budget, its staff, its political importance all grow with the perception that immigration is a crisis that needs managing. Solving it would be a career-ending achievement.
 
-This is the bureaucratic incentive in its purest form: the organisation that exists to solve a problem has an interest in the problem never being solved.
+This is the bureaucratic incentive in its purest form: the organization that exists to solve a problem has an interest in the problem never being solved.
 
 **It runs deeper still.**
 
@@ -52,7 +52,7 @@ Protest movements and campaign groups look spontaneous from the outside. Look cl
 
 A group that campaigns for more housing regulation receives grants because the housing problem exists. If the problem were solved, the grants would stop. The same is true for the group that campaigns for more immigration, or less immigration, or more climate action, or less. Everyone in the ecosystem has an interest in the problem persisting.
 
-This is not corruption in the legal sense. It is just how the system works. Money flows to organisations that keep the issue visible. Keeping the issue visible requires the problem to remain unsolved. So it remains unsolved.
+This is not corruption in the legal sense. It is just how the system works. Money flows to organizations that keep the issue visible. Keeping the issue visible requires the problem to remain unsolved. So it remains unsolved.
 
 **What does this mean for the voter?**
 

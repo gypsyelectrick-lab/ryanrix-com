@@ -24,13 +24,13 @@ In the UK, the complaint is about potholes in the roads, which local councils sh
 
 A government that delivers poor value is not punished by the system. It is rewarded, if anything, because poor performance justifies a larger budget next year to "fix" the problem the department helped create. This is not corruption. It is structure.
 
-Now look at the corporate side. The criticism assumes that free-market types defend every large corporation equally, because corporations are "private." But there is a difference between a firm that succeeds by serving customers better than its rivals, and a firm that succeeds by getting the state to tilt the playing field in its favour.
+Now look at the corporate side. The criticism assumes that free-market types defend every large corporation equally, because corporations are "private." But there is a difference between a firm that succeeds by serving customers better than its rivals, and a firm that succeeds by getting the state to tilt the playing field in its favor.
 
 The first kind of success is what markets are for. The second kind is not a market outcome at all. It is the *suspension* of markets through political privilege.
 
 When a company wins a no-bid government contract, it is not competing. When an industry gets a tariff that blocks foreign competitors, it is not competing. When established firms write occupational licensing rules that make it nearly impossible for new entrants to operate, they are not competing. They are using the state to do what they could not do in an open market: protect themselves from the consequences of their own mediocrity.
 
-This is not capitalism. This is the capture of the state by private interests. It is as corrosive to a healthy economy as any government programme, and it is defended by many of the same people who denounce "big government" while quietly enjoying the privileges that only government can grant.
+This is not capitalism. This is the capture of the state by private interests. It is as corrosive to a healthy economy as any government program, and it is defended by many of the same people who denounce "big government" while quietly enjoying the privileges that only government can grant.
 
 The paradox dissolves.
 
