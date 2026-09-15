@@ -31,7 +31,7 @@ Two grounds are stated. First, "a supply chain vulnerability that could disrupt 
 
 The Commission anchored the whole action in the president's 2025 National Security Strategy:
 
-> "the United States must never be dependent on any outside power for core components—from raw materials to parts to finished products—necessary to the nation's defense or economy. We must re-secure our own independent and reliable access to the goods we need to defend ourselves and preserve our way of life."
+> "the United States must never be dependent on any outside power for core components - from raw materials to parts to finished products - necessary to the nation's defense or economy. We must re-secure our own independent and reliable access to the goods we need to defend ourselves and preserve our way of life."
 
 The named adversaries are specific: Volt Typhoon, Flax Typhoon, and Salt Typhoon, all attributed by U.S. authorities to Chinese state-sponsored actors. Flax Typhoon is closest to the question at hand. The FBI disclosed it in September 2024. It took control of internet-connected consumer and small-business devices - cameras, routers, network storage - and stitched them into a botnet. A router ban justified by an attack on consumer routers is not a hypothetical.
 
