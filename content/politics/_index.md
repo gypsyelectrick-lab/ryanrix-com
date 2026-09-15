@@ -11,6 +11,8 @@ This section looks at power - who has it, who wants it, who profits from expandi
 
 ---
 
+- **[It Worked for Routers →](/politics/it-worked-for-routers/)** - The FCC stopped approving foreign-made consumer routers. Nobody voted on it. No statute passed. The AI playbook just became public.
+
 - **[The Social Tariff →](/politics/the-social-tariff-who-pays/)** - Three million households owe £1,800. Ask who pays for the help. The bad-debt allowance, the Warm Home Discount, and the £1.9bn social discount.
 
 - **[The Politics of the Misdiagnosis →](/politics/the-politics-of-the-misdiagnosis/)** - The doomer's exhibits are all government interventions. Ask who benefits. The final article in The Natural Condition of Mankind.
@@ -33,11 +35,11 @@ This section looks at power - who has it, who wants it, who profits from expandi
 
 - **[The Seven Questions Applied: Net Zero →](/politics/seven-questions-net-zero/)** - Applying the Seven Questions framework to net zero policy. What is the goal? Who wins? Who loses? How will we know if it is working? The answers reveal more than the advocates want you to see.
 
-- **[The Fabian Grip →](/politics/the-fabian-grip/)** - Every Labour PM in British history belonged to the same organisation outside the party itself. The Fabian Society's grip on Westminster is the most successful long-term political project of the last century.
+- **[The Fabian Grip →](/politics/the-fabian-grip/)** - Every Labour PM in British history belonged to the same organization outside the party itself. The Fabian Society's grip on Westminster is the most successful long-term political project of the last century.
 
 - **[Wrong About Everything →](/politics/wrong-about-everything/)** - The environmental movement was built on two pillars. Both were wrong. The movement never recovered.
 
-- **[The Red-Green Alliance →](/politics/the-red-green-alliance/)** - The Green Party presents itself as the sensible environmental voice. The reality is stranger and more revealing than most people realise.
+- **[The Red-Green Alliance →](/politics/the-red-green-alliance/)** - The Green Party presents itself as the sensible environmental voice. The reality is stranger and more revealing than most people realize.
 
 - **[Incentives Matter: The Problem That Can't Be Solved →](/politics/incentives-matter-the-problem-that-cant-be-solved/)** - When a stupid decision repeats for decades, ask not who's incompetent - ask who benefits.
 
