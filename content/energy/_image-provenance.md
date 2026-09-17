@@ -1,3 +1,8 @@
+---
+title: "Image provenance - energy section"
+draft: true
+---
+
 # Image provenance - energy section
 
 Hero image licensing records for /content/energy/. All images stored in /static/images/.
