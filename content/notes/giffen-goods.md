@@ -11,7 +11,7 @@ weight: 3
 
 ## What They Are
 
-A Giffen good is a product for which demand *rises* when the price rises, and falls when the price falls - the opposite of normal behavior. They are named after the Scottish economist Sir Robert Giffen, who noted that during the Irish Potato Famine (1845–1852), as the price of potatoes rose, poor families bought *more* potatoes, not fewer.
+A Giffen good is a product for which demand *rises* when the price rises, and falls when the price falls - the opposite of normal behavior. They are named after the Scottish economist Sir Robert Giffen, who noted that during the Irish Potato Famine (1845-1852), as the price of potatoes rose, poor families bought *more* potatoes, not fewer.
 
 This seems to violate the law of demand (higher price → lower quantity demanded). But it does not. It reveals something about how very poor people allocate their budgets.
 
@@ -20,7 +20,7 @@ This seems to violate the law of demand (higher price → lower quantity demande
 The mechanism requires three conditions:
 
 1. **The good is an inferior good** - people buy less of it as they get richer (cheap staple food, basic clothing).
-2. **The good accounts for a large share of the budget** - a poor family might spend 60–70% of their income on potatoes.
+2. **The good accounts for a large share of the budget** - a poor family might spend 60-70% of their income on potatoes.
 3. **There are no close substitutes** - if potatoes become more expensive, there is no equally cheap alternative.
 
 Now follow the logic. Potatoes become more expensive. A poor family's income is already stretched. To afford the same number of potatoes at the new price, they must spend *more* of their income on potatoes. That leaves *less* money for everything else - meat, vegetables, rent. So they cut back on meat and vegetables to free up money for potatoes. But since they are eating fewer vegetables and less meat, they need even *more* potatoes to get enough calories. The net effect: they buy more potatoes at a higher price.

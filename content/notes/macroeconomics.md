@@ -25,7 +25,7 @@ The prefix *macro* means large. Macroeconomics looks at the forest, not the tree
 
 **Gross Domestic Product (GDP)** - the total value of goods and services produced in a country over a period. It is the most commonly used measure of economic size and growth. When GDP rises, the economy is expanding. When it falls for two consecutive quarters, it is in a recession.
 
-**Inflation** - the rate at which the general price level rises. Moderate inflation (1–3%) is normal in growing economies. High or volatile inflation distorts planning and erodes savings. Deflation (falling prices) is equally dangerous, as it encourages people to delay purchases and stop spending.
+**Inflation** - the rate at which the general price level rises. Moderate inflation (1-3%) is normal in growing economies. High or volatile inflation distorts planning and erodes savings. Deflation (falling prices) is equally dangerous, as it encourages people to delay purchases and stop spending.
 
 **Unemployment** - the share of the labor force that is actively seeking work but cannot find it. Macroeconomics distinguishes between different types: cyclical (caused by recessions), structural (caused by mismatches between workers' skills and available jobs), and frictional (normal churn as people move between jobs).
 
