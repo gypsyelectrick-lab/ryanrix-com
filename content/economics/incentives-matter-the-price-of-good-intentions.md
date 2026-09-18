@@ -5,7 +5,7 @@ menu: "Incentives Matter: The Price of Good Intentions"
 date: 2026-07-27
 author: "Anna Karina"
 description: "A 19% interest rate and a 23% youth unemployment rate are the same story."
-tags: [economics, incentives, regulation, minimum-wage, credit, labour]
+tags: [economics, incentives, regulation, minimum-wage, credit, labor]
 draft: false
 ---
 
@@ -31,7 +31,7 @@ But the impulse to cap rates is politically irresistible. It sounds fair. It sou
 
 Incentives matter. The incentive of the politician is to be seen to act, not to be effective.
 
-**The same logic applies to labour markets.**
+**The same logic applies to labor markets.**
 
 Finland has no statutory minimum wage. This sounds enlightened. Leave wages to the market, let people negotiate their own terms. But Finland has something much worse: sectoral collective agreements between unions, employers, and the government that set binding minimum wage rates for entire industries. It is a minimum wage by another name, and it produces the same result.
 
@@ -53,12 +53,12 @@ Every economist knows this. Every city that tried rent control has evidence of i
 
 **The pattern is general.**
 
-Whenever you see a well-intentioned policy that produces the opposite of its stated outcome, follow the incentive. The politician is rewarded for announcing the policy, not for the outcome. The regulated industry adapts in ways the policymaker did not predict. The people who benefit from the existing arrangement lobby to preserve it. The people who are hurt are diffuse, unorganised, and often never connect their misfortune to the law that caused it.
+Whenever you see a well-intentioned policy that produces the opposite of its stated outcome, follow the incentive. The politician is rewarded for announcing the policy, not for the outcome. The regulated industry adapts in ways the policymaker did not predict. The people who benefit from the existing arrangement lobby to preserve it. The people who are hurt are diffuse, unorganized, and often never connect their misfortune to the law that caused it.
 
 The man at the conference understood this. His 19% loan looked like exploitation. It was actually the best option available to people the mainstream had abandoned. Remove it and the alternatives are worse.
 
 Finland's wage agreements look like worker protection. They are actually a barrier that keeps a quarter of the country's young people out of work. Remove them and wages might fall for some. But employment would rise, and the first rung of the ladder would be within reach.
 
-Incentives matter. They matter more than press conferences. They matter more than good intentions. Every policy should be tested against one question: what behaviour does this reward?
+Incentives matter. They matter more than press conferences. They matter more than good intentions. Every policy should be tested against one question: what behavior does this reward?
 
 The answer is almost never the one the policy's supporters give.

@@ -27,7 +27,7 @@ Murphy is not an outsider crank. He is a former chartered accountant who founded
 
 Before we get to the fallacies, we need a clear understanding of what Modern Monetary Theory is and is not.
 
-MMT is a description of how fiat currency works in a country that issues its own currency and has a floating exchange rate. That is all it is. It is not a political programme. It does not say "governments should spend unlimited amounts of money." It does not say "taxes should be abolished." It does not say "inflation does not matter." These are things people claim MMT says. They are wrong.
+MMT is a description of how fiat currency works in a country that issues its own currency and has a floating exchange rate. That is all it is. It is not a political program. It does not say "governments should spend unlimited amounts of money." It does not say "taxes should be abolished." It does not say "inflation does not matter." These are things people claim MMT says. They are wrong.
 
 What MMT actually says is this: a government that issues its own currency does not need to tax or borrow before it can spend. It spends by crediting bank accounts. The central bank and the treasury work together. When the government pays a contractor, it instructs the central bank to add digital pounds (or dollars, or yen) to that contractor's bank account. The money is created by the act of spending. It is not taken from a pile of pre-existing cash.
 

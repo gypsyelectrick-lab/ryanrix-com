@@ -5,7 +5,7 @@ menu: "Incentives Matter: The Economics of Obvious"
 date: 2026-07-27
 author: "Anna Karina"
 description: "People respond to incentives. The rest is detail. Why does every government pretend otherwise?"
-tags: [economics, incentives, taxation, behaviour, regulation]
+tags: [economics, incentives, taxation, behavior, regulation]
 draft: false
 ---
 
@@ -17,7 +17,7 @@ It is not a complicated idea. If you tax something, you get less of it. If you s
 
 **Start with taxation.**
 
-Tax income and you get less income. People work less, retire earlier, move to lower-tax jurisdictions, or simply stop reporting. The elasticity is debatable but the direction is not. Every empirical study of top tax rates shows that beyond a certain point, revenue falls because behaviour changes.
+Tax income and you get less income. People work less, retire earlier, move to lower-tax jurisdictions, or simply stop reporting. The elasticity is debatable but the direction is not. Every empirical study of top tax rates shows that beyond a certain point, revenue falls because behavior changes.
 
 Tax capital and capital leaves. A wealth tax sounds simple on paper. Identify the rich, assess their assets, collect a percentage each year. In practice, the rich move. They change residency, restructure holdings, shift assets into hard-to-value forms. The countries that have tried wealth taxes - France, Sweden, Germany, Denmark - have mostly abandoned them after discovering that the revenue was negligible and the capital flight was real.
 
@@ -39,7 +39,7 @@ These are not irrational choices. They are rational responses to the costs and r
 
 **Uncover the hidden subsidy.**
 
-Government spending is a transfer of resources from one group to another. Every spending programme creates a constituency with a direct interest in its continuation. The recipients adapt their behaviour to the subsidy, then lobby to keep it. What began as a temporary intervention becomes a permanent entitlement.
+Government spending is a transfer of resources from one group to another. Every spending program creates a constituency with a direct interest in its continuation. The recipients adapt their behavior to the subsidy, then lobby to keep it. What began as a temporary intervention becomes a permanent entitlement.
 
 The logic is simple. A subsidy for housing makes housing more expensive because the subsidy capitalises into prices. A subsidy for tuition makes tuition more expensive because universities capture the additional funding. A subsidy for solar panels inflates the price of installation because the subsidy is shared between the installer and the homeowner. The beneficiary is not the person the policy was designed to help, but whoever captures the subsidy first.
 
@@ -53,11 +53,11 @@ Two reasons.
 
 First, the time horizon of politics is shorter than the time horizon of economic adjustment. A politician needs to show results before the next election. The wealth tax sounds good at a press conference and the capital flight takes five years to materialise. By the time the damage is visible, someone else is in office. The incentive is to announce the popular policy and let the next government deal with the consequences.
 
-Second, the costs of bad policy are diffuse and the benefits are concentrated. The group that benefits from a housing subsidy - developers, landlords, mortgage lenders - is small, organised, and politically active. The group that pays for it - taxpayers and future homebuyers - is large, disorganised, and barely aware the subsidy exists. The politics are straightforward: the concentrated group wins, the diffuse group loses, and the policy stays.
+Second, the costs of bad policy are diffuse and the benefits are concentrated. The group that benefits from a housing subsidy - developers, landlords, mortgage lenders - is small, organized, and politically active. The group that pays for it - taxpayers and future homebuyers - is large, disorganized, and barely aware the subsidy exists. The politics are straightforward: the concentrated group wins, the diffuse group loses, and the policy stays.
 
 **The point.**
 
-Incentives are not a detail. They are the main event. Every policy should be evaluated by one question: what behaviour does this reward? If the answer is something other than what the policy's supporters claim, the policy will fail. It will fail predictably, expensively, and in the direction the incentives point.
+Incentives are not a detail. They are the main event. Every policy should be evaluated by one question: what behavior does this reward? If the answer is something other than what the policy's supporters claim, the policy will fail. It will fail predictably, expensively, and in the direction the incentives point.
 
 People respond to incentives. They always have. They always will.
 

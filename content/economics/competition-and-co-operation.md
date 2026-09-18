@@ -107,7 +107,7 @@ And they think that calling a system "competitive" means it is harsh and uncarin
 
 ### Try It This Week
 
-Notice a transaction you are part of - buying something, hiring someone, even asking a favour. Look at both sides. Did the other person agree freely? Did they walk away better off than before? That is co-operation at work.
+Notice a transaction you are part of - buying something, hiring someone, even asking a favor. Look at both sides. Did the other person agree freely? Did they walk away better off than before? That is co-operation at work.
 
 Then notice the competition that made that transaction possible. The other shops you could have chosen. The other candidates for the job. The alternatives the other person had. Competition set the stage. Co-operation closed the deal.
 

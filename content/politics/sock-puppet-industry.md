@@ -166,7 +166,7 @@ The next time you hear a politician cite a "charity report" calling for more reg
 
 The next time you hear an "independent study" demanding higher taxes or new government programs, ask: who funded it, and could the researchers have reached any other conclusion and kept their funding?
 
-The next time someone tells you their charity is fighting for a better world, ask: who signs their paycheque?
+The next time someone tells you their charity is fighting for a better world, ask: who signs their paycheck?
 
 The answer is the same in London, Ottawa, Canberra, and Brussels. It is the government. It has always been the government. And the machine will keep running as long as the money keeps flowing - from the department, through the quango, past the committee, and into the bank account of the organization that can never say no.
 

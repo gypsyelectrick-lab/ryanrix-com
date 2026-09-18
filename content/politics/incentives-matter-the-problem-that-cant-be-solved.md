@@ -20,7 +20,7 @@ Every British government for thirty years has promised to control it. Every Brit
 
 The standard explanation is that politicians are weak, or lying, or both. But look at the incentives.
 
-Immigration delivers cheap labour to business - a reliable source of donations and political support. It allows the construction industry to build without raising wages. It keeps the NHS staffed without training enough British doctors and nurses. It suppresses wage growth in low-skilled sectors, which keeps inflation down. The beneficiaries are organized, concentrated, and politically connected.
+Immigration delivers cheap labor to business - a reliable source of donations and political support. It allows the construction industry to build without raising wages. It keeps the NHS staffed without training enough British doctors and nurses. It suppresses wage growth in low-skilled sectors, which keeps inflation down. The beneficiaries are organized, concentrated, and politically connected.
 
 The costs - housing pressure, stretched public services, cultural change - are diffuse and slow. They do not organize. They do not donate. They vote, but there is always another election to kick the can to, and by then the numbers have changed again.
 

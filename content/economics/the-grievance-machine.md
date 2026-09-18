@@ -117,7 +117,7 @@ The intention is good. Climate change is a real problem, and honest people disag
 
 The question here is narrower: have carbon taxes worked in practice?
 
-France introduced a carbon tax on fuel. It triggered the Gilets Jaunes - the largest protest movement in modern French history. Hundreds of thousands of ordinary people took to the streets, not because they were selfish or climate deniers, but because the tax fell heaviest on the people who could least afford to change their behaviour. The tax was abandoned. The emissions impact was negligible.
+France introduced a carbon tax on fuel. It triggered the Gilets Jaunes - the largest protest movement in modern French history. Hundreds of thousands of ordinary people took to the streets, not because they were selfish or climate deniers, but because the tax fell heaviest on the people who could least afford to change their behavior. The tax was abandoned. The emissions impact was negligible.
 
 The response from advocates: we did not tax enough. Never question the theory. Never ask whether the mechanism actually works. Just demand more power. This is the grievance machine's signature move.
 
@@ -131,7 +131,7 @@ The grievance: university access is unequal. The solution: more government subsi
 
 Before the 1990s, university in Britain was genuinely free - tuition paid, maintenance grants provided - but only about 2 percent of school leavers attended. It was an elite institution serving a narrow slice of the population.
 
-Then Tony Blair set a target of 50 percent participation. The number had no basis in evidence - not a study, not an analysis of labour market demand, just a round number announced as a goal. Universities expanded. Entry requirements fell. Tuition fees were introduced - initially £1,000, eventually £9,000 - paid through income-contingent loans written off after 30-40 years. Credential inflation set in at both ends: more graduates competed for the same jobs, and universities were pressured to award higher classifications to avoid student complaints. A first-class degree in 2020 was roughly equivalent to a 2:2 in 1990. The signalling game had escalated beyond what was rational.
+Then Tony Blair set a target of 50 percent participation. The number had no basis in evidence - not a study, not an analysis of labor market demand, just a round number announced as a goal. Universities expanded. Entry requirements fell. Tuition fees were introduced - initially £1,000, eventually £9,000 - paid through income-contingent loans written off after 30-40 years. Credential inflation set in at both ends: more graduates competed for the same jobs, and universities were pressured to award higher classifications to avoid student complaints. A first-class degree in 2020 was roughly equivalent to a 2:2 in 1990. The signalling game had escalated beyond what was rational.
 
 The deeper point: the government created this problem through its first intervention (elite, class-based system) and worsened it through its second (arbitrary expansion target, loans). The proposed third intervention will produce more unintended consequences. <a href="/economics/the-information-problem/" target="_blank" rel="noopener noreferrer">The Information Problem</a> explains why central planners cannot know how many graduates the economy needs, or what skills they should have.
 

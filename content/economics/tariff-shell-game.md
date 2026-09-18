@@ -27,7 +27,7 @@ Let us walk through what is happening, why it matters, and what question nobody 
 
 ## What Tariffs Actually Do
 
-Before we examine the shell game, let us be clear about what tariffs are. A tariff is a tax on imported goods. It is paid by the importing company, which passes the cost to consumers in the form of higher prices. The foreign producer does not write a cheque to the US Treasury. American companies and American consumers do.
+Before we examine the shell game, let us be clear about what tariffs are. A tariff is a tax on imported goods. It is paid by the importing company, which passes the cost to consumers in the form of higher prices. The foreign producer does not write a check to the US Treasury. American companies and American consumers do.
 
 This is not a controversial statement among economists. A 2019 study by the Federal Reserve Bank of New York, the International Monetary Fund, and leading academic researchers found that the cost of the 2018-2019 tariffs fell almost entirely on American consumers and importers. Foreign exporters did not lower their prices to absorb the tariff. American consumers paid it.
 

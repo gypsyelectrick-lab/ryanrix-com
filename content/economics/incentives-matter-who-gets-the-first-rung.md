@@ -5,11 +5,11 @@ menu: "Incentives Matter: Who Gets the First Rung?"
 date: 2026-07-27
 author: "Anna Karina"
 description: "Finland has no minimum wage and 23% youth unemployment. The two facts are connected."
-tags: [economics, incentives, minimum-wage, labour, employment, regulation]
+tags: [economics, incentives, minimum-wage, labor, employment, regulation]
 draft: false
 ---
 
-Two labour market facts that seem to contradict each other.
+Two labor market facts that seem to contradict each other.
 
 Finland has no statutory minimum wage. If you believe that minimum wages kill jobs, Finland should have low unemployment, especially among the young.
 
@@ -27,13 +27,13 @@ The 23% youth unemployment rate is not a puzzle. It is the predictable outcome o
 
 **Now compare France and the UK.**
 
-France has a statutory minimum wage (the SMIC, at roughly 11.65 euros per hour) and highly rigid labour laws. Firing a worker is expensive and legally risky. Hiring is therefore a serious commitment. The official unemployment rate is 8.2%.
+France has a statutory minimum wage (the SMIC, at roughly 11.65 euros per hour) and highly rigid labor laws. Firing a worker is expensive and legally risky. Hiring is therefore a serious commitment. The official unemployment rate is 8.2%.
 
-The UK has a minimum wage too, but weaker unions, easier hiring and firing, and a much more fluid labour market. The official unemployment rate is 5.0%.
+The UK has a minimum wage too, but weaker unions, easier hiring and firing, and a much more fluid labor market. The official unemployment rate is 5.0%.
 
 The gap between 8.2% and 5.0% looks modest. It is not.
 
-In a fluid labour market like the UK, a significant portion of unemployment is frictional: people between jobs, changing roles, moving cities, trying new industries. They are not stuck. They are in transit. The 5.0% figure includes people who will have a new job next week and people who quit one job on Friday and start another on Monday.
+In a fluid labor market like the UK, a significant portion of unemployment is frictional: people between jobs, changing roles, moving cities, trying new industries. They are not stuck. They are in transit. The 5.0% figure includes people who will have a new job next week and people who quit one job on Friday and start another on Monday.
 
 In a rigid market like France, frictional unemployment is much lower because nobody quits a good job voluntarily. The 8.2% is therefore almost entirely structural: people who cannot find work, not people between work.
 
@@ -47,11 +47,11 @@ A University of Washington study, commissioned by the city itself, tracked what 
 
 The workers who kept their jobs and got full hours were better off. The workers who lost hours, lost shifts, or never got hired in the first place were invisible. They do not appear in the averages. They are the denominator the policy forgot.
 
-This is the universal pattern of minimum wage increases. Some workers win. Others lose. The winners are visible and vocal. The losers are diffuse, unorganised, and often never connect their misfortune to the law that caused it.
+This is the universal pattern of minimum wage increases. Some workers win. Others lose. The winners are visible and vocal. The losers are diffuse, unorganized, and often never connect their misfortune to the law that caused it.
 
 **The no-tipping experiment.**
 
-Around the same time, a different kind of labour market experiment was running in American restaurants.
+Around the same time, a different kind of labor market experiment was running in American restaurants.
 
 Joe's Crab Shack, a national chain, eliminated tipping at 18 of its locations in 2015. The idea was to raise menu prices by 12-15%, pay servers a proper hourly wage, and remove the uncertainty and inequality of the tipping system. It sounded like progress.
 
@@ -59,13 +59,13 @@ Six months later, it had abandoned the experiment at 14 of the 18 locations. Cus
 
 Danny Meyer's Union Square Hospitality Group tried a similar policy in New York. It had mixed results. Some of the best servers left. Customers ordered less food because menu prices looked higher. Other restaurants that tried the model - Tom Colicchio's Craft, Momofuku Nishi, Fedora - eventually reverted to tipping.
 
-The well-intentioned reformers had missed something. The tipping system is not a bug in the labour market. It is a feature. It aligns incentives: servers deliver better service to earn better tips, customers pay in proportion to their satisfaction, and restaurants keep menu prices looking low. Eliminate tipping and you eliminate all three incentives at once. The system has to find a new equilibrium, and the new equilibrium often leaves everyone worse off.
+The well-intentioned reformers had missed something. The tipping system is not a bug in the labor market. It is a feature. It aligns incentives: servers deliver better service to earn better tips, customers pay in proportion to their satisfaction, and restaurants keep menu prices looking low. Eliminate tipping and you eliminate all three incentives at once. The system has to find a new equilibrium, and the new equilibrium often leaves everyone worse off.
 
 **The common thread.**
 
 Finland's youth unemployment, France's hidden structural joblessness, Seattle's hour cuts, and the failure of no-tipping restaurants all tell the same story.
 
-Labour markets are not laboratories. They are systems of human beings responding to incentives. When you change the price of labour - by raising the minimum wage, by imposing a collective agreement, by altering how workers are compensated - people adapt. Employers hire fewer people, or reduce hours. Workers change their behaviour. The system finds a new equilibrium, and it is almost never the one the policy's designers intended.
+Labor markets are not laboratories. They are systems of human beings responding to incentives. When you change the price of labor - by raising the minimum wage, by imposing a collective agreement, by altering how workers are compensated - people adapt. Employers hire fewer people, or reduce hours. Workers change their behavior. The system finds a new equilibrium, and it is almost never the one the policy's designers intended.
 
 The moral impulse behind minimum wages and tip abolition is the same: protect workers, reduce inequality, make the system fairer. These are admirable goals. But good intentions do not repeal the laws of supply and demand.
 

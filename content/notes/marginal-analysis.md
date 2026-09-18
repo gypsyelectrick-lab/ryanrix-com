@@ -25,13 +25,13 @@ The same logic applies to consumers. You do not decide "should I ever eat pizza 
 
 ## Why the Margin Matters More Than the Average
 
-Politicians and advocates often cite average effects to justify policy. "The average family saves $500 under this tax plan." "The average worker earns more under this trade deal." But averages hide the marginal decision - the one person at the edge who changes their behaviour.
+Politicians and advocates often cite average effects to justify policy. "The average family saves $500 under this tax plan." "The average worker earns more under this trade deal." But averages hide the marginal decision - the one person at the edge who changes their behavior.
 
 This is why marginal analysis is more useful:
 
 - **Not everyone will stop buying when the price goes up. But some number at the margin will.** The ones who were barely willing to buy at the old price - they are the ones who drop out. The inframarginal buyers (who would buy at almost any price) stay. The policy effect is determined by the marginal buyers, not the average buyer.
 
-- **Not every millionaire will leave if a wealth tax is imposed. But some at the margin will.** The ones who were already considering a move, who have ties to another country, whose businesses are portable - they are the ones who leave. The tax revenue estimate that uses average behaviour will be wrong, because it misses the margin.
+- **Not every millionaire will leave if a wealth tax is imposed. But some at the margin will.** The ones who were already considering a move, who have ties to another country, whose businesses are portable - they are the ones who leave. The tax revenue estimate that uses average behavior will be wrong, because it misses the margin.
 
 - **Not every worker will quit if overtime pay is cut. But some at the margin will.** The ones who were barely willing to work that extra hour - they are the ones who stop. The employer who thinks "everyone will keep working" is confusing the average worker with the marginal worker.
 
