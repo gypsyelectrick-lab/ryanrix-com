@@ -16,7 +16,7 @@ image: /images/before-money.png
 
 ## Nobody Taught You to Trade
 
-Think about the last time you traded something. Maybe you sold a chair on an online marketplace. Maybe you swapped shifts with a coworker. Maybe you handed over four dollars for a coffee this morning. Did you take a course first? Did you read a manual? Did you wait for permission?
+Think about the last time you traded something. Maybe you sold a chair on an online marketplace. Maybe you swapped shifts with a coworker. Maybe you handed over four dollars for a coffee this morning? Did you take a course first? Did you read a manual? Did you wait for permission?
 
 Of course not. You just did it. You had something, someone else wanted it, and you traded.
 
