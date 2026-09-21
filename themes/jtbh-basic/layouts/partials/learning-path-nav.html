@@ -30,8 +30,10 @@
     </div>
     {{ end }}
   </div>
+  {{ with .CurrentSection.GetPage "learning-path" }}
   <div style="text-align: center; margin-top: 1rem;">
-    <a href="{{ .CurrentSection.RelPermalink }}learning-path/" style="color: var(--color-text-muted); font-size: 0.9rem;">View full learning path →</a>
+    <a href="{{ .RelPermalink }}" style="color: var(--color-text-muted); font-size: 0.9rem;">View full learning path →</a>
   </div>
+  {{ end }}
 </nav>
 {{ end }}
