@@ -29,6 +29,10 @@ document.getElementById('newsletter-form').addEventListener('submit', async func
   e.preventDefault();
   const btn = document.getElementById('subscribe-btn');
   const email = document.getElementById('email_address').value;
+  // Traffic source from the page URL (?src=fb, ?src=x, ?src=quora), forwarded so the
+  // server can attribute this signup to the channel that produced it. Safe if absent.
+  const src = (new URLSearchParams(location.search).get('src') || '')
+    .toLowerCase().replace(/[^a-z0-9-]/g, '').slice(0, 32);
   const successDiv = document.getElementById('newsletter-success');
   const errorDiv = document.getElementById('newsletter-error');
   const privacyNote = document.getElementById('privacy-note');
@@ -41,7 +45,7 @@ document.getElementById('newsletter-form').addEventListener('submit', async func
     const res = await fetch('/api/subscribe', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email }),
+      body: JSON.stringify({ email, src }),
     });
     const data = await res.json();
 

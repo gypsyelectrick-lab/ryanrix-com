@@ -22,7 +22,19 @@ export async function onRequest(context) {
   }
 
   try {
-    const { email, name } = await request.json();
+    const { email, name, src } = await request.json();
+
+    // Attribute the signup to the channel that produced it. MailerLite RESERVES the
+    // field name "source", so the custom field is "Msource" (Mike, 2026-09-22).
+    // Overridable by env in case the dashboard field name is ever changed.
+    // The API contract is "keys must correspond to custom field name" - the NAME, not a slug.
+    const sourceField = env.MAILERLITE_SOURCE_FIELD || 'Msource';
+    const cleanSrc = typeof src === 'string'
+      ? src.toLowerCase().replace(/[^a-z0-9-]/g, '').slice(0, 32)
+      : '';
+    const fields = {};
+    if (name) fields.name = name;
+    if (cleanSrc) fields[sourceField] = cleanSrc;
 
     if (!email || !email.includes('@')) {
       return new Response(JSON.stringify({ error: 'Valid email required' }), {
@@ -40,7 +52,7 @@ export async function onRequest(context) {
       },
       body: JSON.stringify({
         email,
-        fields: name ? { name } : {},
+        fields,
         groups: env.MAILERLITE_GROUP_ID ? [env.MAILERLITE_GROUP_ID] : [],
       }),
     });
