@@ -16,7 +16,7 @@ You have heard this sentence a hundred times, usually right before someone propo
 
 It is the historical proof-text of every soak-the-rich demand. A member of parliament says it. A columnist writes it. A video essay uses it as its climax. And because it has the shape of a fact - a number, a decade, a verdict - it travels without ever being checked.
 
-Let us check it. Not to be contrarian. Because the next UK Budget is coming - the confirmed October 28 Budget, now 72 days out - and <a href="https://www.capitaleconomics.com/" target="_blank" rel="noopener noreferrer">Capital Economics</a> has already suggested it could raise £20-25bn by "shifting focus to hikes on capital, wealth and income." When the wealth tax argument comes, the 90% claim will be its opening exhibit. It deserves a look before it gets a standing ovation.
+Let us check it. Not to be contrarian. Because the next UK Budget is coming - the confirmed October 28 Budget, 72 days out as this was written - and <a href="https://www.capitaleconomics.com/" target="_blank" rel="noopener noreferrer">Capital Economics</a> has already suggested it could raise £20-25bn by "shifting focus to hikes on capital, wealth and income." When the wealth tax argument comes, the 90% claim will be its opening exhibit. It deserves a look before it gets a standing ovation.
 
 The claim has one thing right. The number is real. The story built on it is not.
 

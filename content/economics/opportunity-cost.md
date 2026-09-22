@@ -7,7 +7,7 @@ author: "Anna Karina"
 description: "What you give up - explained with meals, careers, and government budgets."
 weight: 25
 tags: ["economics", "opportunity-cost", "basics", "learning-path"]
-levels: "basic"
+levels: "beginner"
 ---
 
 ## The Meal You Did Not Eat
