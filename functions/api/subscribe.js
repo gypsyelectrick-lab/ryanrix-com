@@ -25,10 +25,12 @@ export async function onRequest(context) {
     const { email, name, src } = await request.json();
 
     // Attribute the signup to the channel that produced it. MailerLite RESERVES the
-    // field name "source", so the custom field is "Msource" (Mike, 2026-09-22).
-    // Overridable by env in case the dashboard field name is ever changed.
-    // The API contract is "keys must correspond to custom field name" - the NAME, not a slug.
-    const sourceField = env.MAILERLITE_SOURCE_FIELD || 'Msource';
+    // name "source", so Mike created the field as "MSource" - whose TAG is `{$msource}`.
+    // The API key is the lowercase TAG, not the display name: every field on the Fields
+    // page shows a lowercase tag (`{$name}`, `{$last_name}`, `{$msource}`). Sending
+    // "Msource" silently set nothing, because MailerLite drops unrecognised keys without
+    // error - which is why the write looked successful while the value stayed empty.
+    const sourceField = env.MAILERLITE_SOURCE_FIELD || 'msource';
     const cleanSrc = typeof src === 'string'
       ? src.toLowerCase().replace(/[^a-z0-9-]/g, '').slice(0, 32)
       : '';
