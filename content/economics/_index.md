@@ -72,7 +72,7 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [The Laffer Curve, Alive and Well in Scotland](/economics/laffer-curve-scotland/) - Scotland's 48p rate may be costing more than it collects.
 - [Public Choice Theory: Why Government Doesn't Fix What Government Breaks](/economics/public-choice-theory/) - Buchanan won a Nobel Prize for applying economics to politics itself.
 - [Argentina's Lesson: What Happens When You Actually Fix an Economy](/economics/argentina-milei-lesson/) - Inflation from 211% to ~30%. Country risk from 2,000bp to 500bp. What the critics miss.
-- [The Billionaire Tax Test: Why California's Proposition 40 Will Fail Like Every Wealth Tax Before It](/economics/california-wealth-tax-test/) - Public Choice Theory predicts wealth taxes fail. The global evidence agrees.
+- [The Billionaire Tax Test: Why California's Prop 40 Fails](/economics/california-wealth-tax-test/) - Public Choice Theory predicts wealth taxes fail. The global evidence agrees.
 - [The Cost of Pretending We Know What We're Doing](/economics/the-cost-of-pretending/) - Regulators who cannot meet their own deadlines are setting everyone else's.
 - [The Mayor's Share](/economics/the-mayors-share/) - Mayors get a share of income tax revenue, but not the power to set the rate. Reward without the lever.
 - [The Second Inflation Wave](/economics/the-second-inflation-wave/) - UK inflation hit a 15-month low. The Bank of England says the good news is over.
