@@ -76,8 +76,8 @@
     <!-- Share Bar -->
     {{ partial "share-bar.html" . }}
     
-    <!-- Learning Path Navigation (prev/next by weight) -->
-    {{ if .Params.levels }}
+    <!-- Learning Path Navigation (prev/next by weight) - only when the section declares a learning path -->
+    {{ if and .Params.levels (.CurrentSection.GetPage "learning-path") }}
       {{ partial "learning-path-nav.html" . }}
     {{ end }}
     
