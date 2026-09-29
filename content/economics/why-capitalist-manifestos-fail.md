@@ -3,6 +3,7 @@ topic: "Economics"
 title: 'The Manifesto Capitalism Cannot Write'
 menu: 'The Manifesto Problem'
 date: 2026-09-14
+image: /images/why-capitalist-manifestos-fail.png
 author: 'Anna Karina'
 description: "Four books tried it. None became the one. The form is why."
 draft: false

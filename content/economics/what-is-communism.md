@@ -3,6 +3,7 @@ topic: "Communism"
 title: "What Is Communism?"
 menu: "Communism"
 date: 2026-09-23
+image: /images/what-is-communism.png
 author: "Anna Karina"
 description: "The promise kept moving. The plan needed enemies. The record is the argument."
 draft: false
