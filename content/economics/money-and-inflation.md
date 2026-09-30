@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Money & Inflation - What They Actually Are"
 menu: "Money & Inflation"
 date: 2026-06-26
+image: /images/money-and-inflation.png
 author: "Anna Karina"
 description: "Money is not wealth. Inflation is not just prices going up. Here is what is happening to your money and why."
 draft: false

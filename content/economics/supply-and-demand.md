@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Supply & Demand - The Most Powerful Idea You Already Know"
 menu: "Supply & Demand"
 date: 2026-06-26
+image: /images/supply-and-demand.png
 author: "Anna Karina"
 description: "You already understand supply and demand. You just do not know you understand it. Here is the pattern behind nearly every price you see."
 draft: false

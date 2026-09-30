@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Property Rights - The Foundation You Never Notice"
 menu: "Property Rights"
 date: 2026-07-05
+image: /images/property-rights-the-foundation.png
 author: "Anna Karina"
 description: "Before you can trade, you need to own. Clear property rights are the invisible foundation everything else rests on."
 draft: false

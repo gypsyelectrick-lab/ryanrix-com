@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "What You Give Up - A Gentle Introduction to Opportunity Cost"
 menu: "Opportunity Cost"
 date: 2026-07-01
+image: /images/opportunity-cost.png
 author: "Anna Karina"
 description: "What you give up - explained with meals, careers, and government budgets."
 weight: 25

@@ -3,6 +3,7 @@ topic: "Incentives & Public Choice"
 title: "What Price Controls Make Invisible"
 menu: "Price Controls"
 date: 2026-07-05
+image: /images/price-controls.png
 author: "Anna Karina"
 description: "Why capping rents and raising wages create shortages and surpluses you never see."
 weight: 26
