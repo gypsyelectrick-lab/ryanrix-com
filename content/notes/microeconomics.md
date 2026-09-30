@@ -2,6 +2,7 @@
 title: "Microeconomics"
 description: "The study of individual choices - how people decide what to buy, firms decide what to produce, and markets coordinate both."
 date: 2026-07-20
+image: /images/microeconomics.png
 draft: false
 author: "Anna Karina"
 tags: [economics, microeconomics, beginner]

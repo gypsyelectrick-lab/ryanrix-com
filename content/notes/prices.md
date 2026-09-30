@@ -2,6 +2,7 @@
 title: "Prices"
 description: "Prices are not random numbers. They are messages that coordinate what gets produced and who gets it."
 date: 2026-07-20
+image: /images/prices.png
 author: "Anna Karina"
 tags: [economics, prices, markets, beginner]
 levels: beginner

@@ -2,6 +2,7 @@
 title: "Supply & Demand"
 description: "The pattern behind nearly every price: when something is scarce relative to demand, the price rises. When it is plentiful, the price falls."
 date: 2026-07-20
+image: /images/supply-and-demand.png
 author: "Anna Karina"
 tags: [economics, supply, demand, prices, beginner]
 levels: beginner

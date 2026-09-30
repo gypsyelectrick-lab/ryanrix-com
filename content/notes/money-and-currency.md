@@ -2,6 +2,7 @@
 title: "Money & Currency"
 description: "What money actually is - not wealth, but a tool. And the seven attributes that make something useful as money."
 date: 2026-07-20
+image: /images/money-and-currency.png
 author: "Anna Karina"
 tags: [economics, money, currency, beginner]
 levels: beginner

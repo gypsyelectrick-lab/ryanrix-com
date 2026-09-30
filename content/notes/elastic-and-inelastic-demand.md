@@ -2,6 +2,7 @@
 title: "Elastic and Inelastic Demand"
 description: "How much does quantity change when the price changes? The answer determines who pays a tax and whether a price hike kills sales."
 date: 2026-07-20
+image: /images/elastic-and-inelastic-demand.png
 draft: false
 author: "Anna Karina"
 tags: [economics, demand, prices, elasticity, beginner]

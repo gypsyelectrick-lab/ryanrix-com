@@ -2,6 +2,7 @@
 title: "Marginal Analysis"
 description: "Economics happens at the margin - the difference between one choice and the next, not the average or the total."
 date: 2026-07-20
+image: /images/marginal-analysis.png
 author: "Anna Karina"
 tags: [economics, marginal-analysis, microeconomics, beginner]
 levels: beginner

@@ -2,6 +2,7 @@
 title: "The Invisible Hand"
 description: "How self-interest, without central direction, coordinates production to meet the needs of millions of strangers."
 date: 2026-07-20
+image: /images/the-invisible-hand.png
 draft: false
 author: "Anna Karina"
 tags: [economics, markets, beginner]

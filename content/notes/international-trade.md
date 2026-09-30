@@ -2,6 +2,7 @@
 title: "International Trade"
 description: "Why both sides win when countries trade - and why it looks like one side is losing."
 date: 2026-07-20
+image: /images/international-trade.png
 author: "Anna Karina"
 tags: [economics, trade, globalization, beginner]
 levels: beginner

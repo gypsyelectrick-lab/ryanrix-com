@@ -2,6 +2,7 @@
 title: "Markets"
 description: "What markets are - not a place, but a process of voluntary exchange that coordinates the plans of strangers."
 date: 2026-07-20
+image: /images/markets.png
 draft: false
 author: "Anna Karina"
 tags: [economics, markets, beginner]

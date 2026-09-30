@@ -2,6 +2,7 @@
 title: "Macroeconomics"
 description: "The study of the economy as a whole - growth, inflation, unemployment, and the policies that influence them."
 date: 2026-07-20
+image: /images/macroeconomics.png
 draft: false
 author: "Anna Karina"
 tags: [economics, macroeconomics, beginner]

@@ -2,6 +2,7 @@
 title: "Opportunity Cost"
 description: "The real cost of any choice is not what you spend. It is what you give up."
 date: 2026-07-20
+image: /images/opportunity-cost.png
 author: "Anna Karina"
 tags: [economics, opportunity-cost, basics, beginner]
 levels: beginner

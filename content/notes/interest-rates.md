@@ -2,6 +2,7 @@
 title: "Interest Rates"
 description: "The price of time - how interest coordinates borrowing, saving, and investment across the economy."
 date: 2026-07-20
+image: /images/interest-rates.png
 author: "Anna Karina"
 tags: [economics, interest, savings, money, beginner]
 levels: beginner

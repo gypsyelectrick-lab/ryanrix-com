@@ -2,6 +2,7 @@
 title: "Modern Monetary Theory (MMT)"
 description: "What MMT actually says about how sovereign currency works - and what it does not say."
 date: 2026-07-20
+image: /images/modern-monetary-theory.png
 author: "Anna Karina"
 tags: [economics, mmt, monetary-policy, advanced]
 levels: advanced

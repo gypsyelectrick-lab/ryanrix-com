@@ -2,6 +2,7 @@
 title: "Schumpeterian Profits"
 description: "The temporary surplus earned by innovators who introduce something new - and why it disappears."
 date: 2026-07-20
+image: /images/schumpeterian-profits.png
 draft: false
 author: "Anna Karina"
 tags: [economics, innovation, profits, intermediate]

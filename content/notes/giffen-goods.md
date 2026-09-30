@@ -2,6 +2,7 @@
 title: "Giffen Goods"
 description: "The rare case where a price increase leads people to buy more - because the good absorbs so much of their budget."
 date: 2026-07-20
+image: /images/giffen-goods.png
 draft: false
 author: "Anna Karina"
 tags: [economics, demand, prices, intermediate]
