@@ -3,6 +3,7 @@ topic: "Regulation"
 title: "Don't Call Them Technocrats"
 menu: "Don't Call Them Technocrats"
 date: 2026-07-15
+image: /images/dont-call-them-technocrats.png
 author: "Anna Karina"
 description: "The people writing tech policy don't understand tech. They are not experts. They are bureaucrats with a printing press."
 weight: 10

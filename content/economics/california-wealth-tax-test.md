@@ -3,6 +3,7 @@ topic: "Taxes"
 title: "The Billionaire Tax Test: Why California's Prop 40 Fails"
 menu: "Prop 40 Wealth Tax"
 date: 2026-07-28
+image: /images/california-wealth-tax-test.png
 author: "Anna Karina"
 description: "Public Choice Theory predicts wealth taxes fail. The global evidence agrees."
 draft: false

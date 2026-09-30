@@ -3,6 +3,7 @@ topic: "Incentives & Public Choice"
 title: "Incentives Matter: Who Gets the First Rung?"
 menu: "Incentives Matter: Who Gets the First Rung?"
 date: 2026-07-27
+image: /images/incentives-matter-who-gets-the-first-rung.png
 author: "Anna Karina"
 description: "Finland has no minimum wage and 23% youth unemployment. The two facts are connected."
 tags: [economics, incentives, minimum-wage, labor, employment, regulation]

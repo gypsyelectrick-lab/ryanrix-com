@@ -3,6 +3,7 @@ topic: "Incentives & Public Choice"
 title: "Incentives Matter: The Economics of Obvious"
 menu: "Incentives Matter: The Economics of Obvious"
 date: 2026-07-27
+image: /images/incentives-matter-the-economics-of-obvious.png
 author: "Anna Karina"
 description: "People respond to incentives. The rest is detail. Why does every government pretend otherwise?"
 tags: [economics, incentives, taxation, behavior, regulation]

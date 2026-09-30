@@ -3,6 +3,7 @@ topic: "Money & Inflation"
 title: "Where Does Money Come From?"
 menu: "Modern Monetary Theory"
 date: 2026-07-09
+image: /images/modern-monetary-theory.png
 author: "Anna Karina"
 description: "What MMT actually says and why the conventional wisdom is wrong."
 draft: false
