@@ -3,6 +3,7 @@ topic: "Money & Inflation"
 title: "Argentina's Lesson: What Happens When You Actually Fix an Economy"
 menu: "Argentina's Lesson"
 date: 2026-07-28
+image: /images/argentina-milei-lesson.png
 author: "Anna Karina"
 description: "Inflation from 211% to ~30%. Country risk from 2,000bp to 500bp. What the critics miss."
 draft: false

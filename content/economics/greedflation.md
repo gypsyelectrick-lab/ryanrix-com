@@ -3,6 +3,7 @@ topic: "Money & Inflation"
 title: "Greedflation: What the Theory Misses"
 menu: "Greedflation"
 date: 2026-07-23
+image: /images/greedflation.png
 author: "Anna Karina"
 description: "If corporations can set any price they want, why does Aldi exist?"
 draft: false
