@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Interest Rates - The Price of Time"
 menu: "Interest Rates"
 date: 2026-07-05
+image: /images/interest-rates-price-of-time.png
 author: "Anna Karina"
 description: "Interest is not a punishment. It is the signal that coordinates when things get built and who gets to use them."
 draft: false

@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Creative Destruction - Why Lost Jobs Make Us Richer"
 menu: "Creative Destruction"
 date: 2026-07-05
+image: /images/creative-destruction.png
 author: "Anna Karina"
 description: "The uncomfortable truth: progress destroys old jobs faster than it creates new ones. But the new ones are better."
 draft: false

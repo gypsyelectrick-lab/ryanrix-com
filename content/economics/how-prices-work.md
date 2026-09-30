@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "How Prices Work - The Information Machine Nobody Built"
 menu: "How Prices Work"
 date: 2026-06-26
+image: /images/how-prices-work.png
 author: "Anna Karina"
 description: "Prices are not random numbers. They are messages sent by millions of people to each other, coordinating what gets made and who gets it."
 draft: false

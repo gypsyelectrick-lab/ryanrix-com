@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Externalities - When the Price Is Wrong"
 menu: "Externalities"
 date: 2026-07-05
+image: /images/externalities-when-price-is-wrong.png
 author: "Anna Karina"
 description: "When you pay the cost but someone else enjoys the benefit - or vice versa - markets need help to work properly."
 draft: false
