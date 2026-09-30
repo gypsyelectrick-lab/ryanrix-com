@@ -66,7 +66,7 @@ You might not know, but the current richest person the world, Elon Musk, takes n
 
 ## The version
 
-To be fair to the claim's believers, there is a real point hiding inside the myth. The postwar era was a time of genuinely progressive taxation, and the top 1% did pay more - as a share of their income - than they do now. If your argument is "the very wealthy should carry a somewhat heavier burden than they do today," the 1950s offer a mild precedent. That is a defensible position, and the six-point difference is its evidence.
+To be fair to the claim's believers, there is a real point hiding inside the myth. The postwar era was a time of genuinely progressive taxation, and the top 1% did pay more - as a share of their income - than they do now. If your argument is "the very wealthy should carry a somewhat heavier burden than they do today," the 1950s offer a mild precedent. That is a defensible position, and the six-point difference is its honest evidence.
 
 What is not defensible is the 90% claim. It is a sticker rate presented as a paid rate, a marginal rate presented as an average, and a historical coincidence presented as a causal law. Every wealth tax proposal now circulating - the ones heading toward the October 28 Budget, the <a href="/economics/the-63bn-reckoning/" target="_blank" rel="noopener noreferrer">£63bn spending plans</a> they would fund - inherits this distortion. The argument deserves better evidence than it has been using.
 

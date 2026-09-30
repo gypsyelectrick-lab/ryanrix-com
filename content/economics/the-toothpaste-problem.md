@@ -116,7 +116,7 @@ When you see 2,000 toothpastes, you are not seeing waste. You are seeing the res
 
 When you see a government program that spends money with no visible consequence, you are not seeing efficiency. You are seeing a cost that has been hidden. That cost is paid in resources that could have been used for something better, in innovations that never happened, in choices that were never offered.
 
-Both errors come from the same source: the belief that what you can see is all there is. The good economist looks for what is invisible. The 2,000 toothpastes that did not need to be made are visible. The 2,000 toothpastes that could have existed but never did, because someone decided one was enough - those are invisible. And they matter more.
+Both errors come from the same source: the belief that what you can see is all there is. The good economist - the honest one - looks for what is invisible. The 2,000 toothpastes that did not need to be made are visible. The 2,000 toothpastes that could have existed but never did, because someone decided one was enough - those are invisible. And they matter more.
 
 ---
 

@@ -18,7 +18,7 @@ levels: "advanced"
 
 Fuel prices fell. Food prices fell. The <a href="https://www.ons.gov.uk/economy/inflationandpriceindices" target="_blank" rel="noopener noreferrer">Office for National Statistics</a> reported the annual rate easing from 2.8 percent in May to 2.6 percent in June, with transport costs doing most of the work. As <a href="https://www.rte.ie/news/business/2026/0722/1584517-uk-inflation-falls-in-june/" target="_blank" rel="noopener noreferrer">RTE's coverage</a> put it, the reading was the lowest since March 2025.
 
-A household that drives and shops weekly is paying less than it was a year ago. That relief is genuine. People who felt it deserve an acknowledgment, not a lecture.
+A household that drives and shops weekly is paying less than it was a year ago. That relief is genuine. People who felt it deserve an honest acknowledgment, not a lecture.
 
 But notice what did not cause the fall. It was not a change in monetary policy. It was not wage restraint or a new fiscal discipline. It was the supply side doing the work - cheaper energy and cheaper food pulled the index down. This is a reprieve, not a regime change. Gifts from the world can be taken back by the world.
 
