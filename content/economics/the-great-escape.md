@@ -58,9 +58,7 @@ Vietnam in the mid-1980s was one of the poorest countries on Earth. Decades of w
 
 The result was one of the fastest escapes from poverty ever measured. The extreme poverty rate fell from roughly six in ten in the early 1990s to single digits within a generation. Children born hungry grew up to own motorbikes and smartphones and small businesses. The Vietnamese boom is the entire two-hundred-year story compressed into one lifetime, and it happened for the same reason the original escape happened: the imposers let go, and the anonymous problem-solvers did what they do.
 
-## The Honest Turn
-
-Now the part, because a story without its caveats is propaganda, and because trust is the whole game.
+## The Caveats
 
 The recent stall is real. Let us give it its full weight. For two decades the headline number fell almost every year. Then came the pandemic, which pushed tens of millions back across the poverty line - the first rise in a generation. And the latest data show the recovery has been slower than hoped. The World Bank's March 2026 update of its <a href="https://pip.worldbank.org/" target="_blank" rel="noopener noreferrer">Poverty and Inequality Platform</a> revised the 2024 figure upward: about 847 million people in extreme poverty, against the roughly 700 million - 8.5 percent - estimated in the Bank's <a href="https://www.worldbank.org/en/publication/poverty-and-shared-prosperity" target="_blank" rel="noopener noreferrer">2024 report</a>. Part of the revision is a correction in the data - new survey results from Pakistan - but a correction that reveals a real underlying truth. The decline has stalled. The escape is not currently happening.
 
