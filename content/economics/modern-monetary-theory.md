@@ -126,7 +126,7 @@ This is where the theory meets your life. Austerity - cutting government spendin
 
 Austerity is a choice about what the government prefers not to do. When a government cuts funding for healthcare, education, infrastructure, or social services, it is not doing so because it cannot afford them. It is doing so because it has decided that other priorities - lower taxes, deficit reduction, ideological commitments to a smaller state - are more important.
 
-There is nothing wrong with making that argument honestly. People can disagree about the proper size and scope of government. But the argument should be honest. It should not pretend that the government is like a household that has maxed out its credit cards. It should not invoke the OBR as if its models represent physical law rather than a set of assumptions about how the economy should be managed.
+There is nothing wrong with making that argument. People can disagree about the proper size and scope of government. But the argument should be honest. It should not pretend that the government is like a household that has maxed out its credit cards. It should not invoke the OBR as if its models represent physical law rather than a set of assumptions about how the economy should be managed.
 
 The real cost of government spending is not the financial cost. It is the real resource cost. When the government builds a hospital, that hospital uses steel, concrete, labor, and land that could have been used for something else. When the government hires a nurse, that nurse is no longer available for the private sector. These are real economic trade-offs. They are worth debating. But they are not the same as "we cannot afford it."
 

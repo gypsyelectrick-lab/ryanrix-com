@@ -59,7 +59,7 @@ When the new data came out this year, the Scottish Government's response, as rep
 
 Bastiat's framework fits this perfectly. The visible effect is the rate: 48p, the highest in the UK, a gesture of taxing the rich. The invisible effects are the income that changed form, the self-assessment base that shrank, the £22 million that never arrived. Politicians are rewarded for the visible. The invisible arrives later, diffuse, and attributable to nobody. If you want the full argument, it is in <a href="/economics/the-seen-and-the-unseen/" target="_blank" rel="noopener noreferrer">The Seen and the Unseen</a>.
 
-## The caveats, honestly stated
+## The caveats
 
 If you have read this far, you deserve the other side of the argument. The case is strong, but it is not proven, and anyone who tells you otherwise is selling something.
 

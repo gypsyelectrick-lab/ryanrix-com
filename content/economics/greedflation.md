@@ -53,7 +53,7 @@ The cross-country evidence reinforces this. Countries with more concentrated ret
 
 ## The Real Villain
 
-If corporate greed did not cause inflation, what did? The answer is less dramatic but more honest: a combination of fiscal stimulus, loose monetary policy, supply chain disruptions, and energy price shocks. Governments printed money. Central banks kept interest rates low for too long. The pandemic broke global logistics. War in Europe disrupted energy markets.
+If corporate greed did not cause inflation, what did? The answer is: a combination of fiscal stimulus, loose monetary policy, supply chain disruptions, and energy price shocks. Governments printed money. Central banks kept interest rates low for too long. The pandemic broke global logistics. War in Europe disrupted energy markets.
 
 None of these causes has a single villain you can point to. There is no boardroom where executives decided to make life expensive. There is only a complex system of interacting forces that produced a result nobody wanted. The greedflation story is popular precisely because it replaces this complexity with a simple narrative. That simple narrative is wrong.
 
