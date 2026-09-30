@@ -3,6 +3,7 @@ topic: "Money & Inflation"
 title: "The Cantillon Effect - Who Gets the New Money First"
 menu: "Cantillon Effect"
 date: 2026-07-29
+image: /images/the-cantillon-effect.png
 author: "Anna Karina"
 description: "Inflation does not hit everyone at once. The first receiver gets the benefit. The last receiver pays the price."
 draft: false

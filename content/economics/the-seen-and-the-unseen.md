@@ -3,6 +3,7 @@ topic: "Capitalism & Culture"
 title: "The Seen and the Unseen"
 menu: "Seen & Unseen"
 date: 2026-07-22
+image: /images/the-seen-and-the-unseen.png
 author: "Anna Karina"
 description: "The most important economic question is the one nobody asks: what don't we see?"
 draft: false

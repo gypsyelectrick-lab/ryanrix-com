@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "The One Lesson"
 menu: "The One Lesson"
 date: 2026-06-01
+image: /images/the-one-lesson.png
 author: "Anna Karina"
 description: "The single idea that separates clear economic thinking from confusion."
 draft: false

@@ -3,6 +3,7 @@ topic: "Trade"
 title: "The Tariff Shell Game: A Policy That Keeps Failing"
 menu: "Tariff Shell Game"
 date: 2026-07-21
+image: /images/tariff-shell-game.png
 author: "Anna Karina"
 description: "The Supreme Court blocked one tariff authority. The administration found three more. At some point, you have to ask: what are we actually trying to achieve?"
 draft: false

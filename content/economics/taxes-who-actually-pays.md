@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Taxes - Who Actually Pays"
 menu: "Taxes"
 date: 2026-07-05
+image: /images/taxes-who-actually-pays.png
 author: "Anna Karina"
 description: "The person who writes the check to the government is not always the person who bears the cost. This changes how you should think about every tax debate."
 draft: false

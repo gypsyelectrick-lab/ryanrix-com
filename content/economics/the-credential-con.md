@@ -3,6 +3,7 @@ topic: "Capitalism & Culture"
 title: "The Credential Con: When Everyone Has a Degree, Nobody Does"
 menu: "Credential Con"
 date: 2026-07-23
+image: /images/the-credential-con.png
 author: "Anna Karina"
 description: "Pushing everyone into university created a credential arms race - not opportunity."
 draft: false

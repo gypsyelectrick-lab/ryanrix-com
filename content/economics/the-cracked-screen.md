@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "The Cracked Screen"
 menu: "Cracked Screen"
 date: 2026-06-01
+image: /images/the-cracked-screen.png
 author: "Anna Karina"
 description: "A simple story that changes how you see every economic argument you hear."
 draft: false
