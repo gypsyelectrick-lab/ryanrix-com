@@ -3,6 +3,7 @@ topic: "Money & Inflation"
 title: "The Second Inflation Wave: The Good News Is Over"
 menu: "Second Inflation Wave"
 date: 2026-08-04
+image: /images/the-second-inflation-wave.png
 author: "Anna Karina"
 description: "UK inflation hit a 15-month low. The Bank of England says the good news is over."
 draft: false

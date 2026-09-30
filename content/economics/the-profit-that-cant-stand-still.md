@@ -2,6 +2,7 @@
 title: "The Profit That Can't Stand Still - Why 'Just Take a Sustainable Profit' Is Not an Option"
 menu: "Profit"
 date: 2026-08-17
+image: /images/the-profit-that-cant-stand-still.png
 author: "Anna Karina"
 description: "Why a firm can't settle for a 'fair' profit - and who pays when it stops."
 draft: false

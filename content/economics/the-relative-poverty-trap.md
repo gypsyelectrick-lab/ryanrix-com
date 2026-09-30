@@ -3,6 +3,7 @@ topic: "Poverty & Progress"
 title: "The Relative Poverty Trap"
 menu: "Relative Poverty Trap"
 date: 2026-07-23
+image: /images/the-relative-poverty-trap.png
 author: "Anna Karina"
 description: "The poverty statistic you keep hearing is not measuring what you think."
 draft: false

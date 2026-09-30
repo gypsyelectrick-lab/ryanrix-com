@@ -3,6 +3,7 @@ topic: "Poverty & Progress"
 title: "The Template Trap: Why Borrowed Policies Fail"
 menu: "Template Trap"
 date: 2026-09-22
+image: /images/the-template-trap.png
 author: "Anna Karina"
 description: "Reforms that worked in one country fail in the next. The method transfers. The answer does not."
 draft: false

@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Trade - Why Both Sides Win"
 menu: "Why Trade Wins"
 date: 2026-06-26
+image: /images/trade-why-both-sides-win.png
 author: "Anna Karina"
 description: "Most people think trade is one person winning and the other losing. The reality is stranger and more wonderful."
 draft: false
