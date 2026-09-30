@@ -74,9 +74,9 @@ Trade fragmentation. Tariffs, export controls, sanctions, subsidy wars - none of
 
 The pandemic itself deserves its due: it was a genuine external shock, a natural catastrophe that nobody planned and nobody could have planned away. But the persistence - the inflation that outlived the lockdowns, the debts that became crises, the fragmentation that replaced open borders - is the strangulation list. This is the historical pattern, and it has never once failed. Every stall and reversal in the last two centuries maps onto the imposers: the wars, the price edicts, the autarkies, the confiscations, the sanctions. The mechanism did not mature into poverty. It was squeezed into it.
 
-## The Caveats Are Strangulation Too
+## The Criticisms Are Strangulation Too
 
-The critics of the escape have two favorite statistics, and both deserve a fair hearing.
+The critics of the escape have two favorite statistics, and both deserve a hearing.
 
 The first is inequality. Yes, the rich got richer. But notice what the two facts are: the top of the distribution multiplied while nine in ten humans left extreme poverty - in the same two centuries, under the same system. If the system served only the rich, the poverty line would not have moved. We looked at this in <a href="/economics/why-you-shouldnt-care-about-billionaires/" target="_blank" rel="noopener noreferrer">Why You Shouldn't Care About Billionaires</a>: the billionaire is a distraction from the real story, which is the price of everything falling for everyone. And the remedy the critics demand - the wealth tax, the confiscation - is strangulation by another name. Capital is the seed corn of the next escape. Tax the seed corn, and you get less of the harvest.
 
