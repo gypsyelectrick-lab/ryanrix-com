@@ -118,7 +118,7 @@ A ten-year sunset is standard for most regulations. Five years for experimental 
 
 Consider any major piece of legislation from the last twenty years. Apply the seven questions. See how many have acceptable answers.
 
-The carbon tax debates across Europe: the goal was clear (reduce emissions), but the winners and losers were never honestly named (drivers lost, the treasury won). The implementation was through the existing tax system, which was efficient, but on top of existing fuel duties that already priced carbon at twice the social cost - so the "problem" it was solving had already been solved by a tax nobody remembered was there. The measurement was outsourced to climate models that could not isolate the effect of the tax from other factors. The reporting was buried in budget documents. Success was never defined in terms of the tax's specific contribution. Sunset clauses were never proposed.
+The carbon tax debates across Europe: the goal was clear (reduce emissions), but the winners and losers were never clearly named (drivers lost, the treasury won). The implementation was through the existing tax system, which was efficient, but on top of existing fuel duties that already priced carbon at twice the social cost - so the "problem" it was solving had already been solved by a tax nobody remembered was there. The measurement was outsourced to climate models that could not isolate the effect of the tax from other factors. The reporting was buried in budget documents. Success was never defined in terms of the tax's specific contribution. Sunset clauses were never proposed.
 
 The UK's apprenticeship levy: the goal was to increase the number of high-quality apprenticeships. The winners were training providers and large employers who could absorb the cost. The losers were small businesses that could not. Implementation was through a payroll tax with a credit system so complex that thousands of employers simply wrote off the money. Measurement showed that the number of apprenticeships increased but their quality decreased - a result that the levy's design should have predicted. Success was never defined, because the government's target was "three million apprenticeships by 2020" - a quantity target that incentivised short, low-quality placements. The levy has no sunset clause. It will exist forever, regardless of whether it works.
 
@@ -130,7 +130,7 @@ Every one of these policies was enacted with good intentions. Every one fails at
 
 ## Why They Will Not Adopt This
 
-The seven-question framework is not technically difficult. It does not require new technology, new agencies, or new funding. It requires a piece of paper and the willingness to be honest.
+The seven-question framework is not technically difficult. It does not require new technology, new agencies, or new funding. It requires a piece of paper and the willingness to be transparent.
 
 That is why it will not be adopted.
 
@@ -146,7 +146,7 @@ This does not mean the framework is naive. It means the framework would work exa
 
 This is not a radical proposal. It is the minimum standard for accountable government. A publicly traded company faces more rigorous reporting requirements than a government department running a billion-pound program. A pharmaceutical company must demonstrate that its product works through randomised controlled trials before it can be sold. A government can impose a regulation on millions of people based on a white paper and a press conference.
 
-The seven questions would not prevent any policy that can honestly answer them. They would only prevent policies whose proponents cannot bring themselves to say what they are trying to achieve, who will lose, how it will work, how they will know if it worked, what success looks like, and when the experiment will end.
+The seven questions would not prevent any policy that can answer them. They would only prevent policies whose proponents cannot bring themselves to say what they are trying to achieve, who will lose, how it will work, how they will know if it worked, what success looks like, and when the experiment will end.
 
 If a policy cannot survive those questions, it should not survive at all.
 

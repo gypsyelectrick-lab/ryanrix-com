@@ -104,7 +104,7 @@ Compared to what? Compared to a targeted, transparent tariff program enacted by 
 
 The current approach fails every comparison. It is not targeted - it applies to 60 economies simultaneously. It is not transparent - the legal authority shifts every few months. It has no clear goal - is the goal to reduce the trade deficit, to bring manufacturing back to the United States, to punish China, to raise revenue? It has no measurable outcome and no sunset clause.
 
-The worst comparison is the most important one. Compared to a policy that honestly names its costs, identifies its winners and losers, and submits itself to democratic debate, the current tariff shell game is not just bad policy. It is an evasion of accountability.
+The worst comparison is the most important one. Compared to a policy that clearly names its costs, identifies its winners and losers, and submits itself to democratic debate, the current tariff shell game is not just bad policy. It is an evasion of accountability.
 
 ---
 

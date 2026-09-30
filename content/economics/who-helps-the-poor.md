@@ -85,7 +85,7 @@ The choice is not between low wages and high wages. The choice is between an eco
 
 The countries with the highest minimum wages in the world - France, Australia, Germany - do not have less poverty than the United States. They have different kinds of poverty. In those countries, the unemployment rate for young people and low-skilled workers is much higher. The people who would have been working entry-level jobs in the US are not working at all.
 
-Which is better? That is a moral question, not an economic one. But it should be asked honestly. The politicians who demand a $15 minimum wage do not tell the French teenager what it is like to have a 20 percent unemployment rate for people under 25. They do not mention that the door they are trying to raise is also a door they are narrowing.
+Which is better? That is a moral question, not an economic one. But it should be answered. The politicians who demand a $15 minimum wage do not tell the French teenager what it is like to have a 20 percent unemployment rate for people under 25. They do not mention that the door they are trying to raise is also a door they are narrowing.
 
 ---
 

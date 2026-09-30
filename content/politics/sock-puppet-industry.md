@@ -43,7 +43,7 @@ By the time the research reaches the minister's desk, most of the original amoun
 
 ## The Sock Puppet Report
 
-The most honest analysis of this system ever published is a 2012 report from the Institute of Economic Affairs titled, bluntly, **"Sock Puppets: How the Government Lobbies Itself and Why."**
+The most damning analysis of this system ever published is a 2012 report from the Institute of Economic Affairs titled, bluntly, **"Sock Puppets: How the Government Lobbies Itself and Why."**
 
 The report's central finding: when government funds charities to lobby the same government, it is subverting democracy. The charities become extensions of the state, advocating for policies the state has already decided to pursue, while maintaining the appearance of independent civil society voices.
 
@@ -151,7 +151,7 @@ The real cost is not only the billions in grants. The real cost is that there is
 
 The test is simple. Does the charity have a donor base that would sustain it without government money?
 
-If the answer is no, it is not a charity. It is an extension of the state. It may do good work. Its staff may be dedicated. Its research may be honest. But it is not independent, and it will not advocate against the source of its funding.
+If the answer is no, it is not a charity. It is an extension of the state. It may do good work. Its staff may be dedicated. Its research may be accurate. But it is not independent, and it will not advocate against the source of its funding.
 
 The Sock Puppets report proposed banning government funding of political advocacy by charities. That is one solution. A simpler one: any charity that receives more than half its income from government should be required to say so in every public statement. Not in a footnote on their website. In every press release, every report, every media appearance.
 

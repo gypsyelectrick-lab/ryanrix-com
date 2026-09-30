@@ -14,7 +14,7 @@ levels: "beginner"
 
 ## What Money Actually Is
 
-**Before we talk about inflation, we have to be honest about what money is. And it is not what most people think.**
+**Before we talk about inflation, we have to be clear about what money is. And it is not what most people think.**
 
 Money is not wealth. Money is a tool for moving wealth around.
 

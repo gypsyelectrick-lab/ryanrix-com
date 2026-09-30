@@ -75,7 +75,7 @@ When Clement Attlee's post-war government created the National Health Service, n
 
 ## The Skeletons
 
-No honest account of the Fabian Society can skip the uncomfortable parts. The organization that gave Britain the welfare state also gave the world some genuinely disturbing ideas.
+No complete account of the Fabian Society can skip the uncomfortable parts. The organization that gave Britain the welfare state also gave the world some genuinely disturbing ideas.
 
 **The Eugenics Period.** George Bernard Shaw and H. G. Wells were both enthusiastic eugenicists. Shaw wrote in favor of "breeding a better race of men" and argued that society should "take in hand the problem of its own breeding." Wells advocated for "the sterilisation of failures" and wrote approvingly of eliminating "the feeble-minded." These were not fringe views in 1900s progressive circles - they were mainstream - but the Fabian Society's founding intellectuals were among the most prominent advocates. The Fabian Society has publicly acknowledged and condemned this history, but the archives are there for anyone to read.
 

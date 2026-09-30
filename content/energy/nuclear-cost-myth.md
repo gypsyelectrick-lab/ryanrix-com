@@ -85,7 +85,7 @@ First, Lazard's own estimates show that when you account for the cost of backup 
 
 Second, LCOE comparisons between dispatchable power (nuclear, gas, coal) and intermittent power (wind, solar) are comparing apples to aircraft carriers. A nuclear plant produces power 93 percent of the time. A solar farm produces power 20 percent of the time in most locations. The cost of firming up that intermittent supply with batteries, gas peakers, or transmission lines is rarely included in the headline numbers.
 
-The most honest comparison comes from **system cost** studies, which account for the full cost of delivering reliable electricity. A 2021 study from the OECD's Nuclear Energy Agency found that including system costs makes nuclear cheaper than wind and solar in all realistic scenarios.
+The best comparison comes from **system cost** studies, which account for the full cost of delivering reliable electricity. A 2021 study from the OECD's Nuclear Energy Agency found that including system costs makes nuclear cheaper than wind and solar in all realistic scenarios.
 
 But this comparison is mostly academic anyway. The real question for energy policy is not "which technology is cheapest in a spreadsheet?" It is "which mix of technologies can deliver reliable, affordable electricity at the scale required by a modern economy?" Nuclear has done this for 60 years. Wind and solar have not.
 
