@@ -3,6 +3,7 @@ topic: "Foundations"
 title: "Competition and Co-operation"
 menu: "Competition"
 date: 2026-06-01
+image: /images/competition-and-co-operation.png
 author: "Anna Karina"
 description: "Why the most misunderstood idea about free markets is that they are only about competition."
 draft: false

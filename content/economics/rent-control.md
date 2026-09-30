@@ -3,6 +3,7 @@ topic: "Incentives & Public Choice"
 title: "The Fastest Way to Destroy a City - Except for Bombing"
 menu: "Rent Control"
 date: 2026-07-24
+image: /images/rent-control.png
 author: "Anna Karina"
 description: "Swedish economist Assar Lindbeck said it best fifty years ago. The evidence has only gotten stronger since."
 draft: false

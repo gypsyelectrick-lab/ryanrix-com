@@ -3,6 +3,7 @@ topic: "Incentives & Public Choice"
 title: "Public Choice Theory: Why Government Fails"
 menu: "Public Choice Theory"
 date: 2026-07-28
+image: /images/public-choice-theory.png
 author: "Anna Karina"
 description: "Buchanan won a Nobel Prize for applying economics to politics itself."
 draft: false
