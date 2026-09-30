@@ -3,6 +3,7 @@ topic: "Incentives & Public Choice"
 title: "Incentives Matter: The Price of Good Intentions"
 menu: "Incentives Matter: The Price of Good Intentions"
 date: 2026-07-27
+image: /images/incentives-matter-the-price-of-good-intentions.png
 author: "Anna Karina"
 description: "A 19% interest rate and a 23% youth unemployment rate are the same story."
 tags: [economics, incentives, regulation, minimum-wage, credit, labor]

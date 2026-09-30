@@ -3,6 +3,7 @@ topic: "Socialism"
 title: "What Is Socialism?"
 menu: "Socialism"
 date: 2026-09-09
+image: /images/what-is-socialism.png
 author: "Anna Karina"
 description: "The believers named it. The rulers imposed it. The wall kept it in."
 draft: false

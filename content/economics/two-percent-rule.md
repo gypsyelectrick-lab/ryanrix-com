@@ -3,6 +3,7 @@ topic: "Poverty & Progress"
 title: "The 2% Rule"
 menu: "2% Rule"
 date: 2026-06-24
+image: /images/two-percent-rule.png
 author: "Anna Karina"
 description: "Entrepreneurs capture ~2% of the value they create. Consumers, especially the poor, get the other 98%."
 weight: 26

@@ -3,6 +3,7 @@ topic: "Poverty & Progress"
 title: "The Walmart Question"
 menu: "Walmart Question"
 date: 2026-06-24
+image: /images/walmart-question.png
 author: "Anna Karina"
 description: "Sam Walton took real risks and captured billions. His customers kept hundreds of billions. The poor won."
 weight: 27

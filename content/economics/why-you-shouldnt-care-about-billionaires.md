@@ -3,6 +3,7 @@ topic: "Capitalism & Culture"
 title: "Why You Shouldn't Care About Billionaires"
 menu: "Billionaires"
 date: 2026-07-15
+image: /images/why-you-shouldnt-care-about-billionaires.png
 author: "Anna Karina"
 description: "The inequality panic misses what matters - not whether someone has a billion dollars, but whether ordinary people can get what they need."
 weight: 31

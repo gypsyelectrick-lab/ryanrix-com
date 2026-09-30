@@ -3,6 +3,7 @@ topic: "Taxes"
 title: "The Wealth Tax Video That Got Everything Right (Until It Didn't)"
 menu: "Wealth Tax Video Response"
 date: 2026-07-23
+image: /images/the-wealth-tax-video-that-got-it-right-until-it-didnt.png
 author: "Anna Karina"
 description: "A good critique of wealth taxes undercuts itself at the end."
 draft: false

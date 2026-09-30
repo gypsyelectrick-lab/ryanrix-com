@@ -3,6 +3,7 @@ topic: "Feudalism"
 title: "What Is Feudalism?"
 menu: "Feudalism"
 date: 2026-09-02
+image: /images/what-is-feudalism.png
 author: "Anna Karina"
 description: "The word came later. The system needed castles, oaths, and serfs."
 draft: false

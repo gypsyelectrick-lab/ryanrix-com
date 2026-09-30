@@ -3,6 +3,7 @@ topic: "Poverty & Progress"
 title: "Who Actually Helps the Poor?"
 menu: "Who Helps the Poor"
 date: 2026-07-05
+image: /images/who-helps-the-poor.png
 author: "Anna Karina"
 description: "Politicians fight for credit. Entrepreneurs create jobs. The poor need the latter, not the former."
 weight: 28

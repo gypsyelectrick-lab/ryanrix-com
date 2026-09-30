@@ -3,6 +3,7 @@ topic: "Incentives & Public Choice"
 title: "The Free Market Is More Democratic Than Voting"
 menu: "Free Market vs Voting"
 date: 2026-07-01
+image: /images/the-free-market-is-more-democratic.png
 description: "The free market is more democratic than any election could ever be."
 weight: 30
 tags: ["economics", "democracy", "markets", "advanced"]

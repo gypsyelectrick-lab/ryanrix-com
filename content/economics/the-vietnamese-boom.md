@@ -3,6 +3,7 @@ topic: "Trade"
 title: "Eighty Percent of Something"
 menu: "80% of Something"
 date: 2026-07-07
+image: /images/the-vietnamese-boom.png
 author: "Anna Karina"
 description: "Respectful pushback on a viral video about foreign investment and poverty."
 draft: false
