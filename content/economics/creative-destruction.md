@@ -64,7 +64,7 @@ This does not mean the transition is painless. It is not. The history of creativ
 
 ### The Question Nobody Answers
 
-Here is the honest problem that creative destruction raises. The displaced farmer in 1800 had a path forward. The new jobs - factory work, construction, teaching - required a modest amount of retraining. The skills gap was small.
+Here is the problem that creative destruction raises. The displaced farmer in 1800 had a path forward. The new jobs - factory work, construction, teaching - required a modest amount of retraining. The skills gap was small.
 
 The displaced factory worker in 2026 faces a different world. The new jobs may be in healthcare, software, logistics, or services. They require different skills. Retraining takes time and money. And the new job may be in a different city.
 

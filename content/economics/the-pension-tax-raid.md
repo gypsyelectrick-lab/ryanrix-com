@@ -34,7 +34,7 @@ But the relief is not a gift. It is a deferral. The money is taxed when it comes
 
 When you retire, you can take a lump sum - up to 25% of the pot, capped at 268,275 pounds - tax free. The rest is taxed at your marginal rate as income, exactly as if it were a salary. The pot itself is invested and grows; the growth inside a pension is not taxed year by year.
 
-So the honest description is this: a pension is a way of moving taxable income from your working years to your retirement years, with a 25% lump sum allowed to escape tax entirely. That is the whole mechanism. It is deferred wages, wrapped in a tax-advantaged account, with a ceiling on the free bit.
+So the description is this: a pension is a way of moving taxable income from your working years to your retirement years, with a 25% lump sum allowed to escape tax entirely. That is the whole mechanism. It is deferred wages, wrapped in a tax-advantaged account, with a ceiling on the free bit.
 
 That is the structure. The politics is where it gets interesting.
 

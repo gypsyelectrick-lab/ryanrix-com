@@ -36,7 +36,7 @@ As of the close of the window, no continuation request was visible on the public
 
 So the pattern is now confirmed twice, in real time, in one month. The first action's deadline passed in silence on July 5. The second action's deadline passed in silence yesterday. In both cases the tariffs kept collecting. The "expiration date that never comes" is no longer a prediction. It is a demonstrated mechanic.
 
-This is the part that deserves the closest reading, because it is where the system is most careful to be invisible. Continuation requests are filed by trade-bar lawyers, and the filings are private. You cannot open a public docket, find the "no request filed" entry, and hold it up. The absence is not a document; it is a lack of one. So the honest statement is not "no request was filed." It is "nothing is public, nothing was decided, and the tax kept collecting." The asymmetry is the point: the law built in a moment of public accountability, and the practice has made that moment disappear without leaving a paper trail anyone can cite.
+This is the part that deserves the closest reading, because it is where the system is most careful to be invisible. Continuation requests are filed by trade-bar lawyers, and the filings are private. You cannot open a public docket, find the "no request filed" entry, and hold it up. The absence is not a document; it is a lack of one. So the statement is not "no request was filed." It is "nothing is public, nothing was decided, and the tax kept collecting." The asymmetry is the point: the law built in a moment of public accountability, and the practice has made that moment disappear without leaving a paper trail anyone can cite.
 
 ## Who Pays, and Who Is Asked
 

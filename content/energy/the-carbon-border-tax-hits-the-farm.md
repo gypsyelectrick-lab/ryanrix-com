@@ -78,7 +78,7 @@ The losers are the ones without a lobby. Households pay at the checkout, where f
 
 Set the baseline, because "who pays" needs a starting point. UK food inflation ran at 1.3% in the year to July 2026, down from 1.7% in June - the lowest reading since September 2021, when it was 0.8%. Food prices have been broadly flat while the rest of the basket climbed, and the government counts that as an achievement.
 
-That is exactly the baseline the pass-through will test. The CBAM charge lands on fertilizer in January, at a moment when ammonium nitrate already sits near the £500 trigger. Every tonne of imported fertilizer that carries the charge is a cost entering the food chain at the one point the government is proudest of. When the state says the tax is "not expected to add large costs," the honest question is: compared to what? Compared to the £11.8bn of investment, or compared to the 1.3%?
+That is exactly the baseline the pass-through will test. The CBAM charge lands on fertilizer in January, at a moment when ammonium nitrate already sits near the £500 trigger. Every tonne of imported fertilizer that carries the charge is a cost entering the food chain at the one point the government is proudest of. When the state says the tax is "not expected to add large costs," the question is: compared to what? Compared to the £11.8bn of investment, or compared to the 1.3%?
 
 ## Which Hand Is the Policy?
 

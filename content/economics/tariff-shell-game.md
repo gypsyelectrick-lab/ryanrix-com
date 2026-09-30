@@ -114,7 +114,7 @@ The next time you see a headline that the administration has found a new legal a
 
 If tariffs are good policy, Congress will enact them. If they are popular, the administration will defend them on their merits. If they are effective, the evidence will show it.
 
-The legal shell game exists for one reason: the people running it know that the policy cannot survive an honest debate. They cannot ask Congress to authorize the tariffs because Congress would have to weigh the costs and benefits in public. They cannot defend the policy on its merits because the merits are weak and the costs are high. So they search through the statute book for a legal authority that has not yet been challenged, move the tariffs under it, and hope nobody notices that the policy is exactly the same as it was before.
+The legal shell game exists for one reason: the people running it know that the policy cannot survive a debate. They cannot ask Congress to authorize the tariffs because Congress would have to weigh the costs and benefits in public. They cannot defend the policy on its merits because the merits are weak and the costs are high. So they search through the statute book for a legal authority that has not yet been challenged, move the tariffs under it, and hope nobody notices that the policy is exactly the same as it was before.
 
 Notice anyway. Ask the question. And when the next legal authority is announced, remember: the goal is not to find a legal basis for the policy. The goal is to avoid having to defend it.
 

@@ -81,7 +81,7 @@ That is why supply shocks are the hardest case for any central bank. The staff p
 
 If around 90 percent of the energy move is supply, the instrument is aimed at the demand the bank can reach, against a price set elsewhere. Nothing decided on September 10 changes a barrel of oil. Readers who want the mechanics underneath can start with <a href="/economics/money-and-inflation/" target="_blank" rel="noopener noreferrer">Money &amp; Inflation - What They Actually Are</a> and <a href="/economics/the-information-problem/" target="_blank" rel="noopener noreferrer">The Information Problem - Why Central Planning Fails</a>.
 
-Which leaves the honest defense of the hike: credibility. Expectations are fragile, the memory of 2022 is fresh, and a bank that looks passive through a visible price shock may find the next shock more expensive to contain. That is a serious argument - but about the institution, not the inflation. And the bank has refused that framing, insisting June was analysis rather than insurance.
+Which leaves the defense of the hike: credibility. Expectations are fragile, the memory of 2022 is fresh, and a bank that looks passive through a visible price shock may find the next shock more expensive to contain. That is a serious argument - but about the institution, not the inflation. And the bank has refused that framing, insisting June was analysis rather than insurance.
 
 Both claims cannot hold at once. Either the hikes are fighting inflation, in which case the composition evidence is awkward, because the inflation a rate can reach is falling anyway. Or they are protecting credibility, in which case the insurance label is accurate and the bank has denied it. The confusion is not a talking point invented by critics. It is in the statements.
 

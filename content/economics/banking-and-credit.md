@@ -19,7 +19,7 @@ Walk past your local bank and you will see the argument before you read a word o
 
 The record says otherwise. Every part of banking - taking deposits, keeping accounts, lending at interest - was old, and doing useful work, long before any state took an interest in it. More than that: the record shows the institutions that tried to control credit did not invent it and could not stop it. The Church tried to ban it. Kings tried to borrow it away. The market went around the ban, survived the kings, and is still here, doing what it has always done.
 
-We have seen this plot before in this series. In the last article we met the counting house: the temple scribe, the honest ledger, the loan recorded in clay. <a href="/economics/the-invention-of-money/" target="_blank" rel="noopener noreferrer">The Invention of Money</a> left us inside the temple's books. This is the rest of that story - what the counting house became, who tried to stop it, and who finally took it over.
+We have seen this plot before in this series. In the last article we met the counting house: the temple scribe, the ledger, the loan recorded in clay. <a href="/economics/the-invention-of-money/" target="_blank" rel="noopener noreferrer">The Invention of Money</a> left us inside the temple's books. This is the rest of that story - what the counting house became, who tried to stop it, and who finally took it over.
 
 ## The Second Half of Money
 

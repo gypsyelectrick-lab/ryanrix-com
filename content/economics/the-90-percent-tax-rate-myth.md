@@ -36,7 +36,7 @@ Here is where the myth dies. The <a href="https://taxfoundation.org/data/all/fed
 
 Forty-two percent. Not ninety. And here is the comparison that matters for the "bring it back" crowd: the effective rate on the top 1% today is around 36%. The golden age taxed the rich modestly harder than we do now - six percentage points, not double. The same <a href="https://eml.berkeley.edu/~saez/PSZ2017.pdf" target="_blank" rel="noopener noreferrer">Piketty, Saez, and Zucman data</a> that activists cite for inequality shows effective rates on the top 1% of about 42% in the 1950s versus 36.4% today.
 
-So when someone says "we used to tax them at 90%," the honest translation is: "we used to put a 91% sticker on the top bracket, and the people in that bracket paid 42% - six points more than they pay now."
+So when someone says "we used to tax them at 90%," the translation is: "we used to put a 91% sticker on the top bracket, and the people in that bracket paid 42% - six points more than they pay now."
 
 That is a real difference. It is not the difference the claim promises.
 
@@ -64,9 +64,9 @@ Third, and most honestly, the 1950s really were good for the economy. The postwa
 
 You might not know, but the current richest person the world, Elon Musk, takes no income at all from Tesla. His wealth is in stocks he owns in his companies - Telsa, SpaceX, equity and stock options in xAI, Neuralink, and The Boring Company. He doesn't care what you want the top rate of income tax to be.
 
-## The honest version
+## The version
 
-To be fair to the claim's believers, there is a real point hiding inside the myth. The postwar era was a time of genuinely progressive taxation, and the top 1% did pay more - as a share of their income - than they do now. If your argument is "the very wealthy should carry a somewhat heavier burden than they do today," the 1950s offer a mild precedent. That is a defensible position, and the six-point difference is its honest evidence.
+To be fair to the claim's believers, there is a real point hiding inside the myth. The postwar era was a time of genuinely progressive taxation, and the top 1% did pay more - as a share of their income - than they do now. If your argument is "the very wealthy should carry a somewhat heavier burden than they do today," the 1950s offer a mild precedent. That is a defensible position, and the six-point difference is its evidence.
 
 What is not defensible is the 90% claim. It is a sticker rate presented as a paid rate, a marginal rate presented as an average, and a historical coincidence presented as a causal law. Every wealth tax proposal now circulating - the ones heading toward the October 28 Budget, the <a href="/economics/the-63bn-reckoning/" target="_blank" rel="noopener noreferrer">£63bn spending plans</a> they would fund - inherits this distortion. The argument deserves better evidence than it has been using.
 

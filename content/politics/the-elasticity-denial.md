@@ -13,7 +13,7 @@ image: /images/the-elasticity-denial.png
 
 ## The Puzzle
 
-It's a puzzle, to be honest.
+It's a puzzle.
 
 The same people who believe human behavior responds powerfully to social incentives - peer pressure, nudges, default settings, social norms, laws that shape expectations - will, in the next breath, deny that human behavior responds to economic incentives like taxation and regulation.
 
@@ -29,7 +29,7 @@ What on earth in going on here?
 
 ## The Sharpening
 
-Here is the honest version, because the cheap version is false.
+Here is the version, because the cheap version is false.
 
 The claim is not that the people who design social policy deny that incentives work. They do not. The carbon-pricing/carbon credits movement rests entirely on the claim that taxes change behavior. Elasticity is not a footnote to a carbon tax. It is the whole point of the carbon tax. Same with a sugar tax. Same with a tobacco duty. Raise the price, people buy less. The behavior change is not a side effect of these policies. It is the aim of the policy.
 

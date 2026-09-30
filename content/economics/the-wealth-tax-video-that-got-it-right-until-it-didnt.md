@@ -78,7 +78,7 @@ The video spends fifteen minutes showing that the first tax class fails, then sp
 
 ## What This Means
 
-The honest conclusion the video was reaching for - but could not bring itself to say - is that taxing wealth directly is harder than it looks. The tax base is mobile. The valuation is expensive. The avoidance is easy. The politics are brutal. A dozen alternative wealth taxes will not fix these structural problems, because they are not features of a specific tax design. They are features of trying to tax something that can move, hide, or restructure itself faster than the tax code can adapt.
+The conclusion the video was reaching for - but could not bring itself to say - is that taxing wealth directly is harder than it looks. The tax base is mobile. The valuation is expensive. The avoidance is easy. The politics are brutal. A dozen alternative wealth taxes will not fix these structural problems, because they are not features of a specific tax design. They are features of trying to tax something that can move, hide, or restructure itself faster than the tax code can adapt.
 
 The French ISF was the longest-running test of a broad-based wealth tax in the developed world. It failed. The French government admitted it failed and replaced it with a narrower tax on the one asset that cannot leave. That is the closest thing to a controlled experiment we have.
 

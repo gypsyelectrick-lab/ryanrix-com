@@ -76,7 +76,7 @@ The people who advocate for a higher minimum wage believe they are helping the p
 
 ## The Real Trade-Off
 
-Here is the honest tension that neither side wants to admit.
+Here is the tension that neither side wants to admit.
 
 Low wages are bad for the people who earn them. Nobody wants to earn $10 an hour forever. But an economy without low-wage jobs is an economy where the least experienced, least educated, and least connected workers have no way in.
 

@@ -117,7 +117,7 @@ We made a version of this argument about central planning in <a href="/economics
 
 When a consultant arrives from the IMF carrying a reform list, they are carrying an answer that was computed elsewhere, from knowledge they do not have. What they lack is not intelligence or good faith. It is the specific, local, unarticulated knowledge of how this economy actually works - which regulation is enforced and which is a formality, which official must be paid, why the previous reform failed. That knowledge exists. It is just not in the consultant's briefcase.
 
-The honest version of the consultant's job is not to bring the answer. It is to help the country find its own.
+The version of the consultant's job is not to bring the answer. It is to help the country find its own.
 
 ---
 

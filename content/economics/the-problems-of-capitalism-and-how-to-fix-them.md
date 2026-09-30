@@ -78,7 +78,7 @@ The actual fixes look almost embarrassingly simple, which is probably why they a
 
 ## The Lens
 
-So here is the honest summary, the one the critics will not give you and the cheerleaders do not need. The problems of capitalism are real. Inequality, monopoly, exploitation, instability: they exist, and they hurt people. But follow each one to its source, and you do not find the market. You find the state - handing favors to insiders, raising walls against entrants, taxing the future to pay for the present.
+So here is the summary, the one the critics will not give you and the cheerleaders do not need. The problems of capitalism are real. Inequality, monopoly, exploitation, instability: they exist, and they hurt people. But follow each one to its source, and you do not find the market. You find the state - handing favors to insiders, raising walls against entrants, taxing the future to pay for the present.
 
 And the fixes? They are the opposite of everything being offered. Not more control, more entry. Not more taxes, more trade. Not more power for the people who made the rules, more freedom for the people who have to live under them.
 

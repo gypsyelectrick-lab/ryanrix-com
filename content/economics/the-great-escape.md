@@ -48,7 +48,7 @@ The greatest escape in history happened while nobody was planning it. No committ
 
 This is the empirical content of the phrase the critics mock: "trickle down." Let us say it plainly, without embarrassment. The claim, in its crude form, was that growth at the top eventually lifts everyone. The record of two centuries is something stronger and stranger. The system that let people keep the fruits of their labor and trade them freely lifted nine in ten humans out of destitution. Not because the rich are generous but because in a market, the way to become rich is to serve other people, and poor people are the majority of customers. Every cheap thing is a transfer to the poor. The research on where value goes is remarkable: the entrepreneur who builds something new keeps about 2 percent of the value it creates, and the other 98 percent flows to the people who use it - the <a href="/economics/two-percent-rule/" target="_blank" rel="noopener noreferrer">2% rule</a> this site has examined. The poor benefit most of all, because the poor spend the largest share of their income on the things that get cheaper.
 
-So when someone asks who actually helps the poor, the honest answer is not the one the questioner expects. We looked at it in <a href="/economics/who-helps-the-poor/" target="_blank" rel="noopener noreferrer">Who Actually Helps the Poor?</a> The answer is the mechanism itself. The escape was not charity. It was not foreign aid. It was the ordinary, unglamorous, unplanned machinery of people serving people - which is why it survived every attempt to plan it and every attempt to name it as a conspiracy.
+So when someone asks who actually helps the poor, the answer is not the one the questioner expects. We looked at it in <a href="/economics/who-helps-the-poor/" target="_blank" rel="noopener noreferrer">Who Actually Helps the Poor?</a> The answer is the mechanism itself. The escape was not charity. It was not foreign aid. It was the ordinary, unglamorous, unplanned machinery of people serving people - which is why it survived every attempt to plan it and every attempt to name it as a conspiracy.
 
 ## The Model Case: Vietnam
 
@@ -60,7 +60,7 @@ The result was one of the fastest escapes from poverty ever measured. The extrem
 
 ## The Honest Turn
 
-Now the honest part, because a story without its caveats is propaganda, and because trust is the whole game.
+Now the part, because a story without its caveats is propaganda, and because trust is the whole game.
 
 The recent stall is real. Let us give it its full weight. For two decades the headline number fell almost every year. Then came the pandemic, which pushed tens of millions back across the poverty line - the first rise in a generation. And the latest data show the recovery has been slower than hoped. The World Bank's March 2026 update of its <a href="https://pip.worldbank.org/" target="_blank" rel="noopener noreferrer">Poverty and Inequality Platform</a> revised the 2024 figure upward: about 847 million people in extreme poverty, against the roughly 700 million - 8.5 percent - estimated in the Bank's <a href="https://www.worldbank.org/en/publication/poverty-and-shared-prosperity" target="_blank" rel="noopener noreferrer">2024 report</a>. Part of the revision is a correction in the data - new survey results from Pakistan - but a correction that reveals a real underlying truth. The decline has stalled. The escape is not currently happening.
 
@@ -88,7 +88,7 @@ And the climate remedy is strangulation too. The escape ran on energy, and every
 
 ## The Lens
 
-The escape is not finished. One person in ten is still waiting on the far side of the line, and the honest data say the last few years have been hard ones. The escape is also not guaranteed. It is not a property of the universe, like gravity. It is a property of a mechanism that runs when it is left alone and stalls when it is interfered with.
+The escape is not finished. One person in ten is still waiting on the far side of the line, and the data say the last few years have been hard ones. The escape is also not guaranteed. It is not a property of the universe, like gravity. It is a property of a mechanism that runs when it is left alone and stalls when it is interfered with.
 
 The record of two centuries is unambiguous about who does the squeezing. The villains of this story were never hard to find. They are the imposers - the ones who decide from a desk what other people may do, who tax the seed corn and call it justice, who measure the rising floor and report it as failure. The heroes are the anonymous problem-solvers, who - left alone - keep solving each other's problems, the way they always have.
 

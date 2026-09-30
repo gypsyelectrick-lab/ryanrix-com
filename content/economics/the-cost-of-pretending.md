@@ -78,7 +78,7 @@ All three cases have a simple alternative. For the AI Act: set deadlines the Com
 
 Why do regulators not do the simple thing? The answer is not stupidity. It is the incentive structure, and we have written about this in <a href="/economics/public-choice-theory/" target="_blank" rel="noopener noreferrer">Public Choice Theory</a>. Regulators face a set of pressures that have nothing to do with the technical problem they are regulating.
 
-First, regulators must be seen to act. The political demand is for action, not for accuracy. A regulator who says "we do not know enough to regulate this yet" has done the honest thing and will be punished for it in their career and the news cycle. A regulator who writes a rule - any rule - has demonstrated seriousness. The rule's technical quality is judged later, by people who are not watching now.
+First, regulators must be seen to act. The political demand is for action, not for accuracy. A regulator who says "we do not know enough to regulate this yet" has done the thing and will be punished for it in their career and the news cycle. A regulator who writes a rule - any rule - has demonstrated seriousness. The rule's technical quality is judged later, by people who are not watching now.
 
 Second, deadlines are political, not technical. A date is chosen because it sounds decisive, or because it fits an electoral calendar, or because the negotiation needed an endpoint. The technical question - can this be built by then? - is not asked, because the people setting the date are not the people who would have to build it. This is why the Commission's own deadline slipped while industry's did not. The Commission was setting its own homework schedule and still could not meet it.
 

@@ -58,7 +58,7 @@ And notice who keeps the power. Westminster still sets every rate, still collect
 
 ## Compared to What?
 
-The honest question, as always, is: compared to what?
+The question, as always, is: compared to what?
 
 Compared to a block grant, this is a real change. Under the current system, Westminster hands local government a fixed sum and takes back a fixed sum, and the connection between local growth and local revenue is invisible. A growth-linked share gives the mayor a reason to care about the local economy. That is a genuine improvement in incentives, and the proponents of the reform deserve credit for making it.
 

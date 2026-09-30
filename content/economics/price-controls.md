@@ -81,7 +81,7 @@ The same logic applies to other price floors. Agricultural price supports keep f
 
 ## The Real Concern: Some People Are Genuinely Helped
 
-Let me be honest about the hardest part of this argument.
+Here is the hardest part of this argument.
 
 There are real people living in rent-controlled apartments who would be priced out of their homes without the policy. There are real workers earning $15 an hour who would earn less without the minimum wage. Telling those people "the policy is bad" is not satisfying. They are not wrong to be grateful for the protection they have.
 

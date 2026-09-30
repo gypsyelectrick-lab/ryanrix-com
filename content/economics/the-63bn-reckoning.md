@@ -28,7 +28,7 @@ Here is a fact most people do not know. HM Treasury already accepts voluntary pa
 
 The process takes minutes. A person who believes they should pay more than the law demands can simply do it. No press release is required. No signatures are needed. No campaign must be launched. The money goes where the letter says it should go, and it arrives today instead of whenever a tax law might arrive.
 
-This is the "compared to what?" question, and it is the most powerful question available here. When someone says "tax us more," the honest response is not an argument. It is an invitation. The facility exists. The mechanism has worked for years. The only thing missing was the checks.
+This is the "compared to what?" question, and it is the most powerful question available here. When someone says "tax us more," the response is not an argument. It is an invitation. The facility exists. The mechanism has worked for years. The only thing missing was the checks.
 
 So the 120 signatories faced a real choice on July 23. They could have written 120 checks to the Treasury that morning. The Treasury would have accepted every one of them. Instead, they wrote a letter asking the government to compel payment from everyone like them.
 

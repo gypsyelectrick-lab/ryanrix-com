@@ -77,7 +77,7 @@ How many times does a policy have to fail before the people who propose it face 
 
 ## The lesson: the AAA rating was the tell
 
-The next time someone tells you the crisis was caused by corrupt rating agencies stamping AAA on junk, ask them a question: what was the security actually backed by? The answer is the US government, through Fannie Mae and Freddie Mac. The rating was correct. The securities were, in effect, government debt with a better interest rate. The ratings agencies were not the scandal. They were the honest bookkeepers of a dishonest arrangement.
+The next time someone tells you the crisis was caused by corrupt rating agencies stamping AAA on junk, ask them a question: what was the security actually backed by? The answer is the US government, through Fannie Mae and Freddie Mac. The rating was correct. The securities were, in effect, government debt with a better interest rate. The ratings agencies were not the scandal. They were the bookkeepers of a dishonest arrangement.
 
 The scandal was the guarantee. The government took private risk, put its own credit behind it, and gave the profits to the private sector while keeping the losses for itself. That is not a market failure. That is the state manufacturing a market for its own policy goal, and charging the citizen for the privilege.
 

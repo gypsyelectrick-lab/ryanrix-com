@@ -71,7 +71,7 @@ Third, the counterfactual. The rest of the UK is not a perfect Scotland-without-
 
 Fourth, the precedent cuts both ways. When the UK itself ran a 50p additional rate from 2010 to 2013, the revenue effect was so close to zero that nobody could agree even on its sign. That is consistent with the Laffer curve - and it is also a reminder that "close to the top of the curve" does not always mean "over the top."
 
-The honest summary: the data is consistent with the hypothesis that Scotland's top rate is on the wrong side of the Laffer curve. It does not prove it. Next year's data will tell us more, and the granular data that would settle it - bunching around the £125,140 threshold, pension and dividend shifts, address changes - exists inside HMRC but has not been published. The <a href="https://www.ifs.org.uk/" target="_blank" rel="noopener noreferrer">Institute for Fiscal Studies</a> has speculated, more cautiously, that Scotland's top-rate rises "may have reduced revenues." The mainstream of the profession is moving the same direction, one hedge at a time.
+The summary: the data is consistent with the hypothesis that Scotland's top rate is on the wrong side of the Laffer curve. It does not prove it. Next year's data will tell us more, and the granular data that would settle it - bunching around the £125,140 threshold, pension and dividend shifts, address changes - exists inside HMRC but has not been published. The <a href="https://www.ifs.org.uk/" target="_blank" rel="noopener noreferrer">Institute for Fiscal Studies</a> has speculated, more cautiously, that Scotland's top-rate rises "may have reduced revenues." The mainstream of the profession is moving the same direction, one hedge at a time.
 
 ## The lesson
 

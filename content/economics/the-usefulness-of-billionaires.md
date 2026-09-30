@@ -75,7 +75,7 @@ The left wants to tax concentrated wealth out of existence. Higher top marginal 
 
 The right wants to celebrate billionaires as job creators and visionaries. This is also incomplete. Many billionaires inherited their wealth. Many operate in protected or regulated industries where competition is limited. The connection between wealth and social contribution is real but not automatic. The right ignores the rent-seekers.
 
-The honest position is that concentrated wealth produces real benefits and real costs, and you cannot eliminate one without eliminating the other.
+The position is that concentrated wealth produces real benefits and real costs, and you cannot eliminate one without eliminating the other.
 
 France tried a wealth tax (the ISF) from 1982 to 2017. The result was roughly €200 billion in capital flight and no measurable reduction in inequality. The tax was eventually replaced with a narrower tax on real estate only, after the damage was done. The billionaires who left France took their capital, and the risky investment they might have funded, with them.
 
