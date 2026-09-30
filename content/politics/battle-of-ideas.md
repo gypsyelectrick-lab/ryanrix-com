@@ -2,6 +2,7 @@
 title: "The Battle of Ideas"
 menu: "The Battle of Ideas"
 date: 2026-07-22
+image: /images/battle-of-ideas.png
 author: "Max Weber"
 description: "Why bad ideas keep winning - and what that tells us about how the world actually works."
 tags: [politics, ideas, Hayek, knowledge problem]

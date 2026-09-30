@@ -2,6 +2,7 @@
 title: "The Grievance Machine, Part II: Who Profits from Panic"
 menu: "Grievance Machine"
 date: 2026-07-23
+image: /images/the-grievance-machine-part-ii.png
 author: "Max Weber"
 description: "Anna showed the pattern. Now meet the people who need it to keep running."
 draft: false

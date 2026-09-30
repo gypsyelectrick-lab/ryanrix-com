@@ -2,6 +2,7 @@
 title: "Free Speech in Britain"
 menu: "Free Speech in Britain"
 date: 2026-07-22
+image: /images/free-speech-in-britain.png
 author: "Max Weber"
 description: "The country that gave the world the right to speak is quietly taking it back."
 tags: [politics, free speech, UK, Online Safety Act]

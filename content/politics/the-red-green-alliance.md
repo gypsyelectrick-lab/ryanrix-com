@@ -2,6 +2,7 @@
 title: "The Red-Green Alliance: What the Green Party Actually Is"
 menu: "Red-Green Alliance"
 date: 2026-07-24
+image: /images/the-red-green-alliance.png
 author: "Max Weber"
 description: "The Green Party presents itself as the sensible environmental voice. The reality is stranger and more revealing than most people realize."
 draft: false

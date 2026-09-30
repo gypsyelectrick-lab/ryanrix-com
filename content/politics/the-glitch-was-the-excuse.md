@@ -2,6 +2,7 @@
 title: "The Glitch Was the Excuse: New Jersey and the Vote Nobody Owns"
 menu: "The Glitch Was the Excuse"
 date: 2026-08-18
+image: /images/the-glitch-was-the-excuse.png
 author: "Max Weber"
 description: "6,600 people said they are not citizens. The state registered them anyway."
 tags: [politics, elections, government-failure, incentives, new-jersey, series]

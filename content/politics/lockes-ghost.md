@@ -2,6 +2,7 @@
 title: "Locke's Ghost"
 menu: "Locke's Ghost"
 date: 2026-07-22
+image: /images/lockes-ghost.png
 author: "Max Weber"
 description: "The philosophy we abandoned - and what it would say if it could speak."
 tags: [politics, Locke, constitution, philosophy, liberty]

@@ -2,6 +2,7 @@
 title: "The Labour PM Who Cut Your Climate Tax"
 menu: "Burnham Energy Tax Cut"
 date: 2026-07-23
+image: /images/burnham-energy-tax-cut.png
 author: "Max Weber"
 description: "A Labour government just admitted the energy tax burden was too high."
 draft: false

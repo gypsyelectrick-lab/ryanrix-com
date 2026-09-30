@@ -2,6 +2,7 @@
 title: "Incentives Matter: The Problem That Can't Be Solved"
 menu: "Incentives Matter: The Problem That Can't Be Solved"
 date: 2026-07-27
+image: /images/incentives-matter-the-problem-that-cant-be-solved.png
 author: "Max Weber"
 description: "When a stupid decision repeats for decades, ask not who's incompetent - ask who benefits."
 tags: [politics, incentives, bureaucracy, immigration, governance]

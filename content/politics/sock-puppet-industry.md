@@ -2,6 +2,7 @@
 title: "The Sock Puppet Industry: Who Funds the 'Independent' Voices"
 menu: "Sock Puppet Industry"
 date: 2026-07-21
+image: /images/sock-puppet-industry.png
 author: "Max Weber"
 description: "Your taxes flow through a pipeline of quangos and committees to pay charities that lobby for more power. The money never reaches the cause."
 draft: false

@@ -2,6 +2,7 @@
 title: "The Seven Questions Applied: Net Zero"
 menu: "Seven Questions - Net Zero"
 date: 2026-07-23
+image: /images/seven-questions-net-zero.png
 author: "Max Weber"
 description: "The UK's Net Zero policy fails six of the seven questions."
 draft: false

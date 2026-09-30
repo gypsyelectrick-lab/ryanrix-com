@@ -2,6 +2,7 @@
 title: "Wrong About Everything: Ehrlich, Carson, and Environmentalism"
 menu: "Wrong About Everything"
 date: 2026-07-24
+image: /images/wrong-about-everything.png
 author: "Max Weber"
 description: "The environmental movement was built on two pillars. Both were wrong. The movement never recovered."
 draft: false

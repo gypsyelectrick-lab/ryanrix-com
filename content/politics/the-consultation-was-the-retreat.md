@@ -2,6 +2,7 @@
 title: "The Consultation Was the Retreat: Who Decides the EV Mandate?"
 menu: "EV Mandate Consultation"
 date: 2026-08-16
+image: /images/the-consultation-was-the-retreat.png
 author: "Max Weber"
 description: "The EV mandate retreat, wrapped in a consultation. The 2035 ban stays."
 draft: false

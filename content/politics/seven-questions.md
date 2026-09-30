@@ -2,6 +2,7 @@
 title: "The Seven Questions: A Manifesto for How Laws Should Be Made"
 menu: "Seven Questions"
 date: 2026-07-21
+image: /images/seven-questions.png
 author: "Max Weber"
 description: "A seven-question test for every new law. Almost none would pass. That is the point."
 draft: false

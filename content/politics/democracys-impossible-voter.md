@@ -2,6 +2,7 @@
 title: "Democracy's Impossible Voter"
 menu: "Democracy's Impossible Voter"
 date: 2026-07-22
+image: /images/democracys-impossible-voter.png
 author: "Max Weber"
 description: "The system assumes an informed citizen who no longer exists - if they ever did."
 tags: [politics, democracy, internet, information, voting]

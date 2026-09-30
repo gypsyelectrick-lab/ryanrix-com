@@ -2,6 +2,7 @@
 title: "The Carbon Border Tax Hits the Farm - Now the Farmers Want Compensation for It"
 menu: "The Carbon Border Tax Hits the Farm"
 date: 2026-08-29
+image: /images/the-carbon-border-tax-hits-the-farm.png
 author: "Max Weber"
 description: "Tax the imports with one hand, compensate the farmers with the other."
 draft: false

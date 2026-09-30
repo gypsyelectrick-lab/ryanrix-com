@@ -2,6 +2,7 @@
 title: "The Fabian Grip: How One Society Made Every Labour PM"
 menu: "Fabian Grip"
 date: 2026-07-24
+image: /images/the-fabian-grip.png
 author: "Max Weber"
 description: "Every Labour PM in British history belonged to one outside organization. Its grip on Westminster is the century's most successful long-term political project."
 draft: false

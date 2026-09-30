@@ -2,6 +2,7 @@
 title: "The Safety Moat: How Big AI Wants Regulation"
 menu: "Safety Moat"
 date: 2026-07-28
+image: /images/ai-safety-moat.png
 author: "Max Weber"
 description: "The three biggest AI labs agree on regulation. That should worry you."
 draft: false

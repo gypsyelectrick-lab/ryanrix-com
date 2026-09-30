@@ -2,6 +2,7 @@
 title: "Why Things Break: An Introduction"
 menu: "Why Things Break: An Introduction"
 date: 2026-07-29
+image: /images/why-things-break-introduction.png
 author: "Max Weber"
 description: "Government overreach and corporate overreach are the same problem."
 tags: [politics, incentives, government, markets]
