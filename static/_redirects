@@ -1,0 +1,15 @@
+# Ryan Rix - redirects (Cloudflare Pages)
+# Rules are matched in order; first match wins.
+# Docs: https://developers.cloudflare.com/pages/configuration/redirects/
+
+# --- Channel entry points (2026-10-01) ---
+# Why these exist: X, Facebook and Substack all rewrite outbound links through their own
+# redirectors, so a ?src= parameter on a link we hand them can be lost. A bare path on OUR
+# domain cannot be stripped - the tracking is applied on our side of the boundary.
+# Use these in bios, welcome emails, newsletter footers, anywhere the platform mediates the click.
+#
+# Namespacing: RR uses the rr* prefix (rrx / rrfb / rrsub) so these can never be confused with
+# The Basics Hub's un-prefixed tokens (x / fb / fbgroup / substack) in MailerLite's msource field.
+/substack https://ryanrix.com/?src=rrsub 301
+/x https://ryanrix.com/?src=rrx 301
+/fb https://ryanrix.com/?src=rrfb 301
