@@ -10,6 +10,7 @@ draft: false
 weight: 60
 tags: ["tax", "inheritance", "cgt", "economics", "advanced"]
 levels: "advanced"
+image: /images/death-is-a-taxable-event.png
 ---
 
 When you die, the state quietly forgives a tax.
