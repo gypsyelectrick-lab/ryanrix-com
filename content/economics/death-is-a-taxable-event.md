@@ -11,6 +11,9 @@ weight: 60
 tags: ["tax", "inheritance", "cgt", "economics", "advanced"]
 levels: "advanced"
 image: /images/death-is-a-taxable-event.png
+# Image: /images/death-is-a-taxable-event.png - AI-generated (fal-ai/flux/dev) 2026-10-02.
+# Prompt: old estate office, closed blank ledger, brass key, raking light on pale plaster wall.
+# Verified: greyscale print spread 53.2 (floor 40); no text, no people, no brand marks.
 ---
 
 When you die, the state quietly forgives a tax.
