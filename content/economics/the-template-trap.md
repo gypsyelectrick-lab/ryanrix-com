@@ -7,7 +7,7 @@ image: /images/the-template-trap.png
 author: "Anna Karina"
 description: "Reforms that worked in one country fail in the next. The method transfers. The answer does not."
 draft: false
-weight: 62
+weight: 63
 tags: ["economics", "development", "policy", "institutions", "hayek", "advanced"]
 levels: "advanced"
 ---

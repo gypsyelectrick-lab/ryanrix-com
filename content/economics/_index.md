@@ -104,3 +104,8 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [Trade and the Merchants](/economics/trade-and-the-merchants/) - The road had no builder. Trade was born before the state.
 - [The Collapse That Was Revised Away: How to Read a Jobs Report](/economics/the-collapse-that-was-revised-away/) - The collapse was revised away. The layoff wave underneath it was not.
 - [The ECB Hiked Into a Supply Shock. The Price of Oil Did Not Notice.](/economics/ecb-hike-into-a-supply-shock/) - The ECB raised rates to fight a price rise the rate cannot touch.
+
+- [In the UK, Death Is a Taxable Event](/economics/death-is-a-taxable-event/) - Capital gains are forgiven at death. The fixes tax the same money twice.
+- [The Manifesto Capitalism Cannot Write](/economics/why-capitalist-manifestos-fail/) - Four books tried it. None became the one. The form is why.
+- [The Template Trap: Why Borrowed Policies Fail](/economics/the-template-trap/) - Reforms that worked in one country fail in the next. The method transfers. The answer does not.
+- [What Is Communism?](/economics/what-is-communism/) - The promise kept moving. The plan needed enemies. The record is the argument.
