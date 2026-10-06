@@ -1,11 +1,11 @@
 ---
 topic: "Money & Inflation"
-title: "What Monetary Sovereignty Cannot Do: Britain's Own Currency and the 49-Day Constraint"
+title: "What Monetary Sovereignty Cannot Do: Britain's Own Currency and the 27-Day Constraint"
 menu: "Sovereignty's Limits"
 date: 2026-10-06
 image: /images/what-monetary-sovereignty-cannot-do.png
 author: "Anna Karina"
-description: "Britain issues its own currency and can never run out of pounds. In September 2022 the gilt market overruled an elected government in 49 days anyway."
+description: "Britain issues its own currency and can never run out of pounds. In September 2022 the gilt market overruled an elected government in 27 days anyway."
 seo_title: "Monetary Sovereignty: What It Cannot Do"
 draft: false
 weight: 65
@@ -39,7 +39,7 @@ On 23 September 2022, the UK chancellor announced a budget of unfunded tax cuts.
 
 Gilt prices fell steeply, and yields and swap rates rose with them. The mechanism was not a general loss of confidence in the currency. It was specific and structural. UK defined-benefit pension funds held large positions in long-dated and index-linked gilts, managed through liability-driven investment (LDI) structures. Those structures are highly sensitive to changes in interest rates. As gilt prices fell, the funds faced collateral calls, and they met them by selling gilts. That selling pushed prices down further, which generated more collateral calls. Liquidity in long-dated gilts evaporated.
 
-The Bank of England intervened to stop the spiral. The budget was reversed within 49 days, and the prime minister was gone even before that.
+The Bank of England intervened to stop the spiral. The chancellor was dismissed on 14 October, and the prime minister resigned on 20 October - 27 days after the announcement.
 
 **This was not the bond market refusing to buy.** The settlement system for gilts is the Bank of England itself, which is why a sovereign issuer cannot be forced into default through a buyers' strike. That argument is correct, and <a href="/economics/modern-monetary-theory/" target="_blank" rel="noopener noreferrer">Where Does Money Come From?</a> sets it out at length.
 
@@ -50,7 +50,7 @@ Every element of the monetary-sovereignty test was satisfied. Sterling is the UK
 The Bank's own account, published as a staff working paper in 2023, describes the episode as a liquidity crisis in a specific market, driven by the derivative and repo positions of liability-driven investors. That paper is not a political document. It is the central bank explaining, in technical detail, how a solvent sovereign found itself with no choice.
 
 {{< callout >}}
-Britain issues its own currency and its debts are in that currency. In September 2022, the gilt market overruled an elected government in 49 days, and the Bank of England had to intervene to stop the pension system failing.
+Britain issues its own currency and its debts are in that currency. In September 2022, the gilt market overruled the government in 27 days, and the Bank of England had to intervene to stop the pension system failing.
 {{< /callout >}}
 
 ## Why "sovereignty" missed it
