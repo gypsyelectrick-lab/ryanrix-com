@@ -1,6 +1,7 @@
 ---
 topic: "Capitalism & Culture"
 title: "The Luddites Were Half Right"
+seo_title: "AI and Jobs: What the Luddites Got Right"
 menu: "The Luddites Were Half Right"
 date: 2026-08-06
 author: "Anna Karina"

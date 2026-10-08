@@ -1,6 +1,7 @@
 ---
 topic: "Taxes"
 title: "The 90% Tax Rate Myth: We Used to Tax the Rich 90% - and It Was Fine"
+seo_title: "Did We Really Tax the Rich at 90%?"
 menu: "90% Tax Myth"
 date: 2026-08-18
 author: "Anna Karina"

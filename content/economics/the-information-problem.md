@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "The Information Problem - Why Central Planning Fails"
+seo_title: "The Economic Calculation Problem Explained"
 menu: "Central Planning"
 date: 2026-06-26
 image: /images/the-information-problem.png

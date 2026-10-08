@@ -1,6 +1,7 @@
 ---
 topic: "Poverty & Progress"
 title: "The Relative Poverty Trap"
+seo_title: "Why the Poverty Rate Never Seems to Fall"
 menu: "Relative Poverty Trap"
 date: 2026-07-23
 image: /images/the-relative-poverty-trap.png

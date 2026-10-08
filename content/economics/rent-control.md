@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "The Fastest Way to Destroy a City - Except for Bombing"
+seo_title: "Does Rent Control Work? The Evidence"
 menu: "Rent Control"
 date: 2026-07-24
 image: /images/rent-control.png

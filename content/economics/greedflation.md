@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "Greedflation: What the Theory Misses"
+seo_title: "Is Greedflation Real? What Economics Says"
 menu: "Greedflation"
 date: 2026-07-23
 image: /images/greedflation.png

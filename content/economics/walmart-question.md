@@ -1,6 +1,7 @@
 ---
 topic: "Poverty & Progress"
 title: "The Walmart Question"
+seo_title: "Does Walmart Help or Hurt the Poor?"
 menu: "Walmart Question"
 date: 2026-06-24
 image: /images/walmart-question.png

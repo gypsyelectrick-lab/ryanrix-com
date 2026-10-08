@@ -1,6 +1,7 @@
 ---
 topic: "Poverty & Progress"
 title: "The Great Escape: How Nine in Ten Humans Left Extreme Poverty"
+seo_title: "The End of Extreme Poverty: What Changed"
 menu: "The Great Escape"
 date: 2026-08-09
 author: "Anna Karina"

@@ -1,6 +1,7 @@
 ---
 topic: "Capitalism & Culture"
 title: "The Credential Con: When Everyone Has a Degree, Nobody Does"
+seo_title: "Is a College Degree Still Worth It?"
 menu: "Credential Con"
 date: 2026-07-23
 image: /images/the-credential-con.png

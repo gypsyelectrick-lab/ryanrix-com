@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Creative Destruction - Why Lost Jobs Make Us Richer"
+seo_title: "Creative Destruction: Why Old Jobs Disappear"
 menu: "Creative Destruction"
 date: 2026-07-05
 image: /images/creative-destruction.png

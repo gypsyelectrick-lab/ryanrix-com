@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "What You Give Up - A Gentle Introduction to Opportunity Cost"
+seo_title: "What Is Opportunity Cost? A Plain Explanation"
 menu: "Opportunity Cost"
 date: 2026-07-01
 image: /images/opportunity-cost.png

@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Supply & Demand - The Most Powerful Idea You Already Know"
+seo_title: "Supply and Demand Explained Simply"
 menu: "Supply & Demand"
 date: 2026-06-26
 image: /images/supply-and-demand.png

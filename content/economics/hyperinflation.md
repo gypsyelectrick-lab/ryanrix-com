@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "Hyperinflation"
+seo_title: "What Causes Hyperinflation? The Real Answer"
 menu: "Hyperinflation"
 date: 2026-07-22
 author: "Anna Karina"

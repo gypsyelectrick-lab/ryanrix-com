@@ -1,6 +1,7 @@
 ---
 topic: "Trade"
 title: "The Deepest and Most Beautiful Insight in Economics"
+seo_title: "Comparative Advantage Explained Simply"
 menu: "Comparative Advantage"
 date: 2026-08-05
 author: "Anna Karina"
