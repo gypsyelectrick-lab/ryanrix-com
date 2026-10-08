@@ -38,7 +38,7 @@ Once you understand this pattern, you see it everywhere:
 
 Supply and demand is the starting point for almost every economic argument. Price controls? They interfere with the supply-demand mechanism and create shortages. Minimum wage? It is a price floor on labor. Rent control? A price ceiling on housing. Taxes on a good? They shift the supply curve, and who bears the cost depends on how elastic demand is.
 
-Once you understand the basic pattern, you can analyse nearly any market policy - because nearly every market policy is an attempt to override supply and demand in one direction or another.
+Once you understand the basic pattern, you can analyze nearly any market policy - because nearly every market policy is an attempt to override supply and demand in one direction or another.
 
 ## Common Misunderstandings
 

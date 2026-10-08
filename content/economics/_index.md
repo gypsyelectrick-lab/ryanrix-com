@@ -11,7 +11,7 @@ The question is whether someone else is telling you a story about it that makes 
 
 This site exists for one reason: to give you the handful of ideas that actually explain how prices, wages, jobs, trade, and government work. Not the version you hear on the news. Not the version politicians need you to believe. The real version.
 
-You don't need a degree. You don't need to be good at maths. You just need to be willing to question what you've been told.
+You don't need a degree. You don't need to be good at math. You just need to be willing to question what you've been told.
 
 ---
 

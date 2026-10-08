@@ -30,7 +30,7 @@ The shortage does not mean there is no housing. It means there is less housing t
 
 The empirical evidence is overwhelming. A 2019 review by the Stanford Institute for Economic Policy Research examined every major study of rent control in the United States and Europe. The findings were consistent across all of them: rent control reduces the supply of rental housing, reduces the quality of controlled units, increases rents in the uncontrolled sector (as displaced demand pushes into the remaining market), and reduces tenant mobility (because people with controlled apartments will not give them up, creating a mismatch between housing and household needs).
 
-Lindbeck was not exaggerating. He was summarising.
+Lindbeck was not exaggerating. He was summarizing.
 
 ## Stockholm: The Original Lesson
 
