@@ -1,5 +1,6 @@
 ---
 title: "The Grid That Isn't There: Britain Paid £1 Billion This Year to Switch Off Its Own Wind"
+seo_title: "Why Britain Pays Wind Farms to Stop"
 menu: "The Grid That Isn't There"
 date: 2026-08-20
 author: "Max Weber"

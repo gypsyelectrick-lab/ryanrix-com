@@ -1,6 +1,7 @@
 ---
 topic: "Economics"
 title: 'The Manifesto Capitalism Cannot Write'
+seo_title: "Why Capitalist Manifestos Fail"
 menu: 'The Manifesto Problem'
 date: 2026-09-14
 image: /images/why-capitalist-manifestos-fail.png

@@ -1,5 +1,6 @@
 ---
 title: "The Fabian Grip: How One Society Made Every Labour PM"
+seo_title: "The Fabian Society's Grip on Britain"
 menu: "Fabian Grip"
 date: 2026-07-24
 image: /images/the-fabian-grip.png

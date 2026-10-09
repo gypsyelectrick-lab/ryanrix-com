@@ -1,5 +1,6 @@
 ---
 title: "The Carbon Tax That Already Exists: You're Already Paying It"
+seo_title: "The Carbon Tax You Already Pay"
 menu: "The Carbon Tax That Already Exists"
 date: 2026-07-21
 author: "Max Weber"

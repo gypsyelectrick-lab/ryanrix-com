@@ -1,5 +1,6 @@
 ---
 title: "The Consultation Was the Retreat: Who Decides the EV Mandate?"
+seo_title: "Who Decides the UK's EV Mandate?"
 menu: "EV Mandate Consultation"
 date: 2026-08-16
 image: /images/the-consultation-was-the-retreat.png

@@ -1,5 +1,6 @@
 ---
 title: "The Battle of Ideas"
+seo_title: "Why Bad Ideas Keep Winning"
 menu: "The Battle of Ideas"
 date: 2026-07-22
 image: /images/battle-of-ideas.png

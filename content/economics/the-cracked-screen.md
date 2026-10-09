@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "The Cracked Screen"
+seo_title: "The Broken Window Fallacy Explained"
 menu: "Cracked Screen"
 date: 2026-06-01
 image: /images/the-cracked-screen.png

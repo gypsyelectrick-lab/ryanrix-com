@@ -1,6 +1,7 @@
 ---
 topic: "Poverty & Progress"
 title: "The Grievance Machine, Part I: The Greatest Story Never Told"
+seo_title: "How Extreme Poverty Collapsed Worldwide"
 menu: "Grievance Machine"
 date: 2026-07-19
 image: /images/the-grievance-machine.png

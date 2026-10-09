@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "The Toothpaste Problem"
+seo_title: "Why Are There So Many Toothpaste Brands?"
 menu: "The Toothpaste Problem"
 date: 2026-07-01
 image: /images/the-toothpaste-problem.png

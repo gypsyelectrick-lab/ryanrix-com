@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "The One Lesson"
+seo_title: "The One Idea That Explains Economics"
 menu: "The One Lesson"
 date: 2026-06-01
 image: /images/the-one-lesson.png

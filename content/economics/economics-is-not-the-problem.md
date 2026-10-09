@@ -1,5 +1,6 @@
 ---
 title: "Economics Is Not the Problem. The Certainty-Sellers Are."
+seo_title: "Why Economic Forecasts Fail"
 date: 2026-09-07
 author: "Ryan Rix"
 description: "Forecasts fail, but the principles still work. Blaming economics for its fortune-tellers misses the point."

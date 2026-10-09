@@ -1,5 +1,6 @@
 ---
 title: "The Rented Gate"
+seo_title: "Who Controls Europe's Borders?"
 menu: "The Rented Gate"
 date: 2026-08-03
 author: "Max Weber"

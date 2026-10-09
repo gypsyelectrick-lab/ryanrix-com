@@ -1,5 +1,6 @@
 ---
 title: "The Seven Questions: A Manifesto for How Laws Should Be Made"
+seo_title: "A Seven-Question Test for Every New Law"
 menu: "Seven Questions"
 date: 2026-07-21
 image: /images/seven-questions.png

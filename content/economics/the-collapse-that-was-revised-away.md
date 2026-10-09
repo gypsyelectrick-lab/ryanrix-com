@@ -1,6 +1,7 @@
 ---
 topic: "Labor"
 title: "The Collapse That Was Revised Away: How to Read a Jobs Report"
+seo_title: "How to Read a Jobs Report"
 menu: "The Collapse That Was Revised Away"
 date: 2026-09-10
 author: "Anna Karina"

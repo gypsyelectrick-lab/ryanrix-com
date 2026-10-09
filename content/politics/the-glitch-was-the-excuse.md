@@ -1,5 +1,6 @@
 ---
 title: "The Glitch Was the Excuse: New Jersey and the Vote Nobody Owns"
+seo_title: "New Jersey's Non-Citizen Voter Problem"
 menu: "The Glitch Was the Excuse"
 date: 2026-08-18
 image: /images/the-glitch-was-the-excuse.png

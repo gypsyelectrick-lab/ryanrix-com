@@ -1,5 +1,6 @@
 ---
 title: "It Worked for Routers"
+seo_title: "The FCC Router Ban and the AI Playbook"
 menu: "Routers"
 date: 2026-09-14
 author: "Max Weber"

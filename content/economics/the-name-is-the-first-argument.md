@@ -1,6 +1,7 @@
 ---
 topic: "Capitalism & Culture"
 title: "The Name Is the First Argument"
+seo_title: "Who Named Capitalism - and Why It Matters"
 menu: "The Name Is the First Argument"
 date: 2026-08-06
 author: "Anna Karina"

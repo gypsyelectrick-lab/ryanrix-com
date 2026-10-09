@@ -1,6 +1,7 @@
 ---
 topic: "Trade"
 title: "Eighty Percent of Something"
+seo_title: "Is Vietnam's Economic Boom Real?"
 menu: "80% of Something"
 date: 2026-07-07
 image: /images/the-vietnamese-boom.png

@@ -1,6 +1,7 @@
 ---
 topic: "Poverty & Progress"
 title: "The Template Trap: Why Borrowed Policies Fail"
+seo_title: "Why Borrowed Policies Fail"
 menu: "Template Trap"
 date: 2026-09-22
 image: /images/the-template-trap.png

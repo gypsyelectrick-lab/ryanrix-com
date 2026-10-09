@@ -1,6 +1,7 @@
 ---
 topic: "Poverty & Progress"
 title: "The 2% Rule"
+seo_title: "How Much Value Do Entrepreneurs Create?"
 menu: "2% Rule"
 date: 2026-06-24
 image: /images/two-percent-rule.png

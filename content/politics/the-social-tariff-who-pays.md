@@ -1,5 +1,6 @@
 ---
 title: "The Social Tariff: Who Pays for the Bills Nobody Can Pay"
+seo_title: "Who Pays for the Energy Social Tariff?"
 date: 2026-08-28
 image: /images/the-social-tariff-who-pays.png
 author: "Max Weber"
