@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "The Cantillon Effect - Who Gets the New Money First"
+seo_title: "The Cantillon Effect: Who Gets New Money"
 menu: "Cantillon Effect"
 date: 2026-07-29
 image: /images/the-cantillon-effect.png

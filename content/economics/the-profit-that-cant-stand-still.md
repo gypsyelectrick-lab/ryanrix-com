@@ -1,5 +1,6 @@
 ---
 title: "The Profit That Can't Stand Still - Why 'Just Take a Sustainable Profit' Is Not an Option"
+seo_title: "Why Companies Can't Just Take a Fair Profit"
 menu: "Profit"
 date: 2026-08-17
 image: /images/the-profit-that-cant-stand-still.png

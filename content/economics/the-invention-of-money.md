@@ -1,5 +1,6 @@
 ---
 title: "The Invention of Money"
+seo_title: "Who Invented Money? The Real History"
 menu: "Invention of Money"
 date: 2026-08-17
 author: "Anna Karina"

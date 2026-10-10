@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "The Mayor's Share: What the Power Grab Actually Changes"
+seo_title: "English Mayors Get a Share of Income Tax"
 menu: "The Mayor's Share"
 date: 2026-08-05
 author: "Anna Karina"

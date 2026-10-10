@@ -1,6 +1,7 @@
 ---
 topic: "Regulation"
 title: "The Ban That Can't Work - The Last Grievance Without a Deep-Dive"
+seo_title: "Australia's Under-16 Social Media Ban"
 menu: "The Ban That Can't Work"
 date: 2026-08-05
 author: "Anna Karina"

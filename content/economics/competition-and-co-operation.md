@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Competition and Co-operation"
+seo_title: "Is the Free Market About Competition?"
 menu: "Competition"
 date: 2026-06-01
 image: /images/competition-and-co-operation.png

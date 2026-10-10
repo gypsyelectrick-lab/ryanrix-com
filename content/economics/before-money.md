@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "Before Money: Where Exchange Comes From"
+seo_title: "The Origins of Trade and Money"
 menu: "Before Money"
 date: 2026-08-12
 author: "Anna Karina"

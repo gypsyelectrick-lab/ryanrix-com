@@ -1,6 +1,7 @@
 ---
 topic: "Regulation"
 title: "Don't Call Them Technocrats"
+seo_title: "Why Tech Regulators Don't Understand Tech"
 menu: "Don't Call Them Technocrats"
 date: 2026-07-15
 image: /images/dont-call-them-technocrats.png

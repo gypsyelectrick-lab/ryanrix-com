@@ -1,5 +1,6 @@
 ---
 title: "Why Things Break: The Ten Billion Pound Nothing"
+seo_title: "The NHS's £10 Billion IT Failure"
 menu: "Why Things Break: The Ten Billion Pound Nothing"
 date: 2026-07-31
 author: "Max Weber"

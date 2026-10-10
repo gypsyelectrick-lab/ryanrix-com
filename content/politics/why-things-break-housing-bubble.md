@@ -1,5 +1,6 @@
 ---
 title: "Why Things Break: The AAA Rating Was Correct"
+seo_title: "Why the 2008 AAA Ratings Were Right"
 menu: "Why Things Break: The AAA Rating Was Correct"
 date: 2026-07-31
 author: "Max Weber"

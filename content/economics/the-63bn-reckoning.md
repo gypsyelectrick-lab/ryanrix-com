@@ -1,6 +1,7 @@
 ---
 topic: "Taxes"
 title: 'The 63 Billion Reckoning - The Budget Countdown, 84 Days Out'
+seo_title: "120 Millionaires Want a Wealth Tax"
 menu: 'The 63 Billion Reckoning'
 date: 2026-08-05
 author: 'Anna Karina'

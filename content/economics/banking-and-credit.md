@@ -1,5 +1,6 @@
 ---
 title: "Banking and Credit"
+seo_title: "The History of Banking and Credit"
 menu: "Banking and Credit"
 date: 2026-08-18
 author: "Anna Karina"

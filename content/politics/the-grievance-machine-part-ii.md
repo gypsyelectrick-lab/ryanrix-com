@@ -1,5 +1,6 @@
 ---
 title: "The Grievance Machine, Part II: Who Profits from Panic"
+seo_title: "Who Profits From Political Panic"
 menu: "Grievance Machine"
 date: 2026-07-23
 image: /images/the-grievance-machine-part-ii.png

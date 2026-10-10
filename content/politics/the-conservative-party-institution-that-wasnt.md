@@ -1,5 +1,6 @@
 ---
 title: "The Conservative Party: The Institution That Wasn't"
+seo_title: "The Conservative Party's Missing Think Tank"
 menu: "The Institution That Wasn't"
 date: 2026-08-14
 author: "Max Weber"

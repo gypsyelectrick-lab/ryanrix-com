@@ -1,5 +1,6 @@
 ---
 title: "The Safety Moat: How Big AI Wants Regulation"
+seo_title: "Why Big AI Companies Want Regulation"
 menu: "Safety Moat"
 date: 2026-07-28
 image: /images/ai-safety-moat.png

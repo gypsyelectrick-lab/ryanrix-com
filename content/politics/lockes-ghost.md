@@ -1,5 +1,6 @@
 ---
 title: "Locke's Ghost"
+seo_title: "John Locke: Natural Rights and Government"
 menu: "Locke's Ghost"
 date: 2026-07-22
 image: /images/lockes-ghost.png

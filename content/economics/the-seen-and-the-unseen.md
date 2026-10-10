@@ -1,6 +1,7 @@
 ---
 topic: "Capitalism & Culture"
 title: "The Seen and the Unseen"
+seo_title: "The Broken Window Fallacy Explained"
 menu: "Seen & Unseen"
 date: 2026-07-22
 image: /images/the-seen-and-the-unseen.png

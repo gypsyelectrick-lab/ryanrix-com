@@ -1,5 +1,6 @@
 ---
 title: "Wrong About Everything: Ehrlich, Carson, and Environmentalism"
+seo_title: "Paul Ehrlich and Rachel Carson Were Wrong"
 menu: "Wrong About Everything"
 date: 2026-07-24
 image: /images/wrong-about-everything.png

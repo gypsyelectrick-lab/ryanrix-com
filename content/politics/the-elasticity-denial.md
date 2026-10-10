@@ -1,5 +1,6 @@
 ---
 title: "The Elasticity Denial"
+seo_title: "Do Taxes Change Behavior? The Elasticity"
 menu: "The Elasticity Denial"
 date: 2026-08-10
 author: "Max Weber"

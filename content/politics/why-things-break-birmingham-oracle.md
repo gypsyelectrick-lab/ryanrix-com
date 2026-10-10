@@ -1,5 +1,6 @@
 ---
 title: "Why Things Break: Birmingham's £225 Million Oracle"
+seo_title: "Birmingham's £225 Million Oracle Failure"
 menu: "Why Things Break: Birmingham's £225 Million Oracle"
 date: 2026-07-31
 author: "Max Weber"

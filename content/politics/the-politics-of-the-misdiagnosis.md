@@ -1,5 +1,6 @@
 ---
 title: "The Politics of the Misdiagnosis"
+seo_title: "Why Doomers Get Capitalism Wrong"
 menu: "The Politics of the Misdiagnosis"
 date: 2026-08-27
 author: "Max Weber"

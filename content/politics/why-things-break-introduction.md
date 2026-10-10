@@ -1,5 +1,6 @@
 ---
 title: "Why Things Break: An Introduction"
+seo_title: "Why Corporate Power and Government Merge"
 menu: "Why Things Break: An Introduction"
 date: 2026-07-29
 image: /images/why-things-break-introduction.png

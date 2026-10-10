@@ -1,5 +1,6 @@
 ---
 title: "Democracy's Impossible Voter"
+seo_title: "The Informed Voter Problem in Democracy"
 menu: "Democracy's Impossible Voter"
 date: 2026-07-22
 image: /images/democracys-impossible-voter.png

@@ -1,5 +1,6 @@
 ---
 title: "The Red-Green Alliance: What the Green Party Actually Is"
+seo_title: "What the Green Party Really Stands For"
 menu: "Red-Green Alliance"
 date: 2026-07-24
 image: /images/the-red-green-alliance.png
