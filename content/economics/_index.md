@@ -64,6 +64,8 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - [Greedflation: What the Theory Misses](/economics/greedflation/) - If corporations can set any price they want, why does Aldi exist?
 - [The Regulation Tax](/economics/the-regulation-tax/) - Every regulation is a tax. The poor pay the most. Nobody adds up the total.
 - [Rent Control: The Fastest Way to Destroy a City](/economics/rent-control/) - Swedish economist Assar Lindbeck said it best fifty years ago. The evidence has only gotten stronger since.
+- <a href="/economics/what-is-fascism/" target="_blank" rel="noopener noreferrer">What Is Fascism?</a> - The word is a weapon. The mechanism is the definition.
+- <a href="/economics/what-monetary-sovereignty-cannot-do/" target="_blank" rel="noopener noreferrer">What Monetary Sovereignty Cannot Do: Britain's Own Currency and the 27-Day Constraint</a> - Britain issues its own currency and can never run out of pounds. In September 2022 the gilt market overruled an elected government in 27 days anyway.
 - [The Usefulness of Billionaires](/economics/the-usefulness-of-billionaires/) - The US leads in risky investment and the US has billionaires. That is not a coincidence.
 - [Incentives Matter: The Economics of Obvious](/economics/incentives-matter-the-economics-of-obvious/) - People respond to incentives. The rest is detail. Why does every government pretend otherwise?
 - [Incentives Matter: The Price of Good Intentions](/economics/incentives-matter-the-price-of-good-intentions/) - A 19% interest rate and a 23% youth unemployment rate are the same story.

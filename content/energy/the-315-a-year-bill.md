@@ -49,15 +49,15 @@ Notice the structure. Nothing on this bill is set by a market. Every line is set
 
 ## The October Exhibit
 
-Now the numbers, with their baselines. The current price cap is £1,663 a year for a typical household. That figure already contains a confirmed 13 percent rise from July.
+Now the numbers, with their baselines. The current price cap is £1,723 a year for a typical household, live since 1 October. The cap it replaced, £1,663, already contained a confirmed 13 percent rise from July.
 
-October is forecast higher. <a href="https://www.cornwall-insight.com" target="_blank" rel="noopener noreferrer">Cornwall Insight</a>'s final forecast put the next cap near £1,729.31, and the official October cap printed at £1,723. <a href="https://www.uswitch.com" target="_blank" rel="noopener noreferrer">Uswitch</a>'s survey of supplier prices lands around £1,732. British Gas's own estimate is £1,730. The forecasts are not identical, but they agree on the direction, and the range is tight.
+The October number came in close to the forecasts. <a href="https://www.cornwall-insight.com" target="_blank" rel="noopener noreferrer">Cornwall Insight</a>'s final forecast put it near £1,729.31, and the official October cap printed at £1,723. <a href="https://www.uswitch.com" target="_blank" rel="noopener noreferrer">Uswitch</a>'s survey of supplier prices lands around £1,732. British Gas's own estimate is £1,730. The forecasts are not identical, but they agree on the direction, and the range is tight.
 
 Notice what happened to the number before it reached you. The £1,723 is calculated on the new Typical Domestic Consumption Values - the regulator's updated assumptions about how many units a typical household actually uses. On the old assumptions, the same prices come out to £1,935. Same prices, same winter, bigger number. The headline shrank because the yardstick got shorter, not because the bill did.
 
 In the middle of all this, the government cut VAT on electricity to zero percent. It is worth about £43.51 a year to a typical household. The official framing called it a down payment on lower bills.
 
-Let us place the down payment next to the trajectory. The cap rose 13 percent in July. It is forecast to rise again in October. The cut is worth £43.51 a year. The July rise alone added well over £100 to the typical annual bill. A £43.51 gesture against that is not a down payment on lower bills; it is a receipt for one line of the bill, handed over while the other lines climb.
+Let us place the down payment next to the trajectory. The cap rose 13 percent in July, and it rose again in October. The cut is worth £43.51 a year. The July rise alone added well over £100 to the typical annual bill. A £43.51 gesture against that is not a down payment on lower bills; it is a receipt for one line of the bill, handed over while the other lines climb.
 
 And remember the promise. The regulator consulted on zero and low standing charge tariffs. They were promised for January 2026. On the forum threads, households still ask where they are - the question threads run on, unanswered. The answer so far is a pilot. More on that in a moment.
 

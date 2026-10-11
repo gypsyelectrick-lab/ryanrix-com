@@ -106,7 +106,7 @@ The tariff comparison is not rhetorical. A tariff at least sends money to the tr
 
 ## The Precedent Was Expensive
 
-The router action is not the first use of this authority. It is the second.
+The router action is not the first use of this authority, and it is not the second either. In ten months the Commission has moved from naming companies to banning four product categories by origin: uncrewed aircraft on 22 December 2025, routers on 23 March 2026, then power inverters and advanced robotic devices on 28 July 2026 (DA 26-786), followed by a modification on 20 August 2026 (DA 26-870).
 
 The Secure and Trusted Communications Networks Act passed in 2019. The Commission adopted remove-and-replace rules in its Second Report and Order in January 2021, effective March 2022, requiring carriers to strip Huawei and ZTE equipment out of their networks. Congress appropriated $1.9 billion in 2021. A further $3.08 billion Treasury loan was authorized in December 2024. Call it $5 billion in total.
 
