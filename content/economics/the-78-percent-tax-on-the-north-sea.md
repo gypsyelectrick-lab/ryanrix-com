@@ -1,6 +1,7 @@
 ---
 topic: "Taxes"
 title: "The 78% Tax on the North Sea: A Tax on Investment"
+seo_title: "North Sea Windfall Tax: A Tax on Investment"
 menu: 'The 78% Tax'
 date: 2026-08-05
 author: 'Anna Karina'

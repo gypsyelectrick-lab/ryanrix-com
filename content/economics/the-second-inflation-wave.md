@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "The Second Inflation Wave: The Good News Is Over"
+seo_title: "UK Inflation: Why the Good News Is Over"
 menu: "Second Inflation Wave"
 date: 2026-08-04
 image: /images/the-second-inflation-wave.png

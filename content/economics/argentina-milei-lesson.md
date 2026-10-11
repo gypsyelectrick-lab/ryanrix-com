@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "Argentina's Lesson: What Happens When You Actually Fix an Economy"
+seo_title: "Argentina's Milei: What Actually Happened"
 menu: "Argentina's Lesson"
 date: 2026-07-28
 image: /images/argentina-milei-lesson.png

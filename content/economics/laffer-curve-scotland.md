@@ -1,6 +1,7 @@
 ---
 topic: "Taxes"
 title: "The Laffer Curve, Alive and Well in Scotland"
+seo_title: "Scotland's 48p Tax Rate: Does It Pay?"
 menu: "The Laffer Curve, Alive and Well in Scotland"
 date: 2026-07-31
 author: "Anna Karina"

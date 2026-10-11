@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "The ECB Hiked Into a Supply Shock. The Price of Oil Did Not Notice."
+seo_title: "Why an ECB Rate Hike Cannot Tame Oil Prices"
 menu: "ECB Hike Into a Supply Shock"
 date: 2026-09-10
 author: "Anna Karina"

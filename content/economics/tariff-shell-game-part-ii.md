@@ -1,6 +1,7 @@
 ---
 topic: "Trade"
 title: "The Tariff Shell Game, Part II: 25 States in the Audience"
+seo_title: "Why US Tariffs Keep Changing Legal Basis"
 menu: 'Tariff Shell Game II'
 date: 2026-08-05
 author: 'Anna Karina'

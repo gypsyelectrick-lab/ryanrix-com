@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "How Prices Work - The Information Machine Nobody Built"
+seo_title: "How Prices Work: The Invisible Signal"
 menu: "How Prices Work"
 date: 2026-06-26
 image: /images/how-prices-work.png

@@ -1,6 +1,7 @@
 ---
 topic: "Trade"
 title: "The Tariff Shell Game, Part III: The Expiration Date That Never Comes"
+seo_title: "Why the China Tariffs Never Expire"
 menu: 'Tariff Shell Game III'
 date: 2026-08-24
 author: "Anna Karina"

@@ -1,5 +1,6 @@
 ---
 title: "Climate Bureaucracy, Part 2: The Scenario That Wouldn't Die"
+seo_title: "Why the Worst Climate Scenario Was Wrong"
 menu: "Climate Bureaucracy 2"
 date: 2026-07-23
 author: "Max Weber"

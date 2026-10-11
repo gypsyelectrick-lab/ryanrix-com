@@ -1,6 +1,7 @@
 ---
 topic: "Taxes"
 title: "The Billionaire Tax Test: Why California's Prop 40 Fails"
+seo_title: "Why California's Billionaire Tax Fails"
 menu: "Prop 40 Wealth Tax"
 date: 2026-07-28
 image: /images/california-wealth-tax-test.png

@@ -1,5 +1,6 @@
 ---
 title: "The £315-a-Year Bill Before You Use a Watt"
+seo_title: "Why Your Energy Standing Charge Keeps Rising"
 menu: "The £315-a-Year Bill"
 date: 2026-08-20
 author: "Max Weber"

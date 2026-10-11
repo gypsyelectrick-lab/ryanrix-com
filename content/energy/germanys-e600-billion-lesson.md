@@ -1,5 +1,6 @@
 ---
 title: "Germany's €600 Billion Lesson"
+seo_title: "Germany's Energy Transition: What Went Wrong"
 menu: "Germany's Energiewende"
 date: 2026-07-17
 author: "Max Weber"

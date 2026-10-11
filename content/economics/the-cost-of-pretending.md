@@ -1,6 +1,7 @@
 ---
 topic: "Regulation"
 title: "The Cost of Pretending We Know What We're Doing"
+seo_title: "Who Pays When Regulators Miss Deadlines"
 menu: "Cost of Pretending"
 date: 2026-08-04
 image: /images/the-cost-of-pretending.png

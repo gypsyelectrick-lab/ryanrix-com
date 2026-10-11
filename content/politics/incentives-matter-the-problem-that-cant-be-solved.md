@@ -1,5 +1,6 @@
 ---
 title: "Incentives Matter: The Problem That Can't Be Solved"
+seo_title: "Why Bad Policies Never Get Fixed"
 menu: "Incentives Matter: The Problem That Can't Be Solved"
 date: 2026-07-27
 image: /images/incentives-matter-the-problem-that-cant-be-solved.png

@@ -1,6 +1,7 @@
 ---
 topic: "Trade"
 title: "Trade and the Merchants: The Road Nobody Built"
+seo_title: "How Trade Began Before Any Government"
 menu: "Trade and the Merchants"
 date: 2026-08-19
 author: "Anna Karina"

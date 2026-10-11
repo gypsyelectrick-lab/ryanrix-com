@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "The Second Inflation Wave, Part II: The Wave Is Here"
+seo_title: "UK Energy Price Cap: Why Bills Rise Again"
 menu: "Second Inflation Wave"
 date: 2026-08-26
 author: "Anna Karina"

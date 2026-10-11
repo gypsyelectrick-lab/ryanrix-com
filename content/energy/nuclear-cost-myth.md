@@ -1,5 +1,6 @@
 ---
 title: "The Nuclear Cost Myth: What America Chose"
+seo_title: "Why Nuclear Power Costs So Much"
 menu: "Nuclear Cost Myth"
 date: 2026-07-17
 author: "Max Weber"

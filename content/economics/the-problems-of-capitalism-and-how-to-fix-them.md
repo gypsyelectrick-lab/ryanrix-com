@@ -1,6 +1,7 @@
 ---
 topic: "Capitalism & Culture"
 title: "The Problems of Capitalism (and How to Fix Them)"
+seo_title: "Problems of Capitalism and What Fixes Them"
 menu: "Problems of Capitalism"
 date: 2026-08-18
 author: "Anna Karina"

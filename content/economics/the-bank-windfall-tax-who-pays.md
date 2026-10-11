@@ -1,6 +1,7 @@
 ---
 topic: "Taxes"
 title: "The Bank Windfall Tax: Who Pays When We Tax the Banks?"
+seo_title: "Bank Windfall Tax: Who Really Pays?"
 menu: "The Bank Windfall Tax"
 date: 2026-08-20
 author: "Anna Karina"

@@ -1,6 +1,7 @@
 ---
 topic: "Taxes"
 title: "California's Wealth Tax - a Case Study in Wishful Thinking"
+seo_title: "California's Wealth Tax: Why It Fails"
 menu: "Wealth Tax"
 date: 2026-07-18
 author: "Anna Karina"

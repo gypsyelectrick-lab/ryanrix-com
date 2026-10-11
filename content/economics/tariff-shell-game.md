@@ -1,6 +1,7 @@
 ---
 topic: "Trade"
 title: "The Tariff Shell Game: A Policy That Keeps Failing"
+seo_title: "Why Tariffs Survived the Supreme Court"
 menu: "Tariff Shell Game"
 date: 2026-07-21
 image: /images/tariff-shell-game.png

@@ -1,5 +1,6 @@
 ---
 title: "The Labour PM Who Cut Your Climate Tax"
+seo_title: "Andy Burnham's Energy Tax Cut, Explained"
 menu: "Burnham Energy Tax Cut"
 date: 2026-07-23
 image: /images/burnham-energy-tax-cut.png

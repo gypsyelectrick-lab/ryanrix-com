@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "Incentives Matter: The Price of Good Intentions"
+seo_title: "Do Interest Rate Caps Help the Poor?"
 menu: "Incentives Matter: The Price of Good Intentions"
 date: 2026-07-27
 image: /images/incentives-matter-the-price-of-good-intentions.png

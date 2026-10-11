@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Property Rights - The Foundation You Never Notice"
+seo_title: "What Are Property Rights and Why They Matter"
 menu: "Property Rights"
 date: 2026-07-05
 image: /images/property-rights-the-foundation.png
