@@ -57,6 +57,8 @@ The importance of the date is worth noting. The twentieth Bundestag was elected 
 
 Under the Swiss rule, that amendment would have had to face the electorate. Under the German rule, it faced only the members it was written to bind.
 
+{{< figure src="/images/german-debt-brake-timeline.svg" alt="Timeline of the German debt brake from 2009 to 2025. Seven dated points, numbered one to seven, color-coded purple where the rule held or was enforced and orange where it was opened." width="100%" caption="The rule held for eleven years and has been opened three times in six. Two of those openings were constitutional amendments, and the one occasion a court enforced the rule was overridden by amendment sixteen months later. Sources: Basic Law amendments of 2022 and of 22 March 2025; Federal Constitutional Court, 15 November 2023." >}}
+
 ---
 
 ## The difference is the enforcement, not the text

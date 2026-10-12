@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" width="1200" height="470" role="img" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <title>The German debt brake, 2009 to 2025</title>
+
+  <rect x="0" y="0" width="1200" height="470" rx="10" fill="#F7F5FB"/>
+
+  <!-- era divider -->
+  <line x1="777" y1="52" x2="777" y2="196" stroke="#B9B3C9" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <text x="764" y="42" text-anchor="end" font-size="15" fill="#5A5566">the rule holds</text>
+  <text x="790" y="42" text-anchor="start" font-size="15" fill="#5A5566">the rule is opened</text>
+
+  <!-- axis -->
+  <line x1="70" y1="140" x2="1130" y2="140" stroke="#B9B3C9" stroke-width="2"/>
+
+  <!-- 2009 created (held) -->
+  <line x1="129" y1="140" x2="129" y2="196" stroke="#2D1B69" stroke-width="1.5"/>
+  <circle cx="129" cy="140" r="15" fill="#2D1B69"/>
+  <text x="129" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">1</text>
+  <text x="129" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2009</text>
+
+  <!-- 2011 binds (held) -->
+  <line x1="247" y1="140" x2="247" y2="196" stroke="#2D1B69" stroke-width="1.5"/>
+  <circle cx="247" cy="140" r="15" fill="#2D1B69"/>
+  <text x="247" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">2</text>
+  <text x="247" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2011</text>
+
+  <!-- 2016 fully binding (held) -->
+  <line x1="541" y1="140" x2="541" y2="196" stroke="#2D1B69" stroke-width="1.5"/>
+  <circle cx="541" cy="140" r="15" fill="#2D1B69"/>
+  <text x="541" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">3</text>
+  <text x="541" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2016</text>
+
+  <!-- 2020 suspended (opened) -->
+  <line x1="777" y1="140" x2="777" y2="196" stroke="#E07C00" stroke-width="1.5"/>
+  <circle cx="777" cy="140" r="15" fill="#E07C00"/>
+  <text x="777" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">4</text>
+  <text x="777" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2020</text>
+
+  <!-- 2022 carve-out (opened) -->
+  <line x1="894" y1="140" x2="894" y2="196" stroke="#E07C00" stroke-width="1.5"/>
+  <circle cx="894" cy="140" r="15" fill="#E07C00"/>
+  <text x="894" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">5</text>
+  <text x="894" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2022</text>
+
+  <!-- 2023 court (held) -->
+  <line x1="953" y1="140" x2="953" y2="196" stroke="#2D1B69" stroke-width="1.5"/>
+  <circle cx="953" cy="140" r="15" fill="#2D1B69"/>
+  <text x="953" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">6</text>
+  <text x="953" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2023</text>
+
+  <!-- 2025 opened again -->
+  <line x1="1071" y1="140" x2="1071" y2="196" stroke="#E07C00" stroke-width="1.5"/>
+  <circle cx="1071" cy="140" r="15" fill="#E07C00"/>
+  <text x="1071" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">7</text>
+  <text x="1071" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2025</text>
+
+  <!-- legend -->
+  <g font-size="16.5" fill="#1A1A1A">
+    <circle cx="98" cy="272" r="9" fill="#2D1B69"/>
+    <text x="98" y="278" text-anchor="middle" font-size="11.5" font-weight="700" fill="#FFFFFF">1</text>
+    <text x="120" y="278">2009 - written into the Basic Law</text>
+
+    <circle cx="98" cy="312" r="9" fill="#2D1B69"/>
+    <text x="98" y="318" text-anchor="middle" font-size="11.5" font-weight="700" fill="#FFFFFF">2</text>
+    <text x="120" y="318">2011 - binds the federal government</text>
+
+    <circle cx="98" cy="352" r="9" fill="#2D1B69"/>
+    <text x="98" y="358" text-anchor="middle" font-size="11.5" font-weight="700" fill="#FFFFFF">3</text>
+    <text x="120" y="358">2016 - ceiling fully binding after phase-in</text>
+
+    <circle cx="98" cy="392" r="9" fill="#E07C00"/>
+    <text x="98" y="398" text-anchor="middle" font-size="11.5" font-weight="700" fill="#FFFFFF">4</text>
+    <text x="120" y="398">2020-2023 - suspended four years running</text>
+
+    <circle cx="628" cy="272" r="9" fill="#E07C00"/>
+    <text x="628" y="278" text-anchor="middle" font-size="11.5" font-weight="700" fill="#FFFFFF">5</text>
+    <text x="650" y="278">2022 - 100bn euro defense fund carved out</text>
+
+    <circle cx="628" cy="312" r="9" fill="#2D1B69"/>
+    <text x="628" y="318" text-anchor="middle" font-size="11.5" font-weight="700" fill="#FFFFFF">6</text>
+    <text x="650" y="318">Nov 2023 - court strikes down 60bn</text>
+
+    <circle cx="628" cy="352" r="9" fill="#E07C00"/>
+    <text x="628" y="358" text-anchor="middle" font-size="11.5" font-weight="700" fill="#FFFFFF">7</text>
+    <text x="650" y="358">Mar 2025 - 500bn fund and defense exempted</text>
+  </g>
+
+  <g font-size="15" fill="#5A5566">
+    <rect x="628" y="386" width="14" height="14" rx="3" fill="#2D1B69"/>
+    <text x="650" y="398">the rule held or was enforced</text>
+    <rect x="900" y="386" width="14" height="14" rx="3" fill="#E07C00"/>
+    <text x="922" y="398">the rule was opened</text>
+  </g>
+</svg>
