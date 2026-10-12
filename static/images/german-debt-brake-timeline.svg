@@ -13,43 +13,43 @@
 
   <!-- 2009 created (held) -->
   <line x1="129" y1="140" x2="129" y2="196" stroke="#2D1B69" stroke-width="1.5"/>
-  <circle cx="129" cy="140" r="15" fill="#2D1B69"/>
+  <circle cx="129" cy="140" r="15" fill="#2D1B69" data-event="1"/>
   <text x="129" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">1</text>
   <text x="129" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2009</text>
 
   <!-- 2011 binds (held) -->
   <line x1="247" y1="140" x2="247" y2="196" stroke="#2D1B69" stroke-width="1.5"/>
-  <circle cx="247" cy="140" r="15" fill="#2D1B69"/>
+  <circle cx="247" cy="140" r="15" fill="#2D1B69" data-event="2"/>
   <text x="247" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">2</text>
   <text x="247" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2011</text>
 
   <!-- 2016 fully binding (held) -->
   <line x1="541" y1="140" x2="541" y2="196" stroke="#2D1B69" stroke-width="1.5"/>
-  <circle cx="541" cy="140" r="15" fill="#2D1B69"/>
+  <circle cx="541" cy="140" r="15" fill="#2D1B69" data-event="3"/>
   <text x="541" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">3</text>
   <text x="541" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2016</text>
 
   <!-- 2020 suspended (opened) -->
   <line x1="777" y1="140" x2="777" y2="196" stroke="#E07C00" stroke-width="1.5"/>
-  <circle cx="777" cy="140" r="15" fill="#E07C00"/>
+  <circle cx="777" cy="140" r="15" fill="#E07C00" data-event="4"/>
   <text x="777" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">4</text>
   <text x="777" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2020</text>
 
   <!-- 2022 carve-out (opened) -->
   <line x1="894" y1="140" x2="894" y2="196" stroke="#E07C00" stroke-width="1.5"/>
-  <circle cx="894" cy="140" r="15" fill="#E07C00"/>
+  <circle cx="894" cy="140" r="15" fill="#E07C00" data-event="5"/>
   <text x="894" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">5</text>
   <text x="894" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2022</text>
 
   <!-- 2023 court (held) -->
   <line x1="953" y1="140" x2="953" y2="196" stroke="#2D1B69" stroke-width="1.5"/>
-  <circle cx="953" cy="140" r="15" fill="#2D1B69"/>
+  <circle cx="953" cy="140" r="15" fill="#2D1B69" data-event="6"/>
   <text x="953" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">6</text>
   <text x="953" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2023</text>
 
   <!-- 2025 opened again -->
   <line x1="1071" y1="140" x2="1071" y2="196" stroke="#E07C00" stroke-width="1.5"/>
-  <circle cx="1071" cy="140" r="15" fill="#E07C00"/>
+  <circle cx="1071" cy="140" r="15" fill="#E07C00" data-event="7"/>
   <text x="1071" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">7</text>
   <text x="1071" y="218" text-anchor="middle" font-size="16" font-weight="600" fill="#1A1A1A">2025</text>
 
