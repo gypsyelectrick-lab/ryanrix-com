@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Interest Rates - The Price of Time"
+seo_title: "Why Do Interest Rates Exist?"
 menu: "Interest Rates"
 date: 2026-07-05
 image: /images/interest-rates-price-of-time.png

@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Taxes - Who Actually Pays"
+seo_title: "Who Really Pays a Tax? Tax Incidence Explained"
 menu: "Taxes"
 date: 2026-07-05
 image: /images/taxes-who-actually-pays.png

@@ -1,6 +1,7 @@
 ---
 topic: "Feudalism"
 title: "What Is Feudalism?"
+seo_title: "What Is Feudalism? How the System Worked"
 menu: "Feudalism"
 date: 2026-09-02
 image: /images/what-is-feudalism.png

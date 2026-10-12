@@ -1,6 +1,7 @@
 ---
 topic: "Communism"
 title: "What Is Communism?"
+seo_title: "What Is Communism? The Promise and the Record"
 menu: "Communism"
 date: 2026-09-23
 image: /images/what-is-communism.png

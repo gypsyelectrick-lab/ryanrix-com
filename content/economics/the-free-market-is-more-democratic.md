@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "The Free Market Is More Democratic Than Voting"
+seo_title: "Is the Free Market More Democratic Than Voting?"
 menu: "Free Market vs Voting"
 date: 2026-07-01
 image: /images/the-free-market-is-more-democratic.png

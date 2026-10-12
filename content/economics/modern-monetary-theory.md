@@ -1,6 +1,7 @@
 ---
 topic: "Money & Inflation"
 title: "Where Does Money Come From?"
+seo_title: "What Is Modern Monetary Theory (MMT)?"
 menu: "Modern Monetary Theory"
 date: 2026-07-09
 image: /images/modern-monetary-theory.png

@@ -1,6 +1,7 @@
 ---
 topic: "Poverty & Progress"
 title: "Who Actually Helps the Poor?"
+seo_title: "Who Actually Helps the Poor? Jobs, Not Laws"
 menu: "Who Helps the Poor"
 date: 2026-07-05
 image: /images/who-helps-the-poor.png

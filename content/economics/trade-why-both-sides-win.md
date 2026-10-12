@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Trade - Why Both Sides Win"
+seo_title: "Why Does Trade Benefit Both Countries?"
 menu: "Why Trade Wins"
 date: 2026-06-26
 image: /images/trade-why-both-sides-win.png

@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "Incentives Matter: Who Gets the First Rung?"
+seo_title: "Does the Minimum Wage Cause Unemployment?"
 menu: "Incentives Matter: Who Gets the First Rung?"
 date: 2026-07-27
 image: /images/incentives-matter-who-gets-the-first-rung.png

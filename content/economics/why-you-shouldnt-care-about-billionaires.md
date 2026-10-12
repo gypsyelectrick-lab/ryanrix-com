@@ -1,6 +1,7 @@
 ---
 topic: "Capitalism & Culture"
 title: "Why You Shouldn't Care About Billionaires"
+seo_title: "Why the Inequality Panic Misses the Point"
 menu: "Billionaires"
 date: 2026-07-15
 image: /images/why-you-shouldnt-care-about-billionaires.png

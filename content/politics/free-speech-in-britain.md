@@ -1,5 +1,6 @@
 ---
 title: "Free Speech in Britain"
+seo_title: "Is Free Speech Dying in Britain?"
 menu: "Free Speech in Britain"
 date: 2026-07-22
 image: /images/free-speech-in-britain.png

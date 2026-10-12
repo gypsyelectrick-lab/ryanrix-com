@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "Incentives Matter: The Economics of Obvious"
+seo_title: "Incentives Matter: Why People Do What They Do"
 menu: "Incentives Matter: The Economics of Obvious"
 date: 2026-07-27
 image: /images/incentives-matter-the-economics-of-obvious.png

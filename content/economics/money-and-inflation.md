@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Money & Inflation - What They Actually Are"
+seo_title: "What Is Inflation? Money vs Wealth Explained"
 menu: "Money & Inflation"
 date: 2026-06-26
 image: /images/money-and-inflation.png

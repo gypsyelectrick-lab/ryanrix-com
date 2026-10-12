@@ -1,6 +1,7 @@
 ---
 topic: "Regulation"
 title: "The Regulation Tax: The Cost You Never See"
+seo_title: "How Regulation Raises Prices for the Poor"
 menu: "Regulation Tax"
 date: 2026-07-23
 image: /images/the-regulation-tax.png

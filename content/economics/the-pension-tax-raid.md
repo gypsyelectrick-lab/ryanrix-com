@@ -1,6 +1,7 @@
 ---
 topic: "Taxes"
 title: "The Pension Tax Raid: Your Pension Is Next"
+seo_title: "Is Your Pension Next? The Tax Raid Explained"
 menu: "The Pension Tax Raid"
 date: 2026-08-14
 author: "Anna Karina"

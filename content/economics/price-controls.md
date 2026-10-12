@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "What Price Controls Make Invisible"
+seo_title: "Why Price Controls Cause Shortages"
 menu: "Price Controls"
 date: 2026-07-05
 image: /images/price-controls.png

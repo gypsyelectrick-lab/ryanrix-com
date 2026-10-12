@@ -1,6 +1,7 @@
 ---
 topic: "Foundations"
 title: "Externalities - When the Price Is Wrong"
+seo_title: "What Are Externalities? The Cost Others Pay"
 menu: "Externalities"
 date: 2026-07-05
 image: /images/externalities-when-price-is-wrong.png

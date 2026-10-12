@@ -1,6 +1,7 @@
 ---
 topic: "Socialism"
 title: "What Is Socialism?"
+seo_title: "What Is Socialism? Definition and History"
 menu: "Socialism"
 date: 2026-09-09
 image: /images/what-is-socialism.png

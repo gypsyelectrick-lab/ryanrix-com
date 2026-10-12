@@ -1,6 +1,7 @@
 ---
 topic: "Incentives & Public Choice"
 title: "Public Choice Theory: Why Government Fails"
+seo_title: "Why Governments Fail: Public Choice Theory"
 menu: "Public Choice Theory"
 date: 2026-07-28
 image: /images/public-choice-theory.png
