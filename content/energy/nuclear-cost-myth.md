@@ -110,9 +110,9 @@ These are not radical ideas. They are the policies that France, South Korea, and
 
 ### Sources
 
-- Lovering, J.R., Yip, A., & Nordhaus, T. (2016). ["Historical construction costs of global nuclear power reactors."](https://doi.org/10.1016/j.enpol.2016.01.011) *Energy Policy*, 91, 371-382.
-- RAND Corporation (1986). ["The Effects of Regulation on Nuclear Power Plant Construction Costs."](https://www.rand.org/pubs/reports/R3360.html)
-- OECD Nuclear Energy Agency (2021). ["Projected Costs of Generating Electricity."](https://www.oecd-nea.org/egc/)
-- Congressional Budget Office (2008). ["Nuclear Power's Role in Generating Electricity."](https://www.cbo.gov/publication/41684)
-- MIT Energy Initiative (2018). ["The Future of Nuclear Energy in a Carbon-Constrained World."](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/)
-- Grubler, A. (2010). ["The costs of the French nuclear scale-up: A case of negative learning by doing."](https://doi.org/10.1016/j.enpol.2010.05.026) *Energy Policy*, 38(9), 5174-5188.
+- Lovering, J.R., Yip, A., & Nordhaus, T. (2016). <a href="https://doi.org/10.1016/j.enpol.2016.01.011" target="_blank" rel="noopener noreferrer">"Historical construction costs of global nuclear power reactors."</a> *Energy Policy*, 91, 371-382.
+- RAND Corporation (1986). <a href="https://www.rand.org/pubs/reports/R3360.html" target="_blank" rel="noopener noreferrer">"The Effects of Regulation on Nuclear Power Plant Construction Costs."</a>
+- OECD Nuclear Energy Agency (2021). <a href="https://www.oecd-nea.org/egc/" target="_blank" rel="noopener noreferrer">"Projected Costs of Generating Electricity."</a>
+- Congressional Budget Office (2008). <a href="https://www.cbo.gov/publication/41684" target="_blank" rel="noopener noreferrer">"Nuclear Power's Role in Generating Electricity."</a>
+- MIT Energy Initiative (2018). <a href="https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/" target="_blank" rel="noopener noreferrer">"The Future of Nuclear Energy in a Carbon-Constrained World."</a>
+- Grubler, A. (2010). <a href="https://doi.org/10.1016/j.enpol.2010.05.026" target="_blank" rel="noopener noreferrer">"The costs of the French nuclear scale-up: A case of negative learning by doing."</a> *Energy Policy*, 38(9), 5174-5188.

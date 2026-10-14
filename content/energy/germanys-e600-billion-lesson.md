@@ -104,11 +104,11 @@ The Energiewende was not a noble experiment that failed despite good intentions.
 
 ### Sources
 
-- German Institute for Economic Research (DIW) (2021). ["Costs and Impacts of the German Energiewende."](https://www.diw.de/en/diw_01.c.815631.en/topics_2019/the_costs_of_the_german_energiewende.html)
-- Fraunhofer Institute for Solar Energy Systems (2023). ["Electricity Storage in the German Energy Transition."](https://www.ise.fraunhofer.de/en/publications/studies/electricity-storage.html)
-- Bundesnetzagentur. [Annual electricity grid reports, 2010-2023.](https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/GridInfrastructure/GridInfrastructure_node.html)
-- [Agora Energiewende.](https://www.agora-energiewende.de/) Annual reports on the German energy transition.
-- OECD Nuclear Energy Agency (2021). ["Projected Costs of Generating Electricity."](https://www.oecd-nea.org/egc/)
-- International Energy Agency. ["Germany 2023 Energy Policy Review."](https://www.iea.org/reports/germany-2023)
-- Federal Ministry for Economic Affairs and Climate Action. [Electricity price data.](https://www.bmwk.de/Redaktion/EN/Artikel/Energy/electricity-prices.html)
-- Bruno Burger (Fraunhofer ISE). ["Electricity Generation in Germany."](https://www.energy-charts.info/) Continuous data series.
+- German Institute for Economic Research (DIW) (2021). <a href="https://www.diw.de/en/diw_01.c.815631.en/topics_2019/the_costs_of_the_german_energiewende.html" target="_blank" rel="noopener noreferrer">"Costs and Impacts of the German Energiewende."</a>
+- Fraunhofer Institute for Solar Energy Systems (2023). <a href="https://www.ise.fraunhofer.de/en/publications/studies/electricity-storage.html" target="_blank" rel="noopener noreferrer">"Electricity Storage in the German Energy Transition."</a>
+- Bundesnetzagentur. <a href="https://www.bundesnetzagentur.de/EN/Areas/Energy/Companies/GridInfrastructure/GridInfrastructure_node.html" target="_blank" rel="noopener noreferrer">Annual electricity grid reports, 2010-2023.</a>
+- <a href="https://www.agora-energiewende.de/" target="_blank" rel="noopener noreferrer">Agora Energiewende.</a> Annual reports on the German energy transition.
+- OECD Nuclear Energy Agency (2021). <a href="https://www.oecd-nea.org/egc/" target="_blank" rel="noopener noreferrer">"Projected Costs of Generating Electricity."</a>
+- International Energy Agency. <a href="https://www.iea.org/reports/germany-2023" target="_blank" rel="noopener noreferrer">"Germany 2023 Energy Policy Review."</a>
+- Federal Ministry for Economic Affairs and Climate Action. <a href="https://www.bmwk.de/Redaktion/EN/Artikel/Energy/electricity-prices.html" target="_blank" rel="noopener noreferrer">Electricity price data.</a>
+- Bruno Burger (Fraunhofer ISE). <a href="https://www.energy-charts.info/" target="_blank" rel="noopener noreferrer">"Electricity Generation in Germany."</a> Continuous data series.

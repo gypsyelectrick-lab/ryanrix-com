@@ -84,9 +84,9 @@ The next piece in this series will look at three specific cases where this pipel
 
 ### Sources
 
-- UN General Assembly Resolution 43/53 (1988). ["Protection of global climate for present and future generations of mankind."](https://undocs.org/A/RES/43/53)
-- IPCC. ["Principles Governing IPCC Work."](https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles.pdf) Procedural rules.
-- InterAcademy Council (2010). ["Climate Change Assessments: Review of the Processes and Procedures of the IPCC."](https://www.interacademycouncil.org/statement/ipcc-report-review)
-- Pielke Jr., R. (2023). "The IPCC's Summary for Policymakers." [Substack series.](https://rogerpielkejr.substack.com/)
-- Curry, J. (2018). ["The IPCC Process: A Critical Assessment."](https://judithcurry.com/2018/10/10/the-ipcc-process-a-critical-assessment/) Climate Etc.
-- Hulme, M. (2013). *Why We Disagree About Climate Change.* Cambridge University Press. [Publisher link.](https://www.cambridge.org/core/books/why-we-disagree-about-climate-change/69C2B9F1A5F8E8F8A5B8E8F8A5B8E8F)
+- UN General Assembly Resolution 43/53 (1988). <a href="https://undocs.org/A/RES/43/53" target="_blank" rel="noopener noreferrer">"Protection of global climate for present and future generations of mankind."</a>
+- IPCC. <a href="https://www.ipcc.ch/site/assets/uploads/2018/09/ipcc-principles.pdf" target="_blank" rel="noopener noreferrer">"Principles Governing IPCC Work."</a> Procedural rules.
+- InterAcademy Council (2010). <a href="https://www.interacademycouncil.org/statement/ipcc-report-review" target="_blank" rel="noopener noreferrer">"Climate Change Assessments: Review of the Processes and Procedures of the IPCC."</a>
+- Pielke Jr., R. (2023). "The IPCC's Summary for Policymakers." <a href="https://rogerpielkejr.substack.com/" target="_blank" rel="noopener noreferrer">Substack series.</a>
+- Curry, J. (2018). <a href="https://judithcurry.com/2018/10/10/the-ipcc-process-a-critical-assessment/" target="_blank" rel="noopener noreferrer">"The IPCC Process: A Critical Assessment."</a> Climate Etc.
+- Hulme, M. (2013). *Why We Disagree About Climate Change.* Cambridge University Press. <a href="https://www.cambridge.org/core/books/why-we-disagree-about-climate-change/69C2B9F1A5F8E8F8A5B8E8F8A5B8E8F" target="_blank" rel="noopener noreferrer">Publisher link.</a>
