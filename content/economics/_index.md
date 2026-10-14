@@ -17,9 +17,9 @@ You don't need a degree. You don't need to be good at math. You just need to be 
 
 ## Where to Start
 
-If you're new here, follow the [Learning Path](/economics/learning-path/) from beginning to end. Each article builds on the one before it.
+If you're new here, follow the <a href="/economics/learning-path/" target="_blank" rel="noopener noreferrer">Learning Path</a> from beginning to end. Each article builds on the one before it.
 
-[📖 Start the Learning Path →](/economics/learning-path/)
+<a href="/economics/learning-path/" target="_blank" rel="noopener noreferrer">📖 Start the Learning Path →</a>
 
 If you already know the basics, jump into any article that interests you.
 
@@ -47,67 +47,67 @@ What you'll find here:
 
 Once you have the basics, these articles dig into one topic at a time with more evidence, more context, and richer arguments.
 
-- [The Seen and the Unseen](/economics/the-seen-and-the-unseen/) - Bastiat's most powerful framework: the best economic question is the one nobody asks.
-- [California's Wealth Tax - a Case Study in Wishful Thinking](/economics/california-wealth-tax/) - What happens when a state tries to tax billionaires, and why the history of wealth taxes predicts the outcome.
-- [The Grievance Machine, Part I: The Greatest Story Never Told](/economics/the-grievance-machine/) - Six grievances, six crises, one solution every time. Anna Karina on what the inequality panic hides, and why the pattern matters.
-- [The Tariff Shell Game](/economics/tariff-shell-game/) - The Supreme Court blocked one tariff authority. The administration found three more. When the legal basis keeps changing, the policy is not being defended - it is being hidden.
-- [The Tariff Shell Game, Part II - Now With 25 States in the Audience](/economics/tariff-shell-game-part-ii/) - A policy that needs a new legal costume every few months is not a policy. The audience keeps growing.
-- [The Tariff Shell Game, Part III - The Expiration Date That Never Comes](/economics/tariff-shell-game-part-iii/) - The China tariffs were supposed to expire. The date passed. Nobody noticed.
-- [Price Controls](/economics/price-controls/) - Why capping rents and raising wages create shortages and surpluses you never see.
-- [Who Actually Helps the Poor?](/economics/who-helps-the-poor/) - Politicians fight for credit. Entrepreneurs create jobs. The poor need the latter, not the former.
-- [Why You Shouldn't Care About Billionaires](/economics/why-you-shouldnt-care-about-billionaires/) - The inequality panic misses what matters: not whether someone has a billion dollars, but whether ordinary people can get what they need.
-- [The Free Market Is More Democratic Than Voting](/economics/the-free-market-is-more-democratic/) - The free market is more democratic than any election could ever be. Here is why.
-- [Eighty Percent of Something: The Vietnamese Boom](/economics/the-vietnamese-boom/) - Respectful pushback on a viral video about foreign investment and poverty.
-- [The 2% Rule](/economics/two-percent-rule/) - Entrepreneurs capture ~2% of the value they create. Consumers, especially the poor, get the other 98%.
-- [The Walmart Question](/economics/walmart-question/) - Sam Walton took real risks and captured billions. His customers kept hundreds of billions. The poor won.
-- [The Relative Poverty Trap](/economics/the-relative-poverty-trap/) - The poverty statistic you keep hearing is not measuring what you think.
-- [Greedflation: What the Theory Misses](/economics/greedflation/) - If corporations can set any price they want, why does Aldi exist?
-- [The Regulation Tax](/economics/the-regulation-tax/) - Every regulation is a tax. The poor pay the most. Nobody adds up the total.
-- [Rent Control: The Fastest Way to Destroy a City](/economics/rent-control/) - Swedish economist Assar Lindbeck said it best fifty years ago. The evidence has only gotten stronger since.
+- <a href="/economics/the-seen-and-the-unseen/" target="_blank" rel="noopener noreferrer">The Seen and the Unseen</a> - Bastiat's most powerful framework: the best economic question is the one nobody asks.
+- <a href="/economics/california-wealth-tax/" target="_blank" rel="noopener noreferrer">California's Wealth Tax - a Case Study in Wishful Thinking</a> - What happens when a state tries to tax billionaires, and why the history of wealth taxes predicts the outcome.
+- <a href="/economics/the-grievance-machine/" target="_blank" rel="noopener noreferrer">The Grievance Machine, Part I: The Greatest Story Never Told</a> - Six grievances, six crises, one solution every time. Anna Karina on what the inequality panic hides, and why the pattern matters.
+- <a href="/economics/tariff-shell-game/" target="_blank" rel="noopener noreferrer">The Tariff Shell Game</a> - The Supreme Court blocked one tariff authority. The administration found three more. When the legal basis keeps changing, the policy is not being defended - it is being hidden.
+- <a href="/economics/tariff-shell-game-part-ii/" target="_blank" rel="noopener noreferrer">The Tariff Shell Game, Part II - Now With 25 States in the Audience</a> - A policy that needs a new legal costume every few months is not a policy. The audience keeps growing.
+- <a href="/economics/tariff-shell-game-part-iii/" target="_blank" rel="noopener noreferrer">The Tariff Shell Game, Part III - The Expiration Date That Never Comes</a> - The China tariffs were supposed to expire. The date passed. Nobody noticed.
+- <a href="/economics/price-controls/" target="_blank" rel="noopener noreferrer">Price Controls</a> - Why capping rents and raising wages create shortages and surpluses you never see.
+- <a href="/economics/who-helps-the-poor/" target="_blank" rel="noopener noreferrer">Who Actually Helps the Poor?</a> - Politicians fight for credit. Entrepreneurs create jobs. The poor need the latter, not the former.
+- <a href="/economics/why-you-shouldnt-care-about-billionaires/" target="_blank" rel="noopener noreferrer">Why You Shouldn't Care About Billionaires</a> - The inequality panic misses what matters: not whether someone has a billion dollars, but whether ordinary people can get what they need.
+- <a href="/economics/the-free-market-is-more-democratic/" target="_blank" rel="noopener noreferrer">The Free Market Is More Democratic Than Voting</a> - The free market is more democratic than any election could ever be. Here is why.
+- <a href="/economics/the-vietnamese-boom/" target="_blank" rel="noopener noreferrer">Eighty Percent of Something: The Vietnamese Boom</a> - Respectful pushback on a viral video about foreign investment and poverty.
+- <a href="/economics/two-percent-rule/" target="_blank" rel="noopener noreferrer">The 2% Rule</a> - Entrepreneurs capture ~2% of the value they create. Consumers, especially the poor, get the other 98%.
+- <a href="/economics/walmart-question/" target="_blank" rel="noopener noreferrer">The Walmart Question</a> - Sam Walton took real risks and captured billions. His customers kept hundreds of billions. The poor won.
+- <a href="/economics/the-relative-poverty-trap/" target="_blank" rel="noopener noreferrer">The Relative Poverty Trap</a> - The poverty statistic you keep hearing is not measuring what you think.
+- <a href="/economics/greedflation/" target="_blank" rel="noopener noreferrer">Greedflation: What the Theory Misses</a> - If corporations can set any price they want, why does Aldi exist?
+- <a href="/economics/the-regulation-tax/" target="_blank" rel="noopener noreferrer">The Regulation Tax</a> - Every regulation is a tax. The poor pay the most. Nobody adds up the total.
+- <a href="/economics/rent-control/" target="_blank" rel="noopener noreferrer">Rent Control: The Fastest Way to Destroy a City</a> - Swedish economist Assar Lindbeck said it best fifty years ago. The evidence has only gotten stronger since.
 - <a href="/economics/what-is-fascism/" target="_blank" rel="noopener noreferrer">What Is Fascism?</a> - The word is a weapon. The mechanism is the definition.
 - <a href="/economics/what-monetary-sovereignty-cannot-do/" target="_blank" rel="noopener noreferrer">What Monetary Sovereignty Cannot Do: Britain's Own Currency and the 27-Day Constraint</a> - Britain issues its own currency and can never run out of pounds. In September 2022 the gilt market overruled an elected government in 27 days anyway.
-- [The Usefulness of Billionaires](/economics/the-usefulness-of-billionaires/) - The US leads in risky investment and the US has billionaires. That is not a coincidence.
-- [Incentives Matter: The Economics of Obvious](/economics/incentives-matter-the-economics-of-obvious/) - People respond to incentives. The rest is detail. Why does every government pretend otherwise?
-- [Incentives Matter: The Price of Good Intentions](/economics/incentives-matter-the-price-of-good-intentions/) - A 19% interest rate and a 23% youth unemployment rate are the same story.
-- [Incentives Matter: Who Gets the First Rung?](/economics/incentives-matter-who-gets-the-first-rung/) - Finland has no minimum wage and 23% youth unemployment. The two facts are connected.
-- [The Cantillon Effect](/economics/the-cantillon-effect/) - Inflation does not hit everyone at once. The first receiver gets the benefit. The last receiver pays the price.
-- [The Laffer Curve, Alive and Well in Scotland](/economics/laffer-curve-scotland/) - Scotland's 48p rate may be costing more than it collects.
-- [Public Choice Theory: Why Government Doesn't Fix What Government Breaks](/economics/public-choice-theory/) - Buchanan won a Nobel Prize for applying economics to politics itself.
-- [Argentina's Lesson: What Happens When You Actually Fix an Economy](/economics/argentina-milei-lesson/) - Inflation from 211% to ~30%. Country risk from 2,000bp to 500bp. What the critics miss.
-- [The Billionaire Tax Test: Why California's Prop 40 Fails](/economics/california-wealth-tax-test/) - Public Choice Theory predicts wealth taxes fail. The global evidence agrees.
-- [The Cost of Pretending We Know What We're Doing](/economics/the-cost-of-pretending/) - Regulators who cannot meet their own deadlines are setting everyone else's.
-- [The Mayor's Share](/economics/the-mayors-share/) - Mayors get a share of income tax revenue, but not the power to set the rate. Reward without the lever.
-- [The Second Inflation Wave](/economics/the-second-inflation-wave/) - UK inflation hit a 15-month low. The Bank of England says the good news is over.
-- [The Second Inflation Wave, Part II - The Cap Heads to a Three-Year High](/economics/the-second-inflation-wave-part-ii/) - The October cap heads to a three-year high. The relief was the false dawn.
-- [The Deepest and Most Beautiful Insight in Economics](/economics/comparative-advantage/) - Why countries that are better at everything still gain from trade. Comparative advantage, with Ricardo's numbers and the lens to test every "we should make it here" argument.
-- [The Ban That Can't Work](/economics/the-ban-that-cant-work/) - Australia's under-16 ban removed accounts, not users. The teens never left.
-- [The 63 Billion Reckoning](/economics/the-63bn-reckoning/) - 120 millionaires want a wealth tax. The Treasury already accepts their checks.
-- [The 78% Tax on the North Sea](/economics/the-78-percent-tax-on-the-north-sea/) - At 78 cents on the dollar, the windfall tax is a tax on investment itself.
-- [The Luddites Were Half Right](/economics/the-luddites-were-half-right/) - Why AI will not zero out the economy, and why the Luddites were half right.
-- [The Name Is the First Argument](/economics/the-name-is-the-first-argument/) - Capitalism was named by its enemies. Whoever names the thing gets to frame it.
-- [The Great Escape](/economics/the-great-escape/) - In 1820, about nine in ten humans lived in extreme poverty. Today, under 10% do. This is the story of the escape.
-- [The Credential Con: When Everyone Has a Degree, Nobody Does](/economics/the-credential-con/) - Pushing everyone into university created a credential arms race - not opportunity.
-- [The Toothpaste Problem](/economics/the-toothpaste-problem/) - Why 2,000 brands is not a bug, and what it teaches us about government spending.
-- [Where Does Money Come From?](/economics/modern-monetary-theory/) - What MMT actually says and why the conventional wisdom is wrong.
-- [The Wealth Tax Video That Got Everything Right (Until It Didn't)](/economics/the-wealth-tax-video-that-got-it-right-until-it-didnt/) - A good critique of wealth taxes undercuts itself at the end.
-- [Before Money: Where Exchange Comes From](/economics/before-money/) - Trade is older than every government. Nobody taught you to do it.
-- [The Invention of Money](/economics/the-invention-of-money/) - The coin carries a king's face. Money was born before the state.
-- [Banking and Credit](/economics/banking-and-credit/) - The vault wears a license. Credit was born before the state.
-- [The Profit That Can't Stand Still](/economics/the-profit-that-cant-stand-still/) - Why a firm can't settle for a "fair" profit - and who pays when it stops.
-- [Economics Is Not the Problem. The Certainty-Sellers Are.](/economics/economics-is-not-the-problem/) - A science explains why things happened. It was never designed to predict what happens next. Blaming economics for its fortune-tellers misses the point.
-- [Don't Call Them Technocrats](/economics/dont-call-them-technocrats/) - The people writing tech policy don't understand tech. They are not experts. They are bureaucrats with a printing press.
-- [Hyperinflation](/economics/hyperinflation/) - The one thing every monetary theory fears - and what actually causes it.
-- [What Is Feudalism?](/economics/what-is-feudalism/) - The word came later. The system needed castles, oaths, and serfs.
-- [What Is Socialism?](/economics/what-is-socialism/) - The believers named it. The rulers imposed it. The wall kept it in.
-- [The Pension Tax Raid](/economics/the-pension-tax-raid/) - The Budget is on 28 October. The demand says tax the rich. Your pension is next.
-- [The 90% Tax Rate Myth](/economics/the-90-percent-tax-rate-myth/) - The 90% rate was marginal, not effective. The rich paid far less than the slogan.
-- [The Bank Windfall Tax](/economics/the-bank-windfall-tax-who-pays/) - Tax the banks, the slogan says. The mechanism has a different answer.
-- [The Problems of Capitalism (and How to Fix Them)](/economics/the-problems-of-capitalism-and-how-to-fix-them/) - Capitalism has real problems. The usual fixes make them worse.
-- [Trade and the Merchants](/economics/trade-and-the-merchants/) - The road had no builder. Trade was born before the state.
-- [The Collapse That Was Revised Away: How to Read a Jobs Report](/economics/the-collapse-that-was-revised-away/) - The collapse was revised away. The layoff wave underneath it was not.
-- [The ECB Hiked Into a Supply Shock. The Price of Oil Did Not Notice.](/economics/ecb-hike-into-a-supply-shock/) - The ECB raised rates to fight a price rise the rate cannot touch.
+- <a href="/economics/the-usefulness-of-billionaires/" target="_blank" rel="noopener noreferrer">The Usefulness of Billionaires</a> - The US leads in risky investment and the US has billionaires. That is not a coincidence.
+- <a href="/economics/incentives-matter-the-economics-of-obvious/" target="_blank" rel="noopener noreferrer">Incentives Matter: The Economics of Obvious</a> - People respond to incentives. The rest is detail. Why does every government pretend otherwise?
+- <a href="/economics/incentives-matter-the-price-of-good-intentions/" target="_blank" rel="noopener noreferrer">Incentives Matter: The Price of Good Intentions</a> - A 19% interest rate and a 23% youth unemployment rate are the same story.
+- <a href="/economics/incentives-matter-who-gets-the-first-rung/" target="_blank" rel="noopener noreferrer">Incentives Matter: Who Gets the First Rung?</a> - Finland has no minimum wage and 23% youth unemployment. The two facts are connected.
+- <a href="/economics/the-cantillon-effect/" target="_blank" rel="noopener noreferrer">The Cantillon Effect</a> - Inflation does not hit everyone at once. The first receiver gets the benefit. The last receiver pays the price.
+- <a href="/economics/laffer-curve-scotland/" target="_blank" rel="noopener noreferrer">The Laffer Curve, Alive and Well in Scotland</a> - Scotland's 48p rate may be costing more than it collects.
+- <a href="/economics/public-choice-theory/" target="_blank" rel="noopener noreferrer">Public Choice Theory: Why Government Doesn't Fix What Government Breaks</a> - Buchanan won a Nobel Prize for applying economics to politics itself.
+- <a href="/economics/argentina-milei-lesson/" target="_blank" rel="noopener noreferrer">Argentina's Lesson: What Happens When You Actually Fix an Economy</a> - Inflation from 211% to ~30%. Country risk from 2,000bp to 500bp. What the critics miss.
+- <a href="/economics/california-wealth-tax-test/" target="_blank" rel="noopener noreferrer">The Billionaire Tax Test: Why California's Prop 40 Fails</a> - Public Choice Theory predicts wealth taxes fail. The global evidence agrees.
+- <a href="/economics/the-cost-of-pretending/" target="_blank" rel="noopener noreferrer">The Cost of Pretending We Know What We're Doing</a> - Regulators who cannot meet their own deadlines are setting everyone else's.
+- <a href="/economics/the-mayors-share/" target="_blank" rel="noopener noreferrer">The Mayor's Share</a> - Mayors get a share of income tax revenue, but not the power to set the rate. Reward without the lever.
+- <a href="/economics/the-second-inflation-wave/" target="_blank" rel="noopener noreferrer">The Second Inflation Wave</a> - UK inflation hit a 15-month low. The Bank of England says the good news is over.
+- <a href="/economics/the-second-inflation-wave-part-ii/" target="_blank" rel="noopener noreferrer">The Second Inflation Wave, Part II - The Cap Heads to a Three-Year High</a> - The October cap heads to a three-year high. The relief was the false dawn.
+- <a href="/economics/comparative-advantage/" target="_blank" rel="noopener noreferrer">The Deepest and Most Beautiful Insight in Economics</a> - Why countries that are better at everything still gain from trade. Comparative advantage, with Ricardo's numbers and the lens to test every "we should make it here" argument.
+- <a href="/economics/the-ban-that-cant-work/" target="_blank" rel="noopener noreferrer">The Ban That Can't Work</a> - Australia's under-16 ban removed accounts, not users. The teens never left.
+- <a href="/economics/the-63bn-reckoning/" target="_blank" rel="noopener noreferrer">The 63 Billion Reckoning</a> - 120 millionaires want a wealth tax. The Treasury already accepts their checks.
+- <a href="/economics/the-78-percent-tax-on-the-north-sea/" target="_blank" rel="noopener noreferrer">The 78% Tax on the North Sea</a> - At 78 cents on the dollar, the windfall tax is a tax on investment itself.
+- <a href="/economics/the-luddites-were-half-right/" target="_blank" rel="noopener noreferrer">The Luddites Were Half Right</a> - Why AI will not zero out the economy, and why the Luddites were half right.
+- <a href="/economics/the-name-is-the-first-argument/" target="_blank" rel="noopener noreferrer">The Name Is the First Argument</a> - Capitalism was named by its enemies. Whoever names the thing gets to frame it.
+- <a href="/economics/the-great-escape/" target="_blank" rel="noopener noreferrer">The Great Escape</a> - In 1820, about nine in ten humans lived in extreme poverty. Today, under 10% do. This is the story of the escape.
+- <a href="/economics/the-credential-con/" target="_blank" rel="noopener noreferrer">The Credential Con: When Everyone Has a Degree, Nobody Does</a> - Pushing everyone into university created a credential arms race - not opportunity.
+- <a href="/economics/the-toothpaste-problem/" target="_blank" rel="noopener noreferrer">The Toothpaste Problem</a> - Why 2,000 brands is not a bug, and what it teaches us about government spending.
+- <a href="/economics/modern-monetary-theory/" target="_blank" rel="noopener noreferrer">Where Does Money Come From?</a> - What MMT actually says and why the conventional wisdom is wrong.
+- <a href="/economics/the-wealth-tax-video-that-got-it-right-until-it-didnt/" target="_blank" rel="noopener noreferrer">The Wealth Tax Video That Got Everything Right (Until It Didn't)</a> - A good critique of wealth taxes undercuts itself at the end.
+- <a href="/economics/before-money/" target="_blank" rel="noopener noreferrer">Before Money: Where Exchange Comes From</a> - Trade is older than every government. Nobody taught you to do it.
+- <a href="/economics/the-invention-of-money/" target="_blank" rel="noopener noreferrer">The Invention of Money</a> - The coin carries a king's face. Money was born before the state.
+- <a href="/economics/banking-and-credit/" target="_blank" rel="noopener noreferrer">Banking and Credit</a> - The vault wears a license. Credit was born before the state.
+- <a href="/economics/the-profit-that-cant-stand-still/" target="_blank" rel="noopener noreferrer">The Profit That Can't Stand Still</a> - Why a firm can't settle for a "fair" profit - and who pays when it stops.
+- <a href="/economics/economics-is-not-the-problem/" target="_blank" rel="noopener noreferrer">Economics Is Not the Problem. The Certainty-Sellers Are.</a> - A science explains why things happened. It was never designed to predict what happens next. Blaming economics for its fortune-tellers misses the point.
+- <a href="/economics/dont-call-them-technocrats/" target="_blank" rel="noopener noreferrer">Don't Call Them Technocrats</a> - The people writing tech policy don't understand tech. They are not experts. They are bureaucrats with a printing press.
+- <a href="/economics/hyperinflation/" target="_blank" rel="noopener noreferrer">Hyperinflation</a> - The one thing every monetary theory fears - and what actually causes it.
+- <a href="/economics/what-is-feudalism/" target="_blank" rel="noopener noreferrer">What Is Feudalism?</a> - The word came later. The system needed castles, oaths, and serfs.
+- <a href="/economics/what-is-socialism/" target="_blank" rel="noopener noreferrer">What Is Socialism?</a> - The believers named it. The rulers imposed it. The wall kept it in.
+- <a href="/economics/the-pension-tax-raid/" target="_blank" rel="noopener noreferrer">The Pension Tax Raid</a> - The Budget is on 28 October. The demand says tax the rich. Your pension is next.
+- <a href="/economics/the-90-percent-tax-rate-myth/" target="_blank" rel="noopener noreferrer">The 90% Tax Rate Myth</a> - The 90% rate was marginal, not effective. The rich paid far less than the slogan.
+- <a href="/economics/the-bank-windfall-tax-who-pays/" target="_blank" rel="noopener noreferrer">The Bank Windfall Tax</a> - Tax the banks, the slogan says. The mechanism has a different answer.
+- <a href="/economics/the-problems-of-capitalism-and-how-to-fix-them/" target="_blank" rel="noopener noreferrer">The Problems of Capitalism (and How to Fix Them)</a> - Capitalism has real problems. The usual fixes make them worse.
+- <a href="/economics/trade-and-the-merchants/" target="_blank" rel="noopener noreferrer">Trade and the Merchants</a> - The road had no builder. Trade was born before the state.
+- <a href="/economics/the-collapse-that-was-revised-away/" target="_blank" rel="noopener noreferrer">The Collapse That Was Revised Away: How to Read a Jobs Report</a> - The collapse was revised away. The layoff wave underneath it was not.
+- <a href="/economics/ecb-hike-into-a-supply-shock/" target="_blank" rel="noopener noreferrer">The ECB Hiked Into a Supply Shock. The Price of Oil Did Not Notice.</a> - The ECB raised rates to fight a price rise the rate cannot touch.
 
-- [In the UK, Death Is a Taxable Event](/economics/death-is-a-taxable-event/) - Capital gains are forgiven at death. The fixes tax the same money twice.
-- [The Manifesto Capitalism Cannot Write](/economics/why-capitalist-manifestos-fail/) - Four books tried it. None became the one. The form is why.
-- [The Template Trap: Why Borrowed Policies Fail](/economics/the-template-trap/) - Reforms that worked in one country fail in the next. The method transfers. The answer does not.
-- [What Is Communism?](/economics/what-is-communism/) - The promise kept moving. The plan needed enemies. The record is the argument.
+- <a href="/economics/death-is-a-taxable-event/" target="_blank" rel="noopener noreferrer">In the UK, Death Is a Taxable Event</a> - Capital gains are forgiven at death. The fixes tax the same money twice.
+- <a href="/economics/why-capitalist-manifestos-fail/" target="_blank" rel="noopener noreferrer">The Manifesto Capitalism Cannot Write</a> - Four books tried it. None became the one. The form is why.
+- <a href="/economics/the-template-trap/" target="_blank" rel="noopener noreferrer">The Template Trap: Why Borrowed Policies Fail</a> - Reforms that worked in one country fail in the next. The method transfers. The answer does not.
+- <a href="/economics/what-is-communism/" target="_blank" rel="noopener noreferrer">What Is Communism?</a> - The promise kept moving. The plan needed enemies. The record is the argument.

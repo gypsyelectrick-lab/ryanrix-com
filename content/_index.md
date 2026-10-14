@@ -11,10 +11,10 @@ Most of what you hear about the economy is wrong. Not by accident - it's wrong b
 
 ### What You'll Find Here
 
-- **[Economics Learning Path →](/economics/learning-path/)** - Start at the beginning. Thirteen articles, three levels, one path from confusion to clarity.
-- **[All Economics →](/economics/)** - The full catalog of guides and essays.
-- **[Climate & Energy →](/energy/)** - The claims, the costs, and the actual track record.
-- **[About →](/about/)** - Who writes this and why.
+- **<a href="/economics/learning-path/" target="_blank" rel="noopener noreferrer">Economics Learning Path →</a>** - Start at the beginning. Thirteen articles, three levels, one path from confusion to clarity.
+- **<a href="/economics/" target="_blank" rel="noopener noreferrer">All Economics →</a>** - The full catalog of guides and essays.
+- **<a href="/energy/" target="_blank" rel="noopener noreferrer">Climate & Energy →</a>** - The claims, the costs, and the actual track record.
+- **<a href="/about/" target="_blank" rel="noopener noreferrer">About →</a>** - Who writes this and why.
 
 ### Why This Site?
 
