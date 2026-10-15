@@ -39,7 +39,17 @@ That is what makes fascism worth looking into. It is not a vague mood or a perso
 
 ## The Corporate State
 
-Let us state the case as its own supporters stated it, because they knew what they wanted better than anyone else.
+Let us state the case as its own supporters stated it, because they knew what they wanted better than anyone else. Their own summary of the state was blunter than anything their critics later wrote about them.
+
+{{< quote author="Benito Mussolini, Milan, 28 October 1925" >}}
+La nostra formula è questa: tutto nello Stato, niente al di fuori dello Stato, nulla contro lo Stato.
+{{< /quote >}}
+
+Everything in the State, nothing outside the State, nothing against the State.
+
+That is the formula, and it is the one usually quoted from him. The version most often attributed to the 1932 *Doctrine of Fascism* entry in the *Enciclopedia Italiana* - written with the philosopher Giovanni Gentile and published under Mussolini's own name - makes the same claim in prose: for the fascist everything is in the State, and no human or spiritual thing exists, or has any value, outside it. The two are routinely merged. They are a speech and its restatement seven years later, and the dates matter if the quotation is doing any work.
+
+Read it as an economic claim first, because that is what it is. Nothing outside the State means no price agreed between two people, no firm that answers to its owners, no union outside the party, and no newspaper outside the license. **Nothing outside the State is the whole programme in five words: not a strong state, not a busy state, but a state with nothing left over.**
 
 The claim ran like this. The disease of the modern world is class conflict. Capital and labor are treated as enemies, each organized against the other, each striking and locking out, and in the middle stands a democratic state that is too weak and too bought to do anything but referee. The result is paralysis: strikes that stop production, parliaments that trade favors, and a nation that cannot act as a nation.
 
