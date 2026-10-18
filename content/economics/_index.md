@@ -47,6 +47,8 @@ What you'll find here:
 
 Once you have the basics, these articles dig into one topic at a time with more evidence, more context, and richer arguments.
 
+- <a href="/economics/what-is-georgism/" target="_blank" rel="noopener noreferrer">What Is Georgism?</a> - Henry George proposed abolishing every tax but one. The case is the strongest in tax economics, and it has almost never been tried.
+- <a href="/economics/the-rule-is-not-the-mechanism/" target="_blank" rel="noopener noreferrer">Two Countries Wrote the Same Fiscal Rule</a> - Switzerland's is untouched since 2001. Germany's has been suspended, carved out and rewritten.
 - <a href="/economics/the-seen-and-the-unseen/" target="_blank" rel="noopener noreferrer">The Seen and the Unseen</a> - Bastiat's most powerful framework: the best economic question is the one nobody asks.
 - <a href="/economics/california-wealth-tax/" target="_blank" rel="noopener noreferrer">California's Wealth Tax - a Case Study in Wishful Thinking</a> - What happens when a state tries to tax billionaires, and why the history of wealth taxes predicts the outcome.
 - <a href="/economics/the-grievance-machine/" target="_blank" rel="noopener noreferrer">The Grievance Machine, Part I: The Greatest Story Never Told</a> - Six grievances, six crises, one solution every time. Anna Karina on what the inequality panic hides, and why the pattern matters.

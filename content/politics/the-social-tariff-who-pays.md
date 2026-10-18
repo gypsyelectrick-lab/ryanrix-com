@@ -75,7 +75,7 @@ Nobody in that chain pays the bill. That is the point of the chain.
 
 ## The Same Pot, Two Doors
 
-The British Industrial Competitiveness Scheme exempts energy-intensive manufacturers from the indirect costs of the Renewables Obligation, the Feed-in Tariff, and the Capacity Market - up to 100 percent. The exemptions start April 2027, and the funding was settled in advance: the Exchequer pays, so that "domestic and non-domestic electricity consumers do not see an increase in their electricity bills as a result of the scheme." The delivery consultation closes September 9.
+The British Industrial Competitiveness Scheme exempts energy-intensive manufacturers from the indirect costs of the Renewables Obligation, the Feed-in Tariff, and the Capacity Market - up to 100 percent. The exemptions start April 2027, and the funding was settled in advance: the Exchequer pays, so that "domestic and non-domestic electricity consumers do not see an increase in their electricity bills as a result of the scheme." The delivery consultation closed on September 9.
 
 Two doors, one pot. When industry cannot pay its share of the system's costs, the state reaches for general taxation and promises no bill increases. When households cannot pay their bills, the default has been the bill itself - the Warm Home Discount collected from the billpayers who need it most - and the move to general taxation awaits a decision at the Budget.
 

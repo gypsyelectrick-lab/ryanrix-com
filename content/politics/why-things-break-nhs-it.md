@@ -9,6 +9,7 @@ tags: [politics, incentives, government-failure, it, series]
 image: /images/why-things-break-nhs-it.jpg
 image_caption: "The NHS was promised a single record for every patient. It paid £10 billion and got nothing."
 draft: false
+levels: "advanced"
 ---
 
 In 2002 the British government announced the largest civilian IT project in history. The National Programme for IT would give the NHS something no health service had ever had: a single electronic record for every patient in the country. Every prescription, every test result, every hospital admission, available to any clinician, anywhere, instantly.

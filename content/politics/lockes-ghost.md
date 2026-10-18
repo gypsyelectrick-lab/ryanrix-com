@@ -8,6 +8,7 @@ author: "Max Weber"
 description: "The philosophy we abandoned - and what it would say if it could speak."
 tags: [politics, Locke, constitution, philosophy, liberty]
 draft: false
+levels: "advanced"
 ---
 
 John Locke died in 1704. His ideas did not.

@@ -8,6 +8,7 @@ author: "Max Weber"
 description: "When a stupid decision repeats for decades, ask not who's incompetent - ask who benefits."
 tags: [politics, incentives, bureaucracy, immigration, governance]
 draft: false
+levels: "intermediate"
 ---
 
 A puzzle: why does a government do something that appears to hurt its voters interests, year after year, decade after decade, without changing course?

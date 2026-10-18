@@ -9,6 +9,7 @@ tags: [politics, incentives, government-failure, it, series]
 image: /images/why-things-break-birmingham-oracle.jpg
 image_caption: "Europe's largest council. Its accounts still do not add up."
 draft: false
+levels: "advanced"
 ---
 
 Birmingham City Council is the largest local authority in Europe. It collects roughly £3 billion a year in tax revenue and spends billions more on services for over a million people. In 2018 it decided to replace its aging SAP accounting system with modern software from Oracle. The project was estimated to cost £19 million.

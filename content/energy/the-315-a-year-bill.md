@@ -16,7 +16,7 @@ levels: "beginner"
 
 In our last article, we watched a new UK Labour government cut a climate levy off the electricity bill and call it progress. The cut was real. So was the pattern: a government touching one line of the bill, taking the credit, while the rest of the bill keeps climbing.
 
-This week brings the sequel. The regulator confirms the next price cap on or before August 26. The forecasts are already out. And the line that matters most is not the one the politicians talk about.
+This is the sequel. The regulator confirmed the next price cap in August. The forecasts were already out. And the line that matters most is not the one the politicians talk about.
 
 It is the standing charge. The fixed daily cost that every household pays before using a single watt.
 

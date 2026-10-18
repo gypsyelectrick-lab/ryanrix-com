@@ -8,6 +8,7 @@ author: "Max Weber"
 description: "Government overreach and corporate overreach are the same problem."
 tags: [politics, incentives, government, markets]
 draft: false
+levels: "advanced"
 ---
 
 There is a standard criticism of people who describe themselves as preferring free-markets. It goes like this:

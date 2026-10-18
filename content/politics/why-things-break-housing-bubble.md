@@ -9,6 +9,7 @@ tags: [politics, incentives, housing, government-failure, series]
 image: /images/why-things-break-housing-bubble.jpg
 image_caption: "A house in a falling market. The guarantee was the scandal, not the rating."
 draft: false
+levels: "advanced"
 ---
 
 The standard story of the 2008 financial crisis goes like this: greedy bankers bundled bad mortgages into securities, corrupt rating agencies stamped them AAA, and the whole pile collapsed when the lies came due.

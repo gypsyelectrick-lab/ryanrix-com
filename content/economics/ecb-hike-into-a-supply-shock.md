@@ -88,7 +88,7 @@ Both claims cannot hold at once. Either the hikes are fighting inflation, in whi
 
 ## Three Banks, One Shock
 
-The Federal Reserve decides on September 16, with markets pricing roughly a 60 percent chance of a hike, a president threatening to halt trade with surplus countries unless rates come down, and US inflation at 3.4 percent. The <a href="https://www.bankofengland.co.uk/monetary-policy" target="_blank" rel="noopener noreferrer">Bank of England</a> decides September 17, expected to hold at 3.75 percent for a sixth consecutive meeting after last splitting 6-3. Oil has traded above 105 dollars a barrel. Three central banks, one supply shock, and none of them able to lower the price of oil.
+The Federal Reserve met on September 16, with markets pricing roughly a 60 percent chance of a hike, a president threatening to halt trade with surplus countries unless rates come down, and US inflation at 3.4 percent. The <a href="https://www.bankofengland.co.uk/monetary-policy" target="_blank" rel="noopener noreferrer">Bank of England</a> met on September 17, with a hold at 3.75 percent expected for a sixth consecutive meeting after last splitting 6-3. Oil has traded above 105 dollars a barrel. Three central banks, one supply shock, and none of them able to lower the price of oil.
 
 ## The Lens
 
