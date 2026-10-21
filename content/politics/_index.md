@@ -59,6 +59,8 @@ This section looks at power - who has it, who wants it, who profits from expandi
 
 - **<a href="/politics/the-elasticity-denial/" target="_blank" rel="noopener noreferrer">The Elasticity Denial →</a>** - They trust a nudge to change your behavior. They deny a tax changes theirs. Same humans, two models.
 
+- **<a href="/politics/prove-it-was-not-deepseek/" target="_blank" rel="noopener noreferrer">Prove It Was Not DeepSeek →</a>** - The order bans a model. Compliance requires proving what your software was built from, and that proof does not exist.
+
 - **<a href="/politics/the-consultation-was-the-retreat/" target="_blank" rel="noopener noreferrer">The Consultation Was the Retreat →</a>** - The state set the EV target by decree. The market fell short. Now it consults on cutting it - while the 2035 ban stays.
 
 - **<a href="/politics/the-conservative-party-institution-that-wasnt/" target="_blank" rel="noopener noreferrer">The Conservative Party: The Institution That Wasn't →</a>** - The Fabians built a 142-year machine. The Conservatives never built one.
