@@ -113,3 +113,4 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - <a href="/economics/why-capitalist-manifestos-fail/" target="_blank" rel="noopener noreferrer">The Manifesto Capitalism Cannot Write</a> - Four books tried it. None became the one. The form is why.
 - <a href="/economics/the-template-trap/" target="_blank" rel="noopener noreferrer">The Template Trap: Why Borrowed Policies Fail</a> - Reforms that worked in one country fail in the next. The method transfers. The answer does not.
 - <a href="/economics/what-is-communism/" target="_blank" rel="noopener noreferrer">What Is Communism?</a> - The promise kept moving. The plan needed enemies. The record is the argument.
+- <a href="/economics/big-is-not-the-same-as-closed/" target="_blank" rel="noopener noreferrer">Big Is Not the Same as Closed</a> - Size is not the test. The test is what stops the next firm from entering - and who wrote the rule that keeps it out.
