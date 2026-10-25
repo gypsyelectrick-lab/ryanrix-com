@@ -7,6 +7,7 @@ date: 2026-07-31
 author: "Anna Karina"
 description: "Scotland's 48p rate may be costing more than it collects."
 tags: [economics, taxation, laffer-curve, scotland, incentives]
+levels: "intermediate"
 image: /images/laffer-curve-scotland.jpg
 image_caption: "The Scottish Parliament at Holyrood. The symbol was the point."
 draft: false

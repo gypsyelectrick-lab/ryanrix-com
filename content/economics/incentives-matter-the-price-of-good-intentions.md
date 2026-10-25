@@ -8,6 +8,7 @@ image: /images/incentives-matter-the-price-of-good-intentions.png
 author: "Anna Karina"
 description: "A 19% interest rate and a 23% youth unemployment rate are the same story."
 tags: [economics, incentives, regulation, minimum-wage, credit, labor]
+levels: "intermediate"
 draft: false
 ---
 

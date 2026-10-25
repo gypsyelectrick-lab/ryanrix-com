@@ -8,6 +8,7 @@ image: /images/incentives-matter-who-gets-the-first-rung.png
 author: "Anna Karina"
 description: "Finland has no minimum wage and 23% youth unemployment. The two facts are connected."
 tags: [economics, incentives, minimum-wage, labor, employment, regulation]
+levels: "intermediate"
 draft: false
 ---
 

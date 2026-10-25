@@ -8,6 +8,7 @@ image: /images/incentives-matter-the-economics-of-obvious.png
 author: "Anna Karina"
 description: "People respond to incentives. The rest is detail. Why does every government pretend otherwise?"
 tags: [economics, incentives, taxation, behavior, regulation]
+levels: "intermediate"
 draft: false
 ---
 

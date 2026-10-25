@@ -5,7 +5,7 @@ seo_title: "DeepSeek Ban: The Impossible Paperwork"
 menu: "Prove It Was Not DeepSeek"
 date: 2026-10-20
 author: "Max Weber"
-description: "The order bans a model. Compliance requires proving what your software was built from."
+description: "The order bans a model. Compliance requires proving where it came from."
 draft: false
 weight: 65
 tags: ["politics", "regulation", "ai", "procurement", "deepseek"]
