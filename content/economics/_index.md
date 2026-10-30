@@ -118,3 +118,4 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - <a href="/economics/the-pension-that-overtakes-the-allowance/" target="_blank" rel="noopener noreferrer">The Pension That Is About to Overtake the Allowance</a> - In April the state pension crosses a tax threshold frozen since 2021.
 - <a href="/economics/tax-the-rent-not-the-factory/" target="_blank" rel="noopener noreferrer">Tax the Rent, Not the Factory</a> - The case for taxing land instead of work is strong in theory. The numbers are smaller, and stranger, than the slogan.
 - <a href="/economics/what-is-mercantilism/" target="_blank" rel="noopener noreferrer">What Is Mercantilism?</a> - Wealth was bullion. Trade was war. The apparatus did the rest.
+- <a href="/economics/the-cost-disease/" target="_blank" rel="noopener noreferrer">The Cost Disease: Why Some Prices Never Stop Rising</a> - Health care, teaching and child care get dearer every year. Greed is the wrong explanation.
