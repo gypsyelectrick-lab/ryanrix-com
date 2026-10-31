@@ -36,7 +36,7 @@ Let us take the bill apart line by line, because the first lesson of the energy 
 
 The unit rate is what you pay per kilowatt-hour. It is capped by Ofgem, and it is the only line that responds to your behavior. Use less, pay less. This is the line the politicians quote and the line the headlines track.
 
-The standing charge is the fixed daily sum. It is also capped, but it does not respond to anything you do. The House of Commons Library, which tracks the charge, put the electricity standing charge at about 57.2 pence a day for the current quarter. Do the arithmetic: 57.2 pence a day is roughly £209 a year on electricity alone, before a single watt. Add the gas standing charge, and the carried figure lands near £315 a year. That is the bill before the bill - the sum you owe for the privilege of being connected, regardless of whether you use anything.
+The standing charge is the fixed daily sum. It is also capped, but it does not respond to anything you do. The House of Commons Library, which tracks the charge, puts the combined standing charge for gas and electricity at 84.5 pence a day this quarter - 54.83 pence for electricity and 29.68 pence for gas. Do the arithmetic: 84.5 pence a day is roughly £308 a year before a single watt. Last quarter the same pair came to about £315. The difference is not a cheaper grid. The government took VAT off electricity for six months from October, which took 2.4 pence a day off the electricity line, while the gas standing charge went up 0.7 pence. That is the bill before the bill - the sum you owe for the privilege of being connected, regardless of whether you use anything.
 
 The levies are the policy line. These are set by the government and collected through the bill: the Warm Home Discount, the renewable obligations, the social schemes. The Warm Home Discount alone is £150 a year for the households that qualify, and the scheme is now in its sixteenth year. This is where the story from <a href="/politics/burnham-energy-tax-cut/" target="_blank" rel="noopener noreferrer">The Labour PM Who Cut Your Climate Tax</a> lives, and where <a href="/energy/carbon-tax-already-exists/" target="_blank" rel="noopener noreferrer">The Carbon Tax That Already Exists</a> applies: the state has been collecting carbon and social policy revenue through your bill for years without calling it a tax.
 
@@ -82,7 +82,7 @@ Now follow the mechanism one step further, because the fixed charge turns into a
 
 ## The 80 Pence
 
-The freshest example of how this machine works arrived this week, and it is the cleanest one yet. The pylon discount.
+The freshest example of how this machine works is also the cleanest one yet. The pylon discount.
 
 About 80 pence a year from every household bill is pooled, to pay households near the first 43 pylon projects £250 a year for ten years.
 
