@@ -75,7 +75,7 @@ The government knows this is coming. It said so in the last Budget.
 
 The Red Book, at paragraph 4.167, promised to "ease the administrative burden" for pensioners whose sole income is the basic or new State Pension "without any increments", so that they do not have to pay small amounts of tax through simple assessment from 2027-28. It added that the government was "exploring the best way to achieve this" and would "set out more detail next year".
 
-On 15 September the Pensions Minister, Torsten Bell, restated it: pensioners who only just exceed the allowance "will not pay small amounts of tax in this Parliament", and the Chancellor "will set out further details on how that commitment will be delivered at the Budget". The Budget is on 28 October. It is not the only pension change already legislated this Parliament - the squeeze on pension saving is the subject of <a href="/economics/the-pension-tax-raid/" target="_blank" rel="noopener noreferrer">The Pension Tax Raid: Your Pension Is Next</a>.
+On 15 September the Pensions Minister, Torsten Bell, restated it: pensioners who only just exceed the allowance "will not pay small amounts of tax in this Parliament", and the Chancellor "will set out further details on how that commitment will be delivered at the Budget". The Budget was on 28 October. It is not the only pension change already legislated this Parliament - the squeeze on pension saving is the subject of <a href="/economics/the-pension-tax-raid/" target="_blank" rel="noopener noreferrer">The Pension Tax Raid: Your Pension Is Next</a>.
 
 Three things about that commitment are worth holding onto.
 
@@ -123,4 +123,4 @@ Next time a Budget promises that income tax is not going up, look at the line in
 
 ---
 
-*The Budget is on 28 October, and the OBR's forecast is published the same day.*
+*The Budget was on 28 October, and the OBR's forecast was published the same day.*

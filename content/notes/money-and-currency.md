@@ -42,7 +42,7 @@ The last one - **scarce** - is the one most often forgotten. Throughout history,
 
 Most money in the modern world is *fiat money* - it has no intrinsic value. A $20 bill costs a few cents to print. It is valuable because the government accepts it for taxes (creating demand), and because everyone else accepts it too (creating confidence).
 
-Fiat money has many advantages over commodity money (gold, silver). It is easier to transport, harder to counterfeit, and the supply can be managed to stabilise the economy. But the same flexibility that makes it useful also makes it vulnerable: a government that prints too much destroys its value through inflation.
+Fiat money has many advantages over commodity money (gold, silver). It is easier to transport, harder to counterfeit, and the supply can be managed to stabilize the economy. But the same flexibility that makes it useful also makes it vulnerable: a government that prints too much destroys its value through inflation.
 
 ## Common Misunderstandings
 

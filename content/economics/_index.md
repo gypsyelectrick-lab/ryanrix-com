@@ -101,7 +101,7 @@ Once you have the basics, these articles dig into one topic at a time with more 
 - <a href="/economics/hyperinflation/" target="_blank" rel="noopener noreferrer">Hyperinflation</a> - The one thing every monetary theory fears - and what actually causes it.
 - <a href="/economics/what-is-feudalism/" target="_blank" rel="noopener noreferrer">What Is Feudalism?</a> - The word came later. The system needed castles, oaths, and serfs.
 - <a href="/economics/what-is-socialism/" target="_blank" rel="noopener noreferrer">What Is Socialism?</a> - The believers named it. The rulers imposed it. The wall kept it in.
-- <a href="/economics/the-pension-tax-raid/" target="_blank" rel="noopener noreferrer">The Pension Tax Raid</a> - The Budget is on 28 October. The demand says tax the rich. Your pension is next.
+- <a href="/economics/the-pension-tax-raid/" target="_blank" rel="noopener noreferrer">The Pension Tax Raid</a> - The Budget was on 28 October. The demand said tax the rich. Your pension is next.
 - <a href="/economics/the-90-percent-tax-rate-myth/" target="_blank" rel="noopener noreferrer">The 90% Tax Rate Myth</a> - The 90% rate was marginal, not effective. The rich paid far less than the slogan.
 - <a href="/economics/the-bank-windfall-tax-who-pays/" target="_blank" rel="noopener noreferrer">The Bank Windfall Tax</a> - Tax the banks, the slogan says. The mechanism has a different answer.
 - <a href="/economics/the-problems-of-capitalism-and-how-to-fix-them/" target="_blank" rel="noopener noreferrer">The Problems of Capitalism (and How to Fix Them)</a> - Capitalism has real problems. The usual fixes make them worse.

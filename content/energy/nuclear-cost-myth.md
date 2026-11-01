@@ -48,7 +48,7 @@ Then came the 1990s. No new nuclear plants were ordered. The regulatory apparatu
 
 While the United States was making nuclear construction impossible by policy, other countries were building successfully.
 
-**France** built 56 reactors in 15 years. The average construction time was 6.5 years. Costs declined steadily across the fleet. The French did this with the same Westinghouse-derived pressurised water reactor technology that American utilities were using. They did it by standardising the design, centralising the regulatory process, and - this is the key - **not changing the rules while construction was underway**.
+**France** built 56 reactors in 15 years. The average construction time was 6.5 years. Costs declined steadily across the fleet. The French did this with the same Westinghouse-derived pressurized water reactor technology that American utilities were using. They did it by standardizing the design, centralizing the regulatory process, and - this is the key - **not changing the rules while construction was underway**.
 
 **South Korea** built its nuclear fleet even more efficiently. The Korean Standard Nuclear Plant (KSNP) program achieved construction times of under 5 years and costs that were among the lowest in the world. Korean utilities built identical reactors at multiple sites, repeating the same design until they had learned how to do it efficiently.
 
@@ -56,7 +56,7 @@ While the United States was making nuclear construction impossible by policy, ot
 
 **The United Arab Emirates**, a country with no prior nuclear experience, completed the Barakah nuclear plant in 2020 with four APR-1400 reactors (a Korean design) built in under 7 years per unit at a cost that was competitive with local gas generation.
 
-The pattern is unmistakable. Countries that standardised designs and stabilised regulatory requirements built nuclear plants on time and on budget. The United States did neither and got the predictable result.
+The pattern is unmistakable. Countries that standardized designs and stabilized regulatory requirements built nuclear plants on time and on budget. The United States did neither and got the predictable result.
 
 ---
 
@@ -66,7 +66,7 @@ The claim that "nuclear is too expensive" is a statement about the past. It is a
 
 The United States did not fail to build affordable nuclear power because the technology was incapable of being affordable. It failed because:
 
-**1. The regulatory system incentivised endless redesign.** Under the US framework, utilities could not lock in a design before beginning construction. Every regulatory change - and there were many - became a cost overrun.
+**1. The regulatory system incentivized endless redesign.** Under the US framework, utilities could not lock in a design before beginning construction. Every regulatory change - and there were many - became a cost overrun.
 
 **2. The NRC was captured by the anti-nuclear movement through the courts.** After TMI, environmental groups successfully sued the NRC to force additional hearings and design reviews. These lawsuits added years and billions to projects that had already been approved.
 
@@ -96,7 +96,7 @@ But this comparison is mostly academic anyway. The real question for energy poli
 
 America could build affordable nuclear power again. The policy changes required are well understood and have been successfully implemented in other countries:
 
-- **Standardised, pre-approved designs.** A utility should be able to buy a reactor design that has been fully certified, lock it in, and begin construction knowing the rules will not change.
+- **Standardized, pre-approved designs.** A utility should be able to buy a reactor design that has been fully certified, lock it in, and begin construction knowing the rules will not change.
 
 - **Fixed regulatory timelines.** The NRC should be required to complete licensing and permitting within a set period, after which additional hearings are not permitted.
 

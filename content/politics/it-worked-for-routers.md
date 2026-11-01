@@ -175,3 +175,5 @@ It worked for routers. The only open question is which product it works on next.
 ---
 
 *This is the second in a series on the regulatory moat. Start here: <a href="/politics/ai-safety-moat/" target="_blank" rel="noopener noreferrer">The Safety Moat: How Big AI Wants Regulation</a>.*
+
+*Next: <a href="/politics/prove-it-was-not-deepseek/" target="_blank" rel="noopener noreferrer">Prove It Was Not DeepSeek</a>.*

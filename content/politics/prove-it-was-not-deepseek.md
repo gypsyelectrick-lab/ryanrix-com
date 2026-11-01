@@ -113,3 +113,5 @@ That is the same failure as the age check that estimates rather than knows, and 
 The router list, whatever else it did, was drawn so that a buyer could obey it. Its own order <a href="/politics/it-worked-for-routers/" target="_blank" rel="noopener noreferrer">did not touch equipment people had already bought</a>, and it did not stop retailers selling or importing what was already in the channel. The line was drawn at the point of purchase, which is the one point where a regulator can actually see a decision.
 
 The DeepSeek order moves that line backwards, onto systems already built. That is the difference between telling a buyer what not to buy next and telling an institution to prove a negative about what it has been running for years.
+
+*This is the third in a series on the regulatory moat. Start here: <a href="/politics/ai-safety-moat/" target="_blank" rel="noopener noreferrer">The Safety Moat: How Big AI Wants Regulation</a>.*
